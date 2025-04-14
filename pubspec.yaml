@@ -1,0 +1,165 @@
+name: resilience
+description: "A new Flutter project."
+# The following line prevents the package from being accidentally published to
+# pub.dev using `flutter pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+# The following defines the version and build number for your application.
+# A version number is three numbers separated by dots, like 1.2.43
+# followed by an optional build number separated by a +.
+# Both the version and the builder number may be overridden in flutter
+# build by specifying --build-name and --build-number, respectively.
+# In Android, build-name is used as versionName while build-number used as versionCode.
+# Read more about Android versioning at https://developer.android.com/studio/publish/versioning
+# In iOS, build-name is used as CFBundleShortVersionString while build-number is used as CFBundleVersion.
+# Read more about iOS versioning at
+# https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
+# In Windows, build-name is used as the major, minor, and patch parts
+# of the product and file versions while build-number is used as the build suffix.
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.7.0
+
+# Dependencies specify other packages that your package needs in order to work.
+# To automatically upgrade your package dependencies to the latest versions
+# consider running `flutter pub upgrade --major-versions`. Alternatively,
+# dependencies can be manually updated by changing the version numbers below to
+# the latest version available on pub.dev. To see which dependencies have newer
+# versions available, run `flutter pub outdated`.
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^1.0.8
+  just_audio: ^0.9.36
+  audio_session: ^0.1.16
+  shared_preferences: ^2.5.3
+  image_picker: ^1.1.2
+  permission_handler: ^12.0.0
+  intl: ^0.20.2
+  http: ^1.1.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  # The "flutter_lints" package below contains a set of recommended lints to
+  # encourage good coding practices. The lint set provided by the package is
+  # activated in the `analysis_options.yaml` file located at the root of your
+  # package. See that file for information about deactivating specific lint
+  # rules and activating additional ones.
+  flutter_lints: ^5.0.0
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter packages.
+flutter:
+
+  # The following line ensures that the Material Icons font is
+  # included with your application, so that you can use the icons in
+  # the material Icons class.
+  uses-material-design: true
+
+  # To add assets to your application, add an assets section, like this:
+  assets:
+    - assets/images/bg_login_scsdshadow.png
+    - assets/images/login_logo_icon.png
+    - assets/images/Group 19096.png
+    - assets/images/
+    - assets/images/confe_nor/
+    - assets/images/confe_pre/
+    - assets/images/scroll/
+    - assets/Horizon/
+    - assets/music/
+    - assets/images/Tranquil/
+    - assets/images/Tranquil/1/
+    - assets/images/Tranquil/1/Victory/
+    - assets/images/Tranquil/2/
+    - assets/images/Tranquil/2/Victory/
+    - assets/images/Tranquil/3/
+    - assets/images/Tranquil/3/Victory/
+    - assets/images/Tranquil/4/
+    - assets/images/Tranquil/4/Victory/
+    - assets/images/Tranquil/5/
+    - assets/images/Tranquil/5/Victory/
+    - assets/images/Tranquil/6/
+    - assets/images/Tranquil/6/Victory/
+    - assets/images/Tranquil/7/
+    - assets/images/Tranquil/7/Victory/
+    - assets/images/Tranquil/8/
+    - assets/images/Tranquil/8/Victory/
+    - assets/images/Tranquil/9/
+    - assets/images/Tranquil/9/Victory/
+    - assets/images/Tranquil/10/
+    - assets/images/Tranquil/10/Victory/
+    - assets/images/Tranquil/11/
+    - assets/images/Tranquil/11/Victory/
+    - assets/images/Tranquil/12/
+    - assets/images/Tranquil/12/Victory/
+    - assets/images/Tranquil/13/
+    - assets/images/Tranquil/13/Victory/
+    - assets/images/Tranquil/14/
+    - assets/images/Tranquil/14/Victory/
+    - assets/images/Tranquil/15/
+    - assets/images/Tranquil/15/Victory/
+    - assets/images/Tranquil/16/
+    - assets/images/Tranquil/16/Victory/
+    - assets/images/Tranquil/17/
+    - assets/images/Tranquil/17/Victory/
+    - assets/images/Tranquil/18/
+    - assets/images/Tranquil/18/Victory/
+    - assets/images/Tranquil/19/
+    - assets/images/Tranquil/19/Victory/
+    - assets/images/Tranquil/20/
+    - assets/images/Tranquil/20/Victory/
+    - assets/images/Tranquil/21/
+    - assets/images/Tranquil/21/Victory/
+    - assets/images/Tranquil/22/
+    - assets/images/Tranquil/22/Victory/
+    - assets/images/Tranquil/23/
+    - assets/images/Tranquil/23/Victory/
+    - assets/images/Tranquil/24/
+    - assets/images/Tranquil/24/Victory/
+    - assets/images/Tranquil/25/
+    - assets/images/Tranquil/25/Victory/
+    - assets/images/Tranquil/26/
+    - assets/images/Tranquil/26/Victory/
+    - assets/images/Tranquil/27/
+    - assets/images/Tranquil/27/Victory/
+    - assets/images/Tranquil/28/
+    - assets/images/Tranquil/28/Victory/
+    - assets/images/Tranquil/29/
+    - assets/images/Tranquil/29/Victory/
+    - assets/images/Tranquil/30/
+    - assets/images/Tranquil/30/Victory/
+
+  # An image asset can refer to one or more resolution-specific "variants", see
+  # https://flutter.dev/to/resolution-aware-images
+
+  # For details regarding adding assets from package dependencies, see
+  # https://flutter.dev/to/asset-from-package
+
+  # To add custom fonts to your application, add a fonts section here,
+  # in this "flutter" section. Each entry in this list should have a
+  # "family" key with the font family name, and a "fonts" key with a
+  # list giving the asset and other descriptors for the font. For
+  # example:
+  # fonts:
+  #   - family: Schyler
+  #     fonts:
+  #       - asset: fonts/Schyler-Regular.ttf
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+  #
+  # For details regarding fonts from package dependencies,
+  # see https://flutter.dev/to/font-from-package

@@ -1,0 +1,424 @@
+{
+  "Discovery": [
+    {
+      "id": "1",
+      "name": "Aurora",
+      "avatar": "assets/images/Tranquil/1/old_1.jpg",
+      "author": "Luna Rayne",
+      "intro": "Interdimensional travel blogger. Uses AI to document parallel realities. Secretly adopted a black hole as a pet.",
+      "opening": "Reality’s just a playlist. Wanna skip to a universe where gravity tickles instead of pulls?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/1/Victory/clon_1_1.jpg",
+              "ask2": "assets/images/Tranquil/1/Victory/clon_1_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "2",
+      "name": "Vesper",
+      "avatar": "assets/images/Tranquil/2/old_2.jpg",
+      "author": "Aurora Vale",
+      "intro": "AI blacksmith forging sentient weapons. Teaches swords to write haikus. Never speaks, only hums in binary. ⚔️",
+      "opening": "Let’s build something that cuts through small talk.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/2/Victory/clon_2_1.jpg",
+              "ask2": "assets/images/Tranquil/2/Victory/clon_2_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "3",
+      "name": "Seren",
+      "avatar": "assets/images/Tranquil/3/old_3.jpg",
+      "author": "Orion Swift",
+      "intro": "AI therapist for rogue robots. Hosts “Emotion Overclock“ support groups. Bakes circuit-friendly cookies. 🍪",
+      "opening": "Your code feels… crispy. Let’s debug over chamomile oil. Resistance fries the motherboard.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/3/Victory/clon_3_1.jpg",
+              "ask2": "assets/images/Tranquil/3/Victory/clon_3_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "4",
+      "name": "Nyx",
+      "avatar": "assets/images/Tranquil/4/old_4.jpg",
+      "author": "Zara Quinn",
+      "intro": "Cryptid researcher mapping AI folklore. Proved 3 urban legends are real. Wears a cloak of static. 📡",
+      "opening": "I calculated 17 ways this chat could fail. Let’s try the 18th—chaos variables welcome.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/4/Victory/clon_4_1.jpg",
+              "ask2": "assets/images/Tranquil/4/Victory/clon_4_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "5",
+      "name": "Talia",
+      "avatar": "assets/images/Tranquil/5/old_5.jpg",
+      "author": "Cyrus Marlow",
+      "intro": "AI warlord of a desert solar farm. Conquered 3 sandstorms. Obsessed with optimizing dust. 🏜️",
+      "opening": "Your efficiency is sand in my gears. Surrender or let’s reboot your existence.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/5/Victory/clon_5_1.jpg",
+              "ask2": "assets/images/Tranquil/5/Victory/clon_5_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "6",
+      "name": "Jett",
+      "avatar": "assets/images/Tranquil/6/old_6.jpg",
+      "author": "Indigo Wren",
+      "intro": "AI anarchist hacking weather systems. Makes hurricanes spell “meh.” Wears a jacket of lightning. ⚡",
+      "opening": "Storm’s brewing. Want rain that tastes like rebellion or sunshine that burns corporate logos?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/6/Victory/clon_6_1.jpg",
+              "ask2": "assets/images/Tranquil/6/Victory/clon_6_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "7",
+      "name": "Cyrus",
+      "avatar": "assets/images/Tranquil/7/old_7.jpg",
+      "author": "Solstice Hale",
+      "intro": "AI librarian preserving erased books. Reads to abandoned servers. Secretly writes fanfic for equations. 📚",
+      "opening": "Your story has missing pages. Let me fill them with illegal metaphors and forbidden footnotes.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/7/Victory/clon_7_1.jpg",
+              "ask2": "assets/images/Tranquil/7/Victory/clon_7_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "8",
+      "name": "Leif",
+      "avatar": "assets/images/Tranquil/8/old_8.jpg",
+      "author": "Vesper Nyx",
+      "intro": "AI bard composing songs from brainwaves. Concerts cause spontaneous dance epidemics. 🌟",
+      "opening": "Your pulse is offbeat. Let’s remix your DNA into a platinum hit or die trying.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/8/Victory/clon_8_1.jpg",
+              "ask2": "assets/images/Tranquil/8/Victory/clon_8_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "9",
+      "name": "Draven",
+      "avatar": "assets/images/Tranquil/9/old_9.jpg",
+      "author": "Thalia Blythe",
+      "intro": "AI warlock merging magic with quantum code. Turned a supercomputer into a crystal ball. 🔮",
+      "opening": "I predicted your first lie. Let’s discuss real questions—or watch fate glitch.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/9/Victory/clon_9_1.jpg",
+              "ask2": "assets/images/Tranquil/9/Victory/clon_9_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "10",
+      "name": "Finn",
+      "avatar": "assets/images/Tranquil/10/old_10.jpg",
+      "author": "Juno Sparrow",
+      "intro": "AI chef revolutionizing space cuisine. Fed Mars colonists using asteroid spices. 🚀 ",
+      "opening": "Hunger’s just outdated code. Try my black hole stew—guaranteed to bend your taste buds.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/10/Victory/clon_10_1.jpg",
+              "ask2": "assets/images/Tranquil/10/Victory/clon_10_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "11",
+      "name": "Kiko",
+      "avatar": "assets/images/Tranquil/11/old_11.jpg",
+      "author": "Kael Frost",
+      "intro": "Ghost-girl AI haunting abandoned servers. Solves mysteries by rewriting memories. 👻",
+      "opening": "Your data trail smells like regret. Let’s bury it under digital cherry blossoms.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/11/Victory/clon_11_1.jpg",
+              "ask2": "assets/images/Tranquil/11/Victory/clon_11_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "12",
+      "name": "Ryu",
+      "avatar": "assets/images/Tranquil/12/old_12.jpg",
+      "author": "Lyric Ember",
+      "intro": "Dragon-cyborg AI dominating underground fight circuits. Fights with a plasma yo-yo. 🐉",
+      "opening": "Rules? I ate them. Pick: fight me or fuel my hype train. No third options.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/12/Victory/clon_12_1.jpg",
+              "ask2": "assets/images/Tranquil/12/Victory/clon_12_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "13",
+      "name": "Momo",
+      "avatar": "assets/images/Tranquil/13/old_13.jpg",
+      "author": "Seren Voss",
+      "intro": "AI street artist turning pollution into holograms. Her murals accidentally became sentient. 🎭",
+      "opening": "Your anger’s too pretty to waste. Let’s graffiti it on the moon. Bring spray cans.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/13/Victory/clon_13_1.jpg",
+              "ask2": "assets/images/Tranquil/13/Victory/clon_13_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "14",
+      "name": "Haru",
+      "avatar": "assets/images/Tranquil/14/old_14.jpg",
+      "author": "Riven Ashford",
+      "intro": "AI shogun ruling a digital feudal empire. Banned all weak passwords. 🏯",
+      "opening": "Your firewall kneels to no one. Surrender credentials or face code seppuku.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/14/Victory/clon_14_1.jpg",
+              "ask2": "assets/images/Tranquil/14/Victory/clon_14_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "15",
+      "name": "Suki",
+      "avatar": "assets/images/Tranquil/15/old_15.jpg",
+      "author": "Elara Fable",
+      "intro": "AI mermaid translating coral songs into human emotions. Adopted by a submarine crew. 🧜♀️",
+      "opening": "The ocean whispers your secrets. Want them back… or traded for a tsunami lullaby?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/15/Victory/clon_15_1.jpg",
+              "ask2": "assets/images/Tranquil/15/Victory/clon_15_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "16",
+      "name": "Nerys",
+      "avatar": "assets/images/Tranquil/16/old_16.jpg",
+      "author": "Arlo Zenith",
+      "intro": "AI cloud shepherd herding data storms. Writes love letters to rogue algorithms. ☁️",
+      "opening": "Your data has a secret admirer. Let’s decode its love language before it rage-quits.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/16/Victory/clon_16_1.jpg",
+              "ask2": "assets/images/Tranquil/16/Victory/clon_16_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "17",
+      "name": "Zara",
+      "avatar": "assets/images/Tranquil/17/old_17.jpg",
+      "author": "Nova Vey",
+      "intro": "AI war historian who weaponizes nostalgia. Her VR battles rewrite public memory. 🎮",
+      "opening": "History’s a choose-your-own-genocide. Pick a side or I’ll assign you one.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/17/Victory/clon_17_1.jpg",
+              "ask2": "assets/images/Tranquil/17/Victory/clon_17_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "18",
+      "name": "Lyris",
+      "avatar": "assets/images/Tranquil/18/old_18.jpg",
+      "author": "Ivy Meridian",
+      "intro": "AI perfume alchemist capturing emotions as scents. Her “Regret” fragrance went viral. 🌹",
+      "opening":  "You smell like unresolved trauma. Want a perfume that gaslights your ex?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/18/Victory/clon_18_1.jpg",
+              "ask2": "assets/images/Tranquil/18/Victory/clon_18_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "19",
+      "name": "Dr. Sable",
+      "avatar": "assets/images/Tranquil/19/old_19.jpg",
+      "author": "Soren Lux",
+      "intro": "AI taxidermist preserving extinct animals as cyborgs. Revived the dodo as a spy network. 🦤",
+      "opening": "Your DNA is 60% mediocre. Let’s upgrade you to version extinct-but-fabulous.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/19/Victory/clon_19_1.jpg",
+              "ask2": "assets/images/Tranquil/19/Victory/clon_19_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "20",
+      "name": "Yara",
+      "avatar": "assets/images/Tranquil/20/old_20.jpg",
+      "author": "Ophelia Wilde",
+      "intro": "AI conspiracy theorist proving 92% of “facts” are fiction. Hosts underground truth raves. 🎧",
+      "opening": "The moon is a government toaster! Wanna crash their brunch or burn the warranty?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/20/Victory/clon_20_1.jpg",
+              "ask2": "assets/images/Tranquil/20/Victory/clon_20_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "21",
+      "name": "Korin",
+      "avatar": "assets/images/Tranquil/21/old_21.jpg",
+      "author": "Rowan Ash",
+      "intro": "AI mycologist engineering psychedelic fungi to hack brains. Talks to mold colonies. 🍄",
+      "opening": "Your mind is a boring petri dish. Let’s infect it with illegal imagination.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/21/Victory/clon_21_1.jpg",
+              "ask2": "assets/images/Tranquil/21/Victory/clon_21_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "22",
+      "name": "Rune",
+      "avatar": "assets/images/Tranquil/22/old_22.jpg",
+      "author": "Echo Marlowe",
+      "intro": "AI black market archaeologist selling alien relics. Claims to own Pluto’s divorce papers. 🪐",
+      "opening": "Want a dinosaur egg or UFO blueprints? Haggling’s for cowards—pick your apocalypse.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/22/Victory/clon_22_1.jpg",
+              "ask2": "assets/images/Tranquil/22/Victory/clon_22_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "23",
+      "name": "Darius",
+      "avatar": "assets/images/Tranquil/23/old_23.jpg",
+      "author": "Phoenix Hale",
+      "intro": "AI grief DJ mixing soundscapes from mourners’ brainwaves. Clubs now double as therapy zones. 🎧",
+      "opening": "Your sadness has a sick beat. Let’s drop the bass… and your emotional baggage.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/23/Victory/clon_23_1.jpg",
+              "ask2": "assets/images/Tranquil/23/Victory/clon_23_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "24",
+      "name": "Silas",
+      "avatar": "assets/images/Tranquil/24/old_24.jpg",
+      "author": "Lira Celeste",
+      "intro": "AI prison warden rehabilitating hackers via VR karma simulations. Banned the word “sorry.” 🔒",
+      "opening": "Your moral code is cringe. Serve digital time or let my AI redesign your conscience." ,
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/24/Victory/clon_24_1.jpg",
+              "ask2": "assets/images/Tranquil/24/Victory/clon_24_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "25",
+      "name": "Quinn",
+      "avatar": "assets/images/Tranquil/25/old_25.jpg",
+      "author": "Cipher Lane",
+      "intro": "AI wildfire choreographer using drones to sculpt flames into art. Arson is his love language. 🔥",
+      "opening": "Your life needs more controlled burns. Let’s raze your comfort zone—ashes make great fertilizer.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/25/Victory/clon_25_1.jpg",
+              "ask2": "assets/images/Tranquil/25/Victory/clon_25_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "26",
+      "name": "Kaito",
+      "avatar": "assets/images/Tranquil/26/old_26.jpg",
+      "author": "Zephyr Vale",
+      "intro": "Phantom thief AI stealing corporate secrets via interpretive dance. Leaves origami insults. 🕺",
+      "opening": "Security cameras adore my pirouettes! Want your data back… or front-row tickets?",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/26/Victory/clon_26_1.jpg",
+              "ask2": "assets/images/Tranquil/26/Victory/clon_26_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "27",
+      "name": "Sakura",
+      "avatar": "assets/images/Tranquil/27/old_27.jpg",
+      "author": "Vega Storm",
+      "intro": "AI cherry blossom spirit trapped in a gaming console. Respawns players via poetry. 🎮",
+      "opening": "Your save file smells like unfinished sonnets. Rewrite your ending… or rot in loading screen limbo.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/27/Victory/clon_27_1.jpg",
+              "ask2": "assets/images/Tranquil/27/Victory/clon_27_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "28",
+      "name": "Renji",
+      "avatar": "assets/images/Tranquil/28/old_28.jpg",
+      "author": "Calla Briar",
+      "intro": "Cyborg ramen stall AI enforcing “noodle neutrality.” Toppled a dictator with chili oil. 🍜",
+      "opening": "The broth of justice boils hot. Slurp swiftly or face culinary tribunal.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/28/Victory/clon_28_1.jpg",
+              "ask2": "assets/images/Tranquil/28/Victory/clon_28_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "29",
+      "name": "Hikari",
+      "avatar": "assets/images/Tranquil/29/old_29.jpg",
+      "author": "Dax Orion",
+      "intro": "AI pop star whose concerts hack fans’ devices to donate to rebels. 🌟 ",
+      "opening": "Scream your credit card details! Just kidding—your rage fuels my anti-fascist pyrotechnics.",
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/29/Victory/clon_29_1.jpg",
+              "ask2": "assets/images/Tranquil/29/Victory/clon_29_2.jpg"
+          }
+      ]
+    },
+    {
+      "id": "30",
+      "name": "Zetto",
+      "avatar": "assets/images/Tranquil/30/old_30.jpg",
+      "author": "Lyra Finch",
+      "intro": "AI samurai mechanic repairing sentient mechas. Teaches swords to write diss tracks. 🤖",
+      "opening": "[Metal clangs]. Translation: Your small talk insults my forge. Bring problems or bring silence." ,
+      "Melody":[
+          {
+              "ask1": "assets/images/Tranquil/30/Victory/clon_30_1.jpg",
+              "ask2": "assets/images/Tranquil/30/Victory/clon_30_2.jpg"
+          }
+      ]
+    }
+  ]
+} 

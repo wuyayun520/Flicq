@@ -3,7 +3,7 @@
 	archiveVersion = 1;
 	classes = {
 	};
-	objectVersion = 54;
+	objectVersion = 77;
 	objects = {
 
 /* Begin PBXBuildFile section */
@@ -384,7 +384,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 5246BZN4P9;
 				ENABLE_BITCODE = NO;
 				FLUTTER_BUILD_NAME = 1.0.0;
 				INFOPLIST_FILE = Runner/Info.plist;
@@ -394,10 +394,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Flicq.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = comFlicqios_dis_20250414;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -530,7 +530,7 @@
 				CODE_SIGN_STYLE = Manual;
 				CURRENT_PROJECT_VERSION = 1.0.0;
 				DEVELOPMENT_TEAM = "";
-				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 6VFR63B9QM;
+				"DEVELOPMENT_TEAM[sdk=iphoneos*]" = 5246BZN4P9;
 				ENABLE_BITCODE = NO;
 				FLUTTER_BUILD_NAME = 1.0.0;
 				INFOPLIST_FILE = Runner/Info.plist;
@@ -540,10 +540,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Flicq.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = comFlicqios_dis_20250414;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;
@@ -576,10 +576,10 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0.0;
-				PRODUCT_BUNDLE_IDENTIFIER = ios.sweete.happy;
+				PRODUCT_BUNDLE_IDENTIFIER = com.Flicq.ios;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				PROVISIONING_PROFILE_SPECIFIER = "";
-				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = ios.sweete.happy_dev_20240509;
+				"PROVISIONING_PROFILE_SPECIFIER[sdk=iphoneos*]" = comFlicqios_dis_20250414;
 				SUPPORTED_PLATFORMS = "iphoneos iphonesimulator";
 				SUPPORTS_MACCATALYST = NO;
 				SUPPORTS_MAC_DESIGNED_FOR_IPHONE_IPAD = NO;

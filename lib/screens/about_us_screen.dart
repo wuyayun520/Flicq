@@ -41,7 +41,7 @@ class AboutUsScreen extends StatelessWidget {
                 
                 // App Name
                 const Text(
-                  'Flicq',
+                  'ZoopIn',
                   style: TextStyle(
                     fontSize: 28,
                     fontWeight: FontWeight.bold,
@@ -157,7 +157,7 @@ class AboutUsScreen extends StatelessWidget {
                     ],
                   ),
                   child: const Text(
-                    'Flicq aims to provide companionship and emotional support through AI technology. We strive to create a safe space where users can express themselves, find comfort, and enhance their emotional well-being through meaningful interactions.',
+                    'ZoopIn aims to provide companionship and emotional support through AI technology. We strive to create a safe space where users can express themselves, find comfort, and enhance their emotional well-being through meaningful interactions.',
                     style: TextStyle(
                       fontSize: 14,
                       color: Colors.black54,
@@ -200,7 +200,7 @@ class AboutUsScreen extends StatelessWidget {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        'Flicq Development Team',
+                        'ZoopIn Development Team',
                         style: TextStyle(
                           fontSize: 16,
                           fontWeight: FontWeight.bold,
@@ -218,7 +218,7 @@ class AboutUsScreen extends StatelessWidget {
                       ),
                       SizedBox(height: 12),
                       Text(
-                        'Contact: support@flicq.app',
+                        'Contact: support@ZoopIn.app',
                         style: TextStyle(
                           fontSize: 14,
                           color: Color(0xFF6C63FF),
@@ -233,7 +233,7 @@ class AboutUsScreen extends StatelessWidget {
                 
                 // Version & Copyright
                 Text(
-                  '© 2024-2025 Flicq. All rights reserved.',
+                  '© 2024-2025 ZoopIn. All rights reserved.',
                   style: TextStyle(
                     fontSize: 12,
                     color: Colors.grey[600],

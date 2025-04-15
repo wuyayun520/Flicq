@@ -49,7 +49,7 @@ class TermsOfServiceScreen extends StatelessWidget {
             ),
             SizedBox(height: 8),
             Text(
-              'Welcome to Flicq. These Terms of Service govern your use of our application and services. By using Flicq, you agree to these terms. Please read them carefully.',
+              'Welcome to ZoopIn. These Terms of Service govern your use of our application and services. By using ZoopIn, you agree to these terms. Please read them carefully.',
               style: TextStyle(fontSize: 16, color: Colors.black87),
             ),
             SizedBox(height: 16),

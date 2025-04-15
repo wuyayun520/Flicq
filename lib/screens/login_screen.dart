@@ -84,7 +84,7 @@ class _LoginScreenState extends State<LoginScreen> {
                       const SizedBox(height: 16),
                       // App Name
                       const Text(
-                        'Flicq',
+                        'ZoopIn',
                         style: TextStyle(
                           fontSize: 24,
                           fontWeight: FontWeight.bold,

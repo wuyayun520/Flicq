@@ -233,7 +233,7 @@ class AboutUsScreen extends StatelessWidget {
                 
                 // Version & Copyright
                 Text(
-                  '© 2024-2025 ZoopIn. All rights reserved.',
+                  '© 2023-2024 ZoopIn. All rights reserved.',
                   style: TextStyle(
                     fontSize: 12,
                     color: Colors.grey[600],

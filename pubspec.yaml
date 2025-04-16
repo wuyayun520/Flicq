@@ -42,6 +42,8 @@ dependencies:
   intl: ^0.20.2
   http: ^1.1.0
   path_provider: ^2.1.5
+  url_launcher: ^6.3.1
+  in_app_purchase: ^3.2.1
 
 dev_dependencies:
   flutter_test:
@@ -70,6 +72,11 @@ flutter:
     - assets/images/bg_login_scsdshadow.png
     - assets/images/login_logo_icon.png
     - assets/images/Group 19096.png
+    - assets/images/icon_me_wallet.png
+    - assets/images/icon_me_vip.png
+    - assets/images/vip_backgroud.png
+    # Removed temporarily until wallet directory is created
+    - assets/images/wallet/
     - assets/images/
     - assets/images/confe_nor/
     - assets/images/confe_pre/

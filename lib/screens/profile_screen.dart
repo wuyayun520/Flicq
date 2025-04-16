@@ -17,6 +17,8 @@ import 'terms_of_service_screen.dart';
 import 'privacy_policy_screen.dart';
 import 'about_us_screen.dart';
 import '../services/music_player_service.dart';  // 导入音乐播放服务
+import 'vip_subscription_screen.dart';  // 导入VIP订阅页面
+import 'wallet_screen.dart';  // 导入钱包页面
 
 class ProfileScreen extends StatefulWidget {
   const ProfileScreen({super.key});
@@ -212,6 +214,41 @@ class _ProfileScreenState extends State<ProfileScreen> {
   // 选择图片
   Future<void> _pickImage() async {
     print('Starting image selection process');
+    
+    // 首先检查用户是否为VIP会员
+    bool isVip = false;
+    try {
+      final preferences = await prefs.SharedPreferences.getInstance();
+      // 检查VIP状态和过期时间
+      final vipExpireTimeMillis = preferences.getInt('vip_expire_time') ?? 0;
+      
+      // 如果过期时间大于当前时间，则用户是VIP会员
+      isVip = vipExpireTimeMillis > DateTime.now().millisecondsSinceEpoch;
+      print('用户VIP状态: $isVip, 过期时间: ${DateTime.fromMillisecondsSinceEpoch(vipExpireTimeMillis)}');
+    } catch (e) {
+      print('检查VIP状态出错: $e');
+    }
+    
+    if (!isVip) {
+      print('非VIP用户尝试更换头像');
+      // 显示提示
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(
+          content: Text('Upgrade to VIP to change your profile picture!'),
+          duration: Duration(seconds: 2),
+        ),
+      );
+      
+      // 等待Snackbar显示后跳转到VIP订阅页面
+      await Future.delayed(const Duration(seconds: 2));
+      if (mounted) {
+        Navigator.push(
+          context, 
+          MaterialPageRoute(builder: (context) => const VIPSubscriptionScreen())
+        );
+      }
+      return;
+    }
     
     // 确保ImagePicker已初始化
     if (_picker == null) {
@@ -680,6 +717,11 @@ class _ProfileScreenState extends State<ProfileScreen> {
                     // 音乐播放器卡片
                     _buildMusicPlayerCard(),
                     
+                    const SizedBox(height: 16),
+                    
+                    // Wallet 和 VIP 选项卡片
+                    _buildWalletAndVIPCard(),
+                    
                     const SizedBox(height: 20),
                     
                     // About Us 选项
@@ -1130,5 +1172,136 @@ class _ProfileScreenState extends State<ProfileScreen> {
     } catch (e) {
       print('恢复头像失败: $e');
     }
+  }
+
+  // 构建Wallet和VIP选项卡片
+  Widget _buildWalletAndVIPCard() {
+    return Row(
+      children: [
+        // Wallet 选项
+        Expanded(
+          child: GestureDetector(
+            onTap: () {
+              // 处理钱包点击事件
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const WalletScreen(),
+                ),
+              );
+            },
+            child: Container(
+              padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 16),
+              decoration: BoxDecoration(
+                color: const Color(0xFFEEF7FF),
+                borderRadius: BorderRadius.circular(16),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.05),
+                    blurRadius: 10,
+                    offset: const Offset(0, 2),
+                  ),
+                ],
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  const Text(
+                    'Wallet',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                  Image.asset(
+                    'assets/images/icon_me_wallet.png',
+                    width: 67,
+                    height: 57,
+                    errorBuilder: (context, error, stackTrace) {
+                      return Container(
+                        width: 40,
+                        height: 40,
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.6),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: const Icon(
+                          Icons.account_balance_wallet_rounded,
+                          color: Color(0xFF4285F4),
+                          size: 24,
+                        ),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+        
+        const SizedBox(width: 12),
+        
+        // VIP 选项
+        Expanded(
+          child: GestureDetector(
+            onTap: () {
+              // 处理VIP点击事件
+              Navigator.push(
+                context,
+                MaterialPageRoute(
+                  builder: (context) => const VIPSubscriptionScreen(),
+                ),
+              );
+            },
+            child: Container(
+              padding: const EdgeInsets.symmetric(vertical: 20, horizontal: 16),
+              decoration: BoxDecoration(
+                color: const Color(0xFFFFF9E6),
+                borderRadius: BorderRadius.circular(16),
+                boxShadow: [
+                  BoxShadow(
+                    color: Colors.black.withOpacity(0.05),
+                    blurRadius: 10,
+                    offset: const Offset(0, 2),
+                  ),
+                ],
+              ),
+              child: Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  const Text(
+                    'VIP',
+                    style: TextStyle(
+                      fontSize: 18,
+                      fontWeight: FontWeight.w600,
+                    ),
+                  ),
+                  Image.asset(
+                    'assets/images/icon_me_vip.png',
+                    width: 67,
+                    height: 57,
+                    errorBuilder: (context, error, stackTrace) {
+                      return Container(
+                        width: 40,
+                        height: 40,
+                        decoration: BoxDecoration(
+                          color: Colors.white.withOpacity(0.6),
+                          borderRadius: BorderRadius.circular(20),
+                        ),
+                        child: const Icon(
+                          Icons.star_rounded,
+                          color: Color(0xFFFFD700),
+                          size: 24,
+                        ),
+                      );
+                    },
+                  ),
+                ],
+              ),
+            ),
+          ),
+        ),
+      ],
+    );
   }
 } 

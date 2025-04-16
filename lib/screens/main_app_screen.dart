@@ -4,6 +4,8 @@ import 'discover_screen.dart';
 import 'create_screen.dart';
 import 'chat_screen.dart';
 import 'profile_screen.dart';
+import 'wallet_screen.dart';
+import 'package:shared_preferences/shared_preferences.dart';
 
 class MainAppScreen extends StatefulWidget {
   const MainAppScreen({super.key});
@@ -84,8 +86,51 @@ class _MainAppScreenState extends State<MainAppScreen> {
     
     return InkWell(
       onTap: () {
-        // 如果是Create按钮（索引为2），弹出CreateScreen页面
+        // 如果是Create按钮（索引为2），先检查额度再决定是弹出CreateScreen页面还是跳转到钱包页面
         if (index == 2) {
+          _checkAndShowCreateScreen();
+        } else {
+          // 其他按钮正常切换页面
+          setState(() => _currentIndex = index);
+        }
+      },
+      child: Container(
+        padding: const EdgeInsets.all(8),
+        child: Image.asset(
+          isSelected ? _tabImages[index]['selected']! : _tabImages[index]['normal']!,
+          width: 24,
+          height: 24,
+        ),
+      ),
+    );
+  }
+
+  // 新增方法，检查额度并决定显示哪个页面
+  Future<void> _checkAndShowCreateScreen() async {
+    try {
+      // 检查AI角色创建额度
+      final prefs = await SharedPreferences.getInstance();
+      final int aiCharacterQuota = prefs.getInt('creating_ai_character') ?? 0;
+      
+      if (aiCharacterQuota <= 0) {
+        // 额度不足，显示提示信息
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('You need to purchase AI character quota to create a new character.'),
+              duration: Duration(seconds: 2),
+            ),
+          );
+          
+          // 直接导航到钱包页面
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WalletScreen(initialQuotaType: 3)),
+          );
+        }
+      } else {
+        // 额度充足，显示创建页面
+        if (mounted) {
           showModalBottomSheet(
             context: context,
             isScrollControlled: true, // 允许占据大部分屏幕高度
@@ -101,19 +146,28 @@ class _MainAppScreenState extends State<MainAppScreen> {
               child: const CreateScreen(),
             ),
           );
-        } else {
-          // 其他按钮正常切换页面
-          setState(() => _currentIndex = index);
         }
-      },
-      child: Container(
-        padding: const EdgeInsets.all(8),
-        child: Image.asset(
-          isSelected ? _tabImages[index]['selected']! : _tabImages[index]['normal']!,
-          width: 24,
-          height: 24,
-        ),
-      ),
-    );
+      }
+    } catch (e) {
+      print('Error checking AI character quota: $e');
+      // 发生错误时，仍然显示创建页面
+      if (mounted) {
+        showModalBottomSheet(
+          context: context,
+          isScrollControlled: true,
+          useSafeArea: true,
+          backgroundColor: Colors.transparent,
+          shape: const RoundedRectangleBorder(
+            borderRadius: BorderRadius.vertical(top: Radius.circular(20)),
+          ),
+          builder: (context) => Padding(
+            padding: EdgeInsets.only(
+              bottom: MediaQuery.of(context).viewInsets.bottom
+            ),
+            child: const CreateScreen(),
+          ),
+        );
+      }
+    }
   }
 } 

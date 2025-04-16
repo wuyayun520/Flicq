@@ -6,6 +6,7 @@ import 'dart:convert';
 import '../models/user_model.dart';
 import 'chat_detail_screen.dart'; // 导入聊天详情页面
 import 'package:path_provider/path_provider.dart';
+import 'wallet_screen.dart'; // 导入钱包页面
 
 class CreateScreen extends StatefulWidget {
   const CreateScreen({super.key});
@@ -85,6 +86,11 @@ class _CreateScreenState extends State<CreateScreen> {
   // 创建AI角色
   Future<void> _createAICharacter() async {
     print('Starting AI character creation');
+    
+    // 检查AI角色创建额度
+    if (!await _checkAICharacterQuota()) {
+      return;
+    }
     
     // 验证输入
     if (_nameController.text.isEmpty) {
@@ -209,6 +215,9 @@ class _CreateScreenState extends State<CreateScreen> {
       print('Save result: $saveResult');
       
       print('AI character saved successfully');
+      
+      // 创建成功后消耗一次额度
+      await _consumeAICharacterQuota();
       
       // 重置处理状态
       if (mounted) {
@@ -455,6 +464,58 @@ class _CreateScreenState extends State<CreateScreen> {
       );
       // 关闭当前页面
       Navigator.pop(context);
+    }
+  }
+
+  // 添加检查AI角色创建额度的方法
+  Future<bool> _checkAICharacterQuota() async {
+    try {
+      final preferences = await SharedPreferences.getInstance();
+      int aiCharacterQuota = preferences.getInt('creating_ai_character') ?? 0;
+      
+      if (aiCharacterQuota <= 0) {
+        // 显示提示
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('You need to purchase AI character quota to create a new character.'),
+              duration: Duration(seconds: 2),
+            ),
+          );
+        }
+        
+        // 等待SnackBar显示后跳转到钱包页面
+        await Future.delayed(const Duration(seconds: 2));
+        if (mounted) {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WalletScreen(initialQuotaType: 3)), // 指定初始选中的额度类型为AI角色创建（索引为3）
+          );
+        }
+        return false;
+      }
+      
+      // 创建成功后才扣除额度，所以在这里先不扣除
+      return true;
+    } catch (e) {
+      print('Error checking AI character quota: $e');
+      return false;
+    }
+  }
+
+  // 添加消耗AI角色创建额度的方法
+  Future<void> _consumeAICharacterQuota() async {
+    try {
+      final preferences = await SharedPreferences.getInstance();
+      int aiCharacterQuota = preferences.getInt('creating_ai_character') ?? 0;
+      
+      if (aiCharacterQuota > 0) {
+        // 扣除一次额度
+        aiCharacterQuota -= 1;
+        await preferences.setInt('creating_ai_character', aiCharacterQuota);
+      }
+    } catch (e) {
+      print('Error consuming AI character quota: $e');
     }
   }
 

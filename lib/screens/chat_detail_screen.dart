@@ -4,6 +4,7 @@ import 'dart:math';
 import 'dart:convert';
 import '../models/user_model.dart';
 import 'report_screen.dart';
+import 'wallet_screen.dart'; // 导入钱包页面
 import 'package:shared_preferences/shared_preferences.dart' as prefs;
 import '../services/zhipu_service.dart'; // 导入智谱AI服务
 
@@ -394,6 +395,11 @@ class _ChatDetailScreenState extends State<ChatDetailScreen> {
     final text = _messageController.text.trim();
     if (text.isEmpty) return;
 
+    // 检查消息额度
+    if (!await _checkMessageQuota()) {
+      return;
+    }
+
     setState(() {
       // Add user message
       _messages.add(
@@ -445,13 +451,56 @@ class _ChatDetailScreenState extends State<ChatDetailScreen> {
     }
   }
 
+  // 检查消息额度
+  Future<bool> _checkMessageQuota() async {
+    try {
+      final preferences = await prefs.SharedPreferences.getInstance();
+      int messageQuota = preferences.getInt('message_quota') ?? 0;
+      
+      if (messageQuota <= 0) {
+        // 显示提示
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('You need to purchase message quota to continue chatting.'),
+              duration: Duration(seconds: 2),
+            ),
+          );
+        }
+        
+        // 等待SnackBar显示后跳转到钱包页面
+        await Future.delayed(const Duration(seconds: 2));
+        if (mounted) {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WalletScreen(initialQuotaType: 0)),
+          );
+        }
+        return false;
+      }
+      
+      // 扣除一次额度
+      messageQuota -= 1;
+      await preferences.setInt('message_quota', messageQuota);
+      return true;
+    } catch (e) {
+      print('Error checking message quota: $e');
+      return false;
+    }
+  }
+
   // 发送随机照片消息
-  void _sendRandomPhoto() {
+  void _sendRandomPhoto() async {
     // 如果用户被拉黑，则不允许请求照片
     if (_isBlocked) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('You have blocked this user. Cannot request photos.')),
       );
+      return;
+    }
+    
+    // 检查照片请求额度
+    if (!await _checkPhotoQuota()) {
       return;
     }
     
@@ -522,6 +571,44 @@ class _ChatDetailScreenState extends State<ChatDetailScreen> {
     WidgetsBinding.instance.addPostFrameCallback((_) {
       _scrollToBottom();
     });
+  }
+  
+  // 检查照片请求额度
+  Future<bool> _checkPhotoQuota() async {
+    try {
+      final preferences = await prefs.SharedPreferences.getInstance();
+      int askPhoto = preferences.getInt('ask_photo') ?? 0;
+      
+      if (askPhoto <= 0) {
+        // 显示提示
+        if (mounted) {
+          ScaffoldMessenger.of(context).showSnackBar(
+            const SnackBar(
+              content: Text('You need to purchase photo quota to request photos.'),
+              duration: Duration(seconds: 2),
+            ),
+          );
+        }
+        
+        // 等待SnackBar显示后跳转到钱包页面
+        await Future.delayed(const Duration(seconds: 2));
+        if (mounted) {
+          Navigator.push(
+            context,
+            MaterialPageRoute(builder: (context) => const WalletScreen(initialQuotaType: 2)),
+          );
+        }
+        return false;
+      }
+      
+      // 扣除一次额度
+      askPhoto -= 1;
+      await preferences.setInt('ask_photo', askPhoto);
+      return true;
+    } catch (e) {
+      print('Error checking photo quota: $e');
+      return false;
+    }
   }
 
   void _scrollToBottom() {

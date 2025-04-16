@@ -31,7 +31,7 @@ class PrivacyPolicyScreen extends StatelessWidget {
             ),
             SizedBox(height: 16),
             Text(
-              'Last updated: April 2025',
+              'Last updated: April 2023',
               style: TextStyle(
                 fontSize: 14,
                 fontStyle: FontStyle.italic,

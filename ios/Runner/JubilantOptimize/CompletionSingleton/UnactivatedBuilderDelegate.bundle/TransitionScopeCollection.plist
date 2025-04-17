@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellcyclevelocity</key>
+	<string>dropdownbuttondisclaimer</string>
+	<key>composableDialogs</key>
+	<string>hierarchicalinfo</string>
+	<key>isAspect</key>
+	<string>drawerShade</string>
+	<key>meshRotation</key>
+	<string>statelessModulus</string>
+	<key>pinchableVertex</key>
+	<string>chartComposite</string>
+	<key>reactiveProgressBar</key>
+	<string>draggableMaterializer</string>
+	<key>restoretween</key>
+	<string>interactiveGridView</string>
+	<key>slashBound</key>
+	<string>appbartypeinset</string>
+</dict>
+</plist>

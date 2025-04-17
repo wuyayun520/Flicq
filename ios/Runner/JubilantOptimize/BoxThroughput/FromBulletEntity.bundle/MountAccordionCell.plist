@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMission</key>
+	<string>axisRate</string>
+	<key>autoOccasion</key>
+	<string>persistcaption</string>
+	<key>dismissinjection</key>
+	<string>restartCanvas</string>
+	<key>effectvisible</key>
+	<string>explicitResource</string>
+	<key>fixedcomposition</key>
+	<string>disparateThreshold</string>
+	<key>shouldEmitStateless</key>
+	<string>segueVisibility</string>
+	<key>specifymobile</key>
+	<string>liteTimeline</string>
+	<key>visibleCoordinator</key>
+	<string>shouldInflateMediaQuery</string>
+</dict>
+</plist>

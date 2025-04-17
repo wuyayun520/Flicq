@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasShade</key>
+	<string>presenterStrategy</string>
+	<key>composableAllocator</key>
+	<string>densecurveinset</string>
+	<key>dependencyDirection</key>
+	<string>bufferofadapter</string>
+	<key>difficultConfiguration</key>
+	<string>unsortedClipper</string>
+	<key>immediateGraph</key>
+	<string>canStreamNotifier</string>
+	<key>protectedPoint</key>
+	<string>retainedChooser</string>
+	<key>shouldCancelSubpixel</key>
+	<string>connectReducer</string>
+	<key>smallAlert</key>
+	<string>canProcessTool</string>
+</dict>
+</plist>

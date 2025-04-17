@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMedia</key>
+	<string>isSlider</string>
+	<key>backwardConfiguration</key>
+	<string>ignoredSprite</string>
+	<key>buttonFlags</key>
+	<string>compositionalError</string>
+	<key>deliveryValidation</key>
+	<string>encodeOffset</string>
+	<key>layerLeft</key>
+	<string>shouldSetStateCard</string>
+	<key>missedModel</key>
+	<string>directlyThread</string>
+	<key>replicaStyle</key>
+	<string>hardScene</string>
+	<key>shouldNavigateMedia</key>
+	<string>containerstyleoffset</string>
+	<key>widgetawait</key>
+	<string>accordionGradient</string>
+</dict>
+</plist>

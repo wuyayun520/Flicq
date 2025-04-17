@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorInterval</key>
+	<string>observeevent</string>
+	<key>draggableRoute</key>
+	<string>shouldDecodeWorkflow</string>
+	<key>flexpersingleton</key>
+	<string>denseMomentum</string>
+	<key>isCard</key>
+	<string>canObservePet</string>
+	<key>listviewvelocity</key>
+	<string>memberBridge</string>
+	<key>scrollableaxis</key>
+	<string>paddingInterval</string>
+	<key>shouldSetStateCollection</key>
+	<string>compileLayer</string>
+	<key>spriteimpression</key>
+	<string>popupdistinction</string>
+	<key>textrect</key>
+	<string>integritykind</string>
+</dict>
+</plist>

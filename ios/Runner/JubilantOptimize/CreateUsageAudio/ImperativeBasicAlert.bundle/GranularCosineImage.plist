@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedChallenge</key>
+	<string>evaluationDensity</string>
+	<key>beginnerTentative</key>
+	<string>zoneTier</string>
+	<key>binaryShade</key>
+	<string>marginBridge</string>
+	<key>deserializegesturedetector</key>
+	<string>sophisticatedslidervalidation</string>
+	<key>lastDuration</key>
+	<string>instructionAcceleration</string>
+	<key>lazyCluster</key>
+	<string>adaptiveController</string>
+	<key>metadataVelocity</key>
+	<string>shouldPresentDuration</string>
+</dict>
+</plist>

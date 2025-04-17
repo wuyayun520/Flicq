@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedReliability</key>
+	<string>unsortedBorder</string>
+	<key>normalSlash</key>
+	<string>canValidateShader</string>
+	<key>providerFeedback</key>
+	<string>unscheduleStorage</string>
+	<key>resilienceResponse</key>
+	<string>canConnectScaffold</string>
+	<key>shouldStopProvider</key>
+	<string>skinProcess</string>
+	<key>spineVelocity</key>
+	<string>decodeMetadata</string>
+	<key>tabbarScale</key>
+	<string>loopBrightness</string>
+</dict>
+</plist>

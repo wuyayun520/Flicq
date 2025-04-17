@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeorientation</key>
+	<string>stopMedia</string>
+	<key>offsetgraph</key>
+	<string>singleProfile</string>
+	<key>originaltransformer</key>
+	<string>pageviewDensity</string>
+	<key>shouldSetStateText</key>
+	<string>marshalSize</string>
+	<key>spotcount</key>
+	<string>criticalBinder</string>
+	<key>visibleAnimation</key>
+	<string>gridOrientation</string>
+</dict>
+</plist>

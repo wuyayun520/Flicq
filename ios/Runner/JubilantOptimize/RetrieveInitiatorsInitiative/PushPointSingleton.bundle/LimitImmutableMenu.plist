@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableQueue</key>
+	<string>activitySystem</string>
+	<key>gramOpacity</key>
+	<string>canAttachLabel</string>
+	<key>heapResponse</key>
+	<string>mobileLoss</string>
+	<key>shouldKeepResource</key>
+	<string>canvasScale</string>
+</dict>
+</plist>

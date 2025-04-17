@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticBehavior</key>
+	<string>criticalSkin</string>
+	<key>associatedTransformer</key>
+	<string>annotateLayout</string>
+	<key>bufferInterval</key>
+	<string>functionalBitrate</string>
+	<key>cycleAlignment</key>
+	<string>canDisconnectEntropy</string>
+	<key>revisitbitrate</key>
+	<string>advancedStrength</string>
+	<key>shouldInitializeLoss</key>
+	<string>canFormatText</string>
+	<key>writegrain</key>
+	<string>shouldInflateLabel</string>
+</dict>
+</plist>

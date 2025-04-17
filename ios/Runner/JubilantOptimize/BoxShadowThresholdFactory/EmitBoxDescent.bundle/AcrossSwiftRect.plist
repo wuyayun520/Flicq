@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionType</key>
+	<string>featureEnvironment</string>
+	<key>discardedAppBar</key>
+	<string>consumerNumber</string>
+	<key>gridviewtyperate</key>
+	<string>explicitCursor</string>
+	<key>independentAspectRatio</key>
+	<string>opaqueInstruction</string>
+	<key>responsiveCallback</key>
+	<string>directBehavior</string>
+	<key>storageTension</key>
+	<string>seamlessSkirt</string>
+	<key>topicvaluelocation</key>
+	<string>shouldRenderCatalyst</string>
+</dict>
+</plist>

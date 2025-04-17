@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorState</key>
+	<string>animatedData</string>
+	<key>lastRow</key>
+	<string>constraintorigin</string>
+	<key>modulushandler</key>
+	<string>spinnavigator</string>
+	<key>normalmetadata</key>
+	<string>canSkipModal</string>
+	<key>shouldAttachTheme</key>
+	<string>appbarHead</string>
+	<key>uniqueProject</key>
+	<string>hierarchicalAxis</string>
+</dict>
+</plist>

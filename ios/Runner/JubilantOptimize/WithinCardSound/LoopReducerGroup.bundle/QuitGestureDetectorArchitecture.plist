@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatchentity</key>
+	<string>shouldPersistNorm</string>
+	<key>documentStyle</key>
+	<string>cubeVisitor</string>
+	<key>functionalBaseline</key>
+	<string>rapidTrigger</string>
+	<key>independentMaterial</key>
+	<string>boxBound</string>
+	<key>parallelResponse</key>
+	<string>shouldDisposeInteger</string>
+	<key>protectedReliability</key>
+	<string>builderawait</string>
+	<key>significantrecttransparency</key>
+	<string>shouldPublishEffect</string>
+</dict>
+</plist>

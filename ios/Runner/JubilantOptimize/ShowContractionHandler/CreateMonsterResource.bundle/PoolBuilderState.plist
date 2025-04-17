@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultPainter</key>
+	<string>publishSlider</string>
+	<key>delicatelayerinset</key>
+	<string>nodeMemento</string>
+	<key>draggableSubscription</key>
+	<string>streamCurve</string>
+	<key>equipmentIndex</key>
+	<string>cycleLevel</string>
+	<key>gestureHead</key>
+	<string>fixedSound</string>
+	<key>originalrecursion</key>
+	<string>canStartAspect</string>
+	<key>secondoccasion</key>
+	<string>expandedinterface</string>
+	<key>shouldPaintInitiators</key>
+	<string>notifyRoute</string>
+</dict>
+</plist>

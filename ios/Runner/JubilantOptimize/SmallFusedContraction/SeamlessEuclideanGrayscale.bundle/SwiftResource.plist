@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructionorientation</key>
+	<string>themeasstructure</string>
+	<key>interpolationpicker</key>
+	<string>progressbarscopecontrast</string>
+	<key>iterativeTool</key>
+	<string>canValidateMember</string>
+	<key>missedConvolution</key>
+	<string>concurrentTernary</string>
+	<key>pivotalallocator</key>
+	<string>shouldMountedExpanded</string>
+	<key>uniqueBandwidth</key>
+	<string>binderVisibility</string>
+	<key>webInitiators</key>
+	<string>sequentialHandler</string>
+</dict>
+</plist>

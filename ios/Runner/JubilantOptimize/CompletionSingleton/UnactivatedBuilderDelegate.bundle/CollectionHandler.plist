@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaflyweightduration</key>
+	<string>completerobserver</string>
+	<key>customizedStorage</key>
+	<string>captionresponse</string>
+	<key>gesturedetectorSkewX</key>
+	<string>limitLoop</string>
+	<key>shouldPersistPlayback</key>
+	<string>reducerBuffer</string>
+	<key>touchprocessor</key>
+	<string>prevBaseline</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserShade</key>
+	<string>removeTicker</string>
+	<key>commonThroughput</key>
+	<string>joinerbehavior</string>
+	<key>containeranimator</key>
+	<string>canObserveGrayscale</string>
+	<key>cupertinoModulus</key>
+	<string>resizablemediaqueryalignment</string>
+	<key>discardedpermutation</key>
+	<string>enhancesegue</string>
+	<key>layoutfromprototype</key>
+	<string>quantizerindicator</string>
+	<key>shouldObserveDecoration</key>
+	<string>dropoutTexture</string>
+	<key>shouldPrepareIndicator</key>
+	<string>momentumcontainshape</string>
+	<key>tweakVelocity</key>
+	<string>permissiveInteractor</string>
+</dict>
+</plist>

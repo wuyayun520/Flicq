@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionResponse</key>
+	<string>containerBuffer</string>
+	<key>flexibleScroll</key>
+	<string>yieldTransition</string>
+	<key>isrow</key>
+	<string>permissiveMedia</string>
+	<key>largeoverlay</key>
+	<string>canNavigateMultiplication</string>
+	<key>notificationlocation</key>
+	<string>sliderDirection</string>
+	<key>positionedScale</key>
+	<string>vectorizeChannel</string>
+	<key>shouldPersistTernary</key>
+	<string>denseTouch</string>
+	<key>shouldRebuildExtension</key>
+	<string>loadProfile</string>
+	<key>threadFrequency</key>
+	<string>canMountedSwitch</string>
+</dict>
+</plist>

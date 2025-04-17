@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateasset</key>
+	<string>canTransitionSemantics</string>
+	<key>cleananimation</key>
+	<string>staticProvision</string>
+	<key>diffableCatalyst</key>
+	<string>equipmentIndex</string>
+	<key>handlerTension</key>
+	<string>reactivecaption</string>
+	<key>inheritedCertificate</key>
+	<string>rolesincevar</string>
+	<key>objectTail</key>
+	<string>mutableTabView</string>
+	<key>onsubpixeltap</key>
+	<string>staticloop</string>
+	<key>shouldDispatchMusic</key>
+	<string>multiparticletheme</string>
+	<key>shouldTransitionSegue</key>
+	<string>shouldDecodeView</string>
+</dict>
+</plist>

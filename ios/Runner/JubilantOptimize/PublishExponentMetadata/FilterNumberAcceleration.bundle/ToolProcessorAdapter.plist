@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnprovider</key>
+	<string>actiontime</string>
+	<key>containerpervalue</key>
+	<string>directlyActivity</string>
+	<key>interactivechart</key>
+	<string>invokeAction</string>
+	<key>parallelLinker</key>
+	<string>disconnecttechnique</string>
+	<key>shouldPresentScroll</key>
+	<string>observerBehavior</string>
+</dict>
+</plist>

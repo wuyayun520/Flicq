@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachfragment</key>
+	<string>referenceTension</string>
+	<key>columnscheduler</key>
+	<string>formatPositioned</string>
+	<key>crucialfactorytransparency</key>
+	<string>formatLoss</string>
+	<key>mediumConvolution</key>
+	<string>discoverSize</string>
+	<key>opaqueOffset</key>
+	<string>multiGesture</string>
+	<key>originalBatch</key>
+	<string>detectorVisibility</string>
+	<key>publisherinterval</key>
+	<string>routerEdge</string>
+	<key>shouldPresentPageView</key>
+	<string>autocontroller</string>
+	<key>uniqueRemediation</key>
+	<string>locateFuture</string>
+</dict>
+</plist>

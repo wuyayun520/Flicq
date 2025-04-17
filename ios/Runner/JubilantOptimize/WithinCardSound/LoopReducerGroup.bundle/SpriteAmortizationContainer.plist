@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedtransitionduration</key>
+	<string>emitMonster</string>
+	<key>euclideanCertificate</key>
+	<string>missedTechnique</string>
+	<key>hierarchicalcompletertheme</key>
+	<string>interactiveTentative</string>
+	<key>hierarchicalconstraint</key>
+	<string>stringifyGrid</string>
+	<key>navigationName</key>
+	<string>mainInitiators</string>
+	<key>scrollableColor</key>
+	<string>storageOrientation</string>
+	<key>shouldReplaceKernel</key>
+	<string>setstateRole</string>
+	<key>shouldUnbindSpecifier</key>
+	<string>savePainter</string>
+</dict>
+</plist>

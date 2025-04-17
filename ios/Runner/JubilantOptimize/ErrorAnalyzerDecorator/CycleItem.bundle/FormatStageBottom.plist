@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileInterface</key>
+	<string>shouldUnmountLoss</string>
+	<key>aspectratioKind</key>
+	<string>combinerMode</string>
+	<key>coordinatorcount</key>
+	<string>shouldobservesemantics</string>
+	<key>diversifiedThread</key>
+	<string>shouldpersistkernel</string>
+	<key>ignoredEfficiency</key>
+	<string>sortedStack</string>
+	<key>lostPopup</key>
+	<string>conformFeature</string>
+	<key>newestQuaternion</key>
+	<string>encodeCharacter</string>
+	<key>permanentBuilder</key>
+	<string>asyncduration</string>
+	<key>transitionAppearance</key>
+	<string>retainedAnalyzer</string>
+</dict>
+</plist>

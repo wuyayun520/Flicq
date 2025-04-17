@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedReducer</key>
+	<string>euclideanUseCase</string>
+	<key>intermediateFragment</key>
+	<string>unscheduleManager</string>
+	<key>retainedbehaviorcoord</key>
+	<string>skinplatforminterval</string>
+	<key>tabbarType</key>
+	<string>bitrateFormat</string>
+</dict>
+</plist>

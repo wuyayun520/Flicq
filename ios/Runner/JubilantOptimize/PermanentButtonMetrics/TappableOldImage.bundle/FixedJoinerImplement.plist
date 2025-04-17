@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRequest</key>
+	<string>desktopobserver</string>
+	<key>chooserHue</key>
+	<string>blocincludepattern</string>
+	<key>customizedSpecifier</key>
+	<string>cardLocation</string>
+	<key>gateOffset</key>
+	<string>nextProgressBar</string>
+	<key>hardCosine</key>
+	<string>workflowAppearance</string>
+	<key>immediateinkwellflags</key>
+	<string>opaqueBloc</string>
+	<key>infrastructuretag</key>
+	<string>geometricReliability</string>
+	<key>shouldRestartTable</key>
+	<string>canFormatConvolution</string>
+	<key>usedObserver</key>
+	<string>quantizationCompleter</string>
+</dict>
+</plist>

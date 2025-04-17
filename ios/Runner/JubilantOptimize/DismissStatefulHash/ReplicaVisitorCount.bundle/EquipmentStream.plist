@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGestureDetector</key>
+	<string>directlyloopcontrast</string>
+	<key>binderHue</key>
+	<string>geometricCallback</string>
+	<key>connectsprite</key>
+	<string>debugGrain</string>
+	<key>inactiveInstruction</key>
+	<string>decorationtype</string>
+	<key>publicOperation</key>
+	<string>radiusInterpreter</string>
+	<key>scrollerBound</key>
+	<string>shouldProcessText</string>
+	<key>shouldNavigateSign</key>
+	<string>crucialBuilder</string>
+	<key>smartbutton</key>
+	<string>usedProvider</string>
+	<key>synchronousefficiency</key>
+	<string>pointBorder</string>
+</dict>
+</plist>

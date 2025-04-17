@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCube</key>
+	<string>uniqueIsolate</string>
+	<key>activatedComposition</key>
+	<string>shouldSerializeRow</string>
+	<key>diffableLinker</key>
+	<string>shouldTransformConvolution</string>
+	<key>layoutexpanded</key>
+	<string>accelerateRouter</string>
+	<key>optionBehavior</key>
+	<string>errorDepth</string>
+	<key>shouldBuildGram</key>
+	<string>animatedcontainershape</string>
+	<key>sustainableScene</key>
+	<string>concreteTraversal</string>
+</dict>
+</plist>

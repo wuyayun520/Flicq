@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listenequipment</key>
+	<string>multiError</string>
+	<key>logarithmDepth</key>
+	<string>fixedstoragevisibility</string>
+	<key>lostModule</key>
+	<string>streamoperation</string>
+	<key>shouldDismissRadio</key>
+	<string>gestureProcess</string>
+	<key>smartMapper</key>
+	<string>comprehensiveSound</string>
+</dict>
+</plist>

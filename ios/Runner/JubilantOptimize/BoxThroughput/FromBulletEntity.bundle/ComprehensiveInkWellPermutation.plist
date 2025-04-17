@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deflateboxshadow</key>
+	<string>customizedEntropy</string>
+	<key>invisibleFragments</key>
+	<string>setstateUsage</string>
+	<key>itemRotation</key>
+	<string>numericalRange</string>
+	<key>numericalMusic</key>
+	<string>cursorAlignment</string>
+	<key>relationalConfidentiality</key>
+	<string>canPaintAppBar</string>
+	<key>substantialIcon</key>
+	<string>evaluationMode</string>
+</dict>
+</plist>

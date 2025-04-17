@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablecatalysttype</key>
+	<string>hierarchicalMechanism</string>
+	<key>ephemeralpageview</key>
+	<string>utilAdapter</string>
+	<key>hierarchicalConsumer</key>
+	<string>offsetBrightness</string>
+	<key>independentInfrastructure</key>
+	<string>greatUnary</string>
+	<key>latencyposition</key>
+	<string>loopoperation</string>
+	<key>managerOrientation</key>
+	<string>layerofadapter</string>
+	<key>tabviewResponse</key>
+	<string>serializeAlert</string>
+</dict>
+</plist>

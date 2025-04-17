@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeCoordinator</key>
+	<string>custompaintcubit</string>
+	<key>frameright</key>
+	<string>diffableTime</string>
+	<key>histogramPadding</key>
+	<string>equalizationAlignment</string>
+	<key>isCosine</key>
+	<string>pauseCanvas</string>
+	<key>loopofsingleton</key>
+	<string>tensorListener</string>
+	<key>rotateconsumer</key>
+	<string>canSaveOptimizer</string>
+	<key>shouldProcessRadio</key>
+	<string>immediateSample</string>
+</dict>
+</plist>

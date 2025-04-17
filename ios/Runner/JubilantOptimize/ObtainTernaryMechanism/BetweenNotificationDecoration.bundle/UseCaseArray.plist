@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultprofile</key>
+	<string>mobileTable</string>
+	<key>flexibleSingleton</key>
+	<string>navigatorsorter</string>
+	<key>hyperbolicTool</key>
+	<string>onmediaquerychanged</string>
+	<key>keyPageView</key>
+	<string>canFinishReduction</string>
+	<key>labelDirection</key>
+	<string>isusage</string>
+	<key>responsiveCatalyst</key>
+	<string>differentiateStorage</string>
+	<key>shouldLayoutIndicator</key>
+	<string>newestPriority</string>
+	<key>statefulThread</key>
+	<string>shouldTransformBox</string>
+	<key>uniqueProjection</key>
+	<string>gridTask</string>
+</dict>
+</plist>

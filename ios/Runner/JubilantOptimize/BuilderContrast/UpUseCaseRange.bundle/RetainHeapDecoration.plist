@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonvolume</key>
+	<string>sineNumber</string>
+	<key>currentcustompaint</key>
+	<string>mountbinary</string>
+	<key>deliveryMode</key>
+	<string>alphaAdapter</string>
+	<key>seguefacaderight</key>
+	<string>losscontainer</string>
+	<key>shouldUnbindCycle</key>
+	<string>transitionFrequency</string>
+	<key>visibleMatrix</key>
+	<string>handleBehavior</string>
+</dict>
+</plist>

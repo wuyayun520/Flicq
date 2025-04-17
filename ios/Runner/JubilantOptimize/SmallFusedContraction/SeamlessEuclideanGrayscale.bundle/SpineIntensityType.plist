@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialcombiner</key>
+	<string>controllerinset</string>
+	<key>frameDuration</key>
+	<string>spriteMediator</string>
+	<key>otherDropdownButton</key>
+	<string>currentMusic</string>
+	<key>shouldEmitIcon</key>
+	<string>oldBloc</string>
+	<key>sizeRate</key>
+	<string>globalConfidentiality</string>
+</dict>
+</plist>

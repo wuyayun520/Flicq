@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationRate</key>
+	<string>streampadding</string>
+	<key>directInfo</key>
+	<string>unactivatederror</string>
+	<key>informationinterval</key>
+	<string>inheritedUsage</string>
+	<key>keyRole</key>
+	<string>textureposition</string>
+	<key>mediocreScheduler</key>
+	<string>shouldMountCursor</string>
+	<key>nibmesh</key>
+	<string>pushRect</string>
+	<key>nodeedge</key>
+	<string>canKeepProject</string>
+	<key>operationaroundstyle</key>
+	<string>equalWidget</string>
+	<key>sinebottom</key>
+	<string>gesturedetectorPressure</string>
+	<key>unsortedElasticity</key>
+	<string>titleBuffer</string>
+</dict>
+</plist>

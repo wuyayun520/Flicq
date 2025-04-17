@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleEvent</key>
+	<string>elasticGrayscale</string>
+	<key>basicListView</key>
+	<string>canListenPlayback</string>
+	<key>cellstagevalidation</key>
+	<string>concurrentScope</string>
+	<key>euclideanContainer</key>
+	<string>shouldObservePainter</string>
+	<key>interfaceColor</key>
+	<string>cupertinoFeedback</string>
+	<key>intuitivenodeopacity</key>
+	<string>sharedarithmetic</string>
+	<key>iterativeShape</key>
+	<string>synchronousChallenge</string>
+	<key>mobileDistinction</key>
+	<string>uniquegradientdepth</string>
+	<key>presenterforce</key>
+	<string>replicateAnimation</string>
+	<key>widgetbrightness</key>
+	<string>shouldProcessCertificate</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSorter</key>
+	<string>descentmargin</string>
+	<key>composableswitch</key>
+	<string>shouldPaintPet</string>
+	<key>enabledtangentrate</key>
+	<string>visibleEffect</string>
+	<key>mobileRange</key>
+	<string>associateResponse</string>
+	<key>shouldDisconnectGesture</key>
+	<string>flexibleArithmetic</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interactiveInformation</key>
+	<string>unmarshalQueue</string>
+	<key>permanentEmitter</key>
+	<string>directlyInjection</string>
+	<key>secondRoute</key>
+	<string>partitionScene</string>
+	<key>shouldPauseSine</key>
+	<string>gridVisitor</string>
+	<key>transitionlevelskewx</key>
+	<string>oldSearcher</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatelayer</key>
+	<string>lostAsset</string>
+	<key>associatedReceiver</key>
+	<string>builderCycle</string>
+	<key>draggableInfo</key>
+	<string>publicgraph</string>
+	<key>dynamicAction</key>
+	<string>prismaticgraphdelay</string>
+	<key>mainstampbottom</key>
+	<string>cardValidation</string>
+	<key>sampleState</key>
+	<string>enabledCubit</string>
+	<key>shouldPrepareChannels</key>
+	<string>hierarchicalPopup</string>
+	<key>shouldSaveMedia</key>
+	<string>hyperbolicBorder</string>
+	<key>synchronousBrush</key>
+	<string>immediateFeature</string>
+	<key>tabbarprogressbar</key>
+	<string>pushRect</string>
+</dict>
+</plist>

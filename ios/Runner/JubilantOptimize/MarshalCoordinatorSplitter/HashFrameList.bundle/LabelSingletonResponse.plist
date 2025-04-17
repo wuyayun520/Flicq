@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLatency</key>
+	<string>densePainter</string>
+	<key>fixedElasticity</key>
+	<string>freeRect</string>
+	<key>integrationLeft</key>
+	<string>iterativeLogarithm</string>
+	<key>permissiveSymbol</key>
+	<string>canUnmountFragment</string>
+	<key>uniquearithmeticspacing</key>
+	<string>permissiveresource</string>
+</dict>
+</plist>

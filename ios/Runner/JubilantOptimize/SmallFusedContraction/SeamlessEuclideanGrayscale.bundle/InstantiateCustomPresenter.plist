@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedColor</key>
+	<string>accordionTrajectory</string>
+	<key>gridschema</key>
+	<string>pinchableeffectshape</string>
+	<key>isgesturedetector</key>
+	<string>retainButton</string>
+	<key>movementfacadepressure</key>
+	<string>granularDuration</string>
+	<key>sessioncontrast</key>
+	<string>futureMomentum</string>
+	<key>shouldRenderTabView</key>
+	<string>canLoadMission</string>
+	<key>shouldRouteStateful</key>
+	<string>pivotalInteger</string>
+	<key>specifierresponse</key>
+	<string>iterativeTask</string>
+	<key>uniformCertificate</key>
+	<string>introspectError</string>
+</dict>
+</plist>

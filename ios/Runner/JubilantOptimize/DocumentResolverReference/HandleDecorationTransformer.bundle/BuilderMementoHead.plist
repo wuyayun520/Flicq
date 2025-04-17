@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncinteraction</key>
+	<string>iterativeChallenge</string>
+	<key>primaryObserver</key>
+	<string>canFormatChallenge</string>
+	<key>shouldHandleTangent</key>
+	<string>trainentity</string>
+	<key>shouldObserveInkWell</key>
+	<string>radioInteraction</string>
+	<key>shouldReplaceBehavior</key>
+	<string>distinctionTransparency</string>
+	<key>synchronousRectangle</key>
+	<string>histogramascent</string>
+	<key>unarywithsystem</key>
+	<string>viewStyle</string>
+</dict>
+</plist>

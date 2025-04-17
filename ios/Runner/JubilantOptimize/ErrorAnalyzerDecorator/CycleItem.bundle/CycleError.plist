@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuecurve</key>
+	<string>shouldRestartPadding</string>
+	<key>embracenode</key>
+	<string>channelLayer</string>
+	<key>iskernel</key>
+	<string>intuitiveTool</string>
+	<key>reducermode</key>
+	<string>graphicSkewY</string>
+	<key>statelessDescription</key>
+	<string>extendView</string>
+	<key>synchronousNorm</key>
+	<string>canStreamCube</string>
+</dict>
+</plist>

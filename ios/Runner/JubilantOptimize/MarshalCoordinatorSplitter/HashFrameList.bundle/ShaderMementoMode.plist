@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittransparency</key>
+	<string>substantialGrid</string>
+	<key>fetchsprite</key>
+	<string>dynamicStatus</string>
+	<key>operationrotation</key>
+	<string>uniqueVolume</string>
+	<key>radioDelay</key>
+	<string>primaryDialogs</string>
+	<key>responsivePadding</key>
+	<string>lazyReceiver</string>
+	<key>shouldPrepareView</key>
+	<string>disconnectWorkflow</string>
+	<key>sliderAlignment</key>
+	<string>streamBatch</string>
+	<key>visibleCell</key>
+	<string>differentiateResponse</string>
+</dict>
+</plist>

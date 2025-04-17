@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachscene</key>
+	<string>requiredutil</string>
+	<key>hardTaxonomy</key>
+	<string>transitionProxy</string>
+	<key>intermediateMediaQuery</key>
+	<string>invisibleMusic</string>
+	<key>pinchableDetail</key>
+	<string>metricsMode</string>
+	<key>shouldMountedChallenge</key>
+	<string>dedicatedboxformat</string>
+	<key>sinehandler</key>
+	<string>navigateMusic</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistwithlevel</key>
+	<string>shouldcancelbehavior</string>
+	<key>imageTop</key>
+	<string>configurelocalization</string>
+	<key>interfaceexcepttype</key>
+	<string>autoObserver</string>
+	<key>normintemple</key>
+	<string>promiseobservercontrast</string>
+	<key>shouldInflateBullet</key>
+	<string>shouldCreatePadding</string>
+	<key>shouldTransitionCursor</key>
+	<string>timelineBehavior</string>
+	<key>shouldYieldSlash</key>
+	<string>canPaintListView</string>
+</dict>
+</plist>

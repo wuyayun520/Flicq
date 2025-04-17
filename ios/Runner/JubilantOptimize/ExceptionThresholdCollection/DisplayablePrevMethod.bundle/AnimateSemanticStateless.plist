@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridviewlevelskewy</key>
+	<string>explicitTable</string>
+	<key>intuitiveTabBar</key>
+	<string>explicitevolution</string>
+	<key>publicCycle</key>
+	<string>handlerDuration</string>
+	<key>resilientData</key>
+	<string>injectiontransparency</string>
+	<key>tappableTable</key>
+	<string>convolutionFormat</string>
+	<key>wrapperbrightness</key>
+	<string>canSetStateScroll</string>
+</dict>
+</plist>

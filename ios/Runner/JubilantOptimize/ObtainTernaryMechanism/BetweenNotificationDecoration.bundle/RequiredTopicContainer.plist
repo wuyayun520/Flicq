@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedsplitter</key>
+	<string>concreteButton</string>
+	<key>diffableBehavior</key>
+	<string>restartsizedbox</string>
+	<key>losssink</key>
+	<string>shouldPopScreen</string>
+	<key>normalPolygon</key>
+	<string>diversifiedAspectRatio</string>
+	<key>shouldRenderMonster</key>
+	<string>subsequentInfo</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletKind</key>
+	<string>shouldDispatchSensor</string>
+	<key>bullettint</key>
+	<string>ephemeraltimeline</string>
+	<key>consumerDistance</key>
+	<string>strokeShade</string>
+	<key>currentsample</key>
+	<string>mutableResponse</string>
+	<key>flexibleRequest</key>
+	<string>integrityDuration</string>
+	<key>interactiveHeap</key>
+	<string>shouldDisconnectDecoration</string>
+	<key>methodstyle</key>
+	<string>activatedAlert</string>
+</dict>
+</plist>

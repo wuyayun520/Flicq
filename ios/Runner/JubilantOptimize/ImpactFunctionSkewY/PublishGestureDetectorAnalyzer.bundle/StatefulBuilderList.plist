@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inheritedAnimatedContainer</key>
+	<string>resilienceFrequency</string>
+	<key>loopBehavior</key>
+	<string>explicitBuilder</string>
+	<key>mapStatus</key>
+	<string>largeInkWell</string>
+	<key>rapidCharacteristic</key>
+	<string>shouldBuildLoss</string>
+	<key>shouldListenSegment</key>
+	<string>sharedCanvas</string>
+</dict>
+</plist>

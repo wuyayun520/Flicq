@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directSubscription</key>
+	<string>prepareevent</string>
+	<key>disposeloop</key>
+	<string>sharedinitiative</string>
+	<key>finderRate</key>
+	<string>graphicInterval</string>
+	<key>globalLayer</key>
+	<string>shouldPopOption</string>
+	<key>nextAspect</key>
+	<string>gridShape</string>
+	<key>scaffoldMomentum</key>
+	<string>protectedMerger</string>
+	<key>shouldPaintSignature</key>
+	<string>scenarioShade</string>
+	<key>shouldencodeappbar</key>
+	<string>modelofproxy</string>
+	<key>temporarybrushduration</key>
+	<string>titlePadding</string>
+	<key>transformerbeyondflyweight</key>
+	<string>canEndScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exitbehavior</key>
+	<string>keylayout</string>
+	<key>methodacceleration</key>
+	<string>giftlocalization</string>
+	<key>offsetprototypeopacity</key>
+	<string>interpolationMemento</string>
+	<key>paddingCount</key>
+	<string>computecapacities</string>
+	<key>shouldAttachMedia</key>
+	<string>persistoffset</string>
+	<key>shouldFetchScroll</key>
+	<string>emitDependency</string>
+	<key>synchronousDimension</key>
+	<string>spineTension</string>
+	<key>visibleEvolution</key>
+	<string>decorationFlags</string>
+</dict>
+</plist>

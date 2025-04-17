@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFormat</key>
+	<string>canEndChallenge</string>
+	<key>heroMode</key>
+	<string>mobileStateless</string>
+	<key>mountlocalization</key>
+	<string>listenerOrigin</string>
+	<key>originalEmitter</key>
+	<string>usageObserver</string>
+	<key>permissiveCell</key>
+	<string>shouldFormatDescriptor</string>
+	<key>permissiveTabBar</key>
+	<string>reactiveMerger</string>
+	<key>reactiveCaption</key>
+	<string>beginnerChannel</string>
+	<key>semanticTriangles</key>
+	<string>gateDecorator</string>
+	<key>taskTag</key>
+	<string>activeTouch</string>
+</dict>
+</plist>

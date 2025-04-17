@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantMode</key>
+	<string>requiredPageView</string>
+	<key>crucialintegrity</key>
+	<string>cupertinoModel</string>
+	<key>featurecolor</key>
+	<string>semantictitle</string>
+	<key>globalCaption</key>
+	<string>symboldelay</string>
+	<key>queueVelocity</key>
+	<string>dialogsactivityrotation</string>
+	<key>singletontop</key>
+	<string>invisibleDetector</string>
+</dict>
+</plist>

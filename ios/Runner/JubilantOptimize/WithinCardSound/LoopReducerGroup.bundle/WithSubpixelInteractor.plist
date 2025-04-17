@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaittolerance</key>
+	<string>calculateTicker</string>
+	<key>composablePager</key>
+	<string>canKeepEntropy</string>
+	<key>durationStyle</key>
+	<string>chooserShade</string>
+	<key>fixedResilience</key>
+	<string>trianglesPressure</string>
+	<key>fusedPadding</key>
+	<string>interpolateResponse</string>
+	<key>granularTabView</key>
+	<string>completionbottom</string>
+	<key>newestSingleton</key>
+	<string>displayableExponent</string>
+	<key>priorSound</key>
+	<string>canNotifyVariant</string>
+	<key>subsequentGradient</key>
+	<string>streamVar</string>
+	<key>tablevisible</key>
+	<string>consumerTail</string>
+</dict>
+</plist>

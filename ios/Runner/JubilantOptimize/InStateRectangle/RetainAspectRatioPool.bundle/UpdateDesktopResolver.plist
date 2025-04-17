@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconincludeplatform</key>
+	<string>shouldSkipAspect</string>
+	<key>otherScene</key>
+	<string>composableIntensity</string>
+	<key>prioractionscale</key>
+	<string>shouldProcessCustomPaint</string>
+	<key>secondBoxShadow</key>
+	<string>curvepertemple</string>
+	<key>startstep</key>
+	<string>skinProcess</string>
+</dict>
+</plist>

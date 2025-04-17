@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableInteractor</key>
+	<string>giftDecorator</string>
+	<key>entityOrigin</key>
+	<string>asynchronousSpot</string>
+	<key>factoryfromjob</key>
+	<string>persistentStatus</string>
+	<key>functionalTable</key>
+	<string>protectedService</string>
+	<key>largeRoute</key>
+	<string>substantialTransition</string>
+	<key>retainedMaster</key>
+	<string>captionplatformsaturation</string>
+	<key>scaffoldloader</key>
+	<string>criticalAnchor</string>
+	<key>shouldDisposeButton</key>
+	<string>trainCaption</string>
+	<key>startstore</key>
+	<string>divideProvider</string>
+	<key>visiblegraph</key>
+	<string>statefulFlyweight</string>
+</dict>
+</plist>

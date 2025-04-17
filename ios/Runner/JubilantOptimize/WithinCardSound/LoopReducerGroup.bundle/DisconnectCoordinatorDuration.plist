@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveGradient</key>
+	<string>lifecycleFrequency</string>
+	<key>graphHue</key>
+	<string>visibleEquipment</string>
+	<key>inkwelldetector</key>
+	<string>loopCycle</string>
+	<key>shouldbuildlistview</key>
+	<string>eagerPlate</string>
+	<key>signaturechart</key>
+	<string>shouldContinuePageView</string>
+</dict>
+</plist>

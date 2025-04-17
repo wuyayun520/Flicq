@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disposeslider</key>
+	<string>interfaceActivity</string>
+	<key>inactiveListener</key>
+	<string>encodeScreen</string>
+	<key>materialTag</key>
+	<string>convolutionRotation</string>
+	<key>semanticStrength</key>
+	<string>visualizeSlider</string>
+	<key>shouldCancelAperture</key>
+	<string>tickerDelay</string>
+	<key>singletoncyclelocation</key>
+	<string>materializeStream</string>
+	<key>sliderBottom</key>
+	<string>locateZone</string>
+	<key>uniformData</key>
+	<string>prismaticCosine</string>
+</dict>
+</plist>

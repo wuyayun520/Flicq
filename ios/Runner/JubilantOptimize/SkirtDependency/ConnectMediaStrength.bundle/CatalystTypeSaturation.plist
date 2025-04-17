@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialSensor</key>
+	<string>canFetchDrawer</string>
+	<key>nativeMatrix</key>
+	<string>draggableRoute</string>
+	<key>permanentvectorspacing</key>
+	<string>resilientAperture</string>
+	<key>responsecontaincomposite</key>
+	<string>canDismissDialogs</string>
+	<key>shouldConnectConstraint</key>
+	<string>intuitiveSize</string>
+	<key>shouldFinishConstraint</key>
+	<string>missionPrototype</string>
+	<key>uniformradius</key>
+	<string>animatecapsule</string>
+</dict>
+</plist>

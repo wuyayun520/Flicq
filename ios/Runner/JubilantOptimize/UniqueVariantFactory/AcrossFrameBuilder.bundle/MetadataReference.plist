@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonfromaction</key>
+	<string>shouldTransitionModulus</string>
+	<key>enablederror</key>
+	<string>hardInformation</string>
+	<key>flexInterval</key>
+	<string>parallelappbarinset</string>
+	<key>robustOptimizer</key>
+	<string>ephemeralThread</string>
+	<key>sophisticatedCapsule</key>
+	<string>similarprecision</string>
+</dict>
+</plist>

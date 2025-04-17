@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalFlex</key>
+	<string>desktopEquivalent</string>
+	<key>defaultBatch</key>
+	<string>asynchronousAudio</string>
+	<key>mobileBatch</key>
+	<string>robustDelegate</string>
+	<key>shouldMountTable</key>
+	<string>titleresponse</string>
+</dict>
+</plist>

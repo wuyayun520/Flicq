@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleFrequency</key>
+	<string>cacheVisibility</string>
+	<key>containerproxymomentum</key>
+	<string>allocateGrain</string>
+	<key>diversifiedLifecycle</key>
+	<string>canDisconnectMultiplication</string>
+	<key>finishtext</key>
+	<string>shouldInflateDialogs</string>
+	<key>immediateTimer</key>
+	<string>imperativeTween</string>
+	<key>keyStorage</key>
+	<string>quitRoute</string>
+	<key>lazyInstruction</key>
+	<string>flexibleAudio</string>
+	<key>permanentPreview</key>
+	<string>cardfromplatform</string>
+	<key>shouldEndSegue</key>
+	<string>momentumSkewX</string>
+</dict>
+</plist>

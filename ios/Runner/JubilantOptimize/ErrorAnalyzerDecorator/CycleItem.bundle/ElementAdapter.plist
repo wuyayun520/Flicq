@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisscompleter</key>
+	<string>intermediateExtension</string>
+	<key>explicitRouter</key>
+	<string>dissociateGrid</string>
+	<key>invisiblenavigatorright</key>
+	<string>rectBuffer</string>
+	<key>opaqueSizedBox</key>
+	<string>imageVariable</string>
+	<key>shaderCenter</key>
+	<string>shouldSkipSymbol</string>
+	<key>shouldRenderPadding</key>
+	<string>uniformFrame</string>
+	<key>shouldpersiststream</key>
+	<string>newestBatch</string>
+</dict>
+</plist>

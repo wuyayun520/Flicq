@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCubit</key>
+	<string>shouldPaintNotification</string>
+	<key>agilenavigatorforce</key>
+	<string>upgradeProgressBar</string>
+	<key>poolmedia</key>
+	<string>vectorizeGraph</string>
+	<key>primaryTextField</key>
+	<string>allocateHandler</string>
+	<key>routeMargin</key>
+	<string>pointPhase</string>
+	<key>shouldYieldScale</key>
+	<string>replicateConfiguration</string>
+	<key>shouldinflateslider</key>
+	<string>iconVisible</string>
+	<key>timerrange</key>
+	<string>drawerDensity</string>
+</dict>
+</plist>

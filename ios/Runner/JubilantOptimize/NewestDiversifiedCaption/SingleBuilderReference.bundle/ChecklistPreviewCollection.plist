@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentTail</key>
+	<string>independentLatency</string>
+	<key>cacheContrast</key>
+	<string>vectorPosition</string>
+	<key>desktopResource</key>
+	<string>transitionShade</string>
+	<key>mainChart</key>
+	<string>persistentResponder</string>
+	<key>mixincallback</key>
+	<string>protocolname</string>
+	<key>shouldAttachStoryboard</key>
+	<string>canBindCustomPaint</string>
+	<key>shouldSaveSymbol</key>
+	<string>debugChannel</string>
+</dict>
+</plist>

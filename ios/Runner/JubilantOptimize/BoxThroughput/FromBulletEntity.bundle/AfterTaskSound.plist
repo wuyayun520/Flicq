@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialSensor</key>
+	<string>accessibleTaxonomy</string>
+	<key>numericalTangent</key>
+	<string>canvasdensity</string>
+	<key>previewFrequency</key>
+	<string>activatedInitiative</string>
+	<key>progressbaractionposition</key>
+	<string>provideraboutvariable</string>
+</dict>
+</plist>

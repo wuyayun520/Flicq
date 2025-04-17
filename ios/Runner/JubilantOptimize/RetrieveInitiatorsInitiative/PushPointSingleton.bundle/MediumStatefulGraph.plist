@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableChart</key>
+	<string>statelessNotifier</string>
+	<key>euclideanMonster</key>
+	<string>canRouteFragment</string>
+	<key>lostOption</key>
+	<string>baseBehavior</string>
+	<key>movementcontrast</key>
+	<string>asynchronousBox</string>
+	<key>texttasksaturation</key>
+	<string>shouldPushAnchor</string>
+</dict>
+</plist>

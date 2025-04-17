@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendskirt</key>
+	<string>originalShape</string>
+	<key>cupertinoSkirt</key>
+	<string>mechanismTint</string>
+	<key>ephemeralResponse</key>
+	<string>relationalflex</string>
+	<key>fusedSubscription</key>
+	<string>dropdownbuttontransition</string>
+	<key>otherscrollborder</key>
+	<string>canPresentCache</string>
+	<key>reusableCombiner</key>
+	<string>multiBatch</string>
+	<key>shouldHandleBrush</key>
+	<string>swiftmetrics</string>
+	<key>shouldProcessInstruction</key>
+	<string>modalBuffer</string>
+</dict>
+</plist>

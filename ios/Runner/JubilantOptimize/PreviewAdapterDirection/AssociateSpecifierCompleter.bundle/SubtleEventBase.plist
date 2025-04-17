@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationname</key>
+	<string>shouldMountSign</string>
+	<key>metadataTag</key>
+	<string>upgradeAsset</string>
+	<key>progressbarStatus</key>
+	<string>largeMetrics</string>
+	<key>requiredRemediation</key>
+	<string>protocolForce</string>
+	<key>staticCursor</key>
+	<string>directNotification</string>
+</dict>
+</plist>

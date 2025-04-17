@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialMaterial</key>
+	<string>sinkcontrast</string>
+	<key>defaultmatrix</key>
+	<string>shouldstartfragment</string>
+	<key>discardedShader</key>
+	<string>canStreamButton</string>
+	<key>disclaimerTag</key>
+	<string>scrollableClipper</string>
+	<key>localizationconstant</key>
+	<string>animatorDensity</string>
+	<key>reducerinterval</key>
+	<string>listviewRotation</string>
+	<key>spinhandler</key>
+	<string>canEndAlert</string>
+</dict>
+</plist>

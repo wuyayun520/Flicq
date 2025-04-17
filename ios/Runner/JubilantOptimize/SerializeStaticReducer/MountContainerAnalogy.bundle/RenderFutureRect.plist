@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedLocalization</key>
+	<string>radiocolor</string>
+	<key>firstdurationinterval</key>
+	<string>provideMethod</string>
+	<key>integrationFlags</key>
+	<string>specifyAsync</string>
+	<key>modalstate</key>
+	<string>mutableBorder</string>
+	<key>shouldLayoutContainer</key>
+	<string>releaseMenu</string>
+	<key>themeactionskewy</key>
+	<string>advancedAllocator</string>
+	<key>usecaseSpacing</key>
+	<string>displaycupertino</string>
+</dict>
+</plist>

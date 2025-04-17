@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystDuration</key>
+	<string>missiondirection</string>
+	<key>discardedMenu</key>
+	<string>disparateCaption</string>
+	<key>gridvideo</key>
+	<string>exceptionFacade</string>
+	<key>isCompletion</key>
+	<string>displayabletaskrotation</string>
+	<key>permissiveSink</key>
+	<string>effectmethodinterval</string>
+</dict>
+</plist>

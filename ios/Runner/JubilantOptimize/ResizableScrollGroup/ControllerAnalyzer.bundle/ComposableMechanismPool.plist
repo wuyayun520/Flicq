@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledinitiatorsforce</key>
+	<string>characterLocation</string>
+	<key>frameskewx</key>
+	<string>cardquaternion</string>
+	<key>logarithmTransparency</key>
+	<string>hardPromise</string>
+	<key>publicStorage</key>
+	<string>analyzerScale</string>
+	<key>significantgrainbehavior</key>
+	<string>advancedActivity</string>
+	<key>yieldpainter</key>
+	<string>greatSubscription</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableLifecycle</key>
+	<string>consumeBloc</string>
+	<key>easyElement</key>
+	<string>timerRight</string>
+	<key>gridformvelocity</key>
+	<string>traversalTail</string>
+	<key>shouldMountedPainter</key>
+	<string>webLoader</string>
+	<key>shouldRenderCapacities</key>
+	<string>notificationFormat</string>
+	<key>stepthannumber</key>
+	<string>listenAppBar</string>
+</dict>
+</plist>

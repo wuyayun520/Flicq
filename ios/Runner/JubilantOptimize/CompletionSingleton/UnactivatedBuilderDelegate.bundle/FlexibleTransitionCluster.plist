@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>documentScale</key>
+	<string>restartSwitch</string>
+	<key>interactiveStoryboard</key>
+	<string>constraintfromstructure</string>
+	<key>intermediateAnimation</key>
+	<string>operationAdapter</string>
+	<key>largeOffset</key>
+	<string>immutableInterpolation</string>
+	<key>logarithmexceptlevel</key>
+	<string>canLayoutUsage</string>
+	<key>mediaqueryTint</key>
+	<string>embedBloc</string>
+	<key>shouldAttachSwift</key>
+	<string>shouldvalidatecupertino</string>
+	<key>shouldDismissContraction</key>
+	<string>quitCurve</string>
+	<key>visualizeasync</key>
+	<string>aggregateTransition</string>
+</dict>
+</plist>

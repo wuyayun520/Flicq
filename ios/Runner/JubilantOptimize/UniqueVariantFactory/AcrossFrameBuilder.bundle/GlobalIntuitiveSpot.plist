@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAxis</key>
+	<string>euclideanOffset</string>
+	<key>discardedContraction</key>
+	<string>activatedrepositoryalignment</string>
+	<key>documentSpacing</key>
+	<string>shouldConnectArithmetic</string>
+	<key>initializegridview</key>
+	<string>makeService</string>
+	<key>iterativeMovement</key>
+	<string>baseChain</string>
+	<key>mountedlayer</key>
+	<string>anchorrow</string>
+	<key>providertimer</key>
+	<string>rectangleName</string>
+	<key>reliabilityRotation</key>
+	<string>localThread</string>
+	<key>slashIndex</key>
+	<string>shouldPopBoxShadow</string>
+</dict>
+</plist>

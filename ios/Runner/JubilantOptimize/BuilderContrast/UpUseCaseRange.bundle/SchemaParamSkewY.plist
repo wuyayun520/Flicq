@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialCollection</key>
+	<string>canPopDelegate</string>
+	<key>publicGrid</key>
+	<string>ternaryVisibility</string>
+	<key>receivestoryboard</key>
+	<string>localPopup</string>
+	<key>shouldCancelProject</key>
+	<string>restrictionDensity</string>
+	<key>shouldShowMaterial</key>
+	<string>seekButton</string>
+	<key>sophisticatedShape</key>
+	<string>transitionstatecontrast</string>
+	<key>staticAspectRatio</key>
+	<string>symmetricInjection</string>
+	<key>storageSpacing</key>
+	<string>canContinueBoxShadow</string>
+</dict>
+</plist>

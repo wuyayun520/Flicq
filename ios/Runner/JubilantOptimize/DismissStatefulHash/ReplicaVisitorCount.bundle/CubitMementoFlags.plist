@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMedia</key>
+	<string>criticalevent</string>
+	<key>cupertinoLatency</key>
+	<string>storeasync</string>
+	<key>directPageView</key>
+	<string>toolBridge</string>
+	<key>floatpresenter</key>
+	<string>otherRepository</string>
+	<key>granularBoxShadow</key>
+	<string>diffableListener</string>
+	<key>listenerDistance</key>
+	<string>errorOpacity</string>
+	<key>resizableMargin</key>
+	<string>asyncPlatform</string>
+	<key>shouldFetchLoss</key>
+	<string>customizedBandwidth</string>
+	<key>uniformEvaluation</key>
+	<string>creatorTheme</string>
+	<key>unmountedplate</key>
+	<string>tweenPhase</string>
+</dict>
+</plist>

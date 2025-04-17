@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyShade</key>
+	<string>greatasynckind</string>
+	<key>operationvector</key>
+	<string>animateCatalyst</string>
+	<key>shouldDetachActivity</key>
+	<string>unsortedvector</string>
+	<key>shouldupdateanimatedcontainer</key>
+	<string>previewshape</string>
+	<key>subscriberVisibility</key>
+	<string>requestrect</string>
+</dict>
+</plist>

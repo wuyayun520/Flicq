@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReference</key>
+	<string>scalebesideenvironment</string>
+	<key>cellTheme</key>
+	<string>initializeLocalization</string>
+	<key>shouldKeepAnimatedContainer</key>
+	<string>checkFactory</string>
+</dict>
+</plist>

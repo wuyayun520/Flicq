@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvefacadehead</key>
+	<string>shouldYieldReduction</string>
+	<key>directlyUsage</key>
+	<string>interactionName</string>
+	<key>entitybound</key>
+	<string>shouldCreateMobile</string>
+	<key>iterativeMission</key>
+	<string>subtleDispatcher</string>
+	<key>pickerDuration</key>
+	<string>rangeAppearance</string>
+	<key>sampleuntilsingleton</key>
+	<string>handlerChain</string>
+	<key>sharedProfile</key>
+	<string>resultScale</string>
+	<key>similarTime</key>
+	<string>titleOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorsystemvisibility</key>
+	<string>oldException</string>
+	<key>clearobserver</key>
+	<string>shouldUnmountDropdownButton</string>
+	<key>defaultMovement</key>
+	<string>repositorybufferoffset</string>
+	<key>dispatchmenu</key>
+	<string>shouldDeserializeGate</string>
+	<key>prepareoverlay</key>
+	<string>prevFinder</string>
+	<key>protocolFormat</key>
+	<string>directDispatcher</string>
+	<key>requestTag</key>
+	<string>techniqueCommand</string>
+	<key>threadState</key>
+	<string>sensorfactory</string>
+</dict>
+</plist>

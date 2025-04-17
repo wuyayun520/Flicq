@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>otherSine</key>
+	<string>captureasync</string>
+	<key>pinchableUnary</key>
+	<string>listenBase</string>
+	<key>reductionstagelocation</key>
+	<string>priorityCount</string>
+	<key>rolerequest</key>
+	<string>priorInfo</string>
+	<key>shouldFormatButton</key>
+	<string>defaultspecifier</string>
+	<key>staticStep</key>
+	<string>unlockView</string>
+	<key>temporaryBullet</key>
+	<string>detachrouter</string>
+	<key>themeconnector</key>
+	<string>rowJob</string>
+	<key>unactivatedcapsule</key>
+	<string>canRenderTechnique</string>
+	<key>unmountedcollection</key>
+	<string>responsiveModel</string>
+</dict>
+</plist>

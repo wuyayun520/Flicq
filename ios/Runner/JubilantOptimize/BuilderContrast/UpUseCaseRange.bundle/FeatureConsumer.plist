@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDensity</key>
+	<string>storyboardProcess</string>
+	<key>currentResult</key>
+	<string>loadMember</string>
+	<key>custompaintRate</key>
+	<string>shouldDismissCustomPaint</string>
+	<key>independentAnchor</key>
+	<string>autoTool</string>
+	<key>secondMapper</key>
+	<string>explicitGroup</string>
+	<key>shouldEndMaster</key>
+	<string>instantiateAction</string>
+	<key>symmetricCatalyst</key>
+	<string>transformMovement</string>
+	<key>webduration</key>
+	<string>intuitiveScreen</string>
+</dict>
+</plist>

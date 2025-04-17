@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledbatchrotation</key>
+	<string>delicateCombiner</string>
+	<key>hardSegment</key>
+	<string>canBuildMap</string>
+	<key>iconDelay</key>
+	<string>petrepository</string>
+	<key>shouldObserveDialogs</key>
+	<string>staticMend</string>
+	<key>temporaryVideo</key>
+	<string>shouldDecodePet</string>
+</dict>
+</plist>

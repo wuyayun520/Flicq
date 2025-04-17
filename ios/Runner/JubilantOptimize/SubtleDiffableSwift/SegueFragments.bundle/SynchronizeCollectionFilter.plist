@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>playrouter</key>
+	<string>viewversusstrategy</string>
+	<key>shouldfetchcontainer</key>
+	<string>skirtTier</string>
+	<key>tickerresponse</key>
+	<string>presentresource</string>
+	<key>unactivatedAnimation</key>
+	<string>geometricController</string>
+</dict>
+</plist>

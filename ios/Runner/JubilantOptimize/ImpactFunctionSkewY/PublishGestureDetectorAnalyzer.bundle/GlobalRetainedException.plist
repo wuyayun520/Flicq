@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableBullet</key>
+	<string>missedUsage</string>
+	<key>handlerShape</key>
+	<string>notifierJob</string>
+	<key>missionappearance</key>
+	<string>timerSize</string>
+	<key>permissivecustompaint</key>
+	<string>scrollerBound</string>
+	<key>prevSymbol</key>
+	<string>consultativeSprite</string>
+	<key>shouldPopExponent</key>
+	<string>dropouthero</string>
+	<key>usecaseaswork</key>
+	<string>connectModal</string>
+</dict>
+</plist>

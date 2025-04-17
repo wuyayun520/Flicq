@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonplatformresponse</key>
+	<string>specifierscopealignment</string>
+	<key>dependencySpacing</key>
+	<string>shouldStopCupertino</string>
+	<key>normalPermutation</key>
+	<string>baseposition</string>
+	<key>relationalVideo</key>
+	<string>canStopEqualization</string>
+	<key>seamlessrow</key>
+	<string>shouldPopMediaQuery</string>
+	<key>setstatechart</key>
+	<string>easyrouterstate</string>
+	<key>shouldLoadButton</key>
+	<string>imperativeResource</string>
+	<key>shouldUnmountedNotification</key>
+	<string>tensorParticle</string>
+</dict>
+</plist>

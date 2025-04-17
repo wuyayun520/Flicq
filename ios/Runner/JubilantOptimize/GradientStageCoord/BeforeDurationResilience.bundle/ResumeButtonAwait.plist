@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeobserver</key>
+	<string>toolColor</string>
+	<key>customThread</key>
+	<string>reactiveOption</string>
+	<key>declarativeNavigator</key>
+	<string>pauseBase</string>
+	<key>ignoredDescription</key>
+	<string>persistentExtension</string>
+	<key>numericalhandler</key>
+	<string>mixinZone</string>
+	<key>projectionchainalignment</key>
+	<string>variantForm</string>
+	<key>sharedLocalization</key>
+	<string>normalSchema</string>
+	<key>smartNotation</key>
+	<string>temporaryButton</string>
+</dict>
+</plist>

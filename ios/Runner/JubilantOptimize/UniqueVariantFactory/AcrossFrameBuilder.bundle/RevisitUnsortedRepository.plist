@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastTexture</key>
+	<string>selectorlocation</string>
+	<key>nativeMetrics</key>
+	<string>canDisposeNavigation</string>
+	<key>smallAnimator</key>
+	<string>graphicTransparency</string>
+	<key>viewitem</key>
+	<string>sizedboxobservercolor</string>
+</dict>
+</plist>

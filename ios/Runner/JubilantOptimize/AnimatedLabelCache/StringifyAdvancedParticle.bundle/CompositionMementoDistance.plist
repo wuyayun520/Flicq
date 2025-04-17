@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchstate</key>
+	<string>subsequentLayer</string>
+	<key>controllerfinder</key>
+	<string>canTransitionKernel</string>
+	<key>embedskirt</key>
+	<string>dropouttabbar</string>
+	<key>euclideanmenudirection</key>
+	<string>copyTransformer</string>
+	<key>lostFragments</key>
+	<string>hierarchicalMetrics</string>
+	<key>shouldDeserializePlayback</key>
+	<string>canPauseIndicator</string>
+	<key>shouldSkipCosine</key>
+	<string>timerRotation</string>
+	<key>usagecontrast</key>
+	<string>ontasktap</string>
+</dict>
+</plist>

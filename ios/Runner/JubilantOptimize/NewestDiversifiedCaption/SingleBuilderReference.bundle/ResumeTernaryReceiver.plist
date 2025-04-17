@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicTheme</key>
+	<string>prevscenepadding</string>
+	<key>imperativeEqualization</key>
+	<string>chapterFacade</string>
+	<key>imperativeScope</key>
+	<string>dedicatedsliderhue</string>
+	<key>playbackmargin</key>
+	<string>tabbarMode</string>
+	<key>selectedTangent</key>
+	<string>uniqueEvent</string>
+	<key>shouldfetchcube</key>
+	<string>observerqueue</string>
+	<key>standaloneMetrics</key>
+	<string>contractiontheme</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationInterval</key>
+	<string>tweenValidation</string>
+	<key>quaternionRotation</key>
+	<string>shouldAttachAspect</string>
+	<key>resolverRight</key>
+	<string>filterName</string>
+	<key>schedulerPressure</key>
+	<string>momentumusecase</string>
+</dict>
+</plist>

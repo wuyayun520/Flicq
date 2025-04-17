@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCluster</key>
+	<string>explicitThread</string>
+	<key>consultativeChart</key>
+	<string>nodetag</string>
+	<key>detectorTag</key>
+	<string>strengthTension</string>
+	<key>discardedcolumn</key>
+	<string>aspectmodetype</string>
+	<key>enabledDisclaimer</key>
+	<string>combineNavigator</string>
+	<key>haslogarithm</key>
+	<string>difficultException</string>
+	<key>parallelposition</key>
+	<string>usecaseKind</string>
+	<key>reactiveActivity</key>
+	<string>attachLayer</string>
+</dict>
+</plist>

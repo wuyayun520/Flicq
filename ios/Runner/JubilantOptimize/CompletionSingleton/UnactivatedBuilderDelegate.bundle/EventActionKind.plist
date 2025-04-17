@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerwithoutfacade</key>
+	<string>temporaryPositioned</string>
+	<key>petDepth</key>
+	<string>shouldDisconnectHero</string>
+	<key>respectiveFlex</key>
+	<string>normalLatency</string>
+	<key>responsiveSpine</key>
+	<string>responsenotation</string>
+	<key>robustPlayback</key>
+	<string>poplocalization</string>
+	<key>shouldBuildAnimatedContainer</key>
+	<string>defaultcertificate</string>
+	<key>shouldPresentIndicator</key>
+	<string>accordionNotation</string>
+	<key>shoulddetachplate</key>
+	<string>canTransformMatrix</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdelivery</key>
+	<string>bundleWidget</string>
+	<key>curveName</key>
+	<string>canCancelResource</string>
+	<key>diffableFilter</key>
+	<string>clipperFeedback</string>
+	<key>eventSize</key>
+	<string>revisitConfiguration</string>
+	<key>nextState</key>
+	<string>repositorySpacing</string>
+	<key>processorLocation</key>
+	<string>smartRadius</string>
+	<key>projectioncontaindecorator</key>
+	<string>configurationFramework</string>
+	<key>shouldReplaceSegue</key>
+	<string>denseProjection</string>
+	<key>symmetriccompletion</key>
+	<string>shouldDisposeShader</string>
+</dict>
+</plist>

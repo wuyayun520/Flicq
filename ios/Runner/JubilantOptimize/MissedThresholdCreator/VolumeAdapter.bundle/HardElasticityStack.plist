@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderOrigin</key>
+	<string>binaryOrientation</string>
+	<key>chartSize</key>
+	<string>sequentialcolumnrotation</string>
+	<key>firsttabbar</key>
+	<string>shouldNavigateActivity</string>
+	<key>fixedScaffold</key>
+	<string>obtainException</string>
+	<key>newestGrayscale</key>
+	<string>lazyTask</string>
+	<key>numericalNode</key>
+	<string>animatedcontainerVisitor</string>
+	<key>opaqueScreen</key>
+	<string>autoRemediation</string>
+	<key>plateInteraction</key>
+	<string>paintPet</string>
+</dict>
+</plist>

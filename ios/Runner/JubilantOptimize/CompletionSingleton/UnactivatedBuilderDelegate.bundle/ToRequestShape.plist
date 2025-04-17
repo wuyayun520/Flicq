@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionimpact</key>
+	<string>shouldDismissActivity</string>
+	<key>delegateMargin</key>
+	<string>diffableGift</string>
+	<key>enabledview</key>
+	<string>detachLocalization</string>
+	<key>graphadapterorientation</key>
+	<string>nodeDepth</string>
+	<key>introspectconsumer</key>
+	<string>quantizationCurve</string>
+</dict>
+</plist>

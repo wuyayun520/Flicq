@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationcenter</key>
+	<string>uniqueConvolution</string>
+	<key>indicatorbrightness</key>
+	<string>shouldNotifyMember</string>
+	<key>permissiveGestureDetector</key>
+	<string>resizableAnimatedContainer</string>
+	<key>rowRight</key>
+	<string>directlyReplica</string>
+	<key>streamuntilvariable</key>
+	<string>initiatorsamortization</string>
+	<key>techniquespacing</key>
+	<string>multiNotifier</string>
+</dict>
+</plist>

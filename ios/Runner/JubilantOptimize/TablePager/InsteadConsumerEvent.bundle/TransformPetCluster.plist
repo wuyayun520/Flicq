@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticlinker</key>
+	<string>normMediator</string>
+	<key>graphicSaturation</key>
+	<string>multiLocalization</string>
+	<key>listviewbesidestyle</key>
+	<string>statelessSearcher</string>
+	<key>litemodel</key>
+	<string>rebuildScaffold</string>
+	<key>persistentSignature</key>
+	<string>boxDelay</string>
+	<key>poolroute</key>
+	<string>canBindArithmetic</string>
+	<key>sceneValidation</key>
+	<string>scrollableLinker</string>
+	<key>ternaryamongprototype</key>
+	<string>shouldRebuildSwitch</string>
+	<key>topiccyclecenter</key>
+	<string>deliverySkewY</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basemenu</key>
+	<string>detachText</string>
+	<key>desktopDetector</key>
+	<string>isDropdownButton</string>
+	<key>directlyMap</key>
+	<string>subscribeCanvas</string>
+	<key>distinctionBorder</key>
+	<string>lockWidget</string>
+	<key>hardBandwidth</key>
+	<string>bandwidthInterval</string>
+	<key>processaperture</key>
+	<string>painterBound</string>
+	<key>shouldDeserializeInterpolation</key>
+	<string>canUnbindInterpolation</string>
+	<key>shouldDismissAccessory</key>
+	<string>otherInterpolation</string>
+	<key>shouldEndLayout</key>
+	<string>retainedEfficiency</string>
+	<key>shouldTrainProject</key>
+	<string>canEmitGate</string>
+</dict>
+</plist>

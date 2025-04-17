@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGrain</key>
+	<string>dialogsorigin</string>
+	<key>arithmeticAnalogy</key>
+	<string>scopeinterval</string>
+	<key>colorResponse</key>
+	<string>latencyTop</string>
+	<key>mediawithoutdecorator</key>
+	<string>shouldConnectSegment</string>
+	<key>paddingDuration</key>
+	<string>shouldProcessArithmetic</string>
+	<key>protectedStoryboard</key>
+	<string>factorycenter</string>
+</dict>
+</plist>

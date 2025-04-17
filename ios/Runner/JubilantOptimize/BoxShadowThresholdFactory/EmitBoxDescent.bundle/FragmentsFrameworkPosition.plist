@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarcontroller</key>
+	<string>similarAsync</string>
+	<key>hierarchicalBitrate</key>
+	<string>cosineChain</string>
+	<key>intuitiveCharacteristic</key>
+	<string>initializePresenter</string>
+	<key>pushconfiguration</key>
+	<string>canAttachTool</string>
+	<key>symmetricRepository</key>
+	<string>canEmitUnary</string>
+	<key>tentativetransparency</key>
+	<string>deferredoperation</string>
+</dict>
+</plist>

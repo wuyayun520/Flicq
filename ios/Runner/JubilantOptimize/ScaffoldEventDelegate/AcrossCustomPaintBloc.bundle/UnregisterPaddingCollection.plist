@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>isCheckbox</key>
+	<string>techniqueInteraction</string>
+	<key>neweststroke</key>
+	<string>significantLoop</string>
+	<key>normalChooser</key>
+	<string>vectorizeGrain</string>
+	<key>offsetDepth</key>
+	<string>navigatordistance</string>
+	<key>shouldLoadTransition</key>
+	<string>durationname</string>
+</dict>
+</plist>

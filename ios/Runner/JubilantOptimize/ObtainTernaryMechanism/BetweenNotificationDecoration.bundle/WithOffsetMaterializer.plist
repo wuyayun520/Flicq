@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontheme</key>
+	<string>notifierState</string>
+	<key>crucialImage</key>
+	<string>semanticHeap</string>
+	<key>isoverlay</key>
+	<string>rowofmethod</string>
+	<key>relationalCard</key>
+	<string>accordionPageView</string>
+	<key>shouldObserveOverlay</key>
+	<string>effectTint</string>
+	<key>sliderversusphase</key>
+	<string>shouldKeepSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedBuilder</key>
+	<string>canPushBaseline</string>
+	<key>custompaintHue</key>
+	<string>nextOccasion</string>
+	<key>freeprojection</key>
+	<string>chartDuration</string>
+	<key>granularLoader</key>
+	<string>shouldSerializeCustomPaint</string>
+	<key>hierarchicalAudio</key>
+	<string>autoCompletion</string>
+	<key>permanentStamp</key>
+	<string>canStreamRichText</string>
+	<key>shouldFinishMultiplication</key>
+	<string>destroyHash</string>
+	<key>shouldInitializeObserver</key>
+	<string>fusedGestureDetector</string>
+	<key>streaminset</key>
+	<string>emitPet</string>
+</dict>
+</plist>

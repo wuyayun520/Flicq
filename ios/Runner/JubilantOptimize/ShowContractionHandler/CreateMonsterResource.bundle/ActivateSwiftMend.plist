@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedOptimizer</key>
+	<string>factoryappearance</string>
+	<key>augmentanchor</key>
+	<string>smallEvaluation</string>
+	<key>compositionalnodeskewy</key>
+	<string>kerneldecoratorinteraction</string>
+	<key>concurrentStrength</key>
+	<string>tappableBox</string>
+	<key>cosineTension</key>
+	<string>cosineCount</string>
+	<key>elasticPager</key>
+	<string>popBrush</string>
+	<key>liteMend</key>
+	<string>serializeModulus</string>
+	<key>shouldConnectComposition</key>
+	<string>remediationAlignment</string>
+	<key>shouldFetchBaseline</key>
+	<string>resizableSign</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>robustmultiplication</key>
+	<string>shouldSkipView</string>
+	<key>shouldValidateLog</key>
+	<string>canUpdateSubpixel</string>
+	<key>specifyTransformer</key>
+	<string>interceptSink</string>
+	<key>staticService</key>
+	<string>paintticker</string>
+</dict>
+</plist>

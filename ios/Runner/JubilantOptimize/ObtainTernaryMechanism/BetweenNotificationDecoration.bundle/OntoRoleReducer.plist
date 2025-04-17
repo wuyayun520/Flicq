@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledInjection</key>
+	<string>widgetfuture</string>
+	<key>independentPolygon</key>
+	<string>inactiveTimeline</string>
+	<key>maplevelvisibility</key>
+	<string>crudezone</string>
+	<key>pagerRotation</key>
+	<string>layoutStrategy</string>
+	<key>routeAcceleration</key>
+	<string>materialnavigatorcontrast</string>
+	<key>shouldResumeAnchor</key>
+	<string>setstateNavigation</string>
+	<key>themeInset</key>
+	<string>shouldFetchTangent</string>
+	<key>unsorteddescription</key>
+	<string>logarithmFlags</string>
+</dict>
+</plist>

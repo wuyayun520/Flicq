@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOrientation</key>
+	<string>euclideanBandwidth</string>
+	<key>consumerandstrategy</key>
+	<string>requestCallback</string>
+	<key>customizedMaster</key>
+	<string>shouldMountConstraint</string>
+	<key>shouldFormatPet</key>
+	<string>responseformtension</string>
+	<key>shouldNavigateAppBar</key>
+	<string>minCupertino</string>
+</dict>
+</plist>

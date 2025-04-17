@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarlayerinterval</key>
+	<string>shouldRestartExponent</string>
+	<key>commonUseCase</key>
+	<string>fixedBandwidth</string>
+	<key>concreteTextField</key>
+	<string>workflowanimation</string>
+	<key>draggableresult</key>
+	<string>providerlocation</string>
+	<key>persistentResponder</key>
+	<string>canYieldNib</string>
+	<key>quaternionbehavior</key>
+	<string>segueMethod</string>
+	<key>showchapter</key>
+	<string>fetchGate</string>
+	<key>strengthAlignment</key>
+	<string>canInitializeVariant</string>
+</dict>
+</plist>

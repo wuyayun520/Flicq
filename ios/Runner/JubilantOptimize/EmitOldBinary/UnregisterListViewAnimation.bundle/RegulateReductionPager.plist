@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInkWell</key>
+	<string>notifierstyle</string>
+	<key>accessoryFlags</key>
+	<string>replicateListener</string>
+	<key>backwardIndicator</key>
+	<string>sustainableOptimizer</string>
+	<key>fusedReducer</key>
+	<string>intuitiveDrawer</string>
+	<key>semanticcyclepressure</key>
+	<string>arithmeticRotation</string>
+	<key>shoulddispatchmultiplication</key>
+	<string>tensorSubscription</string>
+	<key>synchronousAllocator</key>
+	<string>positionJob</string>
+</dict>
+</plist>

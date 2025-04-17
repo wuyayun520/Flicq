@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDepth</key>
+	<string>intuitivePolyfill</string>
+	<key>diffableconstant</key>
+	<string>benchmarkdimension</string>
+	<key>loadloop</key>
+	<string>arithmeticMemento</string>
+	<key>mapperDepth</key>
+	<string>shouldLayoutCurve</string>
+	<key>pinchableBitrate</key>
+	<string>diversifiedOperation</string>
+	<key>shouldBuildPrecision</key>
+	<string>customizedsize</string>
+	<key>shouldEndTextField</key>
+	<string>sinkRotation</string>
+	<key>staticinfo</key>
+	<string>shouldSkipClipper</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainTrigger</key>
+	<string>permanentOffset</string>
+	<key>referenceuntildecorator</key>
+	<string>canFetchMobile</string>
+	<key>responsiveMend</key>
+	<string>benchmarkAllocator</string>
+	<key>shouldMountedCharacter</key>
+	<string>singleSingleton</string>
+	<key>shouldTransitionEqualization</key>
+	<string>floatCompleter</string>
+</dict>
+</plist>

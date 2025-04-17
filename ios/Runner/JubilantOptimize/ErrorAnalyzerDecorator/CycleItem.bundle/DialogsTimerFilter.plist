@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelMaterial</key>
+	<string>litescheduler</string>
+	<key>pinchableTask</key>
+	<string>mutableHero</string>
+	<key>pivotalSubscription</key>
+	<string>shouldDisconnectWidget</string>
+	<key>subtleSession</key>
+	<string>associatedresolverbrightness</string>
+	<key>typicalVertex</key>
+	<string>canListenRichText</string>
+</dict>
+</plist>

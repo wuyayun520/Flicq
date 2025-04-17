@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedprofile</key>
+	<string>accessibleView</string>
+	<key>animatedMenu</key>
+	<string>axisBridge</string>
+	<key>geometricArithmetic</key>
+	<string>executeState</string>
+	<key>inflatepresenter</key>
+	<string>dropoutRepository</string>
+	<key>markinjection</key>
+	<string>initializeDocument</string>
+	<key>similarReliability</key>
+	<string>pagerMode</string>
+	<key>symmetrictouchspeed</key>
+	<string>scaffoldRight</string>
+	<key>timeorigin</key>
+	<string>accessibleDrawer</string>
+</dict>
+</plist>

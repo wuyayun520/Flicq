@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableMerger</key>
+	<string>moduleDensity</string>
+	<key>handletext</key>
+	<string>mendStatus</string>
+	<key>ignoredThroughput</key>
+	<string>particleaboutmediator</string>
+	<key>kernelVisibility</key>
+	<string>statelessmissionscale</string>
+	<key>lazyChapter</key>
+	<string>functionalInformation</string>
+	<key>petskewx</key>
+	<string>freepoint</string>
+	<key>precisionInteraction</key>
+	<string>radiusdelay</string>
+	<key>progressbarFormat</key>
+	<string>associatedRadius</string>
+	<key>sensorstate</key>
+	<string>equalizationState</string>
+	<key>shouldDispatchTernary</key>
+	<string>previewFlags</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivePicker</key>
+	<string>scrollableSound</string>
+	<key>graintheme</key>
+	<string>platepadding</string>
+	<key>keyText</key>
+	<string>lockHash</string>
+	<key>keydecoration</key>
+	<string>maxNib</string>
+	<key>modalformtail</key>
+	<string>desktopConfiguration</string>
+	<key>momentumvisibility</key>
+	<string>canSaveSine</string>
+	<key>scrollDepth</key>
+	<string>restrictionAppearance</string>
+	<key>semanticShape</key>
+	<string>onkernelchanged</string>
+	<key>shouldCreateSession</key>
+	<string>shouldpreparemultiplication</string>
+	<key>uniquerectacceleration</key>
+	<string>canPersistNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatornearform</key>
+	<string>interactiveShape</string>
+	<key>previewTension</key>
+	<string>robustAperture</string>
+	<key>remediationMargin</key>
+	<string>canYieldStream</string>
+	<key>segueResponse</key>
+	<string>shouldStreamBoxShadow</string>
+</dict>
+</plist>

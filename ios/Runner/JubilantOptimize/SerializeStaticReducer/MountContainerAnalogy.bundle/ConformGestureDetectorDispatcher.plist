@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSize</key>
+	<string>shouldPaintOptimizer</string>
+	<key>axisOrientation</key>
+	<string>dispatcherBound</string>
+	<key>easyQuaternion</key>
+	<string>sequentialReliability</string>
+	<key>invisibleScheduler</key>
+	<string>independentPromise</string>
+	<key>newestInterpolation</key>
+	<string>synchronousTechnique</string>
+	<key>prepareobserver</key>
+	<string>insteadPreview</string>
+</dict>
+</plist>

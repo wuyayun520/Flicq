@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCheckbox</key>
+	<string>issensor</string>
+	<key>alignmentduration</key>
+	<string>nextComponent</string>
+	<key>crucialStack</key>
+	<string>trajectoryShade</string>
+	<key>errorlikenumber</key>
+	<string>serviceOperation</string>
+	<key>gemincludepattern</key>
+	<string>missedPicker</string>
+	<key>isolateduringjob</key>
+	<string>intuitiveMetadata</string>
+	<key>subtleBitrate</key>
+	<string>permissivebasetop</string>
+	<key>synchronousPrecision</key>
+	<string>sustainableMember</string>
+</dict>
+</plist>

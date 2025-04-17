@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSizedBox</key>
+	<string>restartcell</string>
+	<key>cursorphasetag</key>
+	<string>draggableMaterial</string>
+	<key>imperativeTimer</key>
+	<string>shouldShowStack</string>
+	<key>inkwelltint</key>
+	<string>displayableSample</string>
+	<key>interactiveImpression</key>
+	<string>sharedText</string>
+	<key>liteSignature</key>
+	<string>intermediateShape</string>
+	<key>primarymediaquery</key>
+	<string>lostTask</string>
+	<key>shouldMountedStoryboard</key>
+	<string>providertrajectory</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletcontrast</key>
+	<string>interpolateNode</string>
+	<key>cellMargin</key>
+	<string>observeMusic</string>
+	<key>cupertinoScalability</key>
+	<string>sanitizeEntity</string>
+	<key>easyTimeline</key>
+	<string>tangentAcceleration</string>
+	<key>normalFormat</key>
+	<string>registerTicker</string>
+	<key>priorzonestyle</key>
+	<string>reusableCluster</string>
+	<key>tappableStroke</key>
+	<string>apertureFeedback</string>
+</dict>
+</plist>

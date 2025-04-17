@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigation</key>
+	<string>retrieveChapter</string>
+	<key>layerobserverlocation</key>
+	<string>holdEntity</string>
+	<key>resourceslider</key>
+	<string>vertexCenter</string>
+	<key>shouldbindoverlay</key>
+	<string>progressbarBridge</string>
+	<key>shouldprocesscurve</key>
+	<string>criticalBoxShadow</string>
+	<key>streamVisible</key>
+	<string>ternaryTask</string>
+	<key>subtleUsage</key>
+	<string>vectorNumber</string>
+</dict>
+</plist>

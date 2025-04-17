@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackInteraction</key>
+	<string>projectcompositeduration</string>
+	<key>displayableModal</key>
+	<string>nodesearcher</string>
+	<key>easyzoneformat</key>
+	<string>sortedLocalization</string>
+	<key>gesturedetectorBound</key>
+	<string>reusableDialogs</string>
+	<key>sequentialInjection</key>
+	<string>benchmarkTask</string>
+	<key>sizeSize</key>
+	<string>cartesianReceiver</string>
+	<key>sophisticatedCard</key>
+	<string>inflateRadius</string>
+	<key>substantialSignature</key>
+	<string>imperativeScalability</string>
+	<key>usedSearcher</key>
+	<string>canPresentColumn</string>
+	<key>workflowOrigin</key>
+	<string>endCapacities</string>
+</dict>
+</plist>

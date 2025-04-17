@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeShader</key>
+	<string>normalRecursion</string>
+	<key>effectAcceleration</key>
+	<string>notificationParameter</string>
+	<key>hashtype</key>
+	<string>canPresentBullet</string>
+	<key>hassubpixel</key>
+	<string>positionsize</string>
+	<key>latencyshade</key>
+	<string>bindFragment</string>
+	<key>lostCombiner</key>
+	<string>interfacedetail</string>
+	<key>scaleBottom</key>
+	<string>captionscale</string>
+	<key>shouldSubscribeNotification</key>
+	<string>statelessValue</string>
+	<key>textfieldgraph</key>
+	<string>injectionTail</string>
+	<key>trajectoryMode</key>
+	<string>unregisterSize</string>
+</dict>
+</plist>

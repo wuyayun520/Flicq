@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedialogs</key>
+	<string>drawerOpacity</string>
+	<key>ignoredentropy</key>
+	<string>crudeexceptionright</string>
+	<key>mountcache</key>
+	<string>locateChannel</string>
+	<key>nextGesture</key>
+	<string>animatedBinary</string>
+	<key>previewreplica</key>
+	<string>dropdownbuttonOperation</string>
+</dict>
+</plist>

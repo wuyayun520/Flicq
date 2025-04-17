@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderName</key>
+	<string>graphicnavigator</string>
+	<key>connectorDelay</key>
+	<string>globalEquipment</string>
+	<key>deserializeinteractor</key>
+	<string>saveintensity</string>
+	<key>diversifiedChecklist</key>
+	<string>syncUtil</string>
+	<key>missedResult</key>
+	<string>delegateposition</string>
+	<key>richtextskewy</key>
+	<string>cycleDirection</string>
+	<key>sessionHue</key>
+	<string>rectangleSize</string>
+</dict>
+</plist>

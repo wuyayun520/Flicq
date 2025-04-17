@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSine</key>
+	<string>currentfuture</string>
+	<key>cursorplatformcenter</key>
+	<string>positioneddepth</string>
+	<key>momentumHead</key>
+	<string>selectedDuration</string>
+	<key>releaseusecase</key>
+	<string>shouldYieldLayout</string>
+	<key>resolverstate</key>
+	<string>encapsulateOffset</string>
+	<key>robustCanvas</key>
+	<string>consumptionCenter</string>
+	<key>topicscroller</key>
+	<string>cubeAppearance</string>
+	<key>transpiledescriptor</key>
+	<string>canNotifyLoss</string>
+</dict>
+</plist>

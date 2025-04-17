@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completermargin</key>
+	<string>refactorCoordinator</string>
+	<key>elementInterval</key>
+	<string>customizedDuration</string>
+	<key>fragmentsForce</key>
+	<string>injectionVisible</string>
+	<key>mediumSymbol</key>
+	<string>storyboardType</string>
+	<key>rectdirection</key>
+	<string>certificateSaturation</string>
+	<key>statefulBloc</key>
+	<string>configurationshapename</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachskirt</key>
+	<string>topicTier</string>
+	<key>beginnerInteger</key>
+	<string>disposeRow</string>
+	<key>consumptionSpeed</key>
+	<string>capsuleJob</string>
+	<key>missedScale</key>
+	<string>soundInset</string>
+	<key>objectTheme</key>
+	<string>eagerProvider</string>
+	<key>requiredCoordinator</key>
+	<string>spriteDensity</string>
+	<key>shouldstreamplayback</key>
+	<string>subpixeldrawer</string>
+</dict>
+</plist>

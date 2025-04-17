@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedPopup</key>
+	<string>nodethroughnumber</string>
+	<key>easyInfo</key>
+	<string>customTolerance</string>
+	<key>euclideanMomentum</key>
+	<string>cursorAppearance</string>
+	<key>hardDelivery</key>
+	<string>fusedtransformerstyle</string>
+	<key>pageviewValidation</key>
+	<string>formatInset</string>
+	<key>relationalKernel</key>
+	<string>liteChapter</string>
+	<key>samplescopeedge</key>
+	<string>richtextPadding</string>
+	<key>videoAppearance</key>
+	<string>constructSprite</string>
+</dict>
+</plist>

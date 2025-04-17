@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleTheme</key>
+	<string>geometricDisclaimer</string>
+	<key>kernelAppearance</key>
+	<string>rapidIntegration</string>
+	<key>projectTail</key>
+	<string>offsetboxshadow</string>
+	<key>reactiveResponder</key>
+	<string>detachsprite</string>
+	<key>scaleBound</key>
+	<string>movementtension</string>
+	<key>shouldProcessBuilder</key>
+	<string>deprecateParticle</string>
+	<key>vertexAppearance</key>
+	<string>adaptiveMesh</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeexceptionappearance</key>
+	<string>unsortedBuilder</string>
+	<key>deferredloader</key>
+	<string>matrixSingleton</string>
+	<key>fixedFeature</key>
+	<string>shouldSkipObserver</string>
+	<key>fragmentlocation</key>
+	<string>threadTask</string>
+	<key>immutableMaterializer</key>
+	<string>playGrain</string>
+	<key>normalChannel</key>
+	<string>unactivatedSprite</string>
+	<key>observerlistener</key>
+	<string>dataShape</string>
+	<key>pivotalVertex</key>
+	<string>inactiveOverlay</string>
+	<key>significantCompletion</key>
+	<string>spriteStage</string>
+	<key>throughputMargin</key>
+	<string>rangeEdge</string>
+</dict>
+</plist>

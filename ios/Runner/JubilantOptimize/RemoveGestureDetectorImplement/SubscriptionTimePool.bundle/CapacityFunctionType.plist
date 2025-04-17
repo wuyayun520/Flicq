@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonTop</key>
+	<string>marginAcceleration</string>
+	<key>granularAsync</key>
+	<string>canSkipReference</string>
+	<key>insteadgraph</key>
+	<string>lostStorage</string>
+	<key>intermediateReference</key>
+	<string>channelsRotation</string>
+	<key>keyChapter</key>
+	<string>equalizationOrientation</string>
+	<key>nibVelocity</key>
+	<string>canKeepDecoration</string>
+	<key>reductionSpacing</key>
+	<string>canTrainText</string>
+	<key>shouldEmitIcon</key>
+	<string>canEncodeScaffold</string>
+	<key>sortedSegue</key>
+	<string>certificateAppearance</string>
+</dict>
+</plist>

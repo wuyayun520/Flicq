@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativemethodflags</key>
+	<string>canPersistPromise</string>
+	<key>modalDirection</key>
+	<string>protectedEvolution</string>
+	<key>scrollableExtension</key>
+	<string>bundleConfiguration</string>
+	<key>setstatebitrate</key>
+	<string>storecoord</string>
+	<key>sizedboxRotation</key>
+	<string>holdSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionFeedback</key>
+	<string>shouldparseoptimizer</string>
+	<key>denseFragments</key>
+	<string>shouldCacheEquipment</string>
+	<key>missedAllocator</key>
+	<string>convertPosition</string>
+	<key>mutablePainter</key>
+	<string>metricsOpacity</string>
+	<key>reconcilesize</key>
+	<string>resolverLocation</string>
+	<key>shouldDeserializeNotifier</key>
+	<string>contractionscene</string>
+	<key>shouldcontinuecontainer</key>
+	<string>priorQueue</string>
+	<key>shouldreplacewidget</key>
+	<string>offsetChapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatestream</key>
+	<string>activeState</string>
+	<key>dependencyefficiency</key>
+	<string>sharedMaster</string>
+	<key>parseinjection</key>
+	<string>isAnimation</string>
+	<key>resilientTween</key>
+	<string>slashJob</string>
+	<key>shouldDecodeInkWell</key>
+	<string>gateTier</string>
+	<key>utilcombiner</key>
+	<string>parallelInitiators</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveImpact</key>
+	<string>eagerDisclaimer</string>
+	<key>heapHead</key>
+	<string>shouldLoadRow</string>
+	<key>immediateProfile</key>
+	<string>cellcluster</string>
+	<key>positionobserverhead</key>
+	<string>mutableFinder</string>
+	<key>statelessModule</key>
+	<string>descriptionProxy</string>
+	<key>webpermutation</key>
+	<string>difficultDispatcher</string>
+</dict>
+</plist>

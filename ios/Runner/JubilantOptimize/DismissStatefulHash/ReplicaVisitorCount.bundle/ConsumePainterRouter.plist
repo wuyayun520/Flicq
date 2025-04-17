@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleinterface</key>
+	<string>resumeActivity</string>
+	<key>asyncoutsideplatform</key>
+	<string>resolverScope</string>
+	<key>capsuleContrast</key>
+	<string>adaptiveMesh</string>
+	<key>crudeHash</key>
+	<string>prismaticMesh</string>
+	<key>directlysingletondirection</key>
+	<string>equipmentVisibility</string>
+	<key>geometricConnector</key>
+	<string>efficiencyCount</string>
+	<key>storepromise</key>
+	<string>canNotifyDialogs</string>
+	<key>unsortedAscent</key>
+	<string>storeLayout</string>
+</dict>
+</plist>

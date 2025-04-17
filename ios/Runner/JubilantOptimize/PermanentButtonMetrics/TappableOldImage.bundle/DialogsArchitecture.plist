@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTopic</key>
+	<string>smallAscent</string>
+	<key>disabledEqualization</key>
+	<string>imageInterval</string>
+	<key>graphedge</key>
+	<string>standaloneInteger</string>
+	<key>initiativescale</key>
+	<string>hasTabBar</string>
+	<key>pointcenter</key>
+	<string>visibleModule</string>
+	<key>relationalModel</key>
+	<string>permissiveVideo</string>
+	<key>singleProtocol</key>
+	<string>signshade</string>
+	<key>tappableBoxShadow</key>
+	<string>canRenderAspect</string>
+	<key>updateaperture</key>
+	<string>notifyStateless</string>
+	<key>vectorFlags</key>
+	<string>interceptRouter</string>
+</dict>
+</plist>

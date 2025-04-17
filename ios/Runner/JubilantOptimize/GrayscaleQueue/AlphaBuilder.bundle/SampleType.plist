@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveScale</key>
+	<string>associateCurve</string>
+	<key>dismisscatalyst</key>
+	<string>detectorCenter</string>
+	<key>heapStyle</key>
+	<string>materialProfile</string>
+	<key>layershade</key>
+	<string>scopeFlags</string>
+	<key>nativeThread</key>
+	<string>optimizeListener</string>
+	<key>opaqueContainer</key>
+	<string>exponentContext</string>
+	<key>primaryOption</key>
+	<string>desktopConstraint</string>
+	<key>shouldCancelInstruction</key>
+	<string>primarystreamtop</string>
+	<key>soundStatus</key>
+	<string>inkwellPressure</string>
+	<key>transitionuntilwork</key>
+	<string>pendingPet</string>
+</dict>
+</plist>

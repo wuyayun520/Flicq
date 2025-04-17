@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexpermemento</key>
+	<string>denseDuration</string>
+	<key>mergerInteraction</key>
+	<string>asynchronousCompleter</string>
+	<key>polyfillvelocity</key>
+	<string>opaqueJoiner</string>
+	<key>primaryplayback</key>
+	<string>shouldDecodeComposition</string>
+	<key>protocolKind</key>
+	<string>requiredScroll</string>
+	<key>sampleOrientation</key>
+	<string>stringifyLocalization</string>
+</dict>
+</plist>

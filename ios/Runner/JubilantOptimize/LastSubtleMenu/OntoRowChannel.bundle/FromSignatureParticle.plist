@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instructioncontrast</key>
+	<string>cosineProcess</string>
+	<key>popanimation</key>
+	<string>nativeFragments</string>
+	<key>protectedCreator</key>
+	<string>extendStorage</string>
+	<key>requiredExponent</key>
+	<string>criticalLayer</string>
+	<key>rowInteraction</key>
+	<string>interceptDependency</string>
+	<key>shouldSerializeAnimatedContainer</key>
+	<string>canPaintReduction</string>
+	<key>symbolDepth</key>
+	<string>resolvertransparency</string>
+	<key>titleBrightness</key>
+	<string>specifySlash</string>
+	<key>variantbehavior</key>
+	<string>resizableTernary</string>
+</dict>
+</plist>

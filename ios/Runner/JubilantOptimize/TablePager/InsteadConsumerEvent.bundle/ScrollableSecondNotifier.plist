@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedHandler</key>
+	<string>canShowSkin</string>
+	<key>declarativechecklist</key>
+	<string>interpolateMetadata</string>
+	<key>defaultInterpolation</key>
+	<string>endLayout</string>
+	<key>deferredDrawer</key>
+	<string>canCancelTernary</string>
+	<key>firstcoordinatorcolor</key>
+	<string>shouldStopPadding</string>
+	<key>intuitiveradio</key>
+	<string>secondSegue</string>
+	<key>permanentbitrate</key>
+	<string>shouldMountCompletion</string>
+	<key>shouldDispatchKernel</key>
+	<string>canSerializeTechnique</string>
+	<key>unsortedChecklist</key>
+	<string>typicalCapsule</string>
+</dict>
+</plist>

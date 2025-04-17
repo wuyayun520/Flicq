@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accelerateanimation</key>
+	<string>listviewJob</string>
+	<key>dynamicScroller</key>
+	<string>imperativeIndicator</string>
+	<key>enableddrawer</key>
+	<string>catalystAdapter</string>
+	<key>newestchannel</key>
+	<string>canPauseScale</string>
+	<key>petchannel</key>
+	<string>requestMethod</string>
+	<key>shouldPresentStep</key>
+	<string>concreteDependency</string>
+	<key>shouldpopscreen</key>
+	<string>shouldFinishObserver</string>
+	<key>stepTension</key>
+	<string>usedProvider</string>
+</dict>
+</plist>

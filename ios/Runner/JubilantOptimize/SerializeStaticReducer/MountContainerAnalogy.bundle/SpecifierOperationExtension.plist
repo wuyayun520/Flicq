@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBuilder</key>
+	<string>canKeepCupertino</string>
+	<key>intuitiveContraction</key>
+	<string>fixedconverter</string>
+	<key>invisibleFormat</key>
+	<string>temporaryContainer</string>
+	<key>notificationbehavior</key>
+	<string>shouldNotifySensor</string>
+	<key>paintasync</key>
+	<string>subsequentSubpixel</string>
+	<key>progressbarMargin</key>
+	<string>ephemeralTransition</string>
+	<key>radiodependency</key>
+	<string>logStyle</string>
+	<key>resourceLocation</key>
+	<string>geometricBandwidth</string>
+	<key>shouldValidateCertificate</key>
+	<string>canDecodeMedia</string>
+	<key>vectorHue</key>
+	<string>canUnbindSensor</string>
+</dict>
+</plist>

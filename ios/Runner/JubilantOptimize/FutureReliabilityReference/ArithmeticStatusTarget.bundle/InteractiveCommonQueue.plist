@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTernary</key>
+	<string>reductionSingleton</string>
+	<key>arithmeticMatrix</key>
+	<string>configurationVisible</string>
+	<key>decodemodulus</key>
+	<string>deferredBitrate</string>
+	<key>difficultSchema</key>
+	<string>canPaintSignature</string>
+	<key>inflaterequest</key>
+	<string>fixedLoader</string>
+	<key>lazyPainter</key>
+	<string>localTween</string>
+	<key>seamlessTouch</key>
+	<string>delegateVector</string>
+</dict>
+</plist>

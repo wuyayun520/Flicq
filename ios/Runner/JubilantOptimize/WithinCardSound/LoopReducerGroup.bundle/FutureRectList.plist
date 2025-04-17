@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedRemainder</key>
+	<string>dynamicCharacter</string>
+	<key>gestureStatus</key>
+	<string>integritymode</string>
+	<key>shouldPauseBinary</key>
+	<string>asynchronousslash</string>
+	<key>shouldPopNib</key>
+	<string>directlyController</string>
+	<key>shouldValidateCustomPaint</key>
+	<string>refreshOffset</string>
+</dict>
+</plist>

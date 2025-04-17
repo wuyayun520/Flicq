@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeGesture</key>
+	<string>matrixStage</string>
+	<key>canvashead</key>
+	<string>resilientcollection</string>
+	<key>euclideanWorkflow</key>
+	<string>opaqueMission</string>
+	<key>routerPosition</key>
+	<string>frameBorder</string>
+	<key>selectedMedia</key>
+	<string>beginnerTable</string>
+	<key>shouldUnbindCanvas</key>
+	<string>completeroutsidevariable</string>
+	<key>shouldkeepalert</key>
+	<string>canShowDuration</string>
+	<key>statedescent</key>
+	<string>listenerIndex</string>
+	<key>substantialInteger</key>
+	<string>canSerializeHeap</string>
+</dict>
+</plist>

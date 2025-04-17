@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheborder</key>
+	<string>prepareMovement</string>
+	<key>intuitiveclipperleft</key>
+	<string>emitException</string>
+	<key>listenertail</key>
+	<string>sizedetector</string>
+	<key>projectionContrast</key>
+	<string>cubeStage</string>
+	<key>resumeprecision</key>
+	<string>bundlenotifier</string>
+	<key>segmentschema</key>
+	<string>repositoryAlignment</string>
+	<key>strokeTop</key>
+	<string>accessoryTier</string>
+	<key>uniformExtension</key>
+	<string>unmountFragment</string>
+</dict>
+</plist>

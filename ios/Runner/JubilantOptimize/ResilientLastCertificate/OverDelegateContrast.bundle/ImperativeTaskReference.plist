@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseRemainder</key>
+	<string>pausedialogs</string>
+	<key>desktopTask</key>
+	<string>polyfilltail</string>
+	<key>oldDispatcher</key>
+	<string>positionformresponse</string>
+	<key>pageviewdecoration</key>
+	<string>traversalInset</string>
+	<key>shouldRenderNavigation</key>
+	<string>mountBox</string>
+	<key>shouldYieldOperation</key>
+	<string>fillIsolate</string>
+</dict>
+</plist>

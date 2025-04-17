@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticHead</key>
+	<string>immediateManager</string>
+	<key>connecteffect</key>
+	<string>pushCache</string>
+	<key>customizedConstant</key>
+	<string>geometricModal</string>
+	<key>directlyConsumer</key>
+	<string>canCancelCompletion</string>
+	<key>interactivePager</key>
+	<string>shouldDispatchNib</string>
+	<key>intermediateEvolution</key>
+	<string>shouldcontinueproject</string>
+	<key>pagerInteraction</key>
+	<string>managerTint</string>
+	<key>textureOpacity</key>
+	<string>seekController</string>
+	<key>typicalMediaQuery</key>
+	<string>extensionPressure</string>
+	<key>visibleResilience</key>
+	<string>shouldCancelSpine</string>
+</dict>
+</plist>

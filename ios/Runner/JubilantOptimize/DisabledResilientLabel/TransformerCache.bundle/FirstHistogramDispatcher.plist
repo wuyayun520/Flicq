@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveTransition</key>
+	<string>coordinatorBound</string>
+	<key>concreteChart</key>
+	<string>restoreTransition</string>
+	<key>greatDispatcher</key>
+	<string>draggableActivity</string>
+	<key>positionedTheme</key>
+	<string>canObservePositioned</string>
+	<key>uniformreliability</key>
+	<string>swiftNumber</string>
+</dict>
+</plist>

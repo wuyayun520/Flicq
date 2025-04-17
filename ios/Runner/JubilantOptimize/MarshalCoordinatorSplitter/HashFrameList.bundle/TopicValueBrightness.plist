@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackDelay</key>
+	<string>missedOffset</string>
+	<key>configurationspeed</key>
+	<string>canUpdateSkin</string>
+	<key>mainTopic</key>
+	<string>meshcenter</string>
+	<key>sizedboxparamspacing</key>
+	<string>granularCollection</string>
+	<key>sortedReliability</key>
+	<string>intermediateGestureDetector</string>
+	<key>unaryTheme</key>
+	<string>completerRotation</string>
+	<key>usedGrain</key>
+	<string>canRenderNotification</string>
+</dict>
+</plist>

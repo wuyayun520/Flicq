@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCard</key>
+	<string>canPersistWidget</string>
+	<key>previewflyweightbottom</key>
+	<string>shouldStreamDuration</string>
+	<key>reductionFlags</key>
+	<string>associateManager</string>
+	<key>requestDepth</key>
+	<string>symmetricTrigger</string>
+	<key>shouldresumedecoration</key>
+	<string>aspectvisibility</string>
+</dict>
+</plist>

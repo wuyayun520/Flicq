@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryColor</key>
+	<string>publicColumn</string>
+	<key>activatedEvaluation</key>
+	<string>stopDrawer</string>
+	<key>futurePressure</key>
+	<string>traintangent</string>
+	<key>instructionInterval</key>
+	<string>curveFlyweight</string>
+	<key>keyGraphic</key>
+	<string>inactiveCube</string>
+	<key>skinValidation</key>
+	<string>mainCompletion</string>
+</dict>
+</plist>

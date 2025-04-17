@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioforce</key>
+	<string>finishalpha</string>
+	<key>constraintEdge</key>
+	<string>positionfinder</string>
+	<key>consumerVisibility</key>
+	<string>bufferPlatform</string>
+	<key>discardedPager</key>
+	<string>diversifiedDelivery</string>
+	<key>shouldParseAxis</key>
+	<string>standalonetexture</string>
+	<key>shouldPresentAlert</key>
+	<string>connectSession</string>
+	<key>shouldSetStateSample</key>
+	<string>selectedskirt</string>
+	<key>shouldStreamSession</key>
+	<string>pinchableStateful</string>
+	<key>trajectoryedge</key>
+	<string>profileStatus</string>
+</dict>
+</plist>

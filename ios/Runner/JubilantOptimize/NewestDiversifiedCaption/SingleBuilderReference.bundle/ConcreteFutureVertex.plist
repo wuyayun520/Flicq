@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRate</key>
+	<string>eventAcceleration</string>
+	<key>asyncMomentum</key>
+	<string>singleSubscription</string>
+	<key>equipmentbeyondtier</key>
+	<string>listenbuffer</string>
+	<key>functionalSegment</key>
+	<string>shouldConnectStoryboard</string>
+	<key>promiseVelocity</key>
+	<string>associatedBuilder</string>
+	<key>reactiveCache</key>
+	<string>beginnerCycle</string>
+	<key>resumealpha</key>
+	<string>replicateButton</string>
+	<key>robustActivity</key>
+	<string>revisitResource</string>
+	<key>shouldShowActivity</key>
+	<string>customthreshold</string>
+	<key>similarDimension</key>
+	<string>selectedDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectordirection</key>
+	<string>interactorvisibility</string>
+	<key>liteOptimizer</key>
+	<string>encodeSink</string>
+	<key>localstreammargin</key>
+	<string>shouldCreateProfile</string>
+	<key>lostMerger</key>
+	<string>permissiveEntropy</string>
+	<key>menuhead</key>
+	<string>initializePlayback</string>
+	<key>readlabel</key>
+	<string>subtleColumn</string>
+	<key>reducercommandacceleration</key>
+	<string>wrapperbottom</string>
+	<key>replaceutil</key>
+	<string>masterNumber</string>
+	<key>shouldRouteCanvas</key>
+	<string>pinchableResource</string>
+	<key>sizedboxOrigin</key>
+	<string>setstateSpine</string>
+</dict>
+</plist>

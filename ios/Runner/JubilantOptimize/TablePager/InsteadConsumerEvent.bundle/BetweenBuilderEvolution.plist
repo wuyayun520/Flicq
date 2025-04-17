@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftchannel</key>
+	<string>standaloneDependency</string>
+	<key>handledialogs</key>
+	<string>mapPadding</string>
+	<key>ignoredTitle</key>
+	<string>layerValue</string>
+	<key>visiblecoordinator</key>
+	<string>imperativeWorkflow</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonOffset</key>
+	<string>tabbaracceleration</string>
+	<key>defaultbox</key>
+	<string>apertureDuration</string>
+	<key>deferredConvolution</key>
+	<string>paddingOffset</string>
+	<key>latencyForce</key>
+	<string>secondController</string>
+	<key>persistentSearcher</key>
+	<string>shouldLayoutRadio</string>
+	<key>setstatemap</key>
+	<string>multiplicationLevel</string>
+	<key>stepForce</key>
+	<string>shouldCancelDialogs</string>
+	<key>substantialClipper</key>
+	<string>readTransformer</string>
+	<key>synchronousLifecycle</key>
+	<string>partitionRouter</string>
+</dict>
+</plist>

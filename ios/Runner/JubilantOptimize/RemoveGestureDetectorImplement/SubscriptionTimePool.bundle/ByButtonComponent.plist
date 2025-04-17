@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeBox</key>
+	<string>completionatcycle</string>
+	<key>clipperTint</key>
+	<string>pivotalNavigator</string>
+	<key>elasticFilter</key>
+	<string>accordionRequest</string>
+	<key>embraceroute</key>
+	<string>popButton</string>
+	<key>mobileConfiguration</key>
+	<string>currentcupertino</string>
+	<key>navigationintensity</key>
+	<string>canPauseBehavior</string>
+	<key>numericalWidget</key>
+	<string>sustainableConnector</string>
+	<key>roleTint</key>
+	<string>keepDrawer</string>
+	<key>scaffoldVisibility</key>
+	<string>dropoutScene</string>
+	<key>spriteContrast</key>
+	<string>sceneuntilvisitor</string>
+</dict>
+</plist>

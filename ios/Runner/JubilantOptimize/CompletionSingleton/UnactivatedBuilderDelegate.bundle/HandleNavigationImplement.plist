@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultgesturedetector</key>
+	<string>scrollableSprite</string>
+	<key>directlyLoop</key>
+	<string>metadataformrate</string>
+	<key>gridDuration</key>
+	<string>tappableprotocol</string>
+	<key>interactivecoordinatorposition</key>
+	<string>shouldPaintGrayscale</string>
+	<key>menubridgestyle</key>
+	<string>similarAnimation</string>
+</dict>
+</plist>

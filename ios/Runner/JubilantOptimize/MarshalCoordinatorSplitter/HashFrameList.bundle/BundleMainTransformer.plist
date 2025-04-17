@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorBehavior</key>
+	<string>reactivePresenter</string>
+	<key>buttongroup</key>
+	<string>canMountDescriptor</string>
+	<key>comprehensiveNib</key>
+	<string>marshalPreview</string>
+	<key>keyStore</key>
+	<string>textureLeft</string>
+	<key>lastmetadataacceleration</key>
+	<string>axisOpacity</string>
+	<key>signaturevalidation</key>
+	<string>textvideo</string>
+	<key>synchronousAsync</key>
+	<string>delegatemargin</string>
+	<key>synchronousPager</key>
+	<string>movementSkewY</string>
+	<key>temporaryLayout</key>
+	<string>brushBound</string>
+</dict>
+</plist>

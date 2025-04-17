@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constructanimation</key>
+	<string>ascentorientation</string>
+	<key>groupdepth</key>
+	<string>canReplaceGradient</string>
+	<key>invisibleLifecycle</key>
+	<string>inheritedRow</string>
+	<key>localizationbyform</key>
+	<string>materialNotation</string>
+	<key>menuResponse</key>
+	<string>loaderDuration</string>
+	<key>opaqueZone</key>
+	<string>declarativetoolskewy</string>
+	<key>positionedtransition</key>
+	<string>respectiveTaxonomy</string>
+	<key>shouldRebuildNotification</key>
+	<string>semanticPosition</string>
+	<key>zoneworkindex</key>
+	<string>endCell</string>
+</dict>
+</plist>

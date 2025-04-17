@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentParticle</key>
+	<string>controllerSingleton</string>
+	<key>draggableintegerdelay</key>
+	<string>greatInteger</string>
+	<key>immediateDependency</key>
+	<string>mendSkewY</string>
+	<key>opaqueequalizationresponse</key>
+	<string>unactivatedScenario</string>
+	<key>responsiveSubscription</key>
+	<string>symbolversusmediator</string>
+	<key>shouldCreateGridView</key>
+	<string>statefulAnimator</string>
+	<key>smartScreen</key>
+	<string>desktopSwift</string>
+</dict>
+</plist>

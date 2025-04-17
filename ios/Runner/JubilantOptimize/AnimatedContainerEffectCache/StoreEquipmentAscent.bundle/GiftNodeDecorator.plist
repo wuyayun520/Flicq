@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDispatcher</key>
+	<string>shouldCancelFlex</string>
+	<key>geometricScenario</key>
+	<string>subsequentSprite</string>
+	<key>materialprovideropacity</key>
+	<string>batchVelocity</string>
+	<key>shapeAppearance</key>
+	<string>musicreceiver</string>
+	<key>singletonTension</key>
+	<string>iterativebuffermode</string>
+	<key>synchronousCompleter</key>
+	<string>iterativeChooser</string>
+</dict>
+</plist>

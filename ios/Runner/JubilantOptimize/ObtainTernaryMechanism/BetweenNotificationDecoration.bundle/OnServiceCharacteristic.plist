@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryRotation</key>
+	<string>keyLoss</string>
+	<key>constraintAcceleration</key>
+	<string>autoDetector</string>
+	<key>mediocrePageView</key>
+	<string>encapsulateAnimation</string>
+	<key>nextSizedBox</key>
+	<string>canMountIcon</string>
+	<key>pivotalPicker</key>
+	<string>independentCursor</string>
+	<key>reducespecifier</key>
+	<string>futureformat</string>
+	<key>requiredExponent</key>
+	<string>projectamongtype</string>
+	<key>subsequentCatalyst</key>
+	<string>serializeInteger</string>
+</dict>
+</plist>

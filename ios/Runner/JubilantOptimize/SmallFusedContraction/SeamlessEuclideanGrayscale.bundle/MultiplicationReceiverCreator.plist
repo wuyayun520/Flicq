@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedsliderfeedback</key>
+	<string>vertexDepth</string>
+	<key>channelsStatus</key>
+	<string>requestTransparency</string>
+	<key>respectivedurationtheme</key>
+	<string>opaquePreview</string>
+	<key>shouldDecodeChannels</key>
+	<string>beginnerColumn</string>
+	<key>shouldRebuildWidget</key>
+	<string>typicalInteger</string>
+	<key>spriteCoord</key>
+	<string>permanentBuilder</string>
+	<key>transitionHue</key>
+	<string>prevFilter</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatesingletonshade</key>
+	<string>behaviorWork</string>
+	<key>displayableprocessor</key>
+	<string>localDelivery</string>
+	<key>fetchobserver</key>
+	<string>enhanceState</string>
+	<key>respectiveConsumption</key>
+	<string>serializeReference</string>
+	<key>roleTransparency</key>
+	<string>iterativeBullet</string>
+	<key>screenSpeed</key>
+	<string>shouldPushCanvas</string>
+	<key>shouldStreamSkirt</key>
+	<string>notifypadding</string>
+	<key>shouldUnbindRole</key>
+	<string>mediumError</string>
+	<key>tappableGrid</key>
+	<string>lastVariant</string>
+	<key>unmountedbitrate</key>
+	<string>shouldSetStateProfile</string>
+</dict>
+</plist>

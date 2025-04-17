@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderstyle</key>
+	<string>concurrentResult</string>
+	<key>commonTask</key>
+	<string>asynchronousDrawer</string>
+	<key>durationInset</key>
+	<string>shouldPauseDropdownButton</string>
+	<key>geometricVolume</key>
+	<string>remainderScope</string>
+	<key>hierarchicalSensor</key>
+	<string>canPaintGestureDetector</string>
+	<key>priorityOpacity</key>
+	<string>locatePopup</string>
+	<key>retainedUsage</key>
+	<string>wrapService</string>
+	<key>shouldPresentColumn</key>
+	<string>shouldRenderGridView</string>
+	<key>shouldProcessMaster</key>
+	<string>greatContainer</string>
+	<key>shouldpublishstateless</key>
+	<string>tweenTransparency</string>
+</dict>
+</plist>

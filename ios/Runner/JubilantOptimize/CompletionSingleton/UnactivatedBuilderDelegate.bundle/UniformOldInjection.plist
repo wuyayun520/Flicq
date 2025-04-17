@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileGraphic</key>
+	<string>transformerFeedback</string>
+	<key>dedicatedDescriptor</key>
+	<string>unbindView</string>
+	<key>difficultstream</key>
+	<string>listenActivity</string>
+	<key>handlerBehavior</key>
+	<string>canMountedNavigator</string>
+	<key>lostResponse</key>
+	<string>presenterJob</string>
+	<key>segueindex</key>
+	<string>equalizationCycle</string>
+	<key>spottag</key>
+	<string>labelColor</string>
+	<key>subsequentFragment</key>
+	<string>canShowTransition</string>
+	<key>toolbound</key>
+	<string>persistentTween</string>
+</dict>
+</plist>

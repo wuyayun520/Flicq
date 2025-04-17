@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledExpanded</key>
+	<string>multiLatency</string>
+	<key>equipmentrate</key>
+	<string>reactiveButton</string>
+	<key>gridStyle</key>
+	<string>paintCertificate</string>
+	<key>normalRestriction</key>
+	<string>gestureBridge</string>
+	<key>respectiveMesh</key>
+	<string>isLayout</string>
+	<key>specifierSize</key>
+	<string>canBindInteger</string>
+	<key>staticCertificate</key>
+	<string>sinkTheme</string>
+	<key>sustainableRow</key>
+	<string>operationRate</string>
+</dict>
+</plist>

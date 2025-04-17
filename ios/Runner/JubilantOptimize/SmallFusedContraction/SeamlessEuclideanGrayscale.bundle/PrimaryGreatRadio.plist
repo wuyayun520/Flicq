@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintType</key>
+	<string>declarativeTimeline</string>
+	<key>dismissutil</key>
+	<string>keepcatalyst</string>
+	<key>oldDuration</key>
+	<string>globalLocalization</string>
+	<key>relationalOffset</key>
+	<string>usedSlash</string>
+	<key>shouldFinishLoss</key>
+	<string>imperativeReducer</string>
+	<key>smallShader</key>
+	<string>shouldMountOperation</string>
+	<key>triggerLeft</key>
+	<string>missedAnalyzer</string>
+	<key>yieldsession</key>
+	<string>erasesize</string>
+</dict>
+</plist>

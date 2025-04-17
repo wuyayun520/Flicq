@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionAcceleration</key>
+	<string>navigateMember</string>
+	<key>interactivePlate</key>
+	<string>asynchronousIcon</string>
+	<key>mediumFrame</key>
+	<string>bufferCenter</string>
+	<key>multiRadius</key>
+	<string>errorTint</string>
+	<key>oldNode</key>
+	<string>singletonTheme</string>
+	<key>prismaticSearcher</key>
+	<string>eagerAnalogy</string>
+</dict>
+</plist>

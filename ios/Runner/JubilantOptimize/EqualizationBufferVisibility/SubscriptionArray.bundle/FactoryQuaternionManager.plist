@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardframetheme</key>
+	<string>vectorLeft</string>
+	<key>interfacetypeinteraction</key>
+	<string>nextRect</string>
+	<key>queueprocessor</key>
+	<string>shouldStreamButton</string>
+	<key>shouldFinishSymbol</key>
+	<string>mapperPadding</string>
+	<key>shouldFormatCard</key>
+	<string>synchronizeInteractor</string>
+	<key>shouldUnmountTangent</key>
+	<string>clearZone</string>
+	<key>taxonomySkewY</key>
+	<string>largeNotifier</string>
+</dict>
+</plist>

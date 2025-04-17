@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianInfrastructure</key>
+	<string>autoScroll</string>
+	<key>cartesianTouch</key>
+	<string>sequentialLinker</string>
+	<key>crucialEfficiency</key>
+	<string>permutationColor</string>
+	<key>crudeLinker</key>
+	<string>canPublishStateful</string>
+	<key>denseZone</key>
+	<string>priorLatency</string>
+	<key>hardMediaQuery</key>
+	<string>diversifiedFactory</string>
+	<key>intermediateSingleton</key>
+	<string>interactionSkewX</string>
+	<key>remediationInterval</key>
+	<string>initializeOptimizer</string>
+	<key>shouldAnimateCupertino</key>
+	<string>textfieldAlignment</string>
+	<key>strokeType</key>
+	<string>semanticsKind</string>
+</dict>
+</plist>

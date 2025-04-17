@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInitiative</key>
+	<string>mediaNumber</string>
+	<key>disabledStore</key>
+	<string>isSegue</string>
+	<key>explicitDescriptor</key>
+	<string>shouldValidateScale</string>
+	<key>largeGrain</key>
+	<string>alertSingleton</string>
+	<key>nativeError</key>
+	<string>transpileCompleter</string>
+	<key>savestoryboard</key>
+	<string>concreteResilience</string>
+</dict>
+</plist>

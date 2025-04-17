@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedFragment</key>
+	<string>converterrate</string>
+	<key>indicatoropacity</key>
+	<string>graindirection</string>
+	<key>providermementotag</key>
+	<string>canCancelProject</string>
+	<key>shouldFinishProject</key>
+	<string>slidertag</string>
+	<key>statefulScreen</key>
+	<string>shouldFinishDropdownButton</string>
+	<key>symmetricCosine</key>
+	<string>equipmentTension</string>
+</dict>
+</plist>

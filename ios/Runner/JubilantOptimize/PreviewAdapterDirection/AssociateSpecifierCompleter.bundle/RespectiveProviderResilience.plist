@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateDelivery</key>
+	<string>canUnmountedPoint</string>
+	<key>diffableCompletion</key>
+	<string>mountObserver</string>
+	<key>disparateeffectbound</key>
+	<string>canLoadStack</string>
+	<key>pointmapper</key>
+	<string>unscheduleUseCase</string>
+	<key>statefulpertype</key>
+	<string>prepareBehavior</string>
+	<key>uniqueTween</key>
+	<string>compositionalMapper</string>
+</dict>
+</plist>

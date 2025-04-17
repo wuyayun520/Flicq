@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactStyle</key>
+	<string>annotatemember</string>
+	<key>sortedMaterial</key>
+	<string>webEffect</string>
+	<key>temporaryThread</key>
+	<string>shouldNavigateCache</string>
+	<key>validateoption</key>
+	<string>repositorylistener</string>
+</dict>
+</plist>

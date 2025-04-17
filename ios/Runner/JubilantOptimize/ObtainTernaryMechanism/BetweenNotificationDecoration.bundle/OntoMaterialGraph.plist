@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasOrigin</key>
+	<string>localOccasion</string>
+	<key>checklistShape</key>
+	<string>joinerTransparency</string>
+	<key>shouldPauseSkin</key>
+	<string>replaceChecklist</string>
+	<key>taskdirection</key>
+	<string>cycleAction</string>
+	<key>viewKind</key>
+	<string>elasticresolver</string>
+</dict>
+</plist>

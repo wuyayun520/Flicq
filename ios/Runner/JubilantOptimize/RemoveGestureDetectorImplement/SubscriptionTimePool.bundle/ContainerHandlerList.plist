@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindanimation</key>
+	<string>compositionalSlash</string>
+	<key>groupthroughkind</key>
+	<string>shouldSerializeShader</string>
+	<key>ignoredBinder</key>
+	<string>appendInteractor</string>
+	<key>informationHead</key>
+	<string>metadatapadding</string>
+	<key>listentitle</key>
+	<string>drawLayer</string>
+	<key>notificationsaturation</key>
+	<string>shearTexture</string>
+	<key>seamlessComposition</key>
+	<string>disconnectunary</string>
+	<key>shouldSkipOption</key>
+	<string>shouldLoadBase</string>
+</dict>
+</plist>

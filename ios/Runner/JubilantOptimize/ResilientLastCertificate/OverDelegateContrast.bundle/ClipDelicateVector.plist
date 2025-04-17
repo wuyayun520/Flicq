@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixedCertificate</key>
+	<string>arithmeticNavigator</string>
+	<key>intermediateAlignment</key>
+	<string>statelessbound</string>
+	<key>metadataOrigin</key>
+	<string>observerLocation</string>
+	<key>restrictionRotation</key>
+	<string>lazyAlpha</string>
+	<key>setuprequest</key>
+	<string>richtexttag</string>
+	<key>transitionscene</key>
+	<string>baselineorinterpreter</string>
+	<key>typicalstepduration</key>
+	<string>notificationmethodscale</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTool</key>
+	<string>equivalentName</string>
+	<key>efficiencyInterval</key>
+	<string>accordionScaffold</string>
+	<key>movementtrajectory</key>
+	<string>captionbyprototype</string>
+	<key>shouldSaveTextField</key>
+	<string>resourceborder</string>
+	<key>sortedEffect</key>
+	<string>canShowBinary</string>
+	<key>streamparamdelay</key>
+	<string>canFinishBullet</string>
+	<key>subtleMission</key>
+	<string>endSession</string>
+</dict>
+</plist>

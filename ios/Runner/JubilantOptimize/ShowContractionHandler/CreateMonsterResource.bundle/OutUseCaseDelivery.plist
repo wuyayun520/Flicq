@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExponent</key>
+	<string>shouldRebuildTask</string>
+	<key>inheritedResult</key>
+	<string>originalNode</string>
+	<key>mobileElasticity</key>
+	<string>globalConsumption</string>
+	<key>robustbaselinestyle</key>
+	<string>canDispatchLog</string>
+	<key>shouldTransitionChannels</key>
+	<string>canStreamBitrate</string>
+	<key>statefulCharacter</key>
+	<string>tensorProfile</string>
+	<key>sustainableStack</key>
+	<string>toolTop</string>
+	<key>viewTransparency</key>
+	<string>captionShade</string>
+</dict>
+</plist>

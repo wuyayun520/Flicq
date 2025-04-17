@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableConverter</key>
+	<string>typicalSizedBox</string>
+	<key>easyLocalization</key>
+	<string>semanticsDistance</string>
+	<key>symmetricConverter</key>
+	<string>completerrate</string>
+	<key>transitionslider</key>
+	<string>missedRadio</string>
+</dict>
+</plist>

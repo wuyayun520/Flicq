@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableChannels</key>
+	<string>adaptiveRange</string>
+	<key>detectorShade</key>
+	<string>autoVolume</string>
+	<key>elasticStatus</key>
+	<string>rotateException</string>
+	<key>precisionFormat</key>
+	<string>radiusBuffer</string>
+	<key>shouldYieldPoint</key>
+	<string>retainedPosition</string>
+	<key>startresult</key>
+	<string>basicManager</string>
+	<key>taskaboutcommand</key>
+	<string>appbarOpacity</string>
+	<key>typicalTextField</key>
+	<string>hierarchicalRange</string>
+</dict>
+</plist>

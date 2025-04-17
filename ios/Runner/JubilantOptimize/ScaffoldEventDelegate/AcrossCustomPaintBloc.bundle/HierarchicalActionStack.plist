@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousoption</key>
+	<string>standaloneGraph</string>
+	<key>cardusecase</key>
+	<string>gateLayer</string>
+	<key>custompaintstructurecenter</key>
+	<string>independentAccessory</string>
+	<key>dedicatedTool</key>
+	<string>firstReceiver</string>
+	<key>gramactiontag</key>
+	<string>publicConsumption</string>
+	<key>greatMethod</key>
+	<string>pushPrecision</string>
+	<key>intermediateTable</key>
+	<string>momentumdelay</string>
+	<key>similarScale</key>
+	<string>lockNavigator</string>
+	<key>smallNib</key>
+	<string>defaultbutton</string>
+</dict>
+</plist>

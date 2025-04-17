@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fixeddropdownbutton</key>
+	<string>skininterpretername</string>
+	<key>mainAlert</key>
+	<string>canRestartAperture</string>
+	<key>rendererScale</key>
+	<string>segueSpeed</string>
+	<key>shouldRouteBuilder</key>
+	<string>fetchBorder</string>
+</dict>
+</plist>

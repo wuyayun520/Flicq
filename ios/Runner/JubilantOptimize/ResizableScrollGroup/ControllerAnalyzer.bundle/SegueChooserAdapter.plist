@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachpoint</key>
+	<string>disparateMedia</string>
+	<key>interactorlayerresponse</key>
+	<string>insteadService</string>
+	<key>loaderContrast</key>
+	<string>eagerSelector</string>
+	<key>normalmanager</key>
+	<string>firstTechnique</string>
+	<key>rapidSpine</key>
+	<string>canDismissTechnique</string>
+	<key>shouldLayoutProtocol</key>
+	<string>constructService</string>
+	<key>shouldPaintCache</key>
+	<string>offsetOffset</string>
+	<key>smallObject</key>
+	<string>quantizationHandler</string>
+</dict>
+</plist>

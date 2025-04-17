@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalProvision</key>
+	<string>shouldPushDocument</string>
+	<key>greatResult</key>
+	<string>webWrapper</string>
+	<key>mediaRate</key>
+	<string>equalGraph</string>
+	<key>newestLabel</key>
+	<string>canContinueMission</string>
+	<key>resultwithtier</key>
+	<string>substantialsingleton</string>
+</dict>
+</plist>

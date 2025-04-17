@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMap</key>
+	<string>tensorPageView</string>
+	<key>drawinterpolation</key>
+	<string>customizedNotation</string>
+	<key>nextChecklist</key>
+	<string>declarativemodel</string>
+	<key>popupskewx</key>
+	<string>gesturedetectorDensity</string>
+	<key>primaryInformation</key>
+	<string>concurrentManager</string>
+	<key>shouldprocesscontroller</key>
+	<string>shouldRebuildStateless</string>
+	<key>synchronousTimer</key>
+	<string>sophisticatedListView</string>
+</dict>
+</plist>

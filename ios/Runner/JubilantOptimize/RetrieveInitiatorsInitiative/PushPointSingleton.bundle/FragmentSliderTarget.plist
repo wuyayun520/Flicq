@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyCompleter</key>
+	<string>navigateSession</string>
+	<key>elasticityShade</key>
+	<string>monstervisibility</string>
+	<key>impressionKind</key>
+	<string>cacheAnimatedContainer</string>
+	<key>resilienceInterval</key>
+	<string>intuitiveInteraction</string>
+	<key>shouldAnimateUnary</key>
+	<string>cloneTransformer</string>
+	<key>shouldPersistCheckbox</key>
+	<string>stringifyAction</string>
+	<key>shouldRenderStateful</key>
+	<string>measureTween</string>
+	<key>shouldUnmountPriority</key>
+	<string>materialConstraint</string>
+	<key>staticGift</key>
+	<string>publicCertificate</string>
+</dict>
+</plist>

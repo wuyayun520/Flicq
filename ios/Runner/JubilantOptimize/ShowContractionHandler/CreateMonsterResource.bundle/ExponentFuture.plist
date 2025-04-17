@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionSkin</key>
+	<string>newestnavigatorcount</string>
+	<key>animatedThroughput</key>
+	<string>smallGrid</string>
+	<key>desktopCallback</key>
+	<string>persistentSink</string>
+	<key>ignoredMaterial</key>
+	<string>euclideantransformer</string>
+	<key>inheritedBandwidth</key>
+	<string>multiCanvas</string>
+	<key>normalMerger</key>
+	<string>missionMediator</string>
+	<key>sequentialMusic</key>
+	<string>intermediateSkin</string>
+	<key>shouldSerializeEntropy</key>
+	<string>sizedboxTail</string>
+</dict>
+</plist>

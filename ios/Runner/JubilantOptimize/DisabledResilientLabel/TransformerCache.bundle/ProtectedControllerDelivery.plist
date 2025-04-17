@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardReducer</key>
+	<string>maxUnary</string>
+	<key>cardDepth</key>
+	<string>shouldCancelSkirt</string>
+	<key>cubescope</key>
+	<string>composableSensor</string>
+	<key>easyStack</key>
+	<string>associatedZone</string>
+	<key>permanentArithmetic</key>
+	<string>wrapSink</string>
+	<key>popupaboutnumber</key>
+	<string>shouldTransformAxis</string>
+	<key>referenceobserver</key>
+	<string>explicitIndicator</string>
+	<key>writetechnique</key>
+	<string>attachRichText</string>
+</dict>
+</plist>

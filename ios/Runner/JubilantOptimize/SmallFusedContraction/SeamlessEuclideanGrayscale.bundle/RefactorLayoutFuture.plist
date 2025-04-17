@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinostream</key>
+	<string>similartimer</string>
+	<key>enabledCupertino</key>
+	<string>mountBase</string>
+	<key>intermediateEffect</key>
+	<string>storethroughwork</string>
+	<key>rangeInteraction</key>
+	<string>concatenateInterface</string>
+	<key>schedulervisible</key>
+	<string>agileSize</string>
+	<key>servicecontextalignment</key>
+	<string>startAppBar</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationRate</key>
+	<string>respectiveColumn</string>
+	<key>appbarparameterspacing</key>
+	<string>graphicprovider</string>
+	<key>detectorpressure</key>
+	<string>independentArithmetic</string>
+	<key>interactiveScope</key>
+	<string>collectioninjection</string>
+	<key>serializedelegate</key>
+	<string>poolPosition</string>
+	<key>shouldContinueGem</key>
+	<string>shouldTransformDocument</string>
+	<key>shouldEndCustomPaint</key>
+	<string>shouldPersistChallenge</string>
+	<key>usageStyle</key>
+	<string>clearGrain</string>
+</dict>
+</plist>

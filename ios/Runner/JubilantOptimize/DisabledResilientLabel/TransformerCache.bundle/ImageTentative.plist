@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionamonglevel</key>
+	<string>schedulerType</string>
+	<key>delegatefuture</key>
+	<string>loopVar</string>
+	<key>hardChecklist</key>
+	<string>grainPattern</string>
+	<key>layoutOffset</key>
+	<string>infoSpacing</string>
+	<key>otherStatus</key>
+	<string>compositionalScope</string>
+	<key>reactiveIntegration</key>
+	<string>significantSingleton</string>
+	<key>shouldFetchLabel</key>
+	<string>kernelCenter</string>
+	<key>smartstoryboard</key>
+	<string>touchTopic</string>
+	<key>tappableConfiguration</key>
+	<string>mergerInteraction</string>
+</dict>
+</plist>

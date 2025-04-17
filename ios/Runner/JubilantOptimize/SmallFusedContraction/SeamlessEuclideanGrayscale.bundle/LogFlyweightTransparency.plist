@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeMaster</key>
+	<string>holdListener</string>
+	<key>customListener</key>
+	<string>yieldMediaQuery</string>
+	<key>dedicatedshape</key>
+	<string>batchProcess</string>
+	<key>effectposition</key>
+	<string>axisPlatform</string>
+	<key>tabbarmediatoroffset</key>
+	<string>creatorMode</string>
+	<key>textslider</key>
+	<string>writeOffset</string>
+	<key>touchrenderer</key>
+	<string>upgradeTicker</string>
+	<key>typicalDescriptor</key>
+	<string>hasSensor</string>
+</dict>
+</plist>

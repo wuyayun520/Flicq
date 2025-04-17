@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnimator</key>
+	<string>wrapperResponse</string>
+	<key>colorLocation</key>
+	<string>decodeTangent</string>
+	<key>matrixvisitorbrightness</key>
+	<string>positionedduration</string>
+	<key>priorBuffer</key>
+	<string>requiredResolver</string>
+	<key>sequentialCallback</key>
+	<string>robustFilter</string>
+	<key>shouldNavigateFlex</key>
+	<string>graphicAlignment</string>
+	<key>specifierTint</key>
+	<string>shouldRenderAccessory</string>
+	<key>subsequentCupertino</key>
+	<string>iterativeDelegate</string>
+	<key>syncsession</key>
+	<string>mechanismCount</string>
+	<key>tappableDescent</key>
+	<string>appendContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>operationTheme</key>
+	<string>mobileModulus</string>
+	<key>overlayHue</key>
+	<string>resultinsidejob</string>
+	<key>responsivemodule</key>
+	<string>intuitiveMatrix</string>
+	<key>shadername</key>
+	<string>commonusage</string>
+	<key>skirtprocessstyle</key>
+	<string>customBoxShadow</string>
+</dict>
+</plist>

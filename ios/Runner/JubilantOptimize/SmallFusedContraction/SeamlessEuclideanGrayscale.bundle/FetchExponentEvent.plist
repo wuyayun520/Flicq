@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeProject</key>
+	<string>processorScale</string>
+	<key>appendcontainer</key>
+	<string>shouldCreateKernel</string>
+	<key>groupacceleration</key>
+	<string>permissiveAnalyzer</string>
+	<key>lastDetector</key>
+	<string>inactiveCheckbox</string>
+	<key>shouldDetachGrayscale</key>
+	<string>routeNotifier</string>
+	<key>shouldProcessPainter</key>
+	<string>replaceScaffold</string>
+	<key>sortedradius</key>
+	<string>cartesianTween</string>
+	<key>visualizepreview</key>
+	<string>ignoredFlex</string>
+</dict>
+</plist>

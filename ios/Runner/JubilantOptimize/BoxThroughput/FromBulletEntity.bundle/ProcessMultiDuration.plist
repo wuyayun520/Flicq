@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeFlex</key>
+	<string>annotateError</string>
+	<key>methodexceptenvironment</key>
+	<string>sharedaspect</string>
+	<key>multiTweak</key>
+	<string>brushKind</string>
+	<key>protectedPermutation</key>
+	<string>shouldHandleTheme</string>
+	<key>shouldPushCapacities</key>
+	<string>adaptiveFeature</string>
+	<key>switchDistance</key>
+	<string>adaptiveConsumption</string>
+	<key>threadAppearance</key>
+	<string>retainedscreenspeed</string>
+</dict>
+</plist>

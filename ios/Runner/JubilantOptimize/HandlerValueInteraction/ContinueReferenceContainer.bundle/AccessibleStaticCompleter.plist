@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionDistance</key>
+	<string>groupCenter</string>
+	<key>createresource</key>
+	<string>retainentity</string>
+	<key>flexOpacity</key>
+	<string>transformscroll</string>
+	<key>injectionTop</key>
+	<string>interactorinset</string>
+	<key>liteFormat</key>
+	<string>persistintensity</string>
+</dict>
+</plist>

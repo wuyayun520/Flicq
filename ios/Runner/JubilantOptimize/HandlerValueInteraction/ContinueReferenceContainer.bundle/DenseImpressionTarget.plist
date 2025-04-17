@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisandvariable</key>
+	<string>canNavigateCatalyst</string>
+	<key>certificateVisible</key>
+	<string>symmetricExpanded</string>
+	<key>currentRouter</key>
+	<string>shouldCacheProject</string>
+	<key>dependencyvaluevelocity</key>
+	<string>handleprecision</string>
+	<key>fixedFactory</key>
+	<string>flexibleArithmetic</string>
+	<key>flexInterval</key>
+	<string>gridreplica</string>
+	<key>robustStamp</key>
+	<string>shouldFormatMonster</string>
+</dict>
+</plist>

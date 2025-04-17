@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackResponse</key>
+	<string>sliderBridge</string>
+	<key>containerawait</key>
+	<string>disparateThreshold</string>
+	<key>formatAlignment</key>
+	<string>shouldFinishCanvas</string>
+	<key>integrationHead</key>
+	<string>resumeChecklist</string>
+	<key>joinerOffset</key>
+	<string>shouldBindUnary</string>
+	<key>seamlessCache</key>
+	<string>discardedBuilder</string>
+	<key>semanticStoryboard</key>
+	<string>pivotalTicker</string>
+	<key>statefulCapacities</key>
+	<string>shouldBindView</string>
+</dict>
+</plist>

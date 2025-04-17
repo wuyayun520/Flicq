@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicvertex</key>
+	<string>otherMaster</string>
+	<key>modelbeyondobserver</key>
+	<string>skipInteger</string>
+	<key>pagerInterval</key>
+	<string>subsequentstatedepth</string>
+	<key>priorWrapper</key>
+	<string>interactivedependencylocation</string>
+	<key>reliabilityTransparency</key>
+	<string>mountedBrush</string>
+	<key>shouldConnectCoordinator</key>
+	<string>functionaloffsetspacing</string>
+	<key>shouldSubscribeSignature</key>
+	<string>creatorAppearance</string>
+	<key>shouldsavecache</key>
+	<string>robustSelector</string>
+	<key>specifierTag</key>
+	<string>imageAdapter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileShader</key>
+	<string>themeCoord</string>
+	<key>beginnerNorm</key>
+	<string>geometricSlider</string>
+	<key>cartesianimage</key>
+	<string>interpolationcurve</string>
+	<key>hierarchicalEquivalent</key>
+	<string>alphaColor</string>
+	<key>signstyle</key>
+	<string>synchronousTween</string>
+	<key>unactivatedNavigator</key>
+	<string>threadplatformmargin</string>
+</dict>
+</plist>

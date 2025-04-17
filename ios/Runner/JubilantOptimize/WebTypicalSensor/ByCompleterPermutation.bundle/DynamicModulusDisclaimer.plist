@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitsingletonhue</key>
+	<string>rotateNode</string>
+	<key>disabledReceiver</key>
+	<string>pivotalElement</string>
+	<key>enumerateradius</key>
+	<string>progressbarHead</string>
+	<key>gestureCenter</key>
+	<string>resilientcharacter</string>
+	<key>imperativeCompleter</key>
+	<string>shouldEncodeRole</string>
+	<key>overlayCenter</key>
+	<string>attachExtension</string>
+	<key>resilientProcessor</key>
+	<string>profileOpacity</string>
+	<key>sequentialRichText</key>
+	<string>fetchStoryboard</string>
+	<key>shouldUnbindSpot</key>
+	<string>shouldSaveInstruction</string>
+	<key>spotSkewX</key>
+	<string>themeHue</string>
+</dict>
+</plist>

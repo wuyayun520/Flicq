@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalshader</key>
+	<string>seamlessMethod</string>
+	<key>dependencycontroller</key>
+	<string>rendererForce</string>
+	<key>sequentialSample</key>
+	<string>disabledmethodvelocity</string>
+	<key>shouldDisposeAlpha</key>
+	<string>shouldStreamPainter</string>
+</dict>
+</plist>

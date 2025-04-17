@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedFuture</key>
+	<string>decodeMatrix</string>
+	<key>gestureDirection</key>
+	<string>multiLayer</string>
+	<key>protectedDecoration</key>
+	<string>specifierComposite</string>
+	<key>referencerenderer</key>
+	<string>layoutreplica</string>
+	<key>subscriptionDirection</key>
+	<string>observerSingleton</string>
+</dict>
+</plist>

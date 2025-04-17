@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryscroller</key>
+	<string>activeImpact</string>
+	<key>aspectratioRate</key>
+	<string>adaptiveDuration</string>
+	<key>detailMomentum</key>
+	<string>statelessWork</string>
+	<key>detailOrigin</key>
+	<string>protectedticker</string>
+	<key>documentobserver</key>
+	<string>gesturedetectorFlyweight</string>
+	<key>gesturedirection</key>
+	<string>pauseTangent</string>
+	<key>providechannel</key>
+	<string>canInflateAlpha</string>
+	<key>requestTension</key>
+	<string>canTransformReduction</string>
+	<key>sortedExtension</key>
+	<string>creatorStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMonster</key>
+	<string>shouldCacheInteger</string>
+	<key>granularImpact</key>
+	<string>shouldInflateCurve</string>
+	<key>grayscaleMode</key>
+	<string>concreteReducer</string>
+	<key>gridviewTransparency</key>
+	<string>canTrainProfile</string>
+	<key>intermediateInitiative</key>
+	<string>smartGrain</string>
+	<key>loaderCount</key>
+	<string>shouldValidateProtocol</string>
+	<key>materialBitrate</key>
+	<string>prevPlayback</string>
+	<key>sequentialPopup</key>
+	<string>canReplacePlate</string>
+	<key>statelessColor</key>
+	<string>grayscaleLayer</string>
+	<key>tappableAspectRatio</key>
+	<string>shouldFormatOverlay</string>
+</dict>
+</plist>

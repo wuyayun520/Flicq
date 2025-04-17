@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveIntegrity</key>
+	<string>navigationDepth</string>
+	<key>debugcycle</key>
+	<string>strokeMomentum</string>
+	<key>elasticWidget</key>
+	<string>crucialInteraction</string>
+	<key>mobileEntropy</key>
+	<string>canStopSlider</string>
+	<key>navigatorcontrast</key>
+	<string>diffableSubpixel</string>
+</dict>
+</plist>

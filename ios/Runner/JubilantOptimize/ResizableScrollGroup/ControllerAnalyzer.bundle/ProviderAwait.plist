@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaStyle</key>
+	<string>canSkipScale</string>
+	<key>dedicatedresponse</key>
+	<string>eagerCosine</string>
+	<key>flexiblemanagerspeed</key>
+	<string>actionMethod</string>
+	<key>fragmentContrast</key>
+	<string>activeFlex</string>
+	<key>imagePadding</key>
+	<string>canDisconnectMember</string>
+	<key>mediumScale</key>
+	<string>assetTail</string>
+	<key>sinktimeline</key>
+	<string>aggregateRoute</string>
+	<key>sizearounddecorator</key>
+	<string>tabviewgrain</string>
+</dict>
+</plist>

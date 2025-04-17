@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusteralignment</key>
+	<string>memberInterval</string>
+	<key>responseTail</key>
+	<string>resumeStep</string>
+	<key>semanticsdespiteframework</key>
+	<string>adaptiveText</string>
+</dict>
+</plist>

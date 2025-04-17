@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>resilientDependency</key>
+	<string>amortizationTail</string>
+	<key>shouldPersistRole</key>
+	<string>shouldLoadPoint</string>
+	<key>subpixelreliability</key>
+	<string>blocAppearance</string>
+	<key>uniformExpanded</key>
+	<string>shouldDetachEquipment</string>
+	<key>yieldoperation</key>
+	<string>mobileConsumer</string>
+</dict>
+</plist>

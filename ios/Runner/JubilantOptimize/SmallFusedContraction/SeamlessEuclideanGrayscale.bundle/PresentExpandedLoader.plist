@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellState</key>
+	<string>isLogarithm</string>
+	<key>filterState</key>
+	<string>musicgrain</string>
+	<key>globalImage</key>
+	<string>ascentStyle</string>
+	<key>inactiveController</key>
+	<string>canFetchCursor</string>
+	<key>respectiveColor</key>
+	<string>splitterfeedback</string>
+	<key>shouldMountController</key>
+	<string>shaderresponse</string>
+	<key>shouldUnbindCache</key>
+	<string>shouldNavigateAlpha</string>
+	<key>shouldserializebase</key>
+	<string>disparatestate</string>
+	<key>staticConsumption</key>
+	<string>bufferMemento</string>
+	<key>usedQuaternion</key>
+	<string>keyCatalyst</string>
+</dict>
+</plist>

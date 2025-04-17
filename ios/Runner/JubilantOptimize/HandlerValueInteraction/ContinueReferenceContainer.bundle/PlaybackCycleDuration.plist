@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerpresenter</key>
+	<string>offsetJob</string>
+	<key>grayscaleEdge</key>
+	<string>canResumeMedia</string>
+	<key>observeslash</key>
+	<string>webSlider</string>
+	<key>resizablePolyfill</key>
+	<string>toolMediator</string>
+</dict>
+</plist>

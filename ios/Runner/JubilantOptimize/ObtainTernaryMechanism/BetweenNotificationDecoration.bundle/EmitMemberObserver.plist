@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>labelStyle</key>
+	<string>particlenearadapter</string>
+	<key>linkerStatus</key>
+	<string>segmentContrast</string>
+	<key>scrollableMatrix</key>
+	<string>configurationProxy</string>
+	<key>statelessConnector</key>
+	<string>moduluscubit</string>
+	<key>sustainableCycle</key>
+	<string>canNotifyAnimatedContainer</string>
+	<key>sustainablePoint</key>
+	<string>synchronousNotation</string>
+	<key>tensorCapacities</key>
+	<string>canEmitAxis</string>
+</dict>
+</plist>

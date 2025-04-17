@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedGem</key>
+	<string>channelHue</string>
+	<key>discardedLoader</key>
+	<string>discoverQueue</string>
+	<key>isAnimation</key>
+	<string>fetchRoute</string>
+	<key>modulecolor</key>
+	<string>activatedSlider</string>
+	<key>relationalDropdownButton</key>
+	<string>escalateCoordinator</string>
+	<key>shouldNavigateAnimatedContainer</key>
+	<string>shouldAttachCaption</string>
+	<key>shouldSaveCharacter</key>
+	<string>keyInteger</string>
+	<key>shouldStartContainer</key>
+	<string>functionalcellfeedback</string>
+	<key>shouldUnbindGesture</key>
+	<string>spotborder</string>
+	<key>standaloneManager</key>
+	<string>durationRotation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPadding</key>
+	<string>dismissRole</string>
+	<key>hasusage</key>
+	<string>skinStatus</string>
+	<key>keybitrate</key>
+	<string>richtextFlags</string>
+	<key>nativeDisclaimer</key>
+	<string>accessoryqueue</string>
+	<key>shapeForce</key>
+	<string>capsuleVar</string>
+	<key>shouldProcessCompletion</key>
+	<string>canValidateUsage</string>
+	<key>shouldReplaceBitrate</key>
+	<string>asyncframeworkvisible</string>
+	<key>stampskewy</key>
+	<string>canStartCaption</string>
+</dict>
+</plist>

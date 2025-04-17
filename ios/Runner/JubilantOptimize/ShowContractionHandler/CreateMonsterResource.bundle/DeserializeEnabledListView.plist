@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInteraction</key>
+	<string>interfacesorter</string>
+	<key>asynchronousMusic</key>
+	<string>requestButton</string>
+	<key>commonColumn</key>
+	<string>detailShape</string>
+	<key>consultativePadding</key>
+	<string>offsetEvent</string>
+	<key>displayableselector</key>
+	<string>canFormatMission</string>
+	<key>nativeAudio</key>
+	<string>opaqueTaxonomy</string>
+	<key>rolewithvisitor</key>
+	<string>nodeOpacity</string>
+	<key>shouldObserveMember</key>
+	<string>canRenderMedia</string>
+</dict>
+</plist>

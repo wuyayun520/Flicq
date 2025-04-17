@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerappearance</key>
+	<string>pendingCurve</string>
+	<key>immutableRole</key>
+	<string>subsequentRouter</string>
+	<key>recursionColor</key>
+	<string>quantizationNode</string>
+	<key>synchronousBase</key>
+	<string>provisionFeedback</string>
+</dict>
+</plist>

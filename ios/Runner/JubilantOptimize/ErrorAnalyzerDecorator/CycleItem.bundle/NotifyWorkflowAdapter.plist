@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserStyle</key>
+	<string>shouldMountArithmetic</string>
+	<key>cosinetween</key>
+	<string>grayscalewithbridge</string>
+	<key>euclideanPermutation</key>
+	<string>splitterPressure</string>
+	<key>hasNavigator</key>
+	<string>fusedProcessor</string>
+	<key>hierarchicalFactory</key>
+	<string>managerSize</string>
+	<key>shouldDisposeBrush</key>
+	<string>canEncodeCollection</string>
+	<key>statelessnodetype</key>
+	<string>canShowModulus</string>
+	<key>tweenstrength</key>
+	<string>currentEquipment</string>
+</dict>
+</plist>

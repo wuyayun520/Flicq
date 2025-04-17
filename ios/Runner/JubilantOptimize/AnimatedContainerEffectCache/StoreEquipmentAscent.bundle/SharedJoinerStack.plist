@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProcessor</key>
+	<string>histogramLocation</string>
+	<key>catalystcenter</key>
+	<string>typicalResponder</string>
+	<key>dimensiontint</key>
+	<string>pinchableSpecifier</string>
+	<key>localFeature</key>
+	<string>drawCallback</string>
+	<key>mediumAlignment</key>
+	<string>grainTension</string>
+	<key>popupCoord</key>
+	<string>extendTopic</string>
+</dict>
+</plist>

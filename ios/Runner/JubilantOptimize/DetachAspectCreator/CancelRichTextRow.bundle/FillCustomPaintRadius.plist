@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardscenefeedback</key>
+	<string>observeBorder</string>
+	<key>deserializecertificate</key>
+	<string>listenoffset</string>
+	<key>fixedSubpixel</key>
+	<string>displayableVideo</string>
+	<key>heapDistance</key>
+	<string>clonesingleton</string>
+	<key>standaloneNib</key>
+	<string>optimizeGroup</string>
+</dict>
+</plist>

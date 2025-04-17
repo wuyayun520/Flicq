@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedEmitter</key>
+	<string>canTransitionNotifier</string>
+	<key>criticalChooser</key>
+	<string>shouldstartmedia</string>
+	<key>factorytheme</key>
+	<string>materialInset</string>
+	<key>processormargin</key>
+	<string>exponentintype</string>
+	<key>sortedTechnique</key>
+	<string>reliabilityDensity</string>
+	<key>subsequentEqualization</key>
+	<string>popupSkewX</string>
+	<key>sustainableBoxShadow</key>
+	<string>stateColor</string>
+</dict>
+</plist>

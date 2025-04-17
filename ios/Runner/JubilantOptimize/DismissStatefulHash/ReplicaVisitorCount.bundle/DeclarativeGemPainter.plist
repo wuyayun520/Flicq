@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatevector</key>
+	<string>subscribeInstruction</string>
+	<key>eagerLayout</key>
+	<string>canFormatVariant</string>
+	<key>elasticqueue</key>
+	<string>initializeStream</string>
+	<key>eventType</key>
+	<string>subtleSignature</string>
+	<key>gatephaseoffset</key>
+	<string>shouldSubscribeCharacter</string>
+	<key>mobileFeedback</key>
+	<string>functionalEntity</string>
+	<key>positionshape</key>
+	<string>projectionDistance</string>
+	<key>responseRate</key>
+	<string>unactivatedFragments</string>
+	<key>shouldPublishGraphic</key>
+	<string>sineTier</string>
+	<key>shouldPublishSizedBox</key>
+	<string>endStoryboard</string>
+</dict>
+</plist>

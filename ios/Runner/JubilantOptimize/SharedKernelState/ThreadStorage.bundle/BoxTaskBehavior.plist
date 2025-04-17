@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardResource</key>
+	<string>transitionstyle</string>
+	<key>deferredConvolution</key>
+	<string>immediatePositioned</string>
+	<key>displayableSwift</key>
+	<string>renderPositioned</string>
+	<key>painterfeedback</key>
+	<string>listviewFramework</string>
+	<key>recursionSkewX</key>
+	<string>smartDelivery</string>
+	<key>shouldskippageview</key>
+	<string>replaceGestureDetector</string>
+	<key>sineTag</key>
+	<string>comprehensiveState</string>
+	<key>soundContrast</key>
+	<string>gestureEnvironment</string>
+</dict>
+</plist>

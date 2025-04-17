@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleWrapper</key>
+	<string>roleHue</string>
+	<key>descriptorBehavior</key>
+	<string>rebuildContainer</string>
+	<key>lostAnalogy</key>
+	<string>unmountPoint</string>
+	<key>scopekind</key>
+	<string>alignmentTail</string>
+	<key>shouldPresentImage</key>
+	<string>inflatecell</string>
+	<key>shouldStreamStateless</key>
+	<string>persistentPolygon</string>
+	<key>shouldstreamborder</key>
+	<string>movementAlignment</string>
+	<key>tentativeShape</key>
+	<string>actionShade</string>
+</dict>
+</plist>

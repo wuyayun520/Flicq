@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectortension</key>
+	<string>drawerticker</string>
+	<key>displayableIntegrity</key>
+	<string>gesturedetectorDepth</string>
+	<key>inheritedAnalyzer</key>
+	<string>stampOffset</string>
+	<key>localManager</key>
+	<string>comprehensiveConstraint</string>
+	<key>shouldattachprovider</key>
+	<string>numericalCard</string>
+	<key>shouldsetstatedropdownbutton</key>
+	<string>fixedInfrastructure</string>
+</dict>
+</plist>

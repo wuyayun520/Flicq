@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationagainstinterpreter</key>
+	<string>subtleReceiver</string>
+	<key>denseLatency</key>
+	<string>shouldhandlecolumn</string>
+	<key>intuitiveSymbol</key>
+	<string>fixedcontainertail</string>
+	<key>missedNib</key>
+	<string>shouldPaintSizedBox</string>
+	<key>prevFilter</key>
+	<string>managerPressure</string>
+	<key>statelessarchitecture</key>
+	<string>temporaryCompleter</string>
+	<key>usedAsset</key>
+	<string>typicalIndicator</string>
+</dict>
+</plist>

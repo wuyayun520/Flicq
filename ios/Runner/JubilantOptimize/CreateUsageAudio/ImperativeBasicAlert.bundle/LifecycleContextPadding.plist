@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTolerance</key>
+	<string>injectLayer</string>
+	<key>currentgate</key>
+	<string>agileScheduler</string>
+	<key>customizedTernary</key>
+	<string>replaceDuration</string>
+	<key>dismissmetadata</key>
+	<string>modalDuration</string>
+	<key>independentSkirt</key>
+	<string>firstEvolution</string>
+	<key>keyRouter</key>
+	<string>errorBuffer</string>
+	<key>receiverPadding</key>
+	<string>effectAppearance</string>
+	<key>temporarySingleton</key>
+	<string>managerFunction</string>
+</dict>
+</plist>

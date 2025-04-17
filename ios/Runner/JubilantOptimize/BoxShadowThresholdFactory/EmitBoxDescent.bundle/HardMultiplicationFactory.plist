@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedImpact</key>
+	<string>graphicBehavior</string>
+	<key>declarativerange</key>
+	<string>transformerDensity</string>
+	<key>eagerTaxonomy</key>
+	<string>shouldpersistoverlay</string>
+	<key>nextTraversal</key>
+	<string>asynchronousTabView</string>
+	<key>queuepicker</key>
+	<string>limitEntity</string>
+	<key>rangesaturation</key>
+	<string>wrapOffset</string>
+	<key>titleFrequency</key>
+	<string>mutableMusic</string>
+</dict>
+</plist>

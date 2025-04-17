@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSample</key>
+	<string>cacheUnary</string>
+	<key>concurrenttraversal</key>
+	<string>partitionDecoration</string>
+	<key>easySession</key>
+	<string>setstatestream</string>
+	<key>refactorpriority</key>
+	<string>arithmeticTraversal</string>
+	<key>scrollableState</key>
+	<string>completionBuffer</string>
+	<key>sessionedge</key>
+	<string>quantizationService</string>
+	<key>shouldTransitionCharacter</key>
+	<string>unsortedDistinction</string>
+</dict>
+</plist>

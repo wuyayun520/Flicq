@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationInterval</key>
+	<string>functionalOverlay</string>
+	<key>gradientfunctionrotation</key>
+	<string>threadCoord</string>
+	<key>greatError</key>
+	<string>widgetOrigin</string>
+	<key>initiatorsdrawer</key>
+	<string>resourceTemple</string>
+	<key>iterativeSemantics</key>
+	<string>adaptiveConstraint</string>
+	<key>operationDepth</key>
+	<string>statefulscenario</string>
+	<key>permissiveAnchor</key>
+	<string>compositionalTabView</string>
+	<key>scenestatus</key>
+	<string>numericalTaxonomy</string>
+	<key>shouldLayoutMovement</key>
+	<string>provideaction</string>
+	<key>tappablebuttondelay</key>
+	<string>independentInkWell</string>
+</dict>
+</plist>

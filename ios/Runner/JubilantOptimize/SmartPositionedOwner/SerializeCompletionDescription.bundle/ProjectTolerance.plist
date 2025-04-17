@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTraversal</key>
+	<string>canMountImage</string>
+	<key>cellstrength</key>
+	<string>transitionobserver</string>
+	<key>customizedContraction</key>
+	<string>discardedLoss</string>
+	<key>keyText</key>
+	<string>liteWorkflow</string>
+	<key>shouldInflateGradient</key>
+	<string>eventContext</string>
+	<key>smallComposition</key>
+	<string>concreteSorter</string>
+	<key>staticIcon</key>
+	<string>painterAdapter</string>
+	<key>substantialEntropy</key>
+	<string>resilientRadio</string>
+	<key>unactivatedChannels</key>
+	<string>granularOccasion</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResult</key>
+	<string>typicalSubpixel</string>
+	<key>anchormesh</key>
+	<string>shouldFinishAnchor</string>
+	<key>animatorfeedback</key>
+	<string>textfieldbrightness</string>
+	<key>greatAction</key>
+	<string>canStreamMatrix</string>
+	<key>setstatechannels</key>
+	<string>semanticbuildermomentum</string>
+</dict>
+</plist>

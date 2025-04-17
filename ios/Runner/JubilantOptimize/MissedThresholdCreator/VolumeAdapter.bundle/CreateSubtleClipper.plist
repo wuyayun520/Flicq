@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerPressure</key>
+	<string>shouldUnmountGesture</string>
+	<key>nextMediaQuery</key>
+	<string>statelessContraction</string>
+	<key>opaqueStrength</key>
+	<string>paintAnimation</string>
+	<key>splitterStatus</key>
+	<string>arithmeticObject</string>
+</dict>
+</plist>

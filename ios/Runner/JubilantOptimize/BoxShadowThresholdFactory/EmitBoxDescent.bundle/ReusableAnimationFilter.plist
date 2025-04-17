@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedDialogs</key>
+	<string>unmountActivity</string>
+	<key>geometricHeap</key>
+	<string>lastBandwidth</string>
+	<key>quitdelegate</key>
+	<string>respectiveEntity</string>
+	<key>shouldSkipScaffold</key>
+	<string>shouldConnectModal</string>
+	<key>startcache</key>
+	<string>persistentCube</string>
+</dict>
+</plist>

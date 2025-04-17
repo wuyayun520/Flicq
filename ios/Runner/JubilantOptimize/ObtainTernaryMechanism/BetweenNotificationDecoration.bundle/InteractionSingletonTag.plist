@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionShape</key>
+	<string>advancedMultiplication</string>
+	<key>deferredTable</key>
+	<string>normalOffset</string>
+	<key>relationalMedia</key>
+	<string>granularScene</string>
+	<key>scaffoldTheme</key>
+	<string>debugBuffer</string>
+	<key>scopeSkewY</key>
+	<string>originalTopic</string>
+	<key>shouldCancelCapsule</key>
+	<string>tweenTask</string>
+	<key>unsortedScene</key>
+	<string>boxshadowBuffer</string>
+</dict>
+</plist>

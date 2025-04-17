@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelOffset</key>
+	<string>characteristicBehavior</string>
+	<key>dataSkewY</key>
+	<string>buildutil</string>
+	<key>disabledcallbackborder</key>
+	<string>notificationformvisibility</string>
+	<key>enabledBitrate</key>
+	<string>repositoryIndex</string>
+	<key>instructionobserver</key>
+	<string>vectorfrequency</string>
+	<key>observerlikeadapter</key>
+	<string>accessibleIntegration</string>
+	<key>oldStateful</key>
+	<string>canKeepSpine</string>
+	<key>statusTheme</key>
+	<string>binderRate</string>
+</dict>
+</plist>

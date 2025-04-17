@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedGate</key>
+	<string>canCreateMatrix</string>
+	<key>activatedObject</key>
+	<string>primarystoryboardtheme</string>
+	<key>checkboxexceptpattern</key>
+	<string>behaviorState</string>
+	<key>futurethroughput</key>
+	<string>shouldSerializeClipper</string>
+	<key>granularConfiguration</key>
+	<string>clearInteractor</string>
+	<key>isbinary</key>
+	<string>captionStage</string>
+	<key>semanticprovider</key>
+	<string>shouldtrainhero</string>
+	<key>subsequentManager</key>
+	<string>cachecompositealignment</string>
+	<key>symmetricnotificationbrightness</key>
+	<string>expandedFeedback</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCollection</key>
+	<string>pauseObserver</string>
+	<key>characterdecoratordirection</key>
+	<string>toolVar</string>
+	<key>dimensionIndex</key>
+	<string>cycleMethod</string>
+	<key>disparatecallbacksize</key>
+	<string>invokeMenu</string>
+	<key>lastTabView</key>
+	<string>lastaspect</string>
+	<key>playhandler</key>
+	<string>tableSpacing</string>
+	<key>sequentialModal</key>
+	<string>serializeoffset</string>
+	<key>shouldEndChannels</key>
+	<string>statefulGate</string>
+</dict>
+</plist>

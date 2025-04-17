@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerForce</key>
+	<string>canRenderLayout</string>
+	<key>containerPadding</key>
+	<string>ignoredMember</string>
+	<key>customizedComponent</key>
+	<string>bitrateleft</string>
+	<key>mainIntensity</key>
+	<string>priorityObserver</string>
+	<key>replicadepth</key>
+	<string>protocolOpacity</string>
+	<key>shouldSetStateModal</key>
+	<string>opaqueChart</string>
+	<key>stateTop</key>
+	<string>hardMargin</string>
+	<key>storageLocation</key>
+	<string>tickerbrightness</string>
+	<key>themedistance</key>
+	<string>addDelegate</string>
+</dict>
+</plist>

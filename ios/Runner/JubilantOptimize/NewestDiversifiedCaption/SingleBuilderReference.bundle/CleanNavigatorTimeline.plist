@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryforvar</key>
+	<string>videoTint</string>
+	<key>arithmeticAlert</key>
+	<string>makeIntensity</string>
+	<key>fragmentsFeedback</key>
+	<string>keepProtocol</string>
+	<key>interactionCount</key>
+	<string>similarEvent</string>
+	<key>intuitiveCanvas</key>
+	<string>renderticker</string>
+	<key>respectiveCluster</key>
+	<string>readsession</string>
+	<key>substantialDetail</key>
+	<string>navigationgroup</string>
+	<key>usecaseSpacing</key>
+	<string>canFetchExpanded</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardElasticity</key>
+	<string>canKeepMedia</string>
+	<key>delicateHistogram</key>
+	<string>blocparamacceleration</string>
+	<key>discardedPreview</key>
+	<string>defaultswift</string>
+	<key>isolatethroughmediator</key>
+	<string>semanticHero</string>
+	<key>operationleft</key>
+	<string>lossedge</string>
+	<key>originalunaryorientation</key>
+	<string>divideResponse</string>
+	<key>otherTabView</key>
+	<string>sharedBullet</string>
+	<key>slashInteraction</key>
+	<string>immediatePopup</string>
+	<key>substantialComposition</key>
+	<string>sortedImpression</string>
+	<key>upgradebullet</key>
+	<string>obtainStream</string>
+</dict>
+</plist>

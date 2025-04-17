@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>matrixInset</key>
+	<string>requiredActivity</string>
+	<key>notifierOrigin</key>
+	<string>crudeSignature</string>
+	<key>publishdelegate</key>
+	<string>canDismissPromise</string>
+	<key>seamlessAccessory</key>
+	<string>delicatebehaviorstatus</string>
+	<key>shouldAttachMonster</key>
+	<string>stampForce</string>
+</dict>
+</plist>

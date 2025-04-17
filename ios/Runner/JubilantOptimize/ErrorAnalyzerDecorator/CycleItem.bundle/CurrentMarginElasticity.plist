@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyEvaluation</key>
+	<string>reusablePresenter</string>
+	<key>dynamicLoader</key>
+	<string>tappableCaption</string>
+	<key>exceptionshapetag</key>
+	<string>uniformModal</string>
+	<key>informationIndex</key>
+	<string>shouldShowDuration</string>
+	<key>repositoryincycle</key>
+	<string>ternaryvisitortint</string>
+	<key>semanticAspectRatio</key>
+	<string>quitFuture</string>
+	<key>shouldMountedStateful</key>
+	<string>mediocreSpecifier</string>
+	<key>shouldResumeGraphic</key>
+	<string>shouldAttachStamp</string>
+	<key>shouldUpdateCupertino</key>
+	<string>defaultalert</string>
+	<key>similarSlider</key>
+	<string>viewFunction</string>
+</dict>
+</plist>

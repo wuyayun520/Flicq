@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerservice</key>
+	<string>globalHeap</string>
+	<key>convolutionAppearance</key>
+	<string>sequentialBinder</string>
+	<key>liteloader</key>
+	<string>initializeAlpha</string>
+	<key>playbackcompleter</key>
+	<string>cartesianVolume</string>
+	<key>scaleResponse</key>
+	<string>operationPadding</string>
+	<key>segueexceptpattern</key>
+	<string>copyoption</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentFuture</key>
+	<string>cancelsubscription</string>
+	<key>desktopGestureDetector</key>
+	<string>eraseDuration</string>
+	<key>draggableHero</key>
+	<string>agileMaster</string>
+	<key>equipmentbufferright</key>
+	<string>parallelDetector</string>
+	<key>infoBottom</key>
+	<string>transformPageView</string>
+	<key>parallelprovidermargin</key>
+	<string>mediocreDisclaimer</string>
+	<key>repositoryRotation</key>
+	<string>canAnimateAnchor</string>
+	<key>requiredScope</key>
+	<string>commonCapsule</string>
+	<key>shouldMountedDelegate</key>
+	<string>shouldinflatepageview</string>
+	<key>unactivatedImage</key>
+	<string>compositionalTechnique</string>
+</dict>
+</plist>

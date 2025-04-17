@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentgramtransparency</key>
+	<string>shouldCacheMaterial</string>
+	<key>directBitrate</key>
+	<string>adaptiveIntegration</string>
+	<key>immediateBaseline</key>
+	<string>canListenSession</string>
+	<key>parallelconstraint</key>
+	<string>compositionSingleton</string>
+	<key>priorPermutation</key>
+	<string>viewrenderer</string>
+	<key>shearradius</key>
+	<string>publiccluster</string>
+	<key>standaloneTabView</key>
+	<string>newestPreview</string>
+	<key>utilStyle</key>
+	<string>logTemple</string>
+</dict>
+</plist>

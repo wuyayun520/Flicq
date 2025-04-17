@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalLoader</key>
+	<string>iscapsule</string>
+	<key>newestmissioncount</key>
+	<string>mainCosine</string>
+	<key>shouldPauseMonster</key>
+	<string>projectionState</string>
+	<key>strengthDirection</key>
+	<string>similarFragment</string>
+</dict>
+</plist>

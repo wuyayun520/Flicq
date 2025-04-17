@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellleft</key>
+	<string>primaryFilter</string>
+	<key>composableCanvas</key>
+	<string>canUnmountHero</string>
+	<key>dimensionascent</key>
+	<string>tappableException</string>
+	<key>directStep</key>
+	<string>tickerOffset</string>
+	<key>imperativeVertex</key>
+	<string>savecoordinator</string>
+	<key>selectedImage</key>
+	<string>smallEqualization</string>
+	<key>shouldCacheDescriptor</key>
+	<string>swiftPlatform</string>
+	<key>storeDirection</key>
+	<string>canResumeConstraint</string>
+	<key>viewstate</key>
+	<string>sophisticatedGestureDetector</string>
+</dict>
+</plist>

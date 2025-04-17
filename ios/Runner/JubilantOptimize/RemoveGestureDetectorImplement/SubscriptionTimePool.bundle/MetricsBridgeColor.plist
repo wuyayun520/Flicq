@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicMission</key>
+	<string>canTrainSymbol</string>
+	<key>defaultarithmetic</key>
+	<string>stampCycle</string>
+	<key>mediocreDecoration</key>
+	<string>beginnerReliability</string>
+	<key>methodtimeline</key>
+	<string>relationalAccessory</string>
+	<key>prevChart</key>
+	<string>canPublishPoint</string>
+	<key>publishresult</key>
+	<string>unmountFlex</string>
+	<key>selectedAlert</key>
+	<string>firstNib</string>
+	<key>trainmatrix</key>
+	<string>shouldTransitionStamp</string>
+</dict>
+</plist>

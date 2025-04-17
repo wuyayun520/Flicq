@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachestyle</key>
+	<string>draggablecontainer</string>
+	<key>customState</key>
+	<string>permanentcompositiondepth</string>
+	<key>diffableMedia</key>
+	<string>localSplitter</string>
+	<key>errorvalidation</key>
+	<string>unmountedSymbol</string>
+	<key>frameInteraction</key>
+	<string>shouldRouteSlash</string>
+	<key>hardStateless</key>
+	<string>canTransitionInkWell</string>
+	<key>pinchableScale</key>
+	<string>implementDescription</string>
+	<key>referencepublisher</key>
+	<string>injectionjoiner</string>
+	<key>shouldCacheEqualization</key>
+	<string>interactiveCharacteristic</string>
+	<key>usedSkin</key>
+	<string>adaptiveTexture</string>
+</dict>
+</plist>

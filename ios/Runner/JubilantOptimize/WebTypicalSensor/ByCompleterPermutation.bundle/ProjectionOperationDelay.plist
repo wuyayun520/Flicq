@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticPageView</key>
+	<string>utilVisible</string>
+	<key>integrityresponse</key>
+	<string>canPresentSign</string>
+	<key>listviewCoord</key>
+	<string>stopMaterial</string>
+	<key>pointFrequency</key>
+	<string>immediateRow</string>
+	<key>protectedPriority</key>
+	<string>consultativeDelivery</string>
+	<key>scaffoldDelay</key>
+	<string>injectException</string>
+	<key>shouldPresentSegue</key>
+	<string>declarativeProvider</string>
+	<key>specifyRequest</key>
+	<string>liteSegue</string>
+</dict>
+</plist>

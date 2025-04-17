@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonelasticity</key>
+	<string>scrollwrapper</string>
+	<key>durationScale</key>
+	<string>resetHash</string>
+	<key>errorobserver</key>
+	<string>canRebuildSwift</string>
+	<key>futuredetector</key>
+	<string>localcontraction</string>
+	<key>inheritedImpression</key>
+	<string>ignoredResponse</string>
+	<key>prevaction</key>
+	<string>modalRotation</string>
+	<key>priorPromise</key>
+	<string>resultDirection</string>
+	<key>semanticcatalystopacity</key>
+	<string>enumeratenavigator</string>
+	<key>statefulSignature</key>
+	<string>hierarchicalRepository</string>
+	<key>subtleFrame</key>
+	<string>modeltheme</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineTint</key>
+	<string>arithmeticMusic</string>
+	<key>boxdistance</key>
+	<string>pausesize</string>
+	<key>cubeCoord</key>
+	<string>attachProject</string>
+	<key>denseProgressBar</key>
+	<string>scrollableBloc</string>
+	<key>descriptionlocation</key>
+	<string>presentSkirt</string>
+	<key>shouldSetStateSegue</key>
+	<string>scrollLocation</string>
+	<key>shouldSubscribeLogarithm</key>
+	<string>continueAspectRatio</string>
+	<key>splitterLeft</key>
+	<string>tickershape</string>
+</dict>
+</plist>

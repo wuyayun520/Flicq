@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerLocation</key>
+	<string>isolateshapeinterval</string>
+	<key>denseTween</key>
+	<string>buildMatrix</string>
+	<key>interactiveEvent</key>
+	<string>subpixelCoord</string>
+	<key>shouldMountSwitch</key>
+	<string>canShowStateless</string>
+	<key>singletontail</key>
+	<string>bufferFrequency</string>
+</dict>
+</plist>

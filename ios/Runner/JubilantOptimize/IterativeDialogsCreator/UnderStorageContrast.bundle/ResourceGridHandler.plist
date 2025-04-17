@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderappearance</key>
+	<string>awaitdistance</string>
+	<key>commonSwitch</key>
+	<string>permissiveMovement</string>
+	<key>dedicatedTextField</key>
+	<string>canTrainUsage</string>
+	<key>dedicatedinfo</key>
+	<string>listenPreview</string>
+	<key>intuitiveInteractor</key>
+	<string>shouldProcessPet</string>
+	<key>observerBottom</key>
+	<string>managerTension</string>
+	<key>robustcanvasname</key>
+	<string>scaffoldChain</string>
+	<key>statelessviewformat</key>
+	<string>writeInjection</string>
+	<key>subtlelatency</key>
+	<string>decoupleBuilder</string>
+	<key>textfieldVisibility</key>
+	<string>resumeCupertino</string>
+</dict>
+</plist>

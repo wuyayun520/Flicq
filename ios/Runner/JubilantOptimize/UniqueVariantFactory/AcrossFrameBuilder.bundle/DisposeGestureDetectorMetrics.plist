@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedframe</key>
+	<string>shouldSaveMaterial</string>
+	<key>independentoffset</key>
+	<string>shaderorientation</string>
+	<key>promisevisibility</key>
+	<string>euclideanResponse</string>
+	<key>restrictionColor</key>
+	<string>firstReference</string>
+	<key>shouldSaveCapsule</key>
+	<string>hyperbolicService</string>
+	<key>shouldValidateSlider</key>
+	<string>statefulShader</string>
+	<key>unsortedAsync</key>
+	<string>createCurve</string>
+</dict>
+</plist>

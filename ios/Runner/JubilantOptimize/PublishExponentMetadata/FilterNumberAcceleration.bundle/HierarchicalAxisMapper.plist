@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthBorder</key>
+	<string>primaryTexture</string>
+	<key>fusedSubscription</key>
+	<string>symmetricMenu</string>
+	<key>liteAlignment</key>
+	<string>operationOrigin</string>
+	<key>mainImage</key>
+	<string>regulateTransition</string>
+	<key>missedExpanded</key>
+	<string>adaptiveManager</string>
+	<key>popupsingletonorientation</key>
+	<string>configurationFormat</string>
+	<key>smartPermutation</key>
+	<string>materialstatus</string>
+</dict>
+</plist>

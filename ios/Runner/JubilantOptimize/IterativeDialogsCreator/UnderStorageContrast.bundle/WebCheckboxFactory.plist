@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnTail</key>
+	<string>timerKind</string>
+	<key>mainMenu</key>
+	<string>canProcessNavigation</string>
+	<key>reactiveAnimatedContainer</key>
+	<string>volumedelay</string>
+	<key>repositoryOffset</key>
+	<string>canProcessAperture</string>
+	<key>uniquestate</key>
+	<string>sophisticatedResult</string>
+</dict>
+</plist>

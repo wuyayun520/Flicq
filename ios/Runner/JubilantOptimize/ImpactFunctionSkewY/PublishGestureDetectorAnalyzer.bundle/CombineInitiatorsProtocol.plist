@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopResolver</key>
+	<string>extendOffset</string>
+	<key>integerLeft</key>
+	<string>navigateStoryboard</string>
+	<key>resilienceStatus</key>
+	<string>canRebuildUnary</string>
+	<key>shouldLoadBullet</key>
+	<string>listviewCycle</string>
+	<key>shouldShowSlash</key>
+	<string>discardedTabView</string>
+	<key>strengthoffset</key>
+	<string>permissiveMap</string>
+	<key>textbehavior</key>
+	<string>handleColumn</string>
+	<key>trajectoryOrientation</key>
+	<string>channelopacity</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteremainderinset</key>
+	<string>functionalScroller</string>
+	<key>criticalTraversal</key>
+	<string>keyrow</string>
+	<key>progressbarDistance</key>
+	<string>herostyle</string>
+	<key>selectedscroll</key>
+	<string>challengeMomentum</string>
+	<key>shouldUnbindCapacities</key>
+	<string>shouldFinishMission</string>
+	<key>subpixelSkewY</key>
+	<string>dynamicSubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directMend</key>
+	<string>lazylayer</string>
+	<key>hasexponent</key>
+	<string>fusedBandwidth</string>
+	<key>mobileTimer</key>
+	<string>symmetricGrid</string>
+	<key>shouldLoadSine</key>
+	<string>reusableReceiver</string>
+	<key>shouldRouteAnimatedContainer</key>
+	<string>semanticqueue</string>
+</dict>
+</plist>

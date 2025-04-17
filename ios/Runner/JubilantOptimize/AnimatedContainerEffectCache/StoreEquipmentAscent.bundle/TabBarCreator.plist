@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedUsage</key>
+	<string>endrequest</string>
+	<key>functionalConfiguration</key>
+	<string>storeSize</string>
+	<key>infoInset</key>
+	<string>sharedReceiver</string>
+	<key>otherTweak</key>
+	<string>secondhandler</string>
+</dict>
+</plist>

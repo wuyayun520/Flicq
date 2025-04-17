@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularSegue</key>
+	<string>arithmeticlocation</string>
+	<key>listenmanager</key>
+	<string>touchVariable</string>
+	<key>mainCoordinator</key>
+	<string>resizeAlignment</string>
+	<key>permanentCoordinator</key>
+	<string>handlegram</string>
+	<key>permissiveRow</key>
+	<string>disabledTexture</string>
+	<key>rapidShape</key>
+	<string>handleInterface</string>
+	<key>shouldEncodeCard</key>
+	<string>transitionTabBar</string>
+	<key>shouldFetchStack</key>
+	<string>largePainter</string>
+</dict>
+</plist>

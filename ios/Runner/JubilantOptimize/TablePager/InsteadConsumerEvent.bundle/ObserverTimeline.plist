@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedSkewX</key>
+	<string>equalTitle</string>
+	<key>globalInstruction</key>
+	<string>layoutChain</string>
+	<key>mediumanimation</key>
+	<string>mountPriority</string>
+	<key>parallelMargin</key>
+	<string>requirednavigator</string>
+	<key>secondDescent</key>
+	<string>customizedAnimation</string>
+	<key>shouldNotifySession</key>
+	<string>unsortedNotification</string>
+	<key>sustainablematerial</key>
+	<string>mutableTexture</string>
+</dict>
+</plist>

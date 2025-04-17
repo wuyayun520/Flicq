@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferSkewX</key>
+	<string>streamgradient</string>
+	<key>callbackstrategytag</key>
+	<string>autoCosine</string>
+	<key>futureShape</key>
+	<string>canLoadText</string>
+	<key>normResponse</key>
+	<string>temporaryTaxonomy</string>
+	<key>onsigntap</key>
+	<string>workflowAdapter</string>
+	<key>shouldRestartUsage</key>
+	<string>canStreamMedia</string>
+	<key>shouldStartOptimizer</key>
+	<string>appbarRate</string>
+	<key>sophisticatedConstant</key>
+	<string>crucialMerger</string>
+</dict>
+</plist>

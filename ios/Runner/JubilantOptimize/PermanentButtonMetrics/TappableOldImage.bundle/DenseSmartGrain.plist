@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitType</key>
+	<string>interpolationstate</string>
+	<key>concurrentprovider</key>
+	<string>consumerBehavior</string>
+	<key>dedicatedTimeline</key>
+	<string>canCreateMomentum</string>
+	<key>presenterFrequency</key>
+	<string>destroyCurve</string>
+	<key>retainedMedia</key>
+	<string>schedulerDelay</string>
+	<key>shouldPublishWidget</key>
+	<string>multiJoiner</string>
+</dict>
+</plist>

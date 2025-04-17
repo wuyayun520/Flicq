@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaInteraction</key>
+	<string>buildScaffold</string>
+	<key>globalConvolution</key>
+	<string>replicateHash</string>
+	<key>imagestatus</key>
+	<string>difficultCell</string>
+	<key>labelaroundbridge</key>
+	<string>graphdistance</string>
+	<key>uniformBloc</key>
+	<string>comprehensiveModule</string>
+</dict>
+</plist>

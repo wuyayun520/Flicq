@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectprocessbehavior</key>
+	<string>lossVariable</string>
+	<key>cupertinoRoute</key>
+	<string>extensionCoord</string>
+	<key>mediaTint</key>
+	<string>immutableReplica</string>
+	<key>nextAction</key>
+	<string>screencluster</string>
+	<key>profileContrast</key>
+	<string>servicetop</string>
+	<key>robustRectangle</key>
+	<string>titleBehavior</string>
+	<key>temporaryRichText</key>
+	<string>shouldcacheboxshadow</string>
+</dict>
+</plist>

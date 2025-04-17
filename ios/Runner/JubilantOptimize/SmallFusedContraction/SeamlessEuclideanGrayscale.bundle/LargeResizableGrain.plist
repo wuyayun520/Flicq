@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalchartfrequency</key>
+	<string>hasWorkflow</string>
+	<key>dedicatedVector</key>
+	<string>modalTag</string>
+	<key>functionalSubscription</key>
+	<string>chapterdensity</string>
+	<key>nibRotation</key>
+	<string>autoGram</string>
+	<key>publicSignature</key>
+	<string>canTransformTernary</string>
+	<key>shouldDisposeInstruction</key>
+	<string>listenCaption</string>
+	<key>unmountstore</key>
+	<string>exponentVariable</string>
+</dict>
+</plist>

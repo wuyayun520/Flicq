@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainercallback</key>
+	<string>releaseEntity</string>
+	<key>composableNotification</key>
+	<string>unaryStage</string>
+	<key>handlerspeed</key>
+	<string>customizedLayout</string>
+	<key>hardIndicator</key>
+	<string>denseTabBar</string>
+	<key>layerInset</key>
+	<string>subscribeNavigator</string>
+	<key>shouldReplaceCycle</key>
+	<string>tappableItem</string>
+	<key>usecaseDistance</key>
+	<string>encapsulateRadius</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouslogarithminteraction</key>
+	<string>scheduleZone</string>
+	<key>concurrentsignstate</key>
+	<string>canStreamAnimatedContainer</string>
+	<key>cupertinoUnary</key>
+	<string>cardOrientation</string>
+	<key>explicitUnary</key>
+	<string>profileRadius</string>
+	<key>metricsForce</key>
+	<string>bitrateVelocity</string>
+	<key>selectedIndicator</key>
+	<string>projecttransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicMerger</key>
+	<string>primaryRadius</string>
+	<key>exceptionmargin</key>
+	<string>canUnmountCharacter</string>
+	<key>hasskin</key>
+	<string>clipperStatus</string>
+	<key>responderSpacing</key>
+	<string>resiliencePressure</string>
+	<key>sequentialBatch</key>
+	<string>substantialMultiplication</string>
+	<key>shouldAttachScroll</key>
+	<string>parallelUseCase</string>
+	<key>shouldpaintcomposition</key>
+	<string>reusableconfiguration</string>
+	<key>sizeselector</key>
+	<string>visibleEqualization</string>
+	<key>slashbrightness</key>
+	<string>finishScale</string>
+	<key>usecasemode</key>
+	<string>finishHero</string>
+</dict>
+</plist>

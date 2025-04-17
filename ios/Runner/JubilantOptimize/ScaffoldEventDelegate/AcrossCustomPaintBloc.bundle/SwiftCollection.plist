@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCallback</key>
+	<string>descriptorColor</string>
+	<key>directlyProgressBar</key>
+	<string>limitCompleter</string>
+	<key>robustListView</key>
+	<string>immediateNavigator</string>
+	<key>shouldpersistcard</key>
+	<string>storeleft</string>
+	<key>shouldstartlog</key>
+	<string>storeStorage</string>
+	<key>shouldupdateslider</key>
+	<string>permanentviewedge</string>
+	<key>tweencontainoperation</key>
+	<string>memberProxy</string>
+</dict>
+</plist>

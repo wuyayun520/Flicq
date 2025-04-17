@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSubscription</key>
+	<string>axisMomentum</string>
+	<key>fusedMaster</key>
+	<string>dedicatedDetector</string>
+	<key>localNotification</key>
+	<string>provisionBrightness</string>
+	<key>navigatoralongtier</key>
+	<string>tensorview</string>
+	<key>robustCheckbox</key>
+	<string>otherAscent</string>
+	<key>shouldPersistSegment</key>
+	<string>kernelStage</string>
+	<key>transitionvertex</key>
+	<string>interactiveReduction</string>
+	<key>tweenworkshape</key>
+	<string>symbolAction</string>
+</dict>
+</plist>

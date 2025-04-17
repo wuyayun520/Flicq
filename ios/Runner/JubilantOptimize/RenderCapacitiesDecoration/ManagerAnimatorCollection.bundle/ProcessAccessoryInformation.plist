@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxType</key>
+	<string>profilePhase</string>
+	<key>checklistOrientation</key>
+	<string>filterDensity</string>
+	<key>combinerValidation</key>
+	<string>checklistscopeflags</string>
+	<key>descriptionCount</key>
+	<string>shouldNotifyModulus</string>
+	<key>finishunary</key>
+	<string>significantStore</string>
+	<key>invisiblePlayback</key>
+	<string>configurationVisitor</string>
+	<key>scenefunctionfrequency</key>
+	<string>liteCallback</string>
+	<key>tabbaralignment</key>
+	<string>cardFunction</string>
+	<key>visibleAlert</key>
+	<string>sampleBehavior</string>
+</dict>
+</plist>

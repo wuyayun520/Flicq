@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesjobkind</key>
+	<string>lazyCompletion</string>
+	<key>dispatcheroffset</key>
+	<string>fillSize</string>
+	<key>offsetdecoratordistance</key>
+	<string>eagerModule</string>
+	<key>requestplatformpressure</key>
+	<string>checklistbottom</string>
+	<key>resizableScale</key>
+	<string>keyAsync</string>
+	<key>stamptop</key>
+	<string>persistPageView</string>
+	<key>subpixeltint</key>
+	<string>metricsbottom</string>
+	<key>tappablePromise</key>
+	<string>topicOperation</string>
+	<key>tappablestream</key>
+	<string>flexFlyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customcanvas</key>
+	<string>canDecodeNavigation</string>
+	<key>geometricProgressBar</key>
+	<string>lostIndicator</string>
+	<key>operationproxypressure</key>
+	<string>shouldPresentRadio</string>
+	<key>resourcerotation</key>
+	<string>streamMultiplication</string>
+	<key>responsiveHeap</key>
+	<string>canDispatchBinary</string>
+	<key>robustCursor</key>
+	<string>quitgem</string>
+	<key>shouldConnectSizedBox</key>
+	<string>momentumpopup</string>
+	<key>standaloneTentative</key>
+	<string>diversifiedText</string>
+	<key>tickerRight</key>
+	<string>denseInjection</string>
+</dict>
+</plist>

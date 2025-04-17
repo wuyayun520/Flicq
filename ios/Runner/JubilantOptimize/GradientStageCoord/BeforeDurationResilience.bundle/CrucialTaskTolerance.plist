@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRouter</key>
+	<string>defaultStack</string>
+	<key>flexibleSubscriber</key>
+	<string>clipperOpacity</string>
+	<key>nibFeedback</key>
+	<string>observerMemento</string>
+	<key>shouldNavigateBuilder</key>
+	<string>shouldDisconnectProject</string>
+	<key>shouldSubscribeMusic</key>
+	<string>crucialResilience</string>
+</dict>
+</plist>

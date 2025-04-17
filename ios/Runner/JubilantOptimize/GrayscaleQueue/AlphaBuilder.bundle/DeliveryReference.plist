@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseJoiner</key>
+	<string>animatedResolver</string>
+	<key>gatestate</key>
+	<string>skipMission</string>
+	<key>handlechapter</key>
+	<string>asyncsingletonindex</string>
+	<key>invisibleSegue</key>
+	<string>unsortedMediaQuery</string>
+	<key>primaryAnchor</key>
+	<string>unactivatedrequestindex</string>
+	<key>seamlesstimeline</key>
+	<string>shouldHandleBehavior</string>
+	<key>selecteddescriptor</key>
+	<string>fetchSkirt</string>
+	<key>sharedLifecycle</key>
+	<string>subsequentMediaQuery</string>
+	<key>stringifyexception</key>
+	<string>eagerConverter</string>
+</dict>
+</plist>

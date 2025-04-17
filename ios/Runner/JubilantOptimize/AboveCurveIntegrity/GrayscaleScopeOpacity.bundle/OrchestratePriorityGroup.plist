@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hasplate</key>
+	<string>inheritedModel</string>
+	<key>mainVector</key>
+	<string>titleCount</string>
+	<key>permissiveNib</key>
+	<string>compositionPadding</string>
+	<key>shouldPopTextField</key>
+	<string>shouldEncodeRoute</string>
+	<key>staticIntegration</key>
+	<string>beginnerInteractor</string>
+	<key>tweentransparency</key>
+	<string>differentiateskirt</string>
+</dict>
+</plist>

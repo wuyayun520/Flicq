@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatSound</key>
+	<string>publishRoute</string>
+	<key>missedZone</key>
+	<string>seamlessSignature</string>
+	<key>profileShape</key>
+	<string>multiplicationaudio</string>
+	<key>radioBrightness</key>
+	<string>canPushAxis</string>
+	<key>shouldAnimateColumn</key>
+	<string>sustainableTrajectory</string>
+	<key>shouldSaveShader</key>
+	<string>capacityFormat</string>
+	<key>typicalAnimator</key>
+	<string>entityVisibility</string>
+</dict>
+</plist>

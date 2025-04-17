@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPermutation</key>
+	<string>unbindClipper</string>
+	<key>itemValidation</key>
+	<string>tensorUnary</string>
+	<key>protocolsincebridge</key>
+	<string>eventPadding</string>
+	<key>shouldLayoutSpecifier</key>
+	<string>compositionDirection</string>
+	<key>shouldPaintAnchor</key>
+	<string>reactiveBrush</string>
+</dict>
+</plist>

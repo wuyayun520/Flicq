@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateBehavior</key>
+	<string>resultprocessor</string>
+	<key>consultativeChecklist</key>
+	<string>shouldRouteCaption</string>
+	<key>independentAperture</key>
+	<string>destroyStorage</string>
+	<key>inheritedCaption</key>
+	<string>interpolationorigin</string>
+	<key>mediumanimationindex</key>
+	<string>instructionflags</string>
+	<key>pickerDensity</key>
+	<string>materialProfile</string>
+	<key>uniqueAnimator</key>
+	<string>selectedTechnique</string>
+</dict>
+</plist>

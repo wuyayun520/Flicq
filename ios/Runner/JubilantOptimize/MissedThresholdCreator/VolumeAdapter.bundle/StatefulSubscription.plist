@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedspriteforce</key>
+	<string>persistentcache</string>
+	<key>checklistIndex</key>
+	<string>compositionalThread</string>
+	<key>dependencydespitestyle</key>
+	<string>shouldReplaceSymbol</string>
+	<key>labelduringcommand</key>
+	<string>gestureAcceleration</string>
+	<key>listviewName</key>
+	<string>canPopScreen</string>
+	<key>mendrotation</key>
+	<string>gradientInterpreter</string>
+	<key>tensorZone</key>
+	<string>stateStage</string>
+</dict>
+</plist>

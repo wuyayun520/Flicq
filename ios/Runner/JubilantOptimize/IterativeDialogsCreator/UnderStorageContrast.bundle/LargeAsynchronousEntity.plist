@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelscale</key>
+	<string>easyConstant</string>
+	<key>delegatedirection</key>
+	<string>trianglesappearance</string>
+	<key>delicateAudio</key>
+	<string>customizedSound</string>
+	<key>euclideanTaxonomy</key>
+	<string>storagetheme</string>
+	<key>explicitInterface</key>
+	<string>signatureTop</string>
+	<key>functionalTriangles</key>
+	<string>canDetachNavigator</string>
+	<key>heapBrightness</key>
+	<string>substantialAlignment</string>
+	<key>inheritedSpot</key>
+	<string>imperativeCapsule</string>
+	<key>reusableNode</key>
+	<string>semanticClipper</string>
+</dict>
+</plist>

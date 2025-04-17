@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedSlash</key>
+	<string>hierarchicalCompletion</string>
+	<key>dimensionAlignment</key>
+	<string>declarativeConstraint</string>
+	<key>eagerTabBar</key>
+	<string>activateInterface</string>
+	<key>normalAllocator</key>
+	<string>tappableLocalization</string>
+	<key>pagerDensity</key>
+	<string>utilFacade</string>
+	<key>promiseFlags</key>
+	<string>searchConfiguration</string>
+	<key>resizableSubscription</key>
+	<string>mediocreCatalyst</string>
+	<key>trajectorydistance</key>
+	<string>prismaticProgressBar</string>
+</dict>
+</plist>

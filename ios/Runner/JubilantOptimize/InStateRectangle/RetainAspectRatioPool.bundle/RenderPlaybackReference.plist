@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedScale</key>
+	<string>rapidReduction</string>
+	<key>fusedSplitter</key>
+	<string>lastTangent</string>
+	<key>handleternary</key>
+	<string>crucialBorder</string>
+	<key>prismaticobserver</key>
+	<string>delegateContext</string>
+	<key>shouldSaveSession</key>
+	<string>initializeSize</string>
+	<key>storyboardscale</key>
+	<string>shouldSubscribeCustomPaint</string>
+	<key>unsortedObserver</key>
+	<string>interceptGrain</string>
+</dict>
+</plist>

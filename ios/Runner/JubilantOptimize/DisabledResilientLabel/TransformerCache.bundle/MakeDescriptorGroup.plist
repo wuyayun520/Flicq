@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretemodel</key>
+	<string>cardInteraction</string>
+	<key>customizedCupertino</key>
+	<string>canBindCoordinator</string>
+	<key>descriptorposition</key>
+	<string>shouldInitializeMonster</string>
+	<key>dynamicReplica</key>
+	<string>sophisticatedBaseline</string>
+	<key>imperativeEntity</key>
+	<string>shouldEndGift</string>
+	<key>permanentAnimator</key>
+	<string>interfaceValue</string>
+	<key>persisttask</key>
+	<string>shouldMountedBatch</string>
+	<key>subtleDescriptor</key>
+	<string>awaitWork</string>
+	<key>transitionchannel</key>
+	<string>canPaintSign</string>
+	<key>volumeStatus</key>
+	<string>canDisconnectTernary</string>
+</dict>
+</plist>

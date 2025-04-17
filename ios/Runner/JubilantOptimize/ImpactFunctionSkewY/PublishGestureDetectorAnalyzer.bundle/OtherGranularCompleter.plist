@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazyResource</key>
+	<string>nextNotification</string>
+	<key>permissiveAction</key>
+	<string>normalgradientname</string>
+	<key>previewcount</key>
+	<string>canResumeMusic</string>
+	<key>resourcecontrast</key>
+	<string>canPublishKernel</string>
+	<key>shouldDeserializeDialogs</key>
+	<string>awaittemplestate</string>
+</dict>
+</plist>

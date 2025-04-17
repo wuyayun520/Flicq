@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousReliability</key>
+	<string>protectedRenderer</string>
+	<key>beginnerNotification</key>
+	<string>decorationalongstrategy</string>
+	<key>delicateSubpixel</key>
+	<string>tappablemapper</string>
+	<key>inkwellatmode</key>
+	<string>clearRequest</string>
+	<key>normAlignment</key>
+	<string>progressbarVisibility</string>
+	<key>opaqueSignature</key>
+	<string>cacheTable</string>
+	<key>permissiveSlash</key>
+	<string>protectedSink</string>
+	<key>rowmodetransparency</key>
+	<string>canCancelSlider</string>
+	<key>unsortedContraction</key>
+	<string>scrollableScaffold</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopLifecycle</key>
+	<string>measureEvent</string>
+	<key>euclideanNotifier</key>
+	<string>isGrayscale</string>
+	<key>optionmodel</key>
+	<string>resilientPresenter</string>
+	<key>shouldFormatBatch</key>
+	<string>sorterPosition</string>
+	<key>statefulIndicator</key>
+	<string>canTransitionRemainder</string>
+</dict>
+</plist>

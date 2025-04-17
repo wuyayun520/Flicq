@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustransitionright</key>
+	<string>layerContext</string>
+	<key>dedicatedDrawer</key>
+	<string>assetparamopacity</string>
+	<key>dependencychooser</key>
+	<string>cursorTask</string>
+	<key>disparatebrush</key>
+	<string>oldCluster</string>
+	<key>graintransparency</key>
+	<string>associateMenu</string>
+	<key>heapDirection</key>
+	<string>resolverSystem</string>
+	<key>materialDecoration</key>
+	<string>unbindStamp</string>
+	<key>sequentialstamp</key>
+	<string>immutableProjection</string>
+	<key>shouldStopCupertino</key>
+	<string>canHandlePainter</string>
+</dict>
+</plist>

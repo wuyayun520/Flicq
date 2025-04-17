@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicarchitecture</key>
+	<string>optionshape</string>
+	<key>fuseddocumentshape</key>
+	<string>initiativeColor</string>
+	<key>otherZone</key>
+	<string>prismaticDependency</string>
+	<key>resultState</key>
+	<string>prismaticIntegration</string>
+	<key>scaleState</key>
+	<string>subscriptionopacity</string>
+	<key>shouldConnectCursor</key>
+	<string>synchronousUsage</string>
+</dict>
+</plist>

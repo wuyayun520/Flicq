@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopListView</key>
+	<string>persistBehavior</string>
+	<key>listviewFeedback</key>
+	<string>shouldEncodeDecoration</string>
+	<key>metadatainterval</key>
+	<string>semanticfragments</string>
+	<key>parallelAsset</key>
+	<string>multiContraction</string>
+	<key>primaryTweak</key>
+	<string>typicalCompleter</string>
+	<key>shouldFetchSwitch</key>
+	<string>multiplyResponse</string>
+	<key>shouldStopWorkflow</key>
+	<string>permanentFactory</string>
+</dict>
+</plist>

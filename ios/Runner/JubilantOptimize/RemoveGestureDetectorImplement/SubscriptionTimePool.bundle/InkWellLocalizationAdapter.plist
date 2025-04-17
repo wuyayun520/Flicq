@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchornearvisitor</key>
+	<string>mitigateFuture</string>
+	<key>defaultSample</key>
+	<string>materializeConstraint</string>
+	<key>directRepository</key>
+	<string>dynamicSignature</string>
+	<key>independentParticle</key>
+	<string>viewScale</string>
+	<key>mapperFlags</key>
+	<string>canMountDrawer</string>
+	<key>objectBehavior</key>
+	<string>independentPriority</string>
+	<key>respectiveGrain</key>
+	<string>multiplicationOrientation</string>
+	<key>shouldRenderGradient</key>
+	<string>transformmaterial</string>
+	<key>shouldTransitionEquipment</key>
+	<string>compositionalShader</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyStrength</key>
+	<string>listenAnchor</string>
+	<key>invisibleOverlay</key>
+	<string>allocatorTint</string>
+	<key>modelDuration</key>
+	<string>draggableLabel</string>
+	<key>petalignment</key>
+	<string>sessionColor</string>
+	<key>retainedTechnique</key>
+	<string>skipRadio</string>
+	<key>subscribertint</key>
+	<string>resilientScenario</string>
+</dict>
+</plist>

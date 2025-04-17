@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratespacing</key>
+	<string>scopeScale</string>
+	<key>globalSearcher</key>
+	<string>draggableAwait</string>
+	<key>interfaceDuration</key>
+	<string>metadataMargin</string>
+	<key>iterativeProvider</key>
+	<string>batchFlags</string>
+	<key>largeTransition</key>
+	<string>oldRepository</string>
+	<key>shouldDispatchAlert</key>
+	<string>beginnerConnector</string>
+</dict>
+</plist>

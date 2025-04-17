@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisBrightness</key>
+	<string>animatedTask</string>
+	<key>canceldelegate</key>
+	<string>granularInformation</string>
+	<key>processorCoord</key>
+	<string>associatedsensor</string>
+	<key>shouldPrepareMission</key>
+	<string>lazyBatch</string>
+	<key>shouldValidateCursor</key>
+	<string>storagedescription</string>
+</dict>
+</plist>

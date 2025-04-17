@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basenode</key>
+	<string>optimizeProgressBar</string>
+	<key>cubetask</key>
+	<string>bulletSingleton</string>
+	<key>newestManager</key>
+	<string>finishTable</string>
+	<key>resourceleveldirection</key>
+	<string>seamlessSwift</string>
+	<key>shouldProcessExtension</key>
+	<string>dynamicMaterial</string>
+	<key>textureIndex</key>
+	<string>decodeFlex</string>
+	<key>unmountradio</key>
+	<string>composableRect</string>
+</dict>
+</plist>

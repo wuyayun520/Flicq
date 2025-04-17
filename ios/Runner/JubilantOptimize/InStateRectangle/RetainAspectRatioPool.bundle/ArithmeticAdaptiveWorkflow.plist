@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGate</key>
+	<string>effectsystemdistance</string>
+	<key>diffableFlex</key>
+	<string>constructOffset</string>
+	<key>dynamicInterpolation</key>
+	<string>matrixformat</string>
+	<key>lostImpact</key>
+	<string>locateRoute</string>
+	<key>pivotalpresentervisible</key>
+	<string>prismaticStore</string>
+	<key>regulatedependency</key>
+	<string>segmentlayout</string>
+	<key>timeBound</key>
+	<string>dedicatedhandler</string>
+</dict>
+</plist>

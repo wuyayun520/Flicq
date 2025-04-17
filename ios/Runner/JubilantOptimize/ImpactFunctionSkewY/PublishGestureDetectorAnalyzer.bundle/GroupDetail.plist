@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteBullet</key>
+	<string>yieldBase</string>
+	<key>directlypositionsaturation</key>
+	<string>attachContainer</string>
+	<key>easyButton</key>
+	<string>grainfrequency</string>
+	<key>geometricsprite</key>
+	<string>executeResponse</string>
+	<key>respectiveDuration</key>
+	<string>canPauseActivity</string>
+	<key>subscriptionLocation</key>
+	<string>mediocreDescent</string>
+	<key>tweenedge</key>
+	<string>customAnalogy</string>
+</dict>
+</plist>

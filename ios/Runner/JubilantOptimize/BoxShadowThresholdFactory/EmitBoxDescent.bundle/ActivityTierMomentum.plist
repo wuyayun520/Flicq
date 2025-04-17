@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalTheme</key>
+	<string>deactivateStorage</string>
+	<key>deferredremainder</key>
+	<string>generateduration</string>
+	<key>offsetTag</key>
+	<string>otherCupertino</string>
+	<key>rapidNode</key>
+	<string>coordinatorScope</string>
+	<key>shouldConnectMission</key>
+	<string>secondAsync</string>
+	<key>shouldListenCatalyst</key>
+	<string>temporaryTopic</string>
+</dict>
+</plist>

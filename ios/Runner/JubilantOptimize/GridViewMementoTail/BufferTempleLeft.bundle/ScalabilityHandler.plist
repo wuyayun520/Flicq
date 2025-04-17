@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonresolvervalidation</key>
+	<string>draggableDelivery</string>
+	<key>crucialDecoration</key>
+	<string>aggregateDuration</string>
+	<key>eagerAperture</key>
+	<string>intermediateSlider</string>
+	<key>logsincemode</key>
+	<string>canInitializeIndicator</string>
+	<key>projectionBound</key>
+	<string>shoulddismisscompletion</string>
+	<key>sinkedge</key>
+	<string>quaternionBehavior</string>
+	<key>statefulSemantics</key>
+	<string>scrollableWorkflow</string>
+	<key>visibleTheme</key>
+	<string>intensityFlags</string>
+</dict>
+</plist>

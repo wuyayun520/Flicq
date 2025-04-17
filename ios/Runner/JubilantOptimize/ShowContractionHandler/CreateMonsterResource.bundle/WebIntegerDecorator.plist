@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartdirection</key>
+	<string>singletonenvironmentrate</string>
+	<key>masterprovision</key>
+	<string>scenedepth</string>
+	<key>multiplicationDensity</key>
+	<string>canStreamStoryboard</string>
+	<key>parallelInkWell</key>
+	<string>cleanSingleton</string>
+	<key>progressbarLocation</key>
+	<string>canPaintChallenge</string>
+	<key>resizableAlert</key>
+	<string>sorterFlags</string>
+	<key>seamlessSensor</key>
+	<string>ternaryvisitorname</string>
+	<key>shouldCancelDrawer</key>
+	<string>listeneroutsidestate</string>
+	<key>webTabBar</key>
+	<string>listenProvider</string>
+</dict>
+</plist>

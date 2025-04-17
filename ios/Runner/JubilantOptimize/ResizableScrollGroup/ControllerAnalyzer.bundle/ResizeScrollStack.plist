@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardreceiver</key>
+	<string>iterativeCombiner</string>
+	<key>lifecycleSkewY</key>
+	<string>semanticReliability</string>
+	<key>shouldPublishAlert</key>
+	<string>routeProtocol</string>
+	<key>shouldPublishDelegate</key>
+	<string>rapidAllocator</string>
+	<key>shouldpaintoptimizer</key>
+	<string>shouldSubscribeOptimizer</string>
+	<key>smartSorter</key>
+	<string>temporaryTime</string>
+	<key>subtlegesturedetectoralignment</key>
+	<string>disparateItem</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSingleton</key>
+	<string>autoMember</string>
+	<key>constraintLocation</key>
+	<string>shouldHandleMobile</string>
+	<key>directlyButton</key>
+	<string>custompaintleft</string>
+	<key>fetchcapsule</key>
+	<string>discardedTextField</string>
+	<key>lazyfilter</key>
+	<string>commonAction</string>
+	<key>shouldSaveNotifier</key>
+	<string>playRadius</string>
+	<key>smallConfiguration</key>
+	<string>accessibleVariant</string>
+</dict>
+</plist>

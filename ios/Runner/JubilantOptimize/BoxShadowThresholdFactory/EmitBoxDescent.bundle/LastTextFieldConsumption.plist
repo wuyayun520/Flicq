@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticClipper</key>
+	<string>shouldHandleArithmetic</string>
+	<key>associatedButton</key>
+	<string>onpaddingtap</string>
+	<key>deferredlifecycle</key>
+	<string>shapeDirection</string>
+	<key>dynamicsegue</key>
+	<string>progressbarTheme</string>
+	<key>materialoffset</key>
+	<string>scrollableAppBar</string>
+	<key>notifierscroller</key>
+	<string>objectTop</string>
+	<key>semanticMetadata</key>
+	<string>synchronousBatch</string>
+	<key>signtag</key>
+	<string>instructionCycle</string>
+	<key>tasktypecoord</key>
+	<string>charactercomponent</string>
+</dict>
+</plist>

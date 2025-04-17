@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkprofile</key>
+	<string>inactiveExpanded</string>
+	<key>concreteKernel</key>
+	<string>cloneTicker</string>
+	<key>disabledSubscription</key>
+	<string>lazyEvolution</string>
+	<key>granularGrain</key>
+	<string>cancelSwitch</string>
+	<key>mobileEvolution</key>
+	<string>paintBloc</string>
+	<key>nodeSize</key>
+	<string>pinchableFeature</string>
+	<key>observehandler</key>
+	<string>publisherContrast</string>
+	<key>protocolnode</key>
+	<string>sequentialShader</string>
+	<key>shouldDisconnectPadding</key>
+	<string>persistentExtension</string>
+</dict>
+</plist>

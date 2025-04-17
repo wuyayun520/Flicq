@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSwift</key>
+	<string>bufferTask</string>
+	<key>materializerSize</key>
+	<string>canPresentPageView</string>
+	<key>metricsHead</key>
+	<string>blocinterval</string>
+	<key>semanticsDepth</key>
+	<string>canBindSlider</string>
+</dict>
+</plist>

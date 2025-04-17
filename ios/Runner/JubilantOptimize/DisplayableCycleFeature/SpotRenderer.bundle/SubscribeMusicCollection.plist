@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopButton</key>
+	<string>canFormatNavigator</string>
+	<key>marginInteraction</key>
+	<string>trianglesOpacity</string>
+	<key>onskirttap</key>
+	<string>newestDetail</string>
+	<key>pivotalLatency</key>
+	<string>shouldInitializeSegment</string>
+	<key>scenarioScale</key>
+	<string>audioAppearance</string>
+	<key>schemaMomentum</key>
+	<string>columnEnvironment</string>
+</dict>
+</plist>

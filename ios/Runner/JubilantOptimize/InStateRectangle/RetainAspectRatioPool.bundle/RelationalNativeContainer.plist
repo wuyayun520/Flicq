@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerAcceleration</key>
+	<string>mediocreSubscription</string>
+	<key>crudeScene</key>
+	<string>transitionBuffer</string>
+	<key>lossLocation</key>
+	<string>completionResponse</string>
+	<key>mainAppBar</key>
+	<string>extendAsync</string>
+	<key>nextCache</key>
+	<string>widgetmerger</string>
+	<key>resilientBandwidth</key>
+	<string>disparateObject</string>
+	<key>shouldInitializeStamp</key>
+	<string>segueRotation</string>
+	<key>significantPolyfill</key>
+	<string>shouldDecodeOperation</string>
+</dict>
+</plist>

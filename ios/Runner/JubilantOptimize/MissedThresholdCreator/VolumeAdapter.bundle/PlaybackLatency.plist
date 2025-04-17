@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedGradient</key>
+	<string>floatStream</string>
+	<key>arithmeticDensity</key>
+	<string>detailFormat</string>
+	<key>containerFormat</key>
+	<string>interpolationJob</string>
+	<key>publicMechanism</key>
+	<string>curveObserver</string>
+	<key>semanticCache</key>
+	<string>shouldTransitionBoxShadow</string>
+	<key>shouldStartStack</key>
+	<string>disconnectNotifier</string>
+	<key>singleIntensity</key>
+	<string>canHandleGrayscale</string>
+	<key>symmetricImpact</key>
+	<string>symbolKind</string>
+	<key>uniqueSemantics</key>
+	<string>startInitiators</string>
+</dict>
+</plist>

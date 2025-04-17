@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonformmargin</key>
+	<string>robustwidgetinterval</string>
+	<key>confidentialityOpacity</key>
+	<string>discardedEvaluation</string>
+	<key>configurationconnector</key>
+	<string>dialogsPhase</string>
+	<key>controllertop</key>
+	<string>clipperLayer</string>
+	<key>evaluationVisible</key>
+	<string>widgetevaluation</string>
+	<key>methodSpeed</key>
+	<string>iconFrequency</string>
+	<key>positionprocessindex</key>
+	<string>completedAspect</string>
+</dict>
+</plist>

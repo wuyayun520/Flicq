@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderPosition</key>
+	<string>intensityPhase</string>
+	<key>latencyinterval</key>
+	<string>transitionBuffer</string>
+	<key>notificationprototypedensity</key>
+	<string>makeStore</string>
+	<key>paintclipper</key>
+	<string>overlayDistance</string>
+	<key>roleTop</key>
+	<string>customizedStoryboard</string>
+	<key>shouldresumeeffect</key>
+	<string>captionfragments</string>
+	<key>sineSpeed</key>
+	<string>shouldPublishCaption</string>
+	<key>skinResponse</key>
+	<string>resizableTweak</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterShape</key>
+	<string>sinkorigin</string>
+	<key>delegateFormat</key>
+	<string>greatCard</string>
+	<key>fixedNavigation</key>
+	<string>accessibleCluster</string>
+	<key>flexibleStoryboard</key>
+	<string>skipKernel</string>
+	<key>publicpositiontop</key>
+	<string>sharedGrayscale</string>
+	<key>shouldObserveSpecifier</key>
+	<string>robustAnimator</string>
+	<key>shouldSetStateGesture</key>
+	<string>vectorContext</string>
+</dict>
+</plist>

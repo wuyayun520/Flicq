@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailMode</key>
+	<string>paddingTint</string>
+	<key>diffableResilience</key>
+	<string>dialogsPosition</string>
+	<key>iconDensity</key>
+	<string>cubitBridge</string>
+	<key>statesystemmode</key>
+	<string>unaryType</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chooserState</key>
+	<string>originalEquivalent</string>
+	<key>curvestore</key>
+	<string>beginnerTabBar</string>
+	<key>desktopChannels</key>
+	<string>serializeBaseline</string>
+	<key>dialogsState</key>
+	<string>descentHue</string>
+	<key>semanticHandler</key>
+	<string>animatedCollection</string>
+	<key>sustainableAnimatedContainer</key>
+	<string>maxBehavior</string>
+</dict>
+</plist>

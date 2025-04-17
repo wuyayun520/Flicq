@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionDuration</key>
+	<string>requestRow</string>
+	<key>equivalentfeedback</key>
+	<string>shouldMountedSpine</string>
+	<key>prismaticChooser</key>
+	<string>custompaintBridge</string>
+	<key>shouldTrainInstruction</key>
+	<string>lostUsage</string>
+	<key>shouldvalidatesensor</key>
+	<string>decoupleTransformer</string>
+	<key>sophisticatedInterface</key>
+	<string>gateBehavior</string>
+</dict>
+</plist>

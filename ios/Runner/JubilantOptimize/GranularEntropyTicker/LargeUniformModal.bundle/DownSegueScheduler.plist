@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentVideo</key>
+	<string>serializeObserver</string>
+	<key>convolutionBorder</key>
+	<string>smartProvider</string>
+	<key>mutableConfiguration</key>
+	<string>pinchableThreshold</string>
+	<key>respectiveArithmetic</key>
+	<string>executeChart</string>
+	<key>similarTraversal</key>
+	<string>queueFunction</string>
+	<key>webAwait</key>
+	<string>convolutionTension</string>
+</dict>
+</plist>

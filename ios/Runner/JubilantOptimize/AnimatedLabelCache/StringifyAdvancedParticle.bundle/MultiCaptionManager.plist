@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileException</key>
+	<string>canTrainBuilder</string>
+	<key>denseHistogram</key>
+	<string>fillReducer</string>
+	<key>diffableDetector</key>
+	<string>completedStamp</string>
+	<key>errorCenter</key>
+	<string>compositionalError</string>
+	<key>infrastructureDirection</key>
+	<string>respectiveInstruction</string>
+	<key>ischallenge</key>
+	<string>heapInteraction</string>
+	<key>nodeOrigin</key>
+	<string>bindDropdownButton</string>
+	<key>oldparticle</key>
+	<string>originalProject</string>
+	<key>responsiveOption</key>
+	<string>createResult</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialScene</key>
+	<string>keyWidget</string>
+	<key>factoryasshape</key>
+	<string>shouldStreamBehavior</string>
+	<key>invisibleLog</key>
+	<string>liteInteractor</string>
+	<key>mapperSkewY</key>
+	<string>sequentialslash</string>
+	<key>nodevalidation</key>
+	<string>wrapperAppearance</string>
+	<key>orchestrateequalization</key>
+	<string>sortedRadius</string>
+	<key>specifyProvision</key>
+	<string>composableduration</string>
+</dict>
+</plist>

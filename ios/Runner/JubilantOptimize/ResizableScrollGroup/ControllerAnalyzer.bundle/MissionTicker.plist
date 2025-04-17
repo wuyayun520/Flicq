@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedParticle</key>
+	<string>optimizerEdge</string>
+	<key>disparateMend</key>
+	<string>priorInterpolation</string>
+	<key>rapidListener</key>
+	<string>canDeserializeAxis</string>
+	<key>shouldFetchDescriptor</key>
+	<string>graphicbufferfrequency</string>
+</dict>
+</plist>

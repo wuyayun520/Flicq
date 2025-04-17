@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyUsage</key>
+	<string>publishCertificate</string>
+	<key>lastBrush</key>
+	<string>symmetricgradientsize</string>
+	<key>seamlessScreen</key>
+	<string>materializeTexture</string>
+	<key>shouldcreateexpanded</key>
+	<string>deferredShader</string>
+	<key>stampinsidebuffer</key>
+	<string>canNavigateIcon</string>
+	<key>tabbarname</key>
+	<string>triggerScale</string>
+	<key>textFormat</key>
+	<string>matrixviascope</string>
+</dict>
+</plist>

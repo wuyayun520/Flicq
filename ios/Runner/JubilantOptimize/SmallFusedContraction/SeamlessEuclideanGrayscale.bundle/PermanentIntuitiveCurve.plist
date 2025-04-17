@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPolyfill</key>
+	<string>delegatemodedistance</string>
+	<key>diffablegrain</key>
+	<string>arithmeticCompleter</string>
+	<key>immutableProject</key>
+	<string>completerDensity</string>
+	<key>isolatepadding</key>
+	<string>curvecontrast</string>
+</dict>
+</plist>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enhancesensor</key>
+	<string>oldprovision</string>
+	<key>resolverSkewX</key>
+	<string>blocVar</string>
+	<key>shouldPopGrayscale</key>
+	<string>concreteEfficiency</string>
+</dict>
+</plist>

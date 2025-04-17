@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetpressure</key>
+	<string>particleSkewX</string>
+	<key>challengecontextmode</key>
+	<string>usedInformation</string>
+	<key>deferredtopicshape</key>
+	<string>generateListener</string>
+	<key>frameScale</key>
+	<string>reactivePublisher</string>
+	<key>modulustraversal</key>
+	<string>mediocreCursor</string>
+	<key>similardurationlocation</key>
+	<string>draggableManager</string>
+	<key>tweenCoord</key>
+	<string>draggableConstraint</string>
+</dict>
+</plist>

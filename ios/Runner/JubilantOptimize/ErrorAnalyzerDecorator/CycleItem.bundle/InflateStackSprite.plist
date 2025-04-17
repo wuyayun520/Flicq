@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicSaturation</key>
+	<string>certificateTheme</string>
+	<key>mutableTentative</key>
+	<string>storageoutsidestyle</string>
+	<key>protectedInteraction</key>
+	<string>keepTheme</string>
+	<key>publicResult</key>
+	<string>precisionTail</string>
+</dict>
+</plist>

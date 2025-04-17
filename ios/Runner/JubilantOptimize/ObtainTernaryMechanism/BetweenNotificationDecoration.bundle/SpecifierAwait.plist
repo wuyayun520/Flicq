@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateStatus</key>
+	<string>shouldPopInteger</string>
+	<key>comprehensiveWidget</key>
+	<string>mountedNib</string>
+	<key>granularExpanded</key>
+	<string>fusedSorter</string>
+	<key>immutableSignature</key>
+	<string>shouldDisposeExpanded</string>
+	<key>menuAppearance</key>
+	<string>repositoryState</string>
+	<key>nativeBitrate</key>
+	<string>layoutTheme</string>
+	<key>shouldHandleDecoration</key>
+	<string>shouldStreamVariant</string>
+	<key>shouldObserveDrawer</key>
+	<string>displayableModel</string>
+</dict>
+</plist>

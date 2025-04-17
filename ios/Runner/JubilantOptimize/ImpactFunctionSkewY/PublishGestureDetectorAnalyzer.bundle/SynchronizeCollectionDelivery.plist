@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftdependency</key>
+	<string>mapperTint</string>
+	<key>hasMember</key>
+	<string>histogramLayer</string>
+	<key>locateprogressbar</key>
+	<string>shouldSetStateInteger</string>
+	<key>normalicon</key>
+	<string>listviewofadapter</string>
+	<key>respectiveConstraint</key>
+	<string>canReplaceDecoration</string>
+	<key>shouldFormatWorkflow</key>
+	<string>euclideanIntegration</string>
+	<key>shouldMountSensor</key>
+	<string>texturesinceform</string>
+	<key>shouldNavigateAperture</key>
+	<string>minCoordinator</string>
+	<key>shouldUnmountEntropy</key>
+	<string>alphaSpeed</string>
+</dict>
+</plist>

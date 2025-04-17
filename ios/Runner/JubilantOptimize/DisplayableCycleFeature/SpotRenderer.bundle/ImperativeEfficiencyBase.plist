@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitQuaternion</key>
+	<string>largeSession</string>
+	<key>handleraboutbridge</key>
+	<string>canEmitModal</string>
+	<key>hierarchicalAnimation</key>
+	<string>asynchronousBinary</string>
+	<key>mutableUsage</key>
+	<string>shouldDeserializeStream</string>
+	<key>numericalGate</key>
+	<string>canPushLoss</string>
+	<key>seamlessCaption</key>
+	<string>standaloneStateful</string>
+	<key>textvelocity</key>
+	<string>calculateGrid</string>
+	<key>traversalSpeed</key>
+	<string>unbindTextField</string>
+</dict>
+</plist>

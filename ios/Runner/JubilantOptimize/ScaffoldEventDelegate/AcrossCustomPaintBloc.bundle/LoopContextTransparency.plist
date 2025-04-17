@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedstorage</key>
+	<string>sceneVar</string>
+	<key>canvasadapterposition</key>
+	<string>protocolLayer</string>
+	<key>interactiveCycle</key>
+	<string>cellthroughput</string>
+	<key>interpolationOpacity</key>
+	<string>promiseHead</string>
+	<key>localVariant</key>
+	<string>canvasFlyweight</string>
+	<key>notifiersingletonrate</key>
+	<string>assetSize</string>
+	<key>shouldkeepaperture</key>
+	<string>specifyMetadata</string>
+	<key>statefulQuaternion</key>
+	<string>appendSlider</string>
+</dict>
+</plist>

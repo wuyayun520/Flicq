@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzeplayback</key>
+	<string>samplecolor</string>
+	<key>challengePosition</key>
+	<string>deferredDetail</string>
+	<key>hasanimatedcontainer</key>
+	<string>clusterValidation</string>
+	<key>resiliencerotation</key>
+	<string>canProcessResource</string>
+	<key>serviceimpact</key>
+	<string>ephemeralTexture</string>
+	<key>shouldRestartGrayscale</key>
+	<string>overlayhandler</string>
+	<key>smallsprite</key>
+	<string>compositionoperationsaturation</string>
+	<key>taskrestriction</key>
+	<string>wrapCompleter</string>
+</dict>
+</plist>

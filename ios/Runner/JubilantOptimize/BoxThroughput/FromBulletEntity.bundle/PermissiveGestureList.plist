@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcolumn</key>
+	<string>dedicatedQueue</string>
+	<key>bulletcompositepadding</key>
+	<string>skinbrightness</string>
+	<key>characterVisibility</key>
+	<string>statefulenvironmentopacity</string>
+	<key>cubittheme</key>
+	<string>shouldUnbindPriority</string>
+	<key>emitterEdge</key>
+	<string>visitIntensity</string>
+	<key>iterativeBuilder</key>
+	<string>hierarchicalDimension</string>
+	<key>resizedelegate</key>
+	<string>prevSearcher</string>
+	<key>shouldAnimatePriority</key>
+	<string>shouldSerializeSizedBox</string>
+	<key>symmetricAudio</key>
+	<string>disparateModule</string>
+	<key>webPainter</key>
+	<string>canTransformEffect</string>
+</dict>
+</plist>

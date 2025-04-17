@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInitiators</key>
+	<string>textbysingleton</string>
+	<key>confidentialitymargin</key>
+	<string>formatVariant</string>
+	<key>enabledconstant</key>
+	<string>intuitiveComponent</string>
+	<key>ephemeralDependency</key>
+	<string>provideUtil</string>
+	<key>handlestack</key>
+	<string>visibleNode</string>
+	<key>maporstructure</key>
+	<string>builderSpeed</string>
+	<key>prevPet</key>
+	<string>pointBorder</string>
+	<key>shouldFetchAnimation</key>
+	<string>invokeResult</string>
+</dict>
+</plist>

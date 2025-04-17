@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grouphue</key>
+	<string>bandwidthBound</string>
+	<key>lazymapper</key>
+	<string>decoupleIntensity</string>
+	<key>logschema</key>
+	<string>customizedWorkflow</string>
+	<key>shouldPrepareCube</key>
+	<string>pageviewStrategy</string>
+	<key>shouldcancelrole</key>
+	<string>robustZone</string>
+	<key>temporaryheap</key>
+	<string>shouldanimateoverlay</string>
+</dict>
+</plist>

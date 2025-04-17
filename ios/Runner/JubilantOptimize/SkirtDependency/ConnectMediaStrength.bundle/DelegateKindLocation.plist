@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConsumption</key>
+	<string>aggregatedecoration</string>
+	<key>constraintLocation</key>
+	<string>mapperStyle</string>
+	<key>profileSize</key>
+	<string>toleranceVisible</string>
+	<key>shouldConnectAppBar</key>
+	<string>drawerCenter</string>
+	<key>shouldvalidatetabview</key>
+	<string>fusedCallback</string>
+	<key>titleoperationtail</key>
+	<string>resumeSizedBox</string>
+</dict>
+</plist>

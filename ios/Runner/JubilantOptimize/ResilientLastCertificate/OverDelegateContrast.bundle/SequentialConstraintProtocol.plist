@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityBound</key>
+	<string>directlyamortization</string>
+	<key>constantInset</key>
+	<string>textDuration</string>
+	<key>difficultFeature</key>
+	<string>synchronousBox</string>
+	<key>persistentShape</key>
+	<string>mountedColumn</string>
+	<key>shouldMountedStamp</key>
+	<string>cartesianAxis</string>
+	<key>symbolstorage</key>
+	<string>stopEqualization</string>
+</dict>
+</plist>

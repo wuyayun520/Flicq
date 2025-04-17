@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileMediaQuery</key>
+	<string>paintersplitter</string>
+	<key>basicSpine</key>
+	<string>listenpageview</string>
+	<key>comprehensiveNotification</key>
+	<string>usageParam</string>
+	<key>denseBitrate</key>
+	<string>smallState</string>
+	<key>gemtask</key>
+	<string>parallelMobile</string>
+	<key>grayscalePadding</key>
+	<string>disabledScroller</string>
+	<key>labelDensity</key>
+	<string>immediateNotification</string>
+	<key>opaqueMaster</key>
+	<string>completedBinary</string>
+	<key>tappableWrapper</key>
+	<string>shouldDisconnectCustomPaint</string>
+</dict>
+</plist>

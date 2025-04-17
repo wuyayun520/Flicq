@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureCount</key>
+	<string>agileChannel</string>
+	<key>chooserAppearance</key>
+	<string>sessionOffset</string>
+	<key>currentReplica</key>
+	<string>vectorbound</string>
+	<key>defaultoperation</key>
+	<string>interfaceSize</string>
+	<key>insteadcustompaint</key>
+	<string>canUnbindProjection</string>
+	<key>offsetRate</key>
+	<string>deserializeOffset</string>
+	<key>resilientIndicator</key>
+	<string>explicitOptimizer</string>
+	<key>shouldpushcosine</key>
+	<string>dynamicMovement</string>
+	<key>usedOperation</key>
+	<string>nativeBullet</string>
+</dict>
+</plist>

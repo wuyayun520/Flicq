@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compilestate</key>
+	<string>secondConsumer</string>
+	<key>imperativeOption</key>
+	<string>movetimer</string>
+	<key>keyVolume</key>
+	<string>onsamplechanged</string>
+	<key>materialCycle</key>
+	<string>canSaveCurve</string>
+	<key>textprovider</key>
+	<string>signBorder</string>
+</dict>
+</plist>

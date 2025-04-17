@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerreceiver</key>
+	<string>lostScenario</string>
+	<key>currentprojection</key>
+	<string>scaleBrightness</string>
+	<key>difficultChooser</key>
+	<string>replacegradient</string>
+	<key>directlyProcessor</key>
+	<string>dynamicUtil</string>
+	<key>nextCapacities</key>
+	<string>decodeSwitch</string>
+	<key>oncupertinochanged</key>
+	<string>shouldSubscribeVariant</string>
+	<key>rectangleMargin</key>
+	<string>usecaseTint</string>
+	<key>scaffolduntilparam</key>
+	<string>exceptionDensity</string>
+	<key>scrollbandwidth</key>
+	<string>referenceComposite</string>
+	<key>visiblechaptershape</key>
+	<string>smallLoss</string>
+</dict>
+</plist>

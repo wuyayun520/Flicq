@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMethod</key>
+	<string>canYieldExtension</string>
+	<key>decodefeature</key>
+	<string>pendingInstruction</string>
+	<key>geometricSegment</key>
+	<string>oldBehavior</string>
+	<key>handleinterpolation</key>
+	<string>compositionalmanager</string>
+	<key>onviewchanged</key>
+	<string>utilcontextkind</string>
+	<key>publicContainer</key>
+	<string>durationaboutobserver</string>
+	<key>rapidTangent</key>
+	<string>desktopRemainder</string>
+	<key>sensorSkewX</key>
+	<string>permissivePromise</string>
+	<key>smartIsolate</key>
+	<string>shouldAnimatePet</string>
+	<key>variantState</key>
+	<string>logBottom</string>
+</dict>
+</plist>

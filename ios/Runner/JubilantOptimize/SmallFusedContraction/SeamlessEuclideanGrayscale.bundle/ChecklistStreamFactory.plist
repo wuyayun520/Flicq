@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioKind</key>
+	<string>pagerResponse</string>
+	<key>chapterinteraction</key>
+	<string>spineResponse</string>
+	<key>curveframeworkstyle</key>
+	<string>unsortedGraphic</string>
+	<key>dialogsTransparency</key>
+	<string>movementRotation</string>
+	<key>disconnectternary</key>
+	<string>inheritedloader</string>
+	<key>positionedfunctionduration</key>
+	<string>tolerancedelay</string>
+	<key>resetprojection</key>
+	<string>publicMapper</string>
+	<key>sineMode</key>
+	<string>delicateAxis</string>
+	<key>subsequentResult</key>
+	<string>disposeCatalyst</string>
+</dict>
+</plist>

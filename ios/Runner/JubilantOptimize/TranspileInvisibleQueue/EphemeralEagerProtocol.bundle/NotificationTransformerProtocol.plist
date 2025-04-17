@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationStatus</key>
+	<string>mediocreDialogs</string>
+	<key>geometricConvolution</key>
+	<string>inkwellMode</string>
+	<key>inkwellInset</key>
+	<string>nativenavigator</string>
+	<key>shouldNotifyPadding</key>
+	<string>boxRight</string>
+	<key>shouldStreamImage</key>
+	<string>creatorTint</string>
+	<key>smallqueueformat</key>
+	<string>zoneamonglevel</string>
+	<key>stepRotation</key>
+	<string>histogramduringtype</string>
+	<key>visibleLayer</key>
+	<string>shouldFormatCatalyst</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMechanism</key>
+	<string>writeStream</string>
+	<key>chartdetector</key>
+	<string>sharedKernel</string>
+	<key>deferredOffset</key>
+	<string>createRemainder</string>
+	<key>endmonster</key>
+	<string>shouldPrepareDropdownButton</string>
+	<key>hierarchicaleventborder</key>
+	<string>batchWork</string>
+	<key>opaqueDecoration</key>
+	<string>channelsTag</string>
+	<key>temporaryLocalization</key>
+	<string>disposeCache</string>
+	<key>usecaseTail</key>
+	<string>diffablePoint</string>
+</dict>
+</plist>

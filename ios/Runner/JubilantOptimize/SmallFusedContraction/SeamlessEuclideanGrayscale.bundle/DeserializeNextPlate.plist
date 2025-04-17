@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrityForce</key>
+	<string>numericalevaluation</string>
+	<key>objectBehavior</key>
+	<string>unmounticon</string>
+	<key>smartRadio</key>
+	<string>throughputFeedback</string>
+	<key>textfieldAppearance</key>
+	<string>shouldTrainNavigator</string>
+</dict>
+</plist>

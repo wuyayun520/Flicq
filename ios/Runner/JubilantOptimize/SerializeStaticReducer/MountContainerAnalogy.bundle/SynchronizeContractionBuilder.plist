@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerSkewX</key>
+	<string>canStreamMomentum</string>
+	<key>cardBrightness</key>
+	<string>resourcestyle</string>
+	<key>characteristiccontrast</key>
+	<string>mediaMomentum</string>
+	<key>connectwidget</key>
+	<string>canDisposeCharacter</string>
+	<key>directSorter</key>
+	<string>checklistHue</string>
+	<key>diversifiedEquivalent</key>
+	<string>disconnectGrayscale</string>
+	<key>euclideanCluster</key>
+	<string>layoutchannel</string>
+	<key>onmobiletap</key>
+	<string>hasBullet</string>
+	<key>scenestate</key>
+	<string>parallelMapper</string>
+</dict>
+</plist>

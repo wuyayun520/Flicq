@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesResponse</key>
+	<string>optimizershapecontrast</string>
+	<key>crucialBuffer</key>
+	<string>spotTail</string>
+	<key>errorMode</key>
+	<string>erasesizedbox</string>
+	<key>gestureBehavior</key>
+	<string>discardedNavigator</string>
+	<key>latencySize</key>
+	<string>methodtail</string>
+	<key>logTheme</key>
+	<string>canUnmountedIndicator</string>
+</dict>
+</plist>

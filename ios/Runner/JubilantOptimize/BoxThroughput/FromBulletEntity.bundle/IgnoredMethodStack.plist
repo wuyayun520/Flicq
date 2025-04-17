@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBound</key>
+	<string>infoKind</string>
+	<key>hashBrightness</key>
+	<string>completionTemple</string>
+	<key>medialoader</key>
+	<string>multiAudio</string>
+	<key>overlayInteraction</key>
+	<string>converterBehavior</string>
+	<key>semanticsSpacing</key>
+	<string>specifyOptimizer</string>
+	<key>swiftResponse</key>
+	<string>shouldRoutePlayback</string>
+</dict>
+</plist>

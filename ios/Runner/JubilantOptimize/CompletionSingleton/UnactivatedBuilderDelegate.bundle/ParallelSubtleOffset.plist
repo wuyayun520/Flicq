@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedProfile</key>
+	<string>hasExpanded</string>
+	<key>borderscene</key>
+	<string>statelessexpandedopacity</string>
+	<key>eagerEqualization</key>
+	<string>encapsulateModel</string>
+	<key>gemfromlayer</key>
+	<string>publishSensor</string>
+	<key>largeSymbol</key>
+	<string>adaptiveAmortization</string>
+	<key>originalSymbol</key>
+	<string>custompaintProxy</string>
+	<key>remediationtag</key>
+	<string>animatedScenario</string>
+	<key>statusFormat</key>
+	<string>fillRadius</string>
+</dict>
+</plist>

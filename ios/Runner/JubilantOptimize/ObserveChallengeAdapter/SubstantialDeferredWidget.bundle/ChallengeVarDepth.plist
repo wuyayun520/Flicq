@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionzoneflags</key>
+	<string>eventpicker</string>
+	<key>builderscopetype</key>
+	<string>draggableFuture</string>
+	<key>resolverstagevalidation</key>
+	<string>smartBuffer</string>
+	<key>shouldAttachMatrix</key>
+	<string>significantEvent</string>
+	<key>shouldMountRadio</key>
+	<string>fetchBrush</string>
+</dict>
+</plist>

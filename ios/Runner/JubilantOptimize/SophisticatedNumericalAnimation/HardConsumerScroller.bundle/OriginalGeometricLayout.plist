@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLabel</key>
+	<string>canSkipGestureDetector</string>
+	<key>persistpageview</key>
+	<string>chapterDistance</string>
+	<key>prismaticStep</key>
+	<string>generateAlignment</string>
+	<key>sharedFrame</key>
+	<string>shouldUnmountVariant</string>
+	<key>smallconstraint</key>
+	<string>equivalentStyle</string>
+	<key>subtleMap</key>
+	<string>retainedRadius</string>
+	<key>utilshape</key>
+	<string>canStartInkWell</string>
+</dict>
+</plist>

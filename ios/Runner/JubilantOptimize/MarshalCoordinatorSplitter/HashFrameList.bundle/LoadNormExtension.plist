@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeConstant</key>
+	<string>oldMap</string>
+	<key>composableElement</key>
+	<string>webPrecision</string>
+	<key>inheritedProvision</key>
+	<string>cubitForce</string>
+	<key>largeoffset</key>
+	<string>unmountReduction</string>
+	<key>navigatoruntilbuffer</key>
+	<string>enabledChart</string>
+	<key>playbackstorage</key>
+	<string>shouldUpdateOption</string>
+	<key>shouldRestartFlex</key>
+	<string>materialMaterializer</string>
+</dict>
+</plist>

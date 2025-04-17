@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushrotation</key>
+	<string>canvasState</string>
+	<key>cubeRight</key>
+	<string>capacityLocation</string>
+	<key>endsensor</key>
+	<string>presenterScale</string>
+	<key>ephemeralText</key>
+	<string>interactiveState</string>
+	<key>histogramcount</key>
+	<string>meshstatus</string>
+	<key>impactLocation</key>
+	<string>popasync</string>
+	<key>referenceMode</key>
+	<string>singleMission</string>
+	<key>shouldYieldTool</key>
+	<string>backwarddrawer</string>
+	<key>spriteSkewX</key>
+	<string>delegateprovider</string>
+</dict>
+</plist>

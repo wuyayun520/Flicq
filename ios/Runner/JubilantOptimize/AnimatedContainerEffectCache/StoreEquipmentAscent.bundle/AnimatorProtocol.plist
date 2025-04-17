@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioproxyformat</key>
+	<string>baselineSaturation</string>
+	<key>bulletLocation</key>
+	<string>parallelLoss</string>
+	<key>originalGroup</key>
+	<string>largeObject</string>
+	<key>registerdecoration</key>
+	<string>presentSensor</string>
+	<key>setstatemusic</key>
+	<string>displayableSound</string>
+	<key>vectorshapeinset</key>
+	<string>awaitLocation</string>
+</dict>
+</plist>

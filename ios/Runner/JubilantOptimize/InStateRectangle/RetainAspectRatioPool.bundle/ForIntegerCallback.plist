@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveZone</key>
+	<string>cycleTemple</string>
+	<key>buildbatch</key>
+	<string>statefulMultiplication</string>
+	<key>concurrentPermutation</key>
+	<string>captureSubscription</string>
+	<key>confidentialityRotation</key>
+	<string>smartPet</string>
+	<key>directCallback</key>
+	<string>cancelstateless</string>
+	<key>navigationSpeed</key>
+	<string>imperativeTrajectory</string>
+	<key>notificationPadding</key>
+	<string>composableOffset</string>
+	<key>obtainoption</key>
+	<string>disabledView</string>
+	<key>permissiveCoordinator</key>
+	<string>canFinishDocument</string>
+	<key>protectedFactory</key>
+	<string>containerBorder</string>
+</dict>
+</plist>

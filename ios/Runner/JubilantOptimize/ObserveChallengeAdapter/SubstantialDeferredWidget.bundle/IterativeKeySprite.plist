@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldDisconnectSpecifier</key>
+	<string>quitbase</string>
+	<key>staticMenu</key>
+	<string>desktopObserver</string>
+	<key>threadRate</key>
+	<string>heapFlags</string>
+	<key>transitioncomponent</key>
+	<string>completedDocument</string>
+</dict>
+</plist>

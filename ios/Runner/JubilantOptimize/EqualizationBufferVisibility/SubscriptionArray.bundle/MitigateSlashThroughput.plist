@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedInterpolation</key>
+	<string>sessionformat</string>
+	<key>consultativeFactory</key>
+	<string>sineinset</string>
+	<key>gradientmediatorfrequency</key>
+	<string>beginnerComposition</string>
+	<key>protectedAction</key>
+	<string>easySizedBox</string>
+	<key>publicAwait</key>
+	<string>gradientScope</string>
+	<key>sharedAxis</key>
+	<string>shouldPresentGate</string>
+	<key>shouldCancelListView</key>
+	<string>shouldFetchConsumer</string>
+	<key>shouldValidateSkin</key>
+	<string>sustainableSlider</string>
+</dict>
+</plist>

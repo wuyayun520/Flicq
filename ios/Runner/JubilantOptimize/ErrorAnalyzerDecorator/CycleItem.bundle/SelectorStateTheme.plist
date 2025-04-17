@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFeedback</key>
+	<string>materializerScale</string>
+	<key>hardEvent</key>
+	<string>transposeLayout</string>
+	<key>mediaHue</key>
+	<string>callbackSingleton</string>
+	<key>protectedTable</key>
+	<string>typicalChannels</string>
+	<key>resilientPicker</key>
+	<string>dispatchCurve</string>
+	<key>routemap</key>
+	<string>smartprovider</string>
+	<key>setstatebloc</key>
+	<string>shouldDeserializeModal</string>
+	<key>shouldloadtask</key>
+	<string>logarithmBound</string>
+	<key>tabviewpressure</key>
+	<string>switchVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutableGestureDetector</key>
+	<string>accessibleCharacter</string>
+	<key>sharedCubit</key>
+	<string>composablePlate</string>
+	<key>staticStamp</key>
+	<string>formatDirection</string>
+	<key>typicalAnalogy</key>
+	<string>desktopModule</string>
+</dict>
+</plist>

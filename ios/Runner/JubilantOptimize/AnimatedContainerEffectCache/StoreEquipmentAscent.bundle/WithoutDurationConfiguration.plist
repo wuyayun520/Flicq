@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>expandedslider</key>
+	<string>signatureFeedback</string>
+	<key>interactiveLoop</key>
+	<string>robustStroke</string>
+	<key>onmobiletap</key>
+	<string>equipmentdepth</string>
+	<key>pageviewForce</key>
+	<string>moveTween</string>
+	<key>particlejobinset</key>
+	<string>formatThread</string>
+	<key>shouldDisconnectTangent</key>
+	<string>shouldEndStamp</string>
+	<key>shouldpersistconstraint</key>
+	<string>fragmentsTop</string>
+</dict>
+</plist>

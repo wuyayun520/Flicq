@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontaineralignment</key>
+	<string>greatSubpixel</string>
+	<key>arithmeticTrigger</key>
+	<string>encodeHeap</string>
+	<key>combineredge</key>
+	<string>schedulePosition</string>
+	<key>consultativeMomentum</key>
+	<string>autoDispatcher</string>
+	<key>eagerBoxShadow</key>
+	<string>persistentCatalyst</string>
+	<key>multiTexture</key>
+	<string>publicRemediation</string>
+	<key>oldSchema</key>
+	<string>tickerParameter</string>
+	<key>parallelQueue</key>
+	<string>observeIndicator</string>
+	<key>sessionshade</key>
+	<string>gemadapterborder</string>
+	<key>shouldNotifyTernary</key>
+	<string>respectivePermutation</string>
+</dict>
+</plist>

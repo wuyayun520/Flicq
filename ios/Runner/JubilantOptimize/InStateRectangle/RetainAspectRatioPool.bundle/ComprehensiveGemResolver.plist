@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoalphapressure</key>
+	<string>trainzone</string>
+	<key>contrastType</key>
+	<string>decoupleUtil</string>
+	<key>disabledAlignment</key>
+	<string>integerDirection</string>
+	<key>equalmaterial</key>
+	<string>findObserver</string>
+	<key>shouldListenSizedBox</key>
+	<string>interfaceprototypebrightness</string>
+	<key>sinevelocity</key>
+	<string>statefulAction</string>
+</dict>
+</plist>

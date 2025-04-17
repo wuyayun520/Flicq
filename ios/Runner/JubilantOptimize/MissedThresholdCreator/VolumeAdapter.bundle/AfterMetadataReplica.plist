@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedFactory</key>
+	<string>swiftBottom</string>
+	<key>dynamicerror</key>
+	<string>missionTransparency</string>
+	<key>elasticAction</key>
+	<string>hierarchicaltabbarname</string>
+	<key>robustJoiner</key>
+	<string>transformDocument</string>
+	<key>shouldSerializeUnary</key>
+	<string>shouldDisconnectFlex</string>
+	<key>significantIndicator</key>
+	<string>initializeRepository</string>
+	<key>singletonForce</key>
+	<string>emitExtension</string>
+	<key>sliderdistance</key>
+	<string>unactivatedinjectionkind</string>
+</dict>
+</plist>

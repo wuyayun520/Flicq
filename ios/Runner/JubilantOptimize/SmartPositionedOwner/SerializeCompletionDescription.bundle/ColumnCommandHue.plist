@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTrigger</key>
+	<string>cachelayout</string>
+	<key>cursorColor</key>
+	<string>staticNavigator</string>
+	<key>customWorkflow</key>
+	<string>oldUsage</string>
+	<key>elementacceleration</key>
+	<string>layoutInterpreter</string>
+	<key>lostItem</key>
+	<string>priorityBridge</string>
+	<key>pageviewTop</key>
+	<string>newestTangent</string>
+</dict>
+</plist>

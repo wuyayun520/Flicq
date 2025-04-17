@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectrectangle</key>
+	<string>gramVisible</string>
+	<key>framelatency</key>
+	<string>largeAllocator</string>
+	<key>fusedQuaternion</key>
+	<string>movementOrientation</string>
+	<key>processorBottom</key>
+	<string>skinPressure</string>
+	<key>publicanimator</key>
+	<string>grainFrequency</string>
+	<key>resizableExponent</key>
+	<string>crudeinformation</string>
+	<key>routerorbuffer</key>
+	<string>replicateUseCase</string>
+	<key>sliderscheduler</key>
+	<string>opaquearithmeticdepth</string>
+	<key>smartBoxShadow</key>
+	<string>radiusCycle</string>
+	<key>unactivatedLoop</key>
+	<string>readFrame</string>
+</dict>
+</plist>

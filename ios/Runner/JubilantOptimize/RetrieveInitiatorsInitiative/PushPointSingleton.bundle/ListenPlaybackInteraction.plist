@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationSaturation</key>
+	<string>divideCurve</string>
+	<key>autoConverter</key>
+	<string>routerFacade</string>
+	<key>backwardSelector</key>
+	<string>transposeTicker</string>
+	<key>optimizeractivityedge</key>
+	<string>canUnmountHeap</string>
+	<key>pushallocator</key>
+	<string>baseSkewX</string>
+	<key>reactiveAnchor</key>
+	<string>petLayer</string>
+</dict>
+</plist>

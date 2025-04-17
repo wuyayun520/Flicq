@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardbound</key>
+	<string>shouldUnbindNorm</string>
+	<key>indicatorDepth</key>
+	<string>shouldParseSlider</string>
+	<key>pivotalRoute</key>
+	<string>resilientChart</string>
+	<key>previewtransparency</key>
+	<string>ignoredUseCase</string>
+	<key>similarTable</key>
+	<string>shouldresumeworkflow</string>
+</dict>
+</plist>

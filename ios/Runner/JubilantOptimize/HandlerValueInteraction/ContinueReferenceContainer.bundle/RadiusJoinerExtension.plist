@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellmomentum</key>
+	<string>canShowGrayscale</string>
+	<key>displayableAction</key>
+	<string>canInitializePadding</string>
+	<key>dynamicdescription</key>
+	<string>ignoredBaseline</string>
+	<key>euclideanRemainder</key>
+	<string>iterativeCharacter</string>
+	<key>inheritedConnector</key>
+	<string>modelForce</string>
+	<key>sizedboxborder</key>
+	<string>renameprovider</string>
+	<key>tensorcanvastint</key>
+	<string>shouldSerializeFuture</string>
+	<key>transformeratplatform</key>
+	<string>controllerDistance</string>
+	<key>variantSpeed</key>
+	<string>receiverVisibility</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoTail</key>
+	<string>loadModal</string>
+	<key>fixedScope</key>
+	<string>cellMemento</string>
+	<key>newestConnector</key>
+	<string>tweenfrequency</string>
+	<key>shouldEndOverlay</key>
+	<string>shouldCacheOptimizer</string>
+	<key>slashCount</key>
+	<string>interactiveTweak</string>
+	<key>stacktransparency</key>
+	<string>singleCard</string>
+	<key>subscriberSaturation</key>
+	<string>specifyUsage</string>
+	<key>thresholdContrast</key>
+	<string>canUnmountedAccessory</string>
+	<key>widgetHead</key>
+	<string>observerborder</string>
+</dict>
+</plist>

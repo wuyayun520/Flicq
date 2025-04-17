@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioSkewY</key>
+	<string>canCacheCard</string>
+	<key>compositionalAsync</key>
+	<string>scrollStyle</string>
+	<key>concreteBrush</key>
+	<string>modulusMemento</string>
+	<key>eagerCupertino</key>
+	<string>canRebuildMobile</string>
+	<key>gridhue</key>
+	<string>metadataAppearance</string>
+	<key>mutableVideo</key>
+	<string>dedicatedTabView</string>
+	<key>sinkMode</key>
+	<string>analogyBehavior</string>
+	<key>sinkrate</key>
+	<string>resizableawait</string>
+	<key>stampbound</key>
+	<string>drawPopup</string>
+	<key>temporaryChannel</key>
+	<string>canAttachCube</string>
+</dict>
+</plist>

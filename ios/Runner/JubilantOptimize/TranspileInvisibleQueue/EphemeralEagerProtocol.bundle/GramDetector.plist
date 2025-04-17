@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengesaturation</key>
+	<string>grainSkewY</string>
+	<key>chartTail</key>
+	<string>cartesianAperture</string>
+	<key>directlyScalability</key>
+	<string>fixedResource</string>
+	<key>rangeTheme</key>
+	<string>canStreamCube</string>
+	<key>schemaTint</key>
+	<string>reusableScope</string>
+	<key>shouldParsePoint</key>
+	<string>resilienceAcceleration</string>
+	<key>textStatus</key>
+	<string>progressbaroccasion</string>
+</dict>
+</plist>

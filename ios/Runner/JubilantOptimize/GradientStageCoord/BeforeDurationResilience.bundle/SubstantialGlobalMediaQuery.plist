@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonsingletonbrightness</key>
+	<string>uniformComponent</string>
+	<key>hierarchicalTimeline</key>
+	<string>poolSingleton</string>
+	<key>prevBinary</key>
+	<string>fusedUseCase</string>
+	<key>responsetag</key>
+	<string>restartConvolution</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosineshapekind</key>
+	<string>shouldBindSign</string>
+	<key>crudeMechanism</key>
+	<string>customColumn</string>
+	<key>denseButton</key>
+	<string>concurrentQuaternion</string>
+	<key>displayableInfo</key>
+	<string>interactiveshader</string>
+	<key>granularAwait</key>
+	<string>statelessInterval</string>
+	<key>lazyEvent</key>
+	<string>canLoadInstruction</string>
+	<key>modalCount</key>
+	<string>difficultScreen</string>
+	<key>reducerincludeparam</key>
+	<string>layerMemento</string>
+	<key>usedCluster</key>
+	<string>permissiveTentative</string>
+</dict>
+</plist>

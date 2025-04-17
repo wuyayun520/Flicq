@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedListener</key>
+	<string>intuitiveprogressbarbottom</string>
+	<key>customSine</key>
+	<string>localCursor</string>
+	<key>inflatespine</key>
+	<string>canListenText</string>
+	<key>notifyticker</key>
+	<string>transitionSine</string>
+	<key>shouldrenderinkwell</key>
+	<string>toolType</string>
+	<key>subtleGrayscale</key>
+	<string>significantRow</string>
+	<key>unsortedLayout</key>
+	<string>canFinishNotification</string>
+</dict>
+</plist>

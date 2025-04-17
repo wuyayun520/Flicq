@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticNode</key>
+	<string>buildBase</string>
+	<key>configurationamongflyweight</key>
+	<string>storyboardMethod</string>
+	<key>scrollablePresenter</key>
+	<string>metadataBridge</string>
+	<key>shouldSaveGesture</key>
+	<string>buttontransparency</string>
+	<key>shouldresumeequalization</key>
+	<string>adaptiveresolver</string>
+	<key>typicalThread</key>
+	<string>impressionfeedback</string>
+	<key>vertexCenter</key>
+	<string>releaseCubit</string>
+</dict>
+</plist>

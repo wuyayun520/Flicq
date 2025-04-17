@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleOffset</key>
+	<string>canInitializeMatrix</string>
+	<key>displayableAction</key>
+	<string>cosineacceleration</string>
+	<key>localizationamortization</key>
+	<string>pivotaltaskleft</string>
+	<key>lostFinder</key>
+	<string>validateController</string>
+	<key>observerrate</key>
+	<string>explicitTolerance</string>
+	<key>respectiveResolver</key>
+	<string>scrollBound</string>
+	<key>shouldContinueLabel</key>
+	<string>accessibleModal</string>
+	<key>symbolDistance</key>
+	<string>awaitPadding</string>
+</dict>
+</plist>

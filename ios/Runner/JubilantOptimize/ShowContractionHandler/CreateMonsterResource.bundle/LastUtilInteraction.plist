@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkprofile</key>
+	<string>processparticle</string>
+	<key>draggableResolver</key>
+	<string>coordinatoradapterbound</string>
+	<key>labelSkewY</key>
+	<string>interfaceFeedback</string>
+	<key>litestorage</key>
+	<string>canPushEqualization</string>
+	<key>lostButton</key>
+	<string>updateInitiators</string>
+	<key>opaqueWidget</key>
+	<string>builderstate</string>
+	<key>reactiveOptimizer</key>
+	<string>integrationBorder</string>
+	<key>uniformPresenter</key>
+	<string>routeMaster</string>
+</dict>
+</plist>

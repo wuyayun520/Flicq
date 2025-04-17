@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateaction</key>
+	<string>computepopup</string>
+	<key>customIcon</key>
+	<string>shapevisible</string>
+	<key>dedicatedInitiative</key>
+	<string>unmountedTask</string>
+	<key>featuresingletoncenter</key>
+	<string>intermediateVector</string>
+	<key>inactivechecklist</key>
+	<string>metadataRate</string>
+	<key>paintmenu</key>
+	<string>hyperbolicWidget</string>
+	<key>referenceborder</key>
+	<string>introspectTimer</string>
+	<key>unlockdecoration</key>
+	<string>interpolateInjection</string>
+</dict>
+</plist>

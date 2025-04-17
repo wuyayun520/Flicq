@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarMomentum</key>
+	<string>shouldNotifySkin</string>
+	<key>arithmeticblocstyle</key>
+	<string>optimizerDuration</string>
+	<key>arithmeticinformation</key>
+	<string>permanentQueue</string>
+	<key>brushtypevelocity</key>
+	<string>normalModal</string>
+	<key>completercount</key>
+	<string>wrapGrid</string>
+	<key>delicateMetadata</key>
+	<string>shouldDisposeMonster</string>
+	<key>diffableGradient</key>
+	<string>cacheAction</string>
+	<key>directGrid</key>
+	<string>lockHash</string>
+	<key>originaldocument</key>
+	<string>expandedTransparency</string>
+	<key>pinchableConstant</key>
+	<string>visibleSplitter</string>
+</dict>
+</plist>

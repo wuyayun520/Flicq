@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterdescription</key>
+	<string>customAppBar</string>
+	<key>customPadding</key>
+	<string>crudeAscent</string>
+	<key>layeranimator</key>
+	<string>cartesianRadio</string>
+	<key>pinchableActivity</key>
+	<string>reflectWidget</string>
+	<key>prevTextField</key>
+	<string>seekWidget</string>
+	<key>projectelasticity</key>
+	<string>newestDescent</string>
+	<key>resourcevideo</key>
+	<string>enumerateEvent</string>
+	<key>responseTension</key>
+	<string>adaptiveComponent</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectinterface</key>
+	<string>paintMaster</string>
+	<key>discardedGram</key>
+	<string>canMountAnchor</string>
+	<key>interfacesysteminteraction</key>
+	<string>techniquePlatform</string>
+	<key>isStack</key>
+	<string>clipSink</string>
+	<key>providerRotation</key>
+	<string>shouldNotifySlider</string>
+	<key>semanticTentative</key>
+	<string>robustWrapper</string>
+	<key>shouldDeserializeSine</key>
+	<string>setupcurve</string>
+</dict>
+</plist>

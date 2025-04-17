@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containershade</key>
+	<string>widgetresponse</string>
+	<key>crucialConverter</key>
+	<string>difficultNotifier</string>
+	<key>denseTrajectory</key>
+	<string>enumerateCurve</string>
+	<key>menuinmediator</key>
+	<string>directlyAnalogy</string>
+	<key>mountedtabview</key>
+	<string>shouldParseCosine</string>
+	<key>seamlessBatch</key>
+	<string>respectiveDrawer</string>
+	<key>subtleNib</key>
+	<string>inflatepriority</string>
+</dict>
+</plist>

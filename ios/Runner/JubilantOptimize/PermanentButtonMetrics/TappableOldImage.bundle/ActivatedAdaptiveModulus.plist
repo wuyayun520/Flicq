@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAllocator</key>
+	<string>timeMargin</string>
+	<key>effectbrightness</key>
+	<string>semanticsAction</string>
+	<key>fixedpreviewright</key>
+	<string>advancedGesture</string>
+	<key>inheritedTransition</key>
+	<string>shouldtrainchallenge</string>
+	<key>localizationarchitecture</key>
+	<string>loopIndex</string>
+	<key>pointoutsidecontext</key>
+	<string>ignoredasync</string>
+	<key>projectbound</key>
+	<string>continuemultiplication</string>
+	<key>shouldObserveMission</key>
+	<string>shouldprocessmedia</string>
+	<key>shouldPushCatalyst</key>
+	<string>subsequentRenderer</string>
+</dict>
+</plist>

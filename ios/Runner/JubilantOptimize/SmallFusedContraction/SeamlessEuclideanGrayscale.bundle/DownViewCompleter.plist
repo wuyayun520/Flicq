@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintinsidenumber</key>
+	<string>lifecycleStyle</string>
+	<key>consultativeCapacities</key>
+	<string>revisitIntensity</string>
+	<key>cycleSize</key>
+	<string>listenerOpacity</string>
+	<key>paintgrayscale</key>
+	<string>unsortedMedia</string>
+	<key>renamegrayscale</key>
+	<string>skirtAction</string>
+	<key>scrollableDistinction</key>
+	<string>setupRadius</string>
+	<key>shouldProcessButton</key>
+	<string>basicPosition</string>
+	<key>shouldrenderscreen</key>
+	<string>tablespeed</string>
+</dict>
+</plist>

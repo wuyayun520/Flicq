@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaShape</key>
+	<string>advancedSwift</string>
+	<key>labelrate</key>
+	<string>visiblecreator</string>
+	<key>largemetadata</key>
+	<string>dynamicTitle</string>
+	<key>sequentialUtil</key>
+	<string>listenPet</string>
+</dict>
+</plist>

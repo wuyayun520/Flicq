@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationcoord</key>
+	<string>updateSegue</string>
+	<key>dispatcherSkewY</key>
+	<string>canBindFragment</string>
+	<key>imperativeFlex</key>
+	<string>currentDetail</string>
+	<key>localOption</key>
+	<string>alphaDirection</string>
+	<key>mapDelay</key>
+	<string>discardedIntegration</string>
+	<key>shouldRebuildCoordinator</key>
+	<string>heapVisible</string>
+</dict>
+</plist>

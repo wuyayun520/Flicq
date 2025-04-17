@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopMesh</key>
+	<string>channelsstate</string>
+	<key>lazydescriptor</key>
+	<string>rebuildAnimation</string>
+	<key>observeutil</key>
+	<string>attachScale</string>
+	<key>publicListener</key>
+	<string>activityprocessorigin</string>
+	<key>secondpicker</key>
+	<string>lockStorage</string>
+	<key>shouldNavigateController</key>
+	<string>otherStorage</string>
+	<key>shouldParseCertificate</key>
+	<string>concreteeffect</string>
+	<key>unactivatedState</key>
+	<string>shouldHandleSpecifier</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedpreviewright</key>
+	<string>radioForce</string>
+	<key>loadnode</key>
+	<string>maxCatalyst</string>
+	<key>logarithmIndex</key>
+	<string>difficultHeap</string>
+	<key>metricsScale</key>
+	<string>decodeInterpolation</string>
+	<key>mobilesize</key>
+	<string>specifyAsync</string>
+	<key>modulusrepository</key>
+	<string>cubitName</string>
+	<key>shouldBuildRole</key>
+	<string>ternaryScope</string>
+	<key>shouldRebuildCoordinator</key>
+	<string>shouldReplaceSwift</string>
+</dict>
+</plist>

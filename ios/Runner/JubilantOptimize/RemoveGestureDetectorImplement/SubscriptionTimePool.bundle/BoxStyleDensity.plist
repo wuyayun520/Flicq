@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionError</key>
+	<string>canEmitRadio</string>
+	<key>activitycapacity</key>
+	<string>associatedData</string>
+	<key>asynchronousLatency</key>
+	<string>easychecklist</string>
+	<key>entropystructureformat</key>
+	<string>mediocreUtil</string>
+	<key>othertitle</key>
+	<string>spriteBridge</string>
+	<key>permissivedescription</key>
+	<string>animateRoute</string>
+	<key>shouldpauseentropy</key>
+	<string>titlekind</string>
+	<key>sorterMode</key>
+	<string>scenePlatform</string>
+	<key>utilDelay</key>
+	<string>dispatchMaster</string>
+</dict>
+</plist>

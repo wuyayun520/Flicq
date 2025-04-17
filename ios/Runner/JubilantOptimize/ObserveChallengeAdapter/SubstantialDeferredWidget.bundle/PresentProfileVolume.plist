@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerRotation</key>
+	<string>mediumStrength</string>
+	<key>capacityBound</key>
+	<string>creatorVelocity</string>
+	<key>delegateobserverhue</key>
+	<string>certificateTension</string>
+	<key>overlayResponse</key>
+	<string>pageviewVelocity</string>
+	<key>rebuildmobile</key>
+	<string>controllerDensity</string>
+	<key>sharedSlider</key>
+	<string>canPauseStoryboard</string>
+	<key>shouldInflateCertificate</key>
+	<string>lazyScale</string>
+	<key>shouldPresentBorder</key>
+	<string>shouldUnbindTable</string>
+</dict>
+</plist>

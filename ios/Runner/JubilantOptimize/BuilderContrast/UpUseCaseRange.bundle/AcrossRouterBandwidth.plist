@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInitiators</key>
+	<string>respondGroup</string>
+	<key>normIndex</key>
+	<string>canConnectMovement</string>
+	<key>previewfactory</key>
+	<string>shouldMountScreen</string>
+	<key>processorinterval</key>
+	<string>providerLeft</string>
+	<key>shouldStopChecklist</key>
+	<string>desktopJoiner</string>
+	<key>spriteInterval</key>
+	<string>integerComposite</string>
+	<key>visibleTitle</key>
+	<string>contrastBrightness</string>
+	<key>wrapperflags</key>
+	<string>associatedCompleter</string>
+</dict>
+</plist>

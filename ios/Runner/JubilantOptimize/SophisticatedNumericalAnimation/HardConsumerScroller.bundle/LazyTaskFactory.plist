@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeCycle</key>
+	<string>mutableSession</string>
+	<key>independentTraversal</key>
+	<string>binaryStage</string>
+	<key>publicallocatorspacing</key>
+	<string>webEfficiency</string>
+	<key>requiredHash</key>
+	<string>routercolor</string>
+	<key>secondOffset</key>
+	<string>shouldconnectbinary</string>
+	<key>tappableCanvas</key>
+	<string>descriptionState</string>
+</dict>
+</plist>

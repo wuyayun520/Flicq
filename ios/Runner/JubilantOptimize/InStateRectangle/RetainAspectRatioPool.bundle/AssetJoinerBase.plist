@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatequeue</key>
+	<string>quantizationSprite</string>
+	<key>batchCoord</key>
+	<string>storemend</string>
+	<key>commonMenu</key>
+	<string>trainanimation</string>
+	<key>customCheckbox</key>
+	<string>makeGrain</string>
+	<key>detailMode</key>
+	<string>largecosineorientation</string>
+	<key>interactiveIcon</key>
+	<string>shouldCacheSign</string>
+	<key>resolverdensity</key>
+	<string>paintmethod</string>
+</dict>
+</plist>

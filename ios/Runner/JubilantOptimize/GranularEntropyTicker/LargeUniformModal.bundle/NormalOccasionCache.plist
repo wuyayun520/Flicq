@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipdependency</key>
+	<string>syncview</string>
+	<key>discardedElement</key>
+	<string>sustainableConfidentiality</string>
+	<key>hierarchicalArchitecture</key>
+	<string>canDisconnectAccessory</string>
+	<key>iterativeMetadata</key>
+	<string>contractionadapterposition</string>
+	<key>measuretool</key>
+	<string>remainderSaturation</string>
+	<key>notificationrepository</key>
+	<string>polygonbound</string>
+	<key>shoulddisconnectchannels</key>
+	<string>titleAppearance</string>
+	<key>subtleCustomPaint</key>
+	<string>easyCurve</string>
+	<key>unactivatedAlert</key>
+	<string>initiatorsDirection</string>
+	<key>unactivatedvector</key>
+	<string>unmountedBrush</string>
+</dict>
+</plist>

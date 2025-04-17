@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeTransition</key>
+	<string>shouldPersistCanvas</string>
+	<key>granularScale</key>
+	<string>subtleTask</string>
+	<key>pivotalQuaternion</key>
+	<string>nibMediator</string>
+	<key>previewpatternappearance</key>
+	<string>layoutBottom</string>
+	<key>protectedContainer</key>
+	<string>numericalemitter</string>
+	<key>shouldSerializeCosine</key>
+	<string>canPersistPriority</string>
+	<key>sizedboxSaturation</key>
+	<string>canFinishOption</string>
+	<key>statelessstageshade</key>
+	<string>shouldTransitionContainer</string>
+	<key>traversalValidation</key>
+	<string>hasBehavior</string>
+</dict>
+</plist>

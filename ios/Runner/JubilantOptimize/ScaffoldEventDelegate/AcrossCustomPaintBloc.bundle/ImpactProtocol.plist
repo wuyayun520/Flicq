@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorDepth</key>
+	<string>shouldinitializetransition</string>
+	<key>enabledTentative</key>
+	<string>connectorcount</string>
+	<key>imageResponse</key>
+	<string>independentReceiver</string>
+	<key>originalPager</key>
+	<string>parallelPositioned</string>
+	<key>playchecklist</key>
+	<string>visibleLayout</string>
+	<key>shouldPopStoryboard</key>
+	<string>completerOrientation</string>
+	<key>shouldYieldPlate</key>
+	<string>intuitiveEvolution</string>
+	<key>shouldskiptask</key>
+	<string>masterHead</string>
+</dict>
+</plist>

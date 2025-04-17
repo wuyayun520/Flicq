@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledRadius</key>
+	<string>accordionContrast</string>
+	<key>notificationorenvironment</key>
+	<string>resizeasync</string>
+	<key>primarySearcher</key>
+	<string>frameVisibility</string>
+	<key>shouldEncodeGestureDetector</key>
+	<string>reconcileObserver</string>
+	<key>shouldPushGate</key>
+	<string>fragmentFeedback</string>
+	<key>shouldRouteUsage</key>
+	<string>canUnbindArithmetic</string>
+	<key>shouldSaveMatrix</key>
+	<string>textureHue</string>
+	<key>unactivatedOccasion</key>
+	<string>singletonlocation</string>
+</dict>
+</plist>

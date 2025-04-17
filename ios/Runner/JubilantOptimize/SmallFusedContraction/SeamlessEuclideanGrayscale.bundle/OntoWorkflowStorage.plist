@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMerger</key>
+	<string>viewAppearance</string>
+	<key>equalizationduration</key>
+	<string>shouldObserveCaption</string>
+	<key>hierarchicalSorter</key>
+	<string>localTheme</string>
+	<key>instructionamongcommand</key>
+	<string>transpileAsset</string>
+	<key>interactiveOperation</key>
+	<string>tentativeVisibility</string>
+	<key>layerleft</key>
+	<string>easyUnary</string>
+	<key>lazyTable</key>
+	<string>canDeserializeContraction</string>
+	<key>lazyrepository</key>
+	<string>fetchRadio</string>
+	<key>mutableResilience</key>
+	<string>mediaquerymethodrate</string>
+	<key>trajectorydirection</key>
+	<string>completedUsage</string>
+</dict>
+</plist>

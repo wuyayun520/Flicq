@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedChallenge</key>
+	<string>canObservePageView</string>
+	<key>analyzechallenge</key>
+	<string>unsortedMetrics</string>
+	<key>animatorMomentum</key>
+	<string>significantRouter</string>
+	<key>mediocreTicker</key>
+	<string>mediocreSemantics</string>
+	<key>mediocrelayer</key>
+	<string>resilienthashtint</string>
+	<key>mountedstorage</key>
+	<string>adaptiveconfidentiality</string>
+	<key>shouldStopMedia</key>
+	<string>shouldFetchTernary</string>
+</dict>
+</plist>

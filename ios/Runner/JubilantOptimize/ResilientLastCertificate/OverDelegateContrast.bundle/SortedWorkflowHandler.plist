@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralListView</key>
+	<string>orchestrateResolver</string>
+	<key>fixedText</key>
+	<string>reflectDuration</string>
+	<key>hyperbolicAllocator</key>
+	<string>handleMusic</string>
+	<key>mediocreloop</key>
+	<string>exponentstate</string>
+	<key>shouldMountedCustomPaint</key>
+	<string>oldCanvas</string>
+	<key>shouldPresentTextField</key>
+	<string>widgetCenter</string>
+	<key>statusInteraction</key>
+	<string>observerFormat</string>
+	<key>webMenu</key>
+	<string>dismissPreview</string>
+</dict>
+</plist>

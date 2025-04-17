@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionfactory</key>
+	<string>behaviorStatus</string>
+	<key>groupdepth</key>
+	<string>interpolatealignment</string>
+	<key>interpolationsinceactivity</key>
+	<string>eventvelocity</string>
+	<key>missionTint</key>
+	<string>maintainState</string>
+	<key>offsetRate</key>
+	<string>localSignature</string>
+	<key>prismaticconsumer</key>
+	<string>greatStack</string>
+	<key>reusableGem</key>
+	<string>customAnalyzer</string>
+	<key>robustIcon</key>
+	<string>imagelocalization</string>
+	<key>shouldPresentPoint</key>
+	<string>maxSine</string>
+</dict>
+</plist>

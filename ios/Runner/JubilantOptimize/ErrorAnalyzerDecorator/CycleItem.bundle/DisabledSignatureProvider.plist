@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equalizationTop</key>
+	<string>binderInset</string>
+	<key>gesturedetectorFlags</key>
+	<string>storyboardactionmode</string>
+	<key>handleanimatedcontainer</key>
+	<string>shouldPresentSegue</string>
+	<key>ignoredScale</key>
+	<string>visibleProtocol</string>
+	<key>independentdrawer</key>
+	<string>persistentActivity</string>
+	<key>intermediatetransition</key>
+	<string>consumeLoop</string>
+	<key>memberfunctioncontrast</key>
+	<string>restartmethod</string>
+	<key>prevSprite</key>
+	<string>shouldStopMargin</string>
+	<key>swiftandactivity</key>
+	<string>localizationValue</string>
+	<key>tweenuntiltype</key>
+	<string>unlocknode</string>
+</dict>
+</plist>

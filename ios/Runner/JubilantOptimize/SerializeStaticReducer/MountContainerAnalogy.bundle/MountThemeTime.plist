@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonwithoutfacade</key>
+	<string>nextMap</string>
+	<key>constraintvaluecoord</key>
+	<string>providerLayer</string>
+	<key>hasDrawer</key>
+	<string>dynamicClipper</string>
+	<key>intermediateDescription</key>
+	<string>canDisposeMatrix</string>
+	<key>multisingletonmargin</key>
+	<string>logcontroller</string>
+	<key>requiredProcessor</key>
+	<string>arithmeticController</string>
+</dict>
+</plist>

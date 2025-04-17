@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationincludeadapter</key>
+	<string>equipmentphasebrightness</string>
+	<key>backwardsceneappearance</key>
+	<string>yieldLayout</string>
+	<key>controllerkindposition</key>
+	<string>staticSubpixel</string>
+	<key>currentutil</key>
+	<string>processAllocator</string>
+	<key>iterativeexception</key>
+	<string>largeTweak</string>
+	<key>prevResolver</key>
+	<string>configurationAdapter</string>
+	<key>resilientMovement</key>
+	<string>exitRouter</string>
+	<key>semanticTitle</key>
+	<string>multiImpression</string>
+	<key>sequentialMovement</key>
+	<string>assetshader</string>
+</dict>
+</plist>

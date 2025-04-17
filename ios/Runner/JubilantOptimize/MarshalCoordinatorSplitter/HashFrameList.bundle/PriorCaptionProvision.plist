@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowVisibility</key>
+	<string>otherSink</string>
+	<key>compositionalCaption</key>
+	<string>cubecenter</string>
+	<key>concurrentReference</key>
+	<string>canEmitBuilder</string>
+	<key>ignoredPadding</key>
+	<string>interactionDuration</string>
+	<key>requiredLocalization</key>
+	<string>similarMargin</string>
+	<key>tickerMargin</key>
+	<string>currentPager</string>
+</dict>
+</plist>

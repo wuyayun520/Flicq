@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonspacing</key>
+	<string>aggregateUtil</string>
+	<key>customCallback</key>
+	<string>webCell</string>
+	<key>easyGridView</key>
+	<string>comprehensivePageView</string>
+	<key>indicatorsize</key>
+	<string>sineRate</string>
+	<key>moveresource</key>
+	<string>viewLevel</string>
+	<key>resilienceFrequency</key>
+	<string>clipperfeedback</string>
+	<key>shouldContinueIndicator</key>
+	<string>mainObject</string>
+	<key>shouldListenAspect</key>
+	<string>decorationFacade</string>
+	<key>shouldPushOperation</key>
+	<string>usedroute</string>
+	<key>unarycycleresponse</key>
+	<string>usageDistance</string>
+</dict>
+</plist>

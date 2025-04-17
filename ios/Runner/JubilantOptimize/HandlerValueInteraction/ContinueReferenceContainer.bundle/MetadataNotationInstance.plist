@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialExpanded</key>
+	<string>taxonomyFlags</string>
+	<key>dedicatedOption</key>
+	<string>canCacheBrush</string>
+	<key>instructionScale</key>
+	<string>slideroperationrate</string>
+	<key>movestate</key>
+	<string>poolLabel</string>
+	<key>providerspacing</key>
+	<string>lazyInterface</string>
+	<key>provisionOrigin</key>
+	<string>buttonorigin</string>
+	<key>semanticConsumption</key>
+	<string>certificateBorder</string>
+	<key>shouldStreamCanvas</key>
+	<string>contractionPhase</string>
+	<key>shouldYieldTangent</key>
+	<string>enhanceDuration</string>
+	<key>uniformInitiators</key>
+	<string>presentPageView</string>
+</dict>
+</plist>

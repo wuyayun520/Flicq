@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSpacing</key>
+	<string>symmetricFragment</string>
+	<key>compositionalGrid</key>
+	<string>semanticConstant</string>
+	<key>euclideanBandwidth</key>
+	<string>captionEnvironment</string>
+	<key>fragmentInterval</key>
+	<string>storeNavigator</string>
+	<key>inheritedFuture</key>
+	<string>desktopMetadata</string>
+	<key>lostMap</key>
+	<string>canLoadCycle</string>
+	<key>seamlessBuffer</key>
+	<string>canTransformPriority</string>
+	<key>shouldDetachInterpolation</key>
+	<string>invisibleStroke</string>
+	<key>shouldParseOptimizer</key>
+	<string>renderBoxShadow</string>
+	<key>sliderinsidetype</key>
+	<string>protectedChapter</string>
+</dict>
+</plist>

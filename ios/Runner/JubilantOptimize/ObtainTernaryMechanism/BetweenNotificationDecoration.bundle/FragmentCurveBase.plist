@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleancontainer</key>
+	<string>controllerinteraction</string>
+	<key>cubitversusbridge</key>
+	<string>processCubit</string>
+	<key>curveInterval</key>
+	<string>makeScene</string>
+	<key>multiPlate</key>
+	<string>timerActivity</string>
+	<key>shouldCancelSignature</key>
+	<string>revisitalert</string>
+	<key>shouldPauseMargin</key>
+	<string>capacitiesFlyweight</string>
+	<key>sizedboxCoord</key>
+	<string>scrollableData</string>
+</dict>
+</plist>

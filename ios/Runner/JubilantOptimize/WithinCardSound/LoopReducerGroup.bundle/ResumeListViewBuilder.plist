@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveProgressBar</key>
+	<string>receiveHash</string>
+	<key>consultativeInteraction</key>
+	<string>quantizationDescription</string>
+	<key>immediateoptiondepth</key>
+	<string>compositionalPositioned</string>
+	<key>recursiondensity</key>
+	<string>borderStrategy</string>
+	<key>shouldDismissCoordinator</key>
+	<string>globalAccessory</string>
+	<key>shouldSubscribeScreen</key>
+	<string>calculateEvent</string>
+	<key>unsortedgradientbrightness</key>
+	<string>visiblelistview</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocVisibility</key>
+	<string>semanticTrajectory</string>
+	<key>consultativeCompletion</key>
+	<string>kernelagainstfunction</string>
+	<key>diversifiedChallenge</key>
+	<string>deserializeCupertino</string>
+	<key>functionalSound</key>
+	<string>mediaqueryslider</string>
+	<key>ignoredfeature</key>
+	<string>shouldUnbindCapacities</string>
+	<key>loopState</key>
+	<string>typicalLinker</string>
+	<key>materialMap</key>
+	<string>subpixelInteraction</string>
+	<key>radiusvarcenter</key>
+	<string>activeBandwidth</string>
+	<key>servicescheduler</key>
+	<string>diffableProcessor</string>
+	<key>spriteemitter</key>
+	<string>requestdecoratorpadding</string>
+</dict>
+</plist>

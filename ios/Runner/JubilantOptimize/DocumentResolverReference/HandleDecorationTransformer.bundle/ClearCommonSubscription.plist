@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGradient</key>
+	<string>canCancelCustomPaint</string>
+	<key>commonAscent</key>
+	<string>typicalResolver</string>
+	<key>notationflags</key>
+	<string>webChannel</string>
+	<key>shouldDetachGift</key>
+	<string>sortedHandler</string>
+	<key>shouldStartLayout</key>
+	<string>shouldDismissActivity</string>
+</dict>
+</plist>

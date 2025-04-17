@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectmission</key>
+	<string>layoutbatch</string>
+	<key>dispatchfeature</key>
+	<string>reactiveCatalyst</string>
+	<key>frameitem</key>
+	<string>selectedCard</string>
+	<key>materializerVelocity</key>
+	<string>continueMovement</string>
+	<key>notifyarithmetic</key>
+	<string>eraseflex</string>
+	<key>offsetPadding</key>
+	<string>animatedObserver</string>
+	<key>scrollableVariant</key>
+	<string>shouldUpdateWorkflow</string>
+	<key>sizedboxLocation</key>
+	<string>iterativeResponse</string>
+	<key>statefulTangent</key>
+	<string>requestCallback</string>
+</dict>
+</plist>

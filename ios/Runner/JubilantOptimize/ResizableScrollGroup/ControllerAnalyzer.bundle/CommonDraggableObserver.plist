@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitphasepadding</key>
+	<string>routeDropdownButton</string>
+	<key>clonetool</key>
+	<string>stepexceptactivity</string>
+	<key>distinctionPosition</key>
+	<string>touchDistance</string>
+	<key>enabledResponse</key>
+	<string>persistBoxShadow</string>
+	<key>mediumdecoration</key>
+	<string>sequentialThroughput</string>
+	<key>serviceHue</key>
+	<string>benchmarkView</string>
+	<key>shouldDetachFragment</key>
+	<string>canPopBitrate</string>
+	<key>shouldLayoutBatch</key>
+	<string>shouldStopAlpha</string>
+	<key>similarScale</key>
+	<string>shouldTrainDelegate</string>
+</dict>
+</plist>

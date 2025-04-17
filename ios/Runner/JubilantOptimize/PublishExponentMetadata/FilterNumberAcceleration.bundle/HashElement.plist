@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardLog</key>
+	<string>interactiveZone</string>
+	<key>infrastructureHead</key>
+	<string>cycleScale</string>
+	<key>tweakOrigin</key>
+	<string>continueBrush</string>
+</dict>
+</plist>

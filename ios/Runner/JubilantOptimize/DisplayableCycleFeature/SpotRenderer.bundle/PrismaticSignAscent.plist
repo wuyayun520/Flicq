@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRemediation</key>
+	<string>unlockBuffer</string>
+	<key>alphaIndex</key>
+	<string>canFetchAspectRatio</string>
+	<key>capacityOrientation</key>
+	<string>routeCanvas</string>
+	<key>othermovementopacity</key>
+	<string>criticalFeature</string>
+	<key>pinchableBrush</key>
+	<string>polyfillBound</string>
+	<key>shouldKeepAppBar</key>
+	<string>dynamicOffset</string>
+	<key>shouldLayoutTangent</key>
+	<string>serviceVar</string>
+</dict>
+</plist>

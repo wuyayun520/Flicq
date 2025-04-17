@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSingleton</key>
+	<string>buttonloader</string>
+	<key>primaryGraphic</key>
+	<string>dissociateUseCase</string>
+	<key>scopeShade</key>
+	<string>documentFacade</string>
+	<key>subtleInterpolation</key>
+	<string>oncanvaschanged</string>
+</dict>
+</plist>

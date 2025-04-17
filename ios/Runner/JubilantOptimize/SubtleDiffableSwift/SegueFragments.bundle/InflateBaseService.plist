@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclePosition</key>
+	<string>difficultTitle</string>
+	<key>gradientawaystrategy</key>
+	<string>configurationintegrity</string>
+	<key>opaqueBoxShadow</key>
+	<string>backwardcheckbox</string>
+	<key>shouldDetachSlash</key>
+	<string>advancedPublisher</string>
+	<key>shouldHandleObserver</key>
+	<string>cubitcommandcolor</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binarykindcount</key>
+	<string>conformSize</string>
+	<key>buttonthanprototype</key>
+	<string>resizeHash</string>
+	<key>creatorResponse</key>
+	<string>managerappearance</string>
+	<key>declarativeGate</key>
+	<string>equipmentduration</string>
+	<key>momentumprogressbar</key>
+	<string>activebuilder</string>
+	<key>shouldInitializeSlash</key>
+	<string>signhandler</string>
+	<key>shouldRouteRadio</key>
+	<string>shouldsetstatesensor</string>
+	<key>smartIndicator</key>
+	<string>temporaryColumn</string>
+	<key>specifyObserver</key>
+	<string>grainVelocity</string>
+</dict>
+</plist>

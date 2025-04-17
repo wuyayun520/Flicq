@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCollection</key>
+	<string>replaceGrayscale</string>
+	<key>interactiveAperture</key>
+	<string>tappableCluster</string>
+	<key>normalMargin</key>
+	<string>deactivateState</string>
+	<key>normalanimation</key>
+	<string>shouldAttachKernel</string>
+	<key>shouldSubscribeStamp</key>
+	<string>deactivateDuration</string>
+	<key>significantallocatorcoord</key>
+	<string>canMountedNavigation</string>
+</dict>
+</plist>

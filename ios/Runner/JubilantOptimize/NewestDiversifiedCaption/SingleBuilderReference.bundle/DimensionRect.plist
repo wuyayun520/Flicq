@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineContrast</key>
+	<string>specifyNode</string>
+	<key>consultativeMatrix</key>
+	<string>primarygate</string>
+	<key>independentThreshold</key>
+	<string>functionalStateful</string>
+	<key>independentmovement</key>
+	<string>executeError</string>
+	<key>scrollabledurationinterval</key>
+	<string>chapterForce</string>
+	<key>shouldDecodeRow</key>
+	<string>shouldPrepareMobile</string>
+	<key>shouldSerializeOperation</key>
+	<string>effectAlignment</string>
+</dict>
+</plist>

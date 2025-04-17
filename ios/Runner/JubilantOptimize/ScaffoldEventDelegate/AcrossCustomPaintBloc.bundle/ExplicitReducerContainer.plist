@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonsemanticsmargin</key>
+	<string>asynchronouselement</string>
+	<key>discardedThroughput</key>
+	<string>canStartScale</string>
+	<key>graphicchart</key>
+	<string>displayableCustomPaint</string>
+	<key>notificationType</key>
+	<string>isbitrate</string>
+	<key>prevRange</key>
+	<string>slashactivityorigin</string>
+	<key>shouldRebuildEntropy</key>
+	<string>tappablesinkorientation</string>
+	<key>shouldSerializeGift</key>
+	<string>animatedTicker</string>
+	<key>shouldreplacechallenge</key>
+	<string>concatenateUtil</string>
+	<key>swiftstyleformat</key>
+	<string>receiverType</string>
+</dict>
+</plist>

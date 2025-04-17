@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbartop</key>
+	<string>prismaticSorter</string>
+	<key>crudeSplitter</key>
+	<string>amortizationRate</string>
+	<key>descriptionMode</key>
+	<string>shouldKeepMatrix</string>
+	<key>marginDistance</key>
+	<string>detailSaturation</string>
+	<key>permissiveThreshold</key>
+	<string>basicPermutation</string>
+	<key>sequentialStrength</key>
+	<string>lazyLabel</string>
+</dict>
+</plist>

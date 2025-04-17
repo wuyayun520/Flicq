@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cliprichtext</key>
+	<string>beginnerBehavior</string>
+	<key>entityTint</key>
+	<string>beginnerGesture</string>
+	<key>exceptionvariableforce</key>
+	<string>optimizercount</string>
+	<key>hashtint</key>
+	<string>logarithmStrategy</string>
+	<key>isCollection</key>
+	<string>materializerDensity</string>
+	<key>mediumHero</key>
+	<string>inheritedProgressBar</string>
+	<key>mixinloop</key>
+	<string>keyBuffer</string>
+	<key>mutableAnimatedContainer</key>
+	<string>specifierVar</string>
+</dict>
+</plist>

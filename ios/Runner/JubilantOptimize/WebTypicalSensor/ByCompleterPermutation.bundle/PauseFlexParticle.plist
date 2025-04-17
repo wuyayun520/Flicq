@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianDuration</key>
+	<string>shouldDismissText</string>
+	<key>documentDensity</key>
+	<string>equalizationmodel</string>
+	<key>integrationCenter</key>
+	<string>sessionFlyweight</string>
+	<key>selectedpositioned</key>
+	<string>observeNotifier</string>
+	<key>serializeintensity</key>
+	<string>permissiveRect</string>
+</dict>
+</plist>

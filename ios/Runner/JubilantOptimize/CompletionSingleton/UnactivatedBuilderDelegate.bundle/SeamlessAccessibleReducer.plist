@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonormethod</key>
+	<string>concurrentCosine</string>
+	<key>explicitwidget</key>
+	<string>shouldKeepBuilder</string>
+	<key>shouldAnimateScreen</key>
+	<string>isolatedelay</string>
+	<key>updatedimension</key>
+	<string>shouldPopDescriptor</string>
+	<key>visiblegridview</key>
+	<string>notificationChain</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalModule</key>
+	<string>scaffoldorientation</string>
+	<key>consultativeGrayscale</key>
+	<string>viewlatency</string>
+	<key>layoutlayer</key>
+	<string>methodrate</string>
+	<key>prevDropdownButton</key>
+	<string>shouldPauseTool</string>
+	<key>rapidAnimatedContainer</key>
+	<string>mountedScreen</string>
+	<key>shouldConnectBox</key>
+	<string>canSerializePet</string>
+	<key>shouldMountModulus</key>
+	<string>canSaveWorkflow</string>
+	<key>tensorTraversal</key>
+	<string>shouldLoadPositioned</string>
+</dict>
+</plist>

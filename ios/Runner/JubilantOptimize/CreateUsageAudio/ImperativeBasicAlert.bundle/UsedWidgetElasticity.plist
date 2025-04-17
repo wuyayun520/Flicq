@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardentity</key>
+	<string>maxDrawer</string>
+	<key>compositionalMerger</key>
+	<string>shouldAnimateGestureDetector</string>
+	<key>flexDirection</key>
+	<string>responsiveNib</string>
+	<key>globalmission</key>
+	<string>interactiveDispatcher</string>
+	<key>granularScaffold</key>
+	<string>animateDecoration</string>
+	<key>playspine</key>
+	<string>mountedDelegate</string>
+	<key>sharedbuttonopacity</key>
+	<string>shouldResumeLoss</string>
+	<key>shouldFetchInterpolation</key>
+	<string>gridLevel</string>
+	<key>subscriptionMomentum</key>
+	<string>joinerAppearance</string>
+	<key>tensorUsage</key>
+	<string>canBuildSlash</string>
+</dict>
+</plist>

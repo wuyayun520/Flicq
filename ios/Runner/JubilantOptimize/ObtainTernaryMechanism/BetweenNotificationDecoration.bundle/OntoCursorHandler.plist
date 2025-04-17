@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEvaluation</key>
+	<string>shouldTransformReference</string>
+	<key>comprehensiveBaseline</key>
+	<string>deployProgressBar</string>
+	<key>isspine</key>
+	<string>remaindermodeinset</string>
+	<key>lastMenu</key>
+	<string>paintStep</string>
+	<key>multiPet</key>
+	<string>interfacestatevalidation</string>
+	<key>rectLeft</key>
+	<string>shouldRenderAlert</string>
+	<key>shouldEmitVariant</key>
+	<string>prepareAppBar</string>
+	<key>vertexFrequency</key>
+	<string>canHandleRadio</string>
+</dict>
+</plist>

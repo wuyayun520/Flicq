@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachstack</key>
+	<string>modalLevel</string>
+	<key>hardGrain</key>
+	<string>mediumSubpixel</string>
+	<key>listviewedge</key>
+	<string>canShowMovement</string>
+	<key>lossmementoskewx</key>
+	<string>canUnmountInteger</string>
+	<key>oldRichText</key>
+	<string>concreteCreator</string>
+	<key>sceneTail</key>
+	<string>missioncompositealignment</string>
+	<key>shouldloadswitch</key>
+	<string>staticPolygon</string>
+	<key>smallvectortheme</key>
+	<string>statelessCursor</string>
+</dict>
+</plist>

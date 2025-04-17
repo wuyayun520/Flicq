@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constantFeedback</key>
+	<string>materialIndex</string>
+	<key>elementPressure</key>
+	<string>subtleInterpolation</string>
+	<key>equalizationSaturation</key>
+	<string>immutableInteger</string>
+	<key>materialplatformpadding</key>
+	<string>overlayLocation</string>
+	<key>schemaorientation</key>
+	<string>modelorigin</string>
+	<key>semanticStateless</key>
+	<string>relationalContrast</string>
+	<key>shouldPushInteger</key>
+	<string>accordionInformation</string>
+	<key>shouldShowInstruction</key>
+	<string>writeLabel</string>
+	<key>skirtarchitecture</key>
+	<string>widgetLocation</string>
+</dict>
+</plist>

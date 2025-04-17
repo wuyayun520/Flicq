@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistexception</key>
+	<string>updateTool</string>
+	<key>currentreduction</key>
+	<string>providerfeature</string>
+	<key>labelamongcycle</key>
+	<string>mobileRate</string>
+	<key>permissiveAwait</key>
+	<string>defaulttask</string>
+	<key>statefulscreen</key>
+	<string>canAnimateDrawer</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishremainder</key>
+	<string>histogramVariable</string>
+	<key>granularanimation</key>
+	<string>responsedepth</string>
+	<key>liteSchema</key>
+	<string>rolelistener</string>
+	<key>statelesssegue</key>
+	<string>analyzerSkewX</string>
+	<key>tappableTask</key>
+	<string>buttonForce</string>
+	<key>temporaryHeap</key>
+	<string>robustCubit</string>
+</dict>
+</plist>

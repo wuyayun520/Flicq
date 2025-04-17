@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamictriangles</key>
+	<string>secondNib</string>
+	<key>easyResult</key>
+	<string>custominterfaceshape</string>
+	<key>hardIntegrity</key>
+	<string>granularRequest</string>
+	<key>newestRole</key>
+	<string>shouldContinueProfile</string>
+	<key>shouldCreateCube</key>
+	<string>cupertinoDecoration</string>
+	<key>shouldDetachAlpha</key>
+	<string>routervisibility</string>
+	<key>shouldShowFlex</key>
+	<string>rectType</string>
+	<key>shouldstreamconstraint</key>
+	<string>checkboxallocator</string>
+	<key>sliderbrightness</key>
+	<string>resilientGram</string>
+</dict>
+</plist>

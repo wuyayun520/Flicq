@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionlogalignment</key>
+	<string>iterativePositioned</string>
+	<key>gridLocation</key>
+	<string>shouldPublishTabView</string>
+	<key>interactiveZone</key>
+	<string>injectiontraversal</string>
+	<key>nextFinder</key>
+	<string>oldTriangles</string>
+	<key>operationresilience</key>
+	<string>continueradius</string>
+	<key>seamlessMechanism</key>
+	<string>diffableRadius</string>
+	<key>shouldDisposeCompletion</key>
+	<string>statedelay</string>
+	<key>singleScale</key>
+	<string>draggableSizedBox</string>
+	<key>staticEvolution</key>
+	<string>permanentReducer</string>
+</dict>
+</plist>

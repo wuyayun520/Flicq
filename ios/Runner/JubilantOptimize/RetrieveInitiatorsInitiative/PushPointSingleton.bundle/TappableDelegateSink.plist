@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentThroughput</key>
+	<string>createObserver</string>
+	<key>descriptorEdge</key>
+	<string>shouldlistenroute</string>
+	<key>fixedprojectionformat</key>
+	<string>canValidateRadio</string>
+	<key>momentumTop</key>
+	<string>projectionPlatform</string>
+	<key>originalPlayback</key>
+	<string>animateAlpha</string>
+	<key>shouldnavigatecycle</key>
+	<string>mediaqueryTheme</string>
+	<key>unlockutil</key>
+	<string>wrapNavigator</string>
+	<key>usageBehavior</key>
+	<string>interpolationBorder</string>
+	<key>visibleLifecycle</key>
+	<string>pinchableResource</string>
+</dict>
+</plist>

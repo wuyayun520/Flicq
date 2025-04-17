@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderresource</key>
+	<string>buttoncoord</string>
+	<key>draggableinteraction</key>
+	<string>reducePresenter</string>
+	<key>shouldStopTransition</key>
+	<string>stopResource</string>
+	<key>sizedboxEdge</key>
+	<string>prevSprite</string>
+	<key>staticLoader</key>
+	<string>persistGesture</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheType</key>
+	<string>persistentAscent</string>
+	<key>disabledSignature</key>
+	<string>hardImage</string>
+	<key>disparateDispatcher</key>
+	<string>movementpadding</string>
+	<key>equipmentjoiner</key>
+	<string>functionalSplitter</string>
+	<key>largelayoutformat</key>
+	<string>trainListView</string>
+	<key>permanentGroup</key>
+	<string>tickermethodstatus</string>
+	<key>queueworkvisibility</key>
+	<string>instructionProcess</string>
+	<key>shouldPersistEquipment</key>
+	<string>eagerSpecifier</string>
+	<key>tweencontextsize</key>
+	<string>infoOrigin</string>
+</dict>
+</plist>

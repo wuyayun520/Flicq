@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedLayer</key>
+	<string>numericalTransformer</string>
+	<key>gradientInset</key>
+	<string>primaryListView</string>
+	<key>isGesture</key>
+	<string>shouldConnectEquipment</string>
+	<key>recursionPressure</key>
+	<string>canPublishArithmetic</string>
+	<key>seamlessInterpolation</key>
+	<string>gridSkewY</string>
+</dict>
+</plist>

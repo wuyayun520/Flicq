@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultindicator</key>
+	<string>commonSine</string>
+	<key>firstPainter</key>
+	<string>tappableMethod</string>
+	<key>rapidResult</key>
+	<string>canCreateInkWell</string>
+	<key>semanticconstraintkind</key>
+	<string>shapeDirection</string>
+	<key>shouldShowRichText</key>
+	<string>publishvector</string>
+	<key>textfieldstatus</key>
+	<string>disabledReference</string>
+</dict>
+</plist>

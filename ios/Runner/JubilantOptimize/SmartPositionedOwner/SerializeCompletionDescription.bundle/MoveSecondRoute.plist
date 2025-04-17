@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridlifecycle</key>
+	<string>setstateMedia</string>
+	<key>largeBase</key>
+	<string>sophisticatedImpression</string>
+	<key>newestTouch</key>
+	<string>deprecatenib</string>
+	<key>operationSkewY</key>
+	<string>rowRate</string>
+	<key>prevBuffer</key>
+	<string>storyboardBehavior</string>
+	<key>shouldskiptheme</key>
+	<string>dispatchMonster</string>
+	<key>staticMobile</key>
+	<string>routeAccessory</string>
+	<key>tabvieworigin</key>
+	<string>previewsensor</string>
+</dict>
+</plist>

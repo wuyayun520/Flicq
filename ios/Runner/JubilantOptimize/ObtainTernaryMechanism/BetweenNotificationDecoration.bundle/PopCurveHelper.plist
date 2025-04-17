@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integermodule</key>
+	<string>tickerkindforce</string>
+	<key>logarithmEdge</key>
+	<string>protectedMesh</string>
+	<key>notifieracceleration</key>
+	<string>resizableLogarithm</string>
+	<key>seamlessOption</key>
+	<string>trainNavigator</string>
+	<key>vertexBound</key>
+	<string>popupInset</string>
+</dict>
+</plist>

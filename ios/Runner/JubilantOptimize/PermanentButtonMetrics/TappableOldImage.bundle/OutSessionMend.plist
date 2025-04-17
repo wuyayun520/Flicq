@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentSample</key>
+	<string>searchLoop</string>
+	<key>dedicatedSample</key>
+	<string>fragmentDepth</string>
+	<key>disparateSubscription</key>
+	<string>cupertinoContext</string>
+	<key>euclideanInstruction</key>
+	<string>nativeSwitch</string>
+	<key>shouldLoadGem</key>
+	<string>shouldAnimateGridView</string>
+</dict>
+</plist>

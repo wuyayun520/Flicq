@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPriority</key>
+	<string>fixedAspect</string>
+	<key>beginnerUsage</key>
+	<string>setupPreview</string>
+	<key>ignoredallocatortail</key>
+	<string>responsivesize</string>
+	<key>loaderStyle</key>
+	<string>handleNavigator</string>
+	<key>mediumVolume</key>
+	<string>rectType</string>
+	<key>painterTension</key>
+	<string>canYieldExponent</string>
+	<key>playbackflags</key>
+	<string>basicMediaQuery</string>
+	<key>precisionShade</key>
+	<string>asynchronousMonster</string>
+	<key>shouldDispatchTask</key>
+	<string>resultoperationstyle</string>
+</dict>
+</plist>

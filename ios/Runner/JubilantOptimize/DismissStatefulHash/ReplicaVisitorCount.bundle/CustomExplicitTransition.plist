@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitratestate</key>
+	<string>cupertinoDrawer</string>
+	<key>dynamicstatus</key>
+	<string>smallConfiguration</string>
+	<key>localizationduration</key>
+	<string>handlerbrightness</string>
+	<key>numericalMediaQuery</key>
+	<string>behaviorTask</string>
+	<key>rapidReplica</key>
+	<string>shouldDecodeSizedBox</string>
+	<key>shouldBuildPadding</key>
+	<string>resilientcolumnkind</string>
+</dict>
+</plist>

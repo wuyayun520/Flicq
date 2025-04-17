@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxresponse</key>
+	<string>scenarioSpeed</string>
+	<key>currentmission</key>
+	<string>cellaboutpattern</string>
+	<key>infrastructureLeft</key>
+	<string>lazySegue</string>
+	<key>logprovider</key>
+	<string>accessorydepth</string>
+	<key>mediacoord</key>
+	<string>numericalPrecision</string>
+	<key>optimizerPressure</key>
+	<string>computeCubit</string>
+	<key>scenevelocity</key>
+	<string>formatAnimatedContainer</string>
+	<key>subsequentMaterializer</key>
+	<string>topicShape</string>
+</dict>
+</plist>

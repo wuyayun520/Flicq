@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialIndicator</key>
+	<string>tappableAnalogy</string>
+	<key>directlySink</key>
+	<string>lazyPoint</string>
+	<key>largeVector</key>
+	<string>pivotalProtocol</string>
+	<key>liteReference</key>
+	<string>intensityphasesize</string>
+	<key>shouldListenArithmetic</key>
+	<string>shouldShowHistogram</string>
+</dict>
+</plist>

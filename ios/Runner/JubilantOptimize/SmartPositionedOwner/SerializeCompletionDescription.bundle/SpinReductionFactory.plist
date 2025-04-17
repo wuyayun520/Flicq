@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxOrientation</key>
+	<string>combineRect</string>
+	<key>graphDuration</key>
+	<string>scaleOffset</string>
+	<key>immutableMap</key>
+	<string>provideLocalization</string>
+	<key>linkercenter</key>
+	<string>rapidlistview</string>
+	<key>mediumScenario</key>
+	<string>disposebuffer</string>
+	<key>selectedeffect</key>
+	<string>shouldStartMultiplication</string>
+	<key>shouldStreamCosine</key>
+	<string>localReliability</string>
+</dict>
+</plist>

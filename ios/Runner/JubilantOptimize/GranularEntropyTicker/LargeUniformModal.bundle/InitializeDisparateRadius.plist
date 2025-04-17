@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionLeft</key>
+	<string>consultativeOffset</string>
+	<key>createticker</key>
+	<string>invisibleSkin</string>
+	<key>eagerPlayback</key>
+	<string>popupVisitor</string>
+	<key>nextMaster</key>
+	<string>bandwidthType</string>
+	<key>replicaPosition</key>
+	<string>displayableLabel</string>
+	<key>scrollableSensor</key>
+	<string>canDetachAppBar</string>
+	<key>selectedScroll</key>
+	<string>threadBehavior</string>
+	<key>shouldPresentAspect</key>
+	<string>globalCompletion</string>
+	<key>sortedreductionduration</key>
+	<string>convertEvent</string>
+</dict>
+</plist>

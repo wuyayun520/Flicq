@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalSubpixel</key>
+	<string>staticModel</string>
+	<key>grayscaleacceleration</key>
+	<string>fusedContrast</string>
+	<key>handleroutsidepattern</key>
+	<string>usedGestureDetector</string>
+	<key>materializerColor</key>
+	<string>disconnectNotification</string>
+	<key>persistentSubscription</key>
+	<string>expandedadapterstyle</string>
+	<key>specifierOffset</key>
+	<string>pivotalActivity</string>
+	<key>usagechart</key>
+	<string>liteContraction</string>
+</dict>
+</plist>

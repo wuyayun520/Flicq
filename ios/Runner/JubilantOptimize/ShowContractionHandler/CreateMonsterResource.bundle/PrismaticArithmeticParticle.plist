@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDecoration</key>
+	<string>shouldPopInterpolation</string>
+	<key>cartesianController</key>
+	<string>sceneInteraction</string>
+	<key>currentimage</key>
+	<string>diffableProjection</string>
+	<key>localThreshold</key>
+	<string>buildGraphic</string>
+	<key>nextIntegration</key>
+	<string>shouldValidateTabView</string>
+	<key>overridenavigator</key>
+	<string>smartMargin</string>
+	<key>positionName</key>
+	<string>exceptionlatency</string>
+	<key>publicTimer</key>
+	<string>autoCosine</string>
+	<key>zoneordecorator</key>
+	<string>shouldLayoutMaterial</string>
+</dict>
+</plist>

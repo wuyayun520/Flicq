@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardscalability</key>
+	<string>configurationSingleton</string>
+	<key>convertview</key>
+	<string>columnSkewX</string>
+	<key>directStore</key>
+	<string>sorterShade</string>
+	<key>encapsulateasset</key>
+	<string>listviewFlyweight</string>
+	<key>marginSkewY</key>
+	<string>canEncodeGraphic</string>
+	<key>menuuntilmethod</key>
+	<string>performSink</string>
+	<key>moduleTint</key>
+	<string>constraintprovider</string>
+	<key>shouldCreateBoxShadow</key>
+	<string>assetLevel</string>
+	<key>sophisticatedResult</key>
+	<string>requiredSearcher</string>
+</dict>
+</plist>

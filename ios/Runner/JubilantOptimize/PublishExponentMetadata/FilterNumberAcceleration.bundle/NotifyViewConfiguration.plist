@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIcon</key>
+	<string>loaderCount</string>
+	<key>connectdialogs</key>
+	<string>deserializeSingleton</string>
+	<key>custompaintshape</key>
+	<string>factoryOperation</string>
+	<key>disclaimerinterval</key>
+	<string>deliveryContrast</string>
+	<key>otherGrain</key>
+	<string>shouldDetachMedia</string>
+	<key>semanticThreshold</key>
+	<string>textBrightness</string>
+	<key>shouldDisposeMission</key>
+	<string>conformRepository</string>
+	<key>shouldRenderSample</key>
+	<string>isshader</string>
+	<key>shouldSetStateOption</key>
+	<string>specifierVariable</string>
+</dict>
+</plist>

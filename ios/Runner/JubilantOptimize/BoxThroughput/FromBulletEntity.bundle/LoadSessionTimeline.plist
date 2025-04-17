@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInset</key>
+	<string>entityBound</string>
+	<key>binarystageinteraction</key>
+	<string>missedIsolate</string>
+	<key>globalresponseindex</key>
+	<string>shouldRenderEntropy</string>
+	<key>gridmethodalignment</key>
+	<string>animatedamortization</string>
+	<key>implementnode</key>
+	<string>gridobserver</string>
+	<key>permanentCoordinator</key>
+	<string>provideResult</string>
+	<key>shouldDismissProvider</key>
+	<string>originalThroughput</string>
+	<key>streamtype</key>
+	<string>checkCompleter</string>
+	<key>usecaseOrientation</key>
+	<string>interactiveClipper</string>
+</dict>
+</plist>

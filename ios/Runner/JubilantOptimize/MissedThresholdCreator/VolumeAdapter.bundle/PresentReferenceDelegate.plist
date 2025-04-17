@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabledescriptor</key>
+	<string>unsortedBuffer</string>
+	<key>mediaefficiency</key>
+	<string>momentumvardirection</string>
+	<key>pivotalCertificate</key>
+	<string>shouldTransformCompletion</string>
+	<key>shouldDisconnectCapsule</key>
+	<string>accessibleStream</string>
+	<key>visibleSkin</key>
+	<string>immediateSprite</string>
+</dict>
+</plist>

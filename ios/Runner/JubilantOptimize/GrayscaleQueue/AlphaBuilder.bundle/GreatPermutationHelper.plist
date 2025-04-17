@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledSlider</key>
+	<string>disparateReplica</string>
+	<key>fixedConsumer</key>
+	<string>particleStyle</string>
+	<key>mutableMetrics</key>
+	<string>isolateOpacity</string>
+	<key>nativeBrush</key>
+	<string>factoryorfunction</string>
+	<key>optionResponse</key>
+	<string>intensityShade</string>
+	<key>reducerBehavior</key>
+	<string>tableOrientation</string>
+	<key>shouldTransformMatrix</key>
+	<string>canObserveAspectRatio</string>
+	<key>shouldYieldMultiplication</key>
+	<string>offsetObserver</string>
+	<key>singleCluster</key>
+	<string>normalLayer</string>
+</dict>
+</plist>

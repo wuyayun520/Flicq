@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDescriptor</key>
+	<string>shaderdensity</string>
+	<key>binaryBottom</key>
+	<string>shouldDispatchTable</string>
+	<key>ephemeralInteractor</key>
+	<string>transformservice</string>
+	<key>labelconstant</key>
+	<string>layoutexceptcomposite</string>
+	<key>lockcustompaint</key>
+	<string>draggableModal</string>
+	<key>nativeEntity</key>
+	<string>processorDuration</string>
+	<key>toolview</key>
+	<string>beginnerRect</string>
+	<key>utilCount</key>
+	<string>sequentialChooser</string>
+</dict>
+</plist>

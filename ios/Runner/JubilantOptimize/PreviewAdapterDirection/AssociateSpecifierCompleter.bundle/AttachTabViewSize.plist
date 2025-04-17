@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResolver</key>
+	<string>localizationBorder</string>
+	<key>coordinatorsink</key>
+	<string>displayableInjection</string>
+	<key>dedicatedWorkflow</key>
+	<string>animatedcontainerhue</string>
+	<key>diversifiedIsolate</key>
+	<string>pivotalCanvas</string>
+	<key>momentumVisibility</key>
+	<string>floatsemantics</string>
+	<key>pageviewhue</key>
+	<string>endThread</string>
+	<key>permanentOverlay</key>
+	<string>onmatrixchanged</string>
+	<key>toolForce</key>
+	<string>significantClipper</string>
+	<key>topicstyle</key>
+	<string>consumptionMargin</string>
+	<key>transformerHue</key>
+	<string>requestvelocity</string>
+</dict>
+</plist>

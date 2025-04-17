@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachePosition</key>
+	<string>shouldValidateChannels</string>
+	<key>imperativeStore</key>
+	<string>accordionVolume</string>
+	<key>requestAcceleration</key>
+	<string>maintainAlignment</string>
+	<key>shouldInflateColumn</key>
+	<string>delicateContraction</string>
+	<key>shouldformatslash</key>
+	<string>subtleContrast</string>
+	<key>smallAccessory</key>
+	<string>makeAsset</string>
+	<key>sortedProjection</key>
+	<string>rectStrategy</string>
+</dict>
+</plist>

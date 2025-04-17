@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionPressure</key>
+	<string>prevMission</string>
+	<key>effectSpeed</key>
+	<string>opaqueMember</string>
+	<key>equalizationBottom</key>
+	<string>shouldResumeOperation</string>
+	<key>immediateQueue</key>
+	<string>setstateProtocol</string>
+	<key>iterativeGrayscale</key>
+	<string>canDecodeAlert</string>
+	<key>missionLocation</key>
+	<string>canFormatNavigator</string>
+	<key>shouldFormatBehavior</key>
+	<string>shouldAnimateTable</string>
+	<key>shouldTransitionCapsule</key>
+	<string>texturePosition</string>
+</dict>
+</plist>

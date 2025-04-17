@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateCollection</key>
+	<string>shouldEndAxis</string>
+	<key>interactivedecorationrate</key>
+	<string>pivotalrouteshape</string>
+	<key>localCupertino</key>
+	<string>autoScaffold</string>
+	<key>normalView</key>
+	<string>directlyScheduler</string>
+	<key>schematag</key>
+	<string>interactiveImpression</string>
+</dict>
+</plist>

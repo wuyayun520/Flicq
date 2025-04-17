@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedInteger</key>
+	<string>musicmomentum</string>
+	<key>imageDepth</key>
+	<string>staticLocalization</string>
+	<key>precisionobserver</key>
+	<string>slashFlyweight</string>
+	<key>publishermargin</key>
+	<string>shouldPaintView</string>
+	<key>sceneskewx</key>
+	<string>labelstructureshade</string>
+	<key>shouldAnimateTheme</key>
+	<string>discardedwidget</string>
+	<key>substantialImpression</key>
+	<string>buildersystemopacity</string>
+	<key>synchronousnodedensity</key>
+	<string>enabledModel</string>
+</dict>
+</plist>

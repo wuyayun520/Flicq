@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncstyleindex</key>
+	<string>associatedInterface</string>
+	<key>channelsKind</key>
+	<string>nextProfile</string>
+	<key>geometricSample</key>
+	<string>diffableQueue</string>
+	<key>infoStyle</key>
+	<string>sustainableDelivery</string>
+	<key>listviewSkewX</key>
+	<string>lazyPolyfill</string>
+	<key>otherSound</key>
+	<string>statictechnique</string>
+	<key>shouldPersistRow</key>
+	<string>modalTop</string>
+</dict>
+</plist>

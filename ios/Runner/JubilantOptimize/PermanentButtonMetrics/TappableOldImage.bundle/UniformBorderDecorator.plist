@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticIntegrity</key>
+	<string>detectorsaturation</string>
+	<key>asynchronousArithmetic</key>
+	<string>intermediateAsync</string>
+	<key>durationcolor</key>
+	<string>lossDelay</string>
+	<key>infoOrigin</key>
+	<string>pagerAppearance</string>
+	<key>invisibleMethod</key>
+	<string>shouldTransitionButton</string>
+	<key>managersize</key>
+	<string>shouldHandleMedia</string>
+	<key>monsterSpacing</key>
+	<string>notificationTransparency</string>
+	<key>overlayFlags</key>
+	<string>executeSize</string>
+	<key>soundsaturation</key>
+	<string>setstateMap</string>
+</dict>
+</plist>

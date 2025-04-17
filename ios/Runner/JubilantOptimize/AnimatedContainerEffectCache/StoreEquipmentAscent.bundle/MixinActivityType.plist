@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackTheme</key>
+	<string>capacityrate</string>
+	<key>cancelstore</key>
+	<string>overrideController</string>
+	<key>disabledvariant</key>
+	<string>collectionCoord</string>
+	<key>fixedSelector</key>
+	<string>canBindScreen</string>
+	<key>flexiblestorage</key>
+	<string>shouldnavigategram</string>
+	<key>indicatorimpression</key>
+	<string>canTransformContainer</string>
+	<key>iterativeRestriction</key>
+	<string>finishrouter</string>
+	<key>seguetag</key>
+	<string>markRadius</string>
+	<key>shouldPrepareThread</key>
+	<string>lazyState</string>
+	<key>unactivatedStrength</key>
+	<string>currentSlash</string>
+</dict>
+</plist>

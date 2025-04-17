@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lostIntegration</key>
+	<string>unactivatedChannels</string>
+	<key>precisionVelocity</key>
+	<string>sliderContext</string>
+	<key>routerinformation</key>
+	<string>euclideanwrapper</string>
+	<key>semanticSpecifier</key>
+	<string>displayConstraint</string>
+	<key>shouldPrepareCube</key>
+	<string>shouldTransformNorm</string>
+	<key>updatestate</key>
+	<string>selectorType</string>
+</dict>
+</plist>

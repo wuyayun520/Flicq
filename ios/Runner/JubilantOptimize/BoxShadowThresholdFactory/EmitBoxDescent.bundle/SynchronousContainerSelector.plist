@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>memberconsumption</key>
+	<string>adaptiveState</string>
+	<key>playbackrate</key>
+	<string>sizedboxAppearance</string>
+	<key>tensorLocalization</key>
+	<string>localizationLayer</string>
+	<key>textDistance</key>
+	<string>accessibleAspect</string>
+	<key>uniqueInjection</key>
+	<string>accordionPicker</string>
+</dict>
+</plist>

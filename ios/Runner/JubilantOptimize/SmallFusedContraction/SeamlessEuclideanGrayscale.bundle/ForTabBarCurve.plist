@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoRoute</key>
+	<string>architecturerotation</string>
+	<key>prevScaffold</key>
+	<string>canLoadStoryboard</string>
+	<key>segmentKind</key>
+	<string>moverepository</string>
+	<key>shouldPresentCompletion</key>
+	<string>agileService</string>
+	<key>shouldRestartReference</key>
+	<string>secondException</string>
+	<key>topicprocessor</key>
+	<string>futurelocation</string>
+	<key>vectorizeduration</key>
+	<string>descriptorChain</string>
+</dict>
+</plist>

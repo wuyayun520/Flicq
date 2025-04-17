@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatAudio</key>
+	<string>mobileDocument</string>
+	<key>inactiveProtocol</key>
+	<string>numericalLayout</string>
+	<key>multiplicationmode</key>
+	<string>ascentrate</string>
+	<key>protocolscale</key>
+	<string>mediaCount</string>
+	<key>responsiveSpine</key>
+	<string>movementBridge</string>
+	<key>tensorSearcher</key>
+	<string>hardCompletion</string>
+</dict>
+</plist>

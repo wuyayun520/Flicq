@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAccessory</key>
+	<string>projectionkindtop</string>
+	<key>beginnerzone</key>
+	<string>shouldDeserializeAlpha</string>
+	<key>exitusage</key>
+	<string>specifyRichText</string>
+	<key>intermediateCycle</key>
+	<string>searcherdirection</string>
+	<key>lostCaption</key>
+	<string>canResumeGradient</string>
+	<key>menuelasticity</key>
+	<string>canResumeHeap</string>
+	<key>shouldCacheMargin</key>
+	<string>endCube</string>
+	<key>swiftSkewY</key>
+	<string>expandedTemple</string>
+	<key>usedAccessory</key>
+	<string>encodeBehavior</string>
+</dict>
+</plist>

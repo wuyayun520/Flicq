@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalKernel</key>
+	<string>disabledDispatcher</string>
+	<key>cursorAlignment</key>
+	<string>commonAllocator</string>
+	<key>diversifiedSound</key>
+	<string>navigationBridge</string>
+	<key>injectionVisible</key>
+	<string>receiveEntity</string>
+	<key>normalWrapper</key>
+	<string>offsetinsidevariable</string>
+	<key>persistentWrapper</key>
+	<string>updateCanvas</string>
+	<key>shouldDeserializeBase</key>
+	<string>shouldpublishskin</string>
+	<key>sorterSkewX</key>
+	<string>eagerIntegrity</string>
+	<key>timerContrast</key>
+	<string>shouldDisconnectStoryboard</string>
+	<key>unaryOffset</key>
+	<string>canNotifyCatalyst</string>
+</dict>
+</plist>

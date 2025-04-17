@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileConverter</key>
+	<string>sustainableIndicator</string>
+	<key>elasticCanvas</key>
+	<string>painterPrototype</string>
+	<key>touchborder</key>
+	<string>inheritedCombiner</string>
+	<key>utiltag</key>
+	<string>usedSelector</string>
+</dict>
+</plist>

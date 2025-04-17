@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveclipper</key>
+	<string>animatedChooser</string>
+	<key>concurrentprogressbar</key>
+	<string>embedCurve</string>
+	<key>convolutioninsidenumber</key>
+	<string>seekentity</string>
+	<key>custompaintFormat</key>
+	<string>instantiateFrame</string>
+	<key>diversifiedChecklist</key>
+	<string>efficiencyvisibility</string>
+	<key>mainDescription</key>
+	<string>accordionSemantics</string>
+	<key>routeactioncoord</key>
+	<string>alignmentprototypeleft</string>
+	<key>shaderbottom</key>
+	<string>disconnectInterface</string>
+</dict>
+</plist>

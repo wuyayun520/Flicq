@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentUsage</key>
+	<string>shouldSetStateAccessory</string>
+	<key>discardedbaseline</key>
+	<string>sustainableConsumer</string>
+	<key>materialPrecision</key>
+	<string>protectedhistogram</string>
+	<key>observetouch</key>
+	<string>shouldInflateTouch</string>
+	<key>operationOffset</key>
+	<string>shouldUnmountedRow</string>
+	<key>publicStrength</key>
+	<string>dispatchSensor</string>
+	<key>relationalConstant</key>
+	<string>usedElement</string>
+	<key>shapeOffset</key>
+	<string>timerEdge</string>
+	<key>shouldResumeConsumer</key>
+	<string>disparateSlash</string>
+	<key>sineEdge</key>
+	<string>futurethreshold</string>
+</dict>
+</plist>

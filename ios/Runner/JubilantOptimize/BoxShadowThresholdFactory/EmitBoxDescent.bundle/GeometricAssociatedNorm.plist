@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationspacing</key>
+	<string>canFetchBrush</string>
+	<key>backwardReceiver</key>
+	<string>widgetVariable</string>
+	<key>imperativeTween</key>
+	<string>canContinueBehavior</string>
+	<key>projectionprototypedirection</key>
+	<string>arithmeticTicker</string>
+	<key>resilientIntegration</key>
+	<string>intermediateVertex</string>
+	<key>shouldCancelTask</key>
+	<string>optionOperation</string>
+	<key>specifytraversal</key>
+	<string>visiblenormvelocity</string>
+	<key>textureHue</key>
+	<string>associatedSizedBox</string>
+	<key>workflowbottom</key>
+	<string>impressionRate</string>
+</dict>
+</plist>

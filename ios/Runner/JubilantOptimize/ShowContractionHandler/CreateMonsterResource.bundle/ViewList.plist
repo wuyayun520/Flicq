@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionShape</key>
+	<string>rowmargin</string>
+	<key>hierarchicalSpine</key>
+	<string>difficultResolver</string>
+	<key>hyperbolicEfficiency</key>
+	<string>fixedindicator</string>
+	<key>mainLoop</key>
+	<string>lazyCertificate</string>
+	<key>managerSpacing</key>
+	<string>denseblocstyle</string>
+	<key>previewTransparency</key>
+	<string>deserializecollection</string>
+	<key>relationalMechanism</key>
+	<string>enumerateBuilder</string>
+	<key>shouldPauseBrush</key>
+	<string>modelFlyweight</string>
+</dict>
+</plist>

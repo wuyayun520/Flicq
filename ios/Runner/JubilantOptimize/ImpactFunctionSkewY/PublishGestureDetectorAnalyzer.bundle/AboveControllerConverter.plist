@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTaxonomy</key>
+	<string>oldFactory</string>
+	<key>flexibleCube</key>
+	<string>dataindex</string>
+	<key>flexibleprojectionformat</key>
+	<string>navigationcommandbottom</string>
+	<key>hasSymbol</key>
+	<string>storeTint</string>
+	<key>managerflyweightvalidation</key>
+	<string>usedLoader</string>
+	<key>nativeTheme</key>
+	<string>interactorPadding</string>
+</dict>
+</plist>

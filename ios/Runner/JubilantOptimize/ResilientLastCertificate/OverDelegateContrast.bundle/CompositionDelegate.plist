@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkdescriptor</key>
+	<string>canStopBoxShadow</string>
+	<key>diversifiedinterpolation</key>
+	<string>resolveSprite</string>
+	<key>draggableGridView</key>
+	<string>tasktimeline</string>
+	<key>keepspot</key>
+	<string>deserializeText</string>
+	<key>prevResource</key>
+	<string>textfieldSize</string>
+	<key>replaceticker</key>
+	<string>concatenateEvent</string>
+	<key>shouldInitializeCube</key>
+	<string>fetchPet</string>
+	<key>subsequentAlpha</key>
+	<string>sequentialInteraction</string>
+</dict>
+</plist>

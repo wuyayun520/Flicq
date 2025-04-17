@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystName</key>
+	<string>selectedHistogram</string>
+	<key>equipmentBehavior</key>
+	<string>invisiblematrix</string>
+	<key>mendInterval</key>
+	<string>requestObserver</string>
+	<key>pivotalCompletion</key>
+	<string>asynchronousTransformer</string>
+	<key>resourceinfo</key>
+	<string>imageBuffer</string>
+	<key>subtleanimationtail</key>
+	<string>movementStrategy</string>
+	<key>synchronizemaster</key>
+	<string>sizedboxprovider</string>
+	<key>uniformflex</key>
+	<string>webAudio</string>
+</dict>
+</plist>

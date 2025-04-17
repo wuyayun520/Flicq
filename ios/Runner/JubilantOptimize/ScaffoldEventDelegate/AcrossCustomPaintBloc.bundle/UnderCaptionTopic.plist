@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturechainshape</key>
+	<string>invokeRepository</string>
+	<key>hashthanstrategy</key>
+	<string>temporaryItem</string>
+	<key>marginkind</key>
+	<string>transitiontypevisibility</string>
+	<key>resilientGradient</key>
+	<string>notificationposition</string>
+	<key>shouldDispatchProjection</key>
+	<string>accelerateGrid</string>
+	<key>shouldLayoutMap</key>
+	<string>canRenderCapsule</string>
+	<key>smallTabView</key>
+	<string>gemmediatorspeed</string>
+	<key>specifyRenderer</key>
+	<string>resolveContainer</string>
+	<key>statusType</key>
+	<string>crucialMethod</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equivalentScale</key>
+	<string>advancedResource</string>
+	<key>lastmenu</key>
+	<string>toleranceresponse</string>
+	<key>normalAspectRatio</key>
+	<string>canBindDrawer</string>
+	<key>pointDelay</key>
+	<string>sequentialTechnique</string>
+	<key>popcollection</key>
+	<string>showStateless</string>
+	<key>shouldDeserializeEquipment</key>
+	<string>numericalOption</string>
+	<key>shouldEncodeCard</key>
+	<string>gateBound</string>
+	<key>splitterDistance</key>
+	<string>symmetricAudio</string>
+</dict>
+</plist>

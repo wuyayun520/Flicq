@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveReduction</key>
+	<string>declarativeTaxonomy</string>
+	<key>futureDensity</key>
+	<string>statelessCount</string>
+	<key>giftLocation</key>
+	<string>checklistNumber</string>
+	<key>shouldendalert</key>
+	<string>displayableImpression</string>
+	<key>stampPosition</key>
+	<string>arithmeticslider</string>
+	<key>validatepresenter</key>
+	<string>soundSkewX</string>
+</dict>
+</plist>

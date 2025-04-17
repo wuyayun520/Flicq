@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorOpacity</key>
+	<string>granularSwift</string>
+	<key>autotable</key>
+	<string>unlockPosition</string>
+	<key>concurrentInitiators</key>
+	<string>euclideanOptimizer</string>
+	<key>interactorlistener</key>
+	<string>locateAction</string>
+	<key>invisibleSpine</key>
+	<string>cartesianSensor</string>
+	<key>invisibleTaxonomy</key>
+	<string>shouldInitializeTabBar</string>
+	<key>mediocreEvolution</key>
+	<string>connectorBrightness</string>
+	<key>pinchableProvider</key>
+	<string>dependencyrate</string>
+	<key>sampleKind</key>
+	<string>shouldformatcube</string>
+	<key>ternaryKind</key>
+	<string>imageInset</string>
+</dict>
+</plist>

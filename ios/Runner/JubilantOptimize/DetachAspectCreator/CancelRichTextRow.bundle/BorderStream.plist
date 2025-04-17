@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowHead</key>
+	<string>controllerState</string>
+	<key>buttonnotation</key>
+	<string>shouldStopTool</string>
+	<key>globalScroller</key>
+	<string>deliveryInset</string>
+	<key>iterativeNotification</key>
+	<string>flexCoord</string>
+	<key>operationasvisitor</key>
+	<string>shouldRestartScale</string>
+	<key>shouldDetachEqualization</key>
+	<string>shouldSaveGem</string>
+	<key>shouldpresentunary</key>
+	<string>queueDistance</string>
+	<key>subsequentTitle</key>
+	<string>hierarchicalBehavior</string>
+	<key>tangentVelocity</key>
+	<string>transformProgressBar</string>
+</dict>
+</plist>

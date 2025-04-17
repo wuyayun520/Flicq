@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateinteractor</key>
+	<string>shouldanimategesturedetector</string>
+	<key>sharedentropy</key>
+	<string>fragmentAcceleration</string>
+	<key>shouldTransformCustomPaint</key>
+	<string>isMobile</string>
+	<key>sizedboxPadding</key>
+	<string>propagateParticle</string>
+	<key>timeractivityvisibility</key>
+	<string>shouldValidateAspect</string>
+	<key>usecasebrightness</key>
+	<string>statelessWorkflow</string>
+</dict>
+</plist>

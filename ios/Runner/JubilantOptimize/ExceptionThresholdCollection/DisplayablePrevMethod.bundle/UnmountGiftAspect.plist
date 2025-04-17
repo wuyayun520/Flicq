@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicActivity</key>
+	<string>isEquipment</string>
+	<key>equalizationOffset</key>
+	<string>displayableAppBar</string>
+	<key>graphShape</key>
+	<string>priorityHue</string>
+	<key>immediateTexture</key>
+	<string>statelessLoader</string>
+	<key>inkwellMargin</key>
+	<string>istask</string>
+	<key>navigatestoryboard</key>
+	<string>canAttachSkin</string>
+	<key>newestShape</key>
+	<string>dynamicCluster</string>
+	<key>stackuntilmethod</key>
+	<string>chartflags</string>
+	<key>subscribenorm</key>
+	<string>pendingRichText</string>
+</dict>
+</plist>

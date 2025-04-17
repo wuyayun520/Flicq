@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableMetadata</key>
+	<string>readResource</string>
+	<key>shouldEncodeOption</key>
+	<string>canInflateMultiplication</string>
+	<key>smartStateful</key>
+	<string>releaseLoop</string>
+	<key>usedEffect</key>
+	<string>heapTransparency</string>
+</dict>
+</plist>

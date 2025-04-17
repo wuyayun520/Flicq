@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>firstlogduration</key>
+	<string>currentSkirt</string>
+	<key>gateandcommand</key>
+	<string>detachCompletion</string>
+	<key>insteadfuture</key>
+	<string>animatedTool</string>
+	<key>normInset</key>
+	<string>canUnmountBloc</string>
+	<key>providercombiner</key>
+	<string>schemaType</string>
+	<key>resultCenter</key>
+	<string>extensionrouter</string>
+	<key>validateaspect</key>
+	<string>shouldPresentPadding</string>
+	<key>visibleSemantics</key>
+	<string>replaceIcon</string>
+</dict>
+</plist>

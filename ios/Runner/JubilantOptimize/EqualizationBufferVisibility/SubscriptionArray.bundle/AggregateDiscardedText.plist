@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatefeature</key>
+	<string>animatedBinary</string>
+	<key>crudeConverter</key>
+	<string>scenekind</string>
+	<key>flexibleListener</key>
+	<string>behaviorTension</string>
+	<key>tangentOpacity</key>
+	<string>playerror</string>
+</dict>
+</plist>

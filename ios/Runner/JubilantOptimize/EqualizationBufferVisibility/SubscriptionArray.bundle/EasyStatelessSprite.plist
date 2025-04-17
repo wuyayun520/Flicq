@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConsumer</key>
+	<string>canHandleProtocol</string>
+	<key>activityPadding</key>
+	<string>aggregateTexture</string>
+	<key>constantHead</key>
+	<string>drawerCycle</string>
+	<key>embedtabbar</key>
+	<string>utilVisibility</string>
+	<key>immediateException</key>
+	<string>multiTransition</string>
+	<key>shouldNavigateTouch</key>
+	<string>fusedMaterializer</string>
+	<key>shouldSerializeCache</key>
+	<string>parallelRestriction</string>
+	<key>subscriptionasjob</key>
+	<string>shouldBindTangent</string>
+</dict>
+</plist>

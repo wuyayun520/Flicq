@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorplatformflags</key>
+	<string>tabviewOffset</string>
+	<key>compiledimension</key>
+	<string>logAdapter</string>
+	<key>emitgroup</key>
+	<string>rendererBound</string>
+	<key>permissiveFragment</key>
+	<string>immutableDecoration</string>
+	<key>promiseSpacing</key>
+	<string>heapcommandorigin</string>
+	<key>sortedsemantics</key>
+	<string>concreteStoryboard</string>
+	<key>tensorAnalogy</key>
+	<string>uniqueVideo</string>
+	<key>visibleEfficiency</key>
+	<string>asynchronousAwait</string>
+</dict>
+</plist>

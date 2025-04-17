@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directScheduler</key>
+	<string>ephemeralChooser</string>
+	<key>mutableRadio</key>
+	<string>resizableColor</string>
+	<key>primaryRow</key>
+	<string>integerMethod</string>
+	<key>shouldFinishExtension</key>
+	<string>checkboxmapper</string>
+	<key>shouldprocessmap</key>
+	<string>loadSign</string>
+	<key>sliderStyle</key>
+	<string>fetchpopup</string>
+</dict>
+</plist>

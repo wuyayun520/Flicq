@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultmatrix</key>
+	<string>localGridView</string>
+	<key>objectBrightness</key>
+	<string>arithmeticSkewX</string>
+	<key>radioreducer</key>
+	<string>shouldbindstateful</string>
+	<key>resizableInkWell</key>
+	<string>imperativeConfidentiality</string>
+	<key>restrictionFrequency</key>
+	<string>variantperplatform</string>
+	<key>shouldMountedReduction</key>
+	<string>durationbuilder</string>
+	<key>unsortedStamp</key>
+	<string>desktopRole</string>
+</dict>
+</plist>

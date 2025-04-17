@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedSorter</key>
+	<string>displayableGrain</string>
+	<key>capsuleRate</key>
+	<string>streamstatus</string>
+	<key>channelproxymode</key>
+	<string>resolveWidget</string>
+	<key>declarativeEqualization</key>
+	<string>memberDensity</string>
+	<key>independenterror</key>
+	<string>spriteInterpreter</string>
+	<key>inheritednotification</key>
+	<string>shouldpopgridview</string>
+	<key>platewithoutstage</key>
+	<string>deserializeRichText</string>
+	<key>substantialLatency</key>
+	<string>typicalTechnique</string>
+	<key>sustainableCurve</key>
+	<string>validateGestureDetector</string>
+</dict>
+</plist>

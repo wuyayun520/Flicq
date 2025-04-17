@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDispatcher</key>
+	<string>comparefeature</string>
+	<key>currentUnary</key>
+	<string>injectiontime</string>
+	<key>diversifiedGroup</key>
+	<string>shouldEncodeDocument</string>
+	<key>efficiencyLocation</key>
+	<string>materializerTop</string>
+	<key>frameimage</key>
+	<string>heroVisible</string>
+	<key>heapstrategyhead</key>
+	<string>receiveInteractor</string>
+	<key>multiplicationCoord</key>
+	<string>customCompleter</string>
+	<key>navigatereducer</key>
+	<string>thresholddepth</string>
+	<key>polyfillAcceleration</key>
+	<string>triggerShade</string>
+	<key>schedulerType</key>
+	<string>temporaryNotification</string>
+</dict>
+</plist>

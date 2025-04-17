@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivedescription</key>
+	<string>catalystdensity</string>
+	<key>compositionalGestureDetector</key>
+	<string>divideNavigator</string>
+	<key>defaultalpha</key>
+	<string>gesturerenderer</string>
+	<key>shouldUnmountedMaster</key>
+	<string>sustainableTextField</string>
+	<key>specifySemantics</key>
+	<string>texturenumberright</string>
+</dict>
+</plist>

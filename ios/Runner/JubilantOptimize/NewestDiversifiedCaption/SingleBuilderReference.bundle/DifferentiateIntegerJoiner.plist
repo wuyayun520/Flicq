@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeMargin</key>
+	<string>moveOffset</string>
+	<key>entitytype</key>
+	<string>groupVisitor</string>
+	<key>errorState</key>
+	<string>originaloffsetcoord</string>
+	<key>prismaticDescent</key>
+	<string>cacheMomentum</string>
+	<key>shouldFetchRemainder</key>
+	<string>lastTrajectory</string>
+	<key>shoulddismissnorm</key>
+	<string>mutablePlayback</string>
+	<key>sliderparammomentum</key>
+	<string>persistentShape</string>
+	<key>touchShade</key>
+	<string>loopTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerprototypeformat</key>
+	<string>projectionLayer</string>
+	<key>resilientConvolution</key>
+	<string>liteQuaternion</string>
+	<key>respectiveDuration</key>
+	<string>refreshError</string>
+	<key>shouldFetchSkin</key>
+	<string>containermediatorleft</string>
+	<key>shouldpublishsemantics</key>
+	<string>navigationOffset</string>
+	<key>storeparamindex</key>
+	<string>canMountedAlpha</string>
+</dict>
+</plist>

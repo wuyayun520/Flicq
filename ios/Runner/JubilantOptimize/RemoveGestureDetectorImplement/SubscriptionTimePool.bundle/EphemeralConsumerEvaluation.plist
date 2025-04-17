@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperframe</key>
+	<string>orchestrateCoordinator</string>
+	<key>cursorResponse</key>
+	<string>linkerCount</string>
+	<key>missedProvider</key>
+	<string>heaptail</string>
+	<key>prevTransformer</key>
+	<string>eagerState</string>
+	<key>sequentialRow</key>
+	<string>activateFactory</string>
+	<key>shouldStopVariant</key>
+	<string>shouldPaintAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultAnimatedContainer</key>
+	<string>customizedBoxShadow</string>
+	<key>easyStateless</key>
+	<string>canUnmountSegment</string>
+	<key>euclideanSelector</key>
+	<string>subsequentSymbol</string>
+	<key>frameinset</key>
+	<string>iconShape</string>
+	<key>geometricIcon</key>
+	<string>parseBinary</string>
+	<key>lazyCustomPaint</key>
+	<string>canShowController</string>
+	<key>responsivemenutint</key>
+	<string>mixinPopup</string>
+	<key>secondAnimatedContainer</key>
+	<string>emitAnimation</string>
+	<key>standaloneIntensity</key>
+	<string>easyAscent</string>
+	<key>textureValidation</key>
+	<string>methodLocation</string>
+</dict>
+</plist>

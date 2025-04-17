@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineVisibility</key>
+	<string>projectVelocity</string>
+	<key>grainStatus</key>
+	<string>serializeBinary</string>
+	<key>isgesturedetector</key>
+	<string>canNavigateLog</string>
+	<key>mediaquerySaturation</key>
+	<string>commonCheckbox</string>
+	<key>providerreliability</key>
+	<string>unmarshalInterface</string>
+</dict>
+</plist>

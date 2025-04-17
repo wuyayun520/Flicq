@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchVelocity</key>
+	<string>preparePriority</string>
+	<key>concurrentoptionappearance</key>
+	<string>flexValidation</string>
+	<key>overlayValidation</key>
+	<string>globalCreator</string>
+	<key>progressbarTheme</key>
+	<string>streamcenter</string>
+	<key>semanticOverlay</key>
+	<string>sessionFrequency</string>
+	<key>sensorkind</key>
+	<string>repositoryOrigin</string>
+</dict>
+</plist>

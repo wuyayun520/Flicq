@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionScope</key>
+	<string>shouldEncodeBaseline</string>
+	<key>beginnerCollection</key>
+	<string>appbarleft</string>
+	<key>combinerRotation</key>
+	<string>oldAllocator</string>
+	<key>continuedescription</key>
+	<string>containertail</string>
+	<key>crudeScale</key>
+	<string>yieldButton</string>
+	<key>draggableExpanded</key>
+	<string>shouldPauseSpecifier</string>
+	<key>immediateTolerance</key>
+	<string>timerResponse</string>
+	<key>originalSegue</key>
+	<string>widgetDelay</string>
+	<key>shouldValidateMonster</key>
+	<string>unbindBehavior</string>
+</dict>
+</plist>

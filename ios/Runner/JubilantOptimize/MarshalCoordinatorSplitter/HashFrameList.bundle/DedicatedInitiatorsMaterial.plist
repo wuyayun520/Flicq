@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionSize</key>
+	<string>newestBrush</string>
+	<key>expandedalignment</key>
+	<string>polygonDistance</string>
+	<key>fixedsegmentspacing</key>
+	<string>immediateTimeline</string>
+	<key>rectDuration</key>
+	<string>tabbarRight</string>
+	<key>retainedBuilder</key>
+	<string>positionVisible</string>
+</dict>
+</plist>

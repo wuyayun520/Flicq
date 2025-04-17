@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileNode</key>
+	<string>shouldLoadDescriptor</string>
+	<key>callbackvisible</key>
+	<string>newestCollection</string>
+	<key>flexibleCertificate</key>
+	<string>animateStep</string>
+	<key>lastDropdownButton</key>
+	<string>shouldUnmountedMusic</string>
+	<key>momentumBrightness</key>
+	<string>intensityFunction</string>
+	<key>originalmember</key>
+	<string>immutableMethod</string>
+	<key>relationalFormat</key>
+	<string>unlockInteractor</string>
+	<key>remainderTheme</key>
+	<string>alertAdapter</string>
+	<key>shouldDisposeFlex</key>
+	<string>declarativeTransition</string>
+	<key>singlePolyfill</key>
+	<string>shouldTransitionNavigator</string>
+</dict>
+</plist>

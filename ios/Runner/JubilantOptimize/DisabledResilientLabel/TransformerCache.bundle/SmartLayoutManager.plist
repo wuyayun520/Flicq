@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionrotation</key>
+	<string>shoulddisposescroll</string>
+	<key>inheritedConvolution</key>
+	<string>canvasOffset</string>
+	<key>lostdependencybottom</key>
+	<string>primaryGraphic</string>
+	<key>shouldattachloss</key>
+	<string>gemlocation</string>
+	<key>statelesspreviewbound</key>
+	<string>factoryPlatform</string>
+	<key>ternaryRight</key>
+	<string>listenerScale</string>
+</dict>
+</plist>

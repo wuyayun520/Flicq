@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesrouter</key>
+	<string>buildMovement</string>
+	<key>precisionacceleration</key>
+	<string>encodeGroup</string>
+	<key>sessionformat</key>
+	<string>declarativeIsolate</string>
+	<key>shouldBindVariant</key>
+	<string>evaluateProgressBar</string>
+	<key>strengthposition</key>
+	<string>opaqueSprite</string>
+</dict>
+</plist>

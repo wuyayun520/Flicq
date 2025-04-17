@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletScale</key>
+	<string>restartcustompaint</string>
+	<key>cupertinoError</key>
+	<string>radioCycle</string>
+	<key>customizedsubscriber</key>
+	<string>brushChain</string>
+	<key>firstAscent</key>
+	<string>notifyFrame</string>
+	<key>geometricSpot</key>
+	<string>unactivatedLifecycle</string>
+	<key>observerDelay</key>
+	<string>pointPressure</string>
+	<key>requiredProcessor</key>
+	<string>customResolver</string>
+</dict>
+</plist>

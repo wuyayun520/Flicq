@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedinkwell</key>
+	<string>enabledTriangles</string>
+	<key>challengephaseleft</key>
+	<string>mediaqueryPadding</string>
+	<key>crucialdescent</key>
+	<string>synchronousContraction</string>
+	<key>defaultcanvas</key>
+	<string>animatepreview</string>
+	<key>enabledController</key>
+	<string>multiplyAlignment</string>
+	<key>entityanalogy</key>
+	<string>agileZone</string>
+	<key>mediocreModel</key>
+	<string>largeHandler</string>
+	<key>resizableMusic</key>
+	<string>canSkipBullet</string>
+</dict>
+</plist>

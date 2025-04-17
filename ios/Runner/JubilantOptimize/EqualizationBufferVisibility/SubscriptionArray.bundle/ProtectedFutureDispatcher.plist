@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCluster</key>
+	<string>canSaveCertificate</string>
+	<key>augmentgesture</key>
+	<string>seamlessSwitch</string>
+	<key>dynamiccaptiondirection</key>
+	<string>beginnerNorm</string>
+	<key>gradientOrigin</key>
+	<string>showAccessory</string>
+	<key>lastboxshadowvisible</key>
+	<string>canTransitionCupertino</string>
+	<key>mediumIndicator</key>
+	<string>canProcessCell</string>
+	<key>mobileStatus</key>
+	<string>canDecodeLog</string>
+	<key>shouldLoadPlate</key>
+	<string>particleviavar</string>
+	<key>shouldinitializeimage</key>
+	<string>seamlessProject</string>
+</dict>
+</plist>

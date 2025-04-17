@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionStateless</key>
+	<string>stepBottom</string>
+	<key>basictime</key>
+	<string>ascentCoord</string>
+	<key>directEfficiency</key>
+	<string>sizestylemode</string>
+	<key>easycoordinatordirection</key>
+	<string>diffablePopup</string>
+	<key>statefulparamfeedback</key>
+	<string>drawDecoration</string>
+	<key>titleColor</key>
+	<string>refreshTransition</string>
+</dict>
+</plist>

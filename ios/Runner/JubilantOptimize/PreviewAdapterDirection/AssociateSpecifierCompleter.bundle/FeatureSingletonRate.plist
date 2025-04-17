@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAppearance</key>
+	<string>explicitMerger</string>
+	<key>animatedCombiner</key>
+	<string>disposeDelegate</string>
+	<key>mixinboxshadow</key>
+	<string>cartesianGate</string>
+	<key>prevspritecoord</key>
+	<string>backwardHeap</string>
+	<key>provideroutsidescope</key>
+	<string>detailHead</string>
+	<key>shouldDetachImage</key>
+	<string>parallelGesture</string>
+	<key>shouldFormatCapsule</key>
+	<string>dedicatedMetrics</string>
+	<key>shouldValidateSegue</key>
+	<string>decoupleEvent</string>
+	<key>shouldYieldCaption</key>
+	<string>shouldDisposeNorm</string>
+</dict>
+</plist>

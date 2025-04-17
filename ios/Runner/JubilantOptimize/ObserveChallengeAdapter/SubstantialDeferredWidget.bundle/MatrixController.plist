@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocvalidation</key>
+	<string>temporarySingleton</string>
+	<key>diversifiedGrain</key>
+	<string>resilientJoiner</string>
+	<key>frameFrequency</key>
+	<string>shouldDetachDrawer</string>
+	<key>graphAlignment</key>
+	<string>hasdropdownbutton</string>
+	<key>integrationFrequency</key>
+	<string>unmountDimension</string>
+	<key>materialIsolate</key>
+	<string>accessoryIndex</string>
+	<key>shouldAttachMediaQuery</key>
+	<string>backwardOccasion</string>
+	<key>shouldRestartSpot</key>
+	<string>tickerright</string>
+	<key>similarChallenge</key>
+	<string>promiseMode</string>
+	<key>stampVisibility</key>
+	<string>mixinanchor</string>
+</dict>
+</plist>

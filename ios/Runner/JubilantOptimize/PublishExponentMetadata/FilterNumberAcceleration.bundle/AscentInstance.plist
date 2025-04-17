@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindtween</key>
+	<string>stopBrush</string>
+	<key>draggableCatalyst</key>
+	<string>advancedoffset</string>
+	<key>greatSchema</key>
+	<string>sampleCount</string>
+	<key>iterativeCreator</key>
+	<string>inheritedState</string>
+	<key>shouldDeserializeText</key>
+	<string>canUpdateBinary</string>
+	<key>shouldRouteStream</key>
+	<string>activefutureorientation</string>
+	<key>sliderthanstrategy</key>
+	<string>extendState</string>
+	<key>storeinteractor</key>
+	<string>canSubscribeGem</string>
+	<key>visibleObserver</key>
+	<string>declarativeDelivery</string>
+</dict>
+</plist>

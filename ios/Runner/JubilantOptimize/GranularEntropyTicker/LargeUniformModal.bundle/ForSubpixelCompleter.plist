@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatepainter</key>
+	<string>seamlessAlert</string>
+	<key>containervisible</key>
+	<string>hashPattern</string>
+	<key>navigatestateful</key>
+	<string>respectiveCheckbox</string>
+	<key>restrictiontail</key>
+	<string>analyzerRotation</string>
+	<key>shapelocation</key>
+	<string>transitionMethod</string>
+	<key>shouldAttachTabBar</key>
+	<string>accessoryInterpreter</string>
+	<key>titleconverter</key>
+	<string>explicitStorage</string>
+</dict>
+</plist>

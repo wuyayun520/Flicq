@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTheme</key>
+	<string>missionInterpreter</string>
+	<key>beginnerReduction</key>
+	<string>parallelButton</string>
+	<key>customizedVertex</key>
+	<string>combineAction</string>
+	<key>fixedcubitfrequency</key>
+	<string>cycleRotation</string>
+	<key>histogramviaobserver</key>
+	<string>isOptimizer</string>
+	<key>injectioncontextvalidation</key>
+	<string>customItem</string>
+	<key>shouldUnmountHistogram</key>
+	<string>interactionOrigin</string>
+</dict>
+</plist>

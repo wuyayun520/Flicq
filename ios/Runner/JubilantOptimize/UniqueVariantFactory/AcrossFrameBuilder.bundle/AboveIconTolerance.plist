@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSpot</key>
+	<string>regulateDelegate</string>
+	<key>discardedasync</key>
+	<string>enabledMobile</string>
+	<key>enabledDisclaimer</key>
+	<string>shouldCacheHero</string>
+	<key>transformerandpattern</key>
+	<string>responseAppearance</string>
+	<key>uniformTicker</key>
+	<string>canSkipPromise</string>
+</dict>
+</plist>

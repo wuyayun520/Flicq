@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCompletion</key>
+	<string>cubitShape</string>
+	<key>commonpopupvalidation</key>
+	<string>permissiveCertificate</string>
+	<key>constraintrepository</key>
+	<string>optiondecoration</string>
+	<key>dataBehavior</key>
+	<string>playbackCount</string>
+	<key>directlyContainer</key>
+	<string>shouldPaintMovement</string>
+	<key>elasticEvolution</key>
+	<string>advancedMetrics</string>
+	<key>elasticScroll</key>
+	<string>storeTicker</string>
+	<key>explicitCatalyst</key>
+	<string>positionNumber</string>
+	<key>generateskin</key>
+	<string>bitrateScope</string>
+</dict>
+</plist>

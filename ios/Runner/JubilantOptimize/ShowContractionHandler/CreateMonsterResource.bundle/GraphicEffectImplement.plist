@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultSize</key>
+	<string>vectorPosition</string>
+	<key>disabledLayer</key>
+	<string>temporaryTransformer</string>
+	<key>draggableboxshadow</key>
+	<string>previewPattern</string>
+	<key>generatedescription</key>
+	<string>paintShader</string>
+	<key>matrixdelay</key>
+	<string>concurrentRange</string>
+	<key>mobilefragments</key>
+	<string>draggableSink</string>
+	<key>shouldbindequipment</key>
+	<string>subscribeSkin</string>
+</dict>
+</plist>

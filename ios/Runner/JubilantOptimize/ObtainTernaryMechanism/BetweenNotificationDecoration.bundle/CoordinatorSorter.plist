@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionrect</key>
+	<string>schemaState</string>
+	<key>mediaTransparency</key>
+	<string>canFinishLayout</string>
+	<key>normBehavior</key>
+	<string>sensorState</string>
+	<key>normalIsolate</key>
+	<string>canAttachWidget</string>
+	<key>sensorShade</key>
+	<string>drawWidget</string>
+	<key>sophisticatedtexture</key>
+	<string>sinkStrategy</string>
+</dict>
+</plist>

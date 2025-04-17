@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorKind</key>
+	<string>geometricFeature</string>
+	<key>initiativeShape</key>
+	<string>hierarchicalRenderer</string>
+	<key>lostDependency</key>
+	<string>sequentialRepository</string>
+	<key>permanentSpot</key>
+	<string>canDeserializePainter</string>
+	<key>readtable</key>
+	<string>arithmeticSelector</string>
+	<key>rotaterow</key>
+	<string>timelineContrast</string>
+</dict>
+</plist>

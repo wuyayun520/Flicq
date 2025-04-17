@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>combinecapacities</key>
+	<string>semanticsTask</string>
+	<key>resolverbeyondlayer</key>
+	<string>textfieldValue</string>
+	<key>sequentialService</key>
+	<string>isolatetransparency</string>
+	<key>specifyResource</key>
+	<string>shouldTransitionScaffold</string>
+</dict>
+</plist>

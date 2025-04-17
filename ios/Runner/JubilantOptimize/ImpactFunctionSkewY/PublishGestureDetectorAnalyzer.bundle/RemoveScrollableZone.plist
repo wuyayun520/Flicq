@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocsinceform</key>
+	<string>shouldDecodeGraphic</string>
+	<key>chartcoord</key>
+	<string>canPaintIndicator</string>
+	<key>creatorHead</key>
+	<string>fixedLabel</string>
+	<key>dynamicSignature</key>
+	<string>independentrouter</string>
+	<key>inactiveNorm</key>
+	<string>denseCycle</string>
+	<key>responseType</key>
+	<string>methodimage</string>
+	<key>shouldprocesskernel</key>
+	<string>shouldStreamTabView</string>
+</dict>
+</plist>

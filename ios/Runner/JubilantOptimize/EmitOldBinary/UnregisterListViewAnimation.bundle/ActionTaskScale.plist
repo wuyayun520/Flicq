@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableswift</key>
+	<string>validateTask</string>
+	<key>discardedComposition</key>
+	<string>standaloneListener</string>
+	<key>fusedContainer</key>
+	<string>requestdocument</string>
+	<key>indicatorRotation</key>
+	<string>storegem</string>
+	<key>mediumBoxShadow</key>
+	<string>screenAction</string>
+	<key>nextTraversal</key>
+	<string>heroscenario</string>
+	<key>shouldNotifyAppBar</key>
+	<string>scaleFunction</string>
+	<key>storeequipment</key>
+	<string>checklistBridge</string>
+	<key>unactivatedtime</key>
+	<string>alignmentTask</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencybufferacceleration</key>
+	<string>euclideanVideo</string>
+	<key>layoutpoint</key>
+	<string>canPaintCursor</string>
+	<key>nextgridvisibility</key>
+	<string>shouldloadcurve</string>
+	<key>ontangentchanged</key>
+	<string>observeConvolution</string>
+	<key>optionamonglayer</key>
+	<string>buttonLeft</string>
+	<key>significantTangent</key>
+	<string>memberRate</string>
+</dict>
+</plist>

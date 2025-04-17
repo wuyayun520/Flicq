@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderTop</key>
+	<string>draggableInteraction</string>
+	<key>catalystOpacity</key>
+	<string>elasticOption</string>
+	<key>currentEquipment</key>
+	<string>parallelDecoration</string>
+	<key>errorDelay</key>
+	<string>assetDensity</string>
+	<key>multiTime</key>
+	<string>usageBound</string>
+	<key>progressbarStyle</key>
+	<string>detailPressure</string>
+	<key>shouldAttachTangent</key>
+	<string>responderDepth</string>
+	<key>shouldPrepareGrayscale</key>
+	<string>criticalCustomPaint</string>
+	<key>subsequentMaster</key>
+	<string>cacheForm</string>
+	<key>tensorRepository</key>
+	<string>volumeFeedback</string>
+</dict>
+</plist>

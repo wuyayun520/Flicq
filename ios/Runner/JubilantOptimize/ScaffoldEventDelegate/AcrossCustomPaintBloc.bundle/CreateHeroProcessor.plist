@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTimeline</key>
+	<string>staticLoss</string>
+	<key>featureinterval</key>
+	<string>routeFacade</string>
+	<key>permissiveSegment</key>
+	<string>scaffoldBridge</string>
+</dict>
+</plist>

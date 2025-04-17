@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTable</key>
+	<string>adaptivecoordinator</string>
+	<key>musictint</key>
+	<string>shouldKeepAppBar</string>
+	<key>protectedScale</key>
+	<string>lazyProtocol</string>
+	<key>shouldParsePrecision</key>
+	<string>interpolateListener</string>
+	<key>spotabouttask</key>
+	<string>shouldLayoutSegue</string>
+	<key>synchronizecatalyst</key>
+	<string>alignmentMode</string>
+	<key>temporarybaselinestatus</key>
+	<string>prismaticMusic</string>
+</dict>
+</plist>

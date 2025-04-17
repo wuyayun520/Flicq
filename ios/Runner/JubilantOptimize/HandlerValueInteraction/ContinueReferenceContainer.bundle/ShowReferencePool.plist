@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicSearcher</key>
+	<string>issignature</string>
+	<key>projectSaturation</key>
+	<string>readLayer</string>
+	<key>seamlessChapter</key>
+	<string>nodefeedback</string>
+	<key>shouldStopGesture</key>
+	<string>cubecontrast</string>
+	<key>widgetaboutscope</key>
+	<string>promisetween</string>
+</dict>
+</plist>

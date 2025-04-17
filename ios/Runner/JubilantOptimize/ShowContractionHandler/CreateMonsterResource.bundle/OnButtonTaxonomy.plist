@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBitrate</key>
+	<string>gridMemento</string>
+	<key>discardedSkirt</key>
+	<string>scrollOffset</string>
+	<key>greatTimeline</key>
+	<string>adaptiveFrame</string>
+	<key>integrationIndex</key>
+	<string>beginnerConverter</string>
+	<key>missedThread</key>
+	<string>entityDuration</string>
+	<key>quitgift</key>
+	<string>canDecodeMomentum</string>
+	<key>shouldPersistSwitch</key>
+	<string>dimensionFlags</string>
+	<key>shouldanimatesegment</key>
+	<string>advancedCoordinator</string>
+	<key>symmetricNavigation</key>
+	<string>sensorInterval</string>
+	<key>textfieldSaturation</key>
+	<string>shouldYieldCard</string>
+</dict>
+</plist>

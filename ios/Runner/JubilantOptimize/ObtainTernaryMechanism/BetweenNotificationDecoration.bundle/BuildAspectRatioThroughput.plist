@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationTail</key>
+	<string>filterRate</string>
+	<key>ischecklist</key>
+	<string>publicAsset</string>
+	<key>lazyVolume</key>
+	<string>borderatnumber</string>
+	<key>shouldNotifyFlex</key>
+	<string>seguemenu</string>
+	<key>topicbound</key>
+	<string>continueMaterial</string>
+</dict>
+</plist>

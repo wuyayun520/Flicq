@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedaperturetag</key>
+	<string>canEndGestureDetector</string>
+	<key>dedicatedCubit</key>
+	<string>originalSpot</string>
+	<key>materialexception</key>
+	<string>explicitConstraint</string>
+	<key>shouldPopLayout</key>
+	<string>presenterAcceleration</string>
+	<key>techniquewithoutprocess</key>
+	<string>lazyText</string>
+</dict>
+</plist>

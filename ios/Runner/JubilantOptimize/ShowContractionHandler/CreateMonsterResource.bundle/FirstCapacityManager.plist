@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionrotation</key>
+	<string>deployService</string>
+	<key>durationCount</key>
+	<string>inheritedcontainerlocation</string>
+	<key>indicatorDirection</key>
+	<string>interpolationDensity</string>
+	<key>methodVisibility</key>
+	<string>modelDelay</string>
+	<key>multiCubit</key>
+	<string>normProxy</string>
+	<key>multiplicationorientation</key>
+	<string>rowInterval</string>
+	<key>repositoryLeft</key>
+	<string>locateInjection</string>
+	<key>sophisticatedQuaternion</key>
+	<string>shouldconnectrow</string>
+	<key>visibleCallback</key>
+	<string>oldSchema</string>
+</dict>
+</plist>

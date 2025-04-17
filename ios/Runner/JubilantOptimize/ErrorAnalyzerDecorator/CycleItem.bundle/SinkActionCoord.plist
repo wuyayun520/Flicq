@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTabBar</key>
+	<string>shouldRouteComposition</string>
+	<key>largeLoop</key>
+	<string>conformResult</string>
+	<key>mapperCoord</key>
+	<string>drawerMediator</string>
+	<key>pickerborder</key>
+	<string>shouldInflateSegment</string>
+	<key>retrievevariant</key>
+	<string>sharedTrigger</string>
+	<key>statefulMission</key>
+	<string>timeBorder</string>
+	<key>statefulTouch</key>
+	<string>clonedescription</string>
+	<key>staticPageView</key>
+	<string>shouldPublishSkirt</string>
+	<key>sustainableWorkflow</key>
+	<string>desktopSorter</string>
+</dict>
+</plist>

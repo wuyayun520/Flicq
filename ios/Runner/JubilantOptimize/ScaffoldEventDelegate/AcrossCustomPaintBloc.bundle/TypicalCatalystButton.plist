@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensiondistance</key>
+	<string>autoElasticity</string>
+	<key>discardedRow</key>
+	<string>encodeDuration</string>
+	<key>discardedStack</key>
+	<string>canInflateIcon</string>
+	<key>flexibledropdownbutton</key>
+	<string>fusedCube</string>
+	<key>hascycle</key>
+	<string>reusableFrame</string>
+	<key>indicatorstyle</key>
+	<string>canDismissOptimizer</string>
+	<key>pointexception</key>
+	<string>renderTernary</string>
+	<key>unaryorientation</key>
+	<string>touchParameter</string>
+</dict>
+</plist>

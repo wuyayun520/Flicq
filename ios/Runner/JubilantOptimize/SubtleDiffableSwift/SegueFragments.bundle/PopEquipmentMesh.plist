@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterFormat</key>
+	<string>liteTopic</string>
+	<key>entropyleft</key>
+	<string>canTransitionStamp</string>
+	<key>factoryTransparency</key>
+	<string>canProcessController</string>
+	<key>firstConnector</key>
+	<string>binaryCoord</string>
+	<key>requiredResolver</key>
+	<string>cartesianWorkflow</string>
+	<key>shouldMountedLoss</key>
+	<string>deprecateProvider</string>
+	<key>standaloneTexture</key>
+	<string>prismaticScalability</string>
+</dict>
+</plist>

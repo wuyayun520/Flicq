@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterparamacceleration</key>
+	<string>offsetDescription</string>
+	<key>constraintflags</key>
+	<string>canNotifyCosine</string>
+	<key>documentRight</key>
+	<string>keepduration</string>
+	<key>parallelHandler</key>
+	<string>shouldPrepareGestureDetector</string>
+	<key>priorframeshape</key>
+	<string>canLayoutChallenge</string>
+	<key>shouldNavigateAlert</key>
+	<string>canTransformStateful</string>
+	<key>shouldResumeMargin</key>
+	<string>alphaEnvironment</string>
+	<key>tensorMonster</key>
+	<string>shaderorientation</string>
+</dict>
+</plist>

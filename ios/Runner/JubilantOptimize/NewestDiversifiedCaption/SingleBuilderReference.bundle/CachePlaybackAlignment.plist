@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTweak</key>
+	<string>animationSingleton</string>
+	<key>custompaintEdge</key>
+	<string>documentWork</string>
+	<key>shouldInitializeMovement</key>
+	<string>priorcontroller</string>
+	<key>shouldInitializeText</key>
+	<string>dropoutRoute</string>
+	<key>standaloneImage</key>
+	<string>factoryRotation</string>
+	<key>standalonebase</key>
+	<string>responsiveReliability</string>
+	<key>statebrightness</key>
+	<string>debugconstraint</string>
+	<key>themeAlignment</key>
+	<string>seekcontroller</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerproxyoffset</key>
+	<string>intuitiveStateless</string>
+	<key>elasticMission</key>
+	<string>trainsession</string>
+	<key>independentScenario</key>
+	<string>normalZone</string>
+	<key>mutableSink</key>
+	<string>batchHue</string>
+	<key>projectionShade</key>
+	<string>staticSizedBox</string>
+	<key>providerBottom</key>
+	<string>scrollFrequency</string>
+	<key>respectivelabel</key>
+	<string>canLayoutGestureDetector</string>
+	<key>symmetricChecklist</key>
+	<string>shouldLayoutRole</string>
+	<key>unsortedData</key>
+	<string>consumeConfiguration</string>
+</dict>
+</plist>

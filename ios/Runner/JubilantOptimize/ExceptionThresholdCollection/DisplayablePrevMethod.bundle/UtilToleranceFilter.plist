@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindmultiplication</key>
+	<string>pendingDimension</string>
+	<key>completerbridgehead</key>
+	<string>shouldAttachMatrix</string>
+	<key>fixedVideo</key>
+	<string>canContinuePriority</string>
+	<key>shouldLayoutStream</key>
+	<string>providerTask</string>
+	<key>smarttexturehead</key>
+	<string>blocname</string>
+	<key>statefulqueue</key>
+	<string>resilientRectangle</string>
+	<key>ternarytentative</key>
+	<string>canYieldCatalyst</string>
+	<key>typicalSubscription</key>
+	<string>notificationOperation</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTail</key>
+	<string>specifierintensity</string>
+	<key>independentCapacity</key>
+	<string>dedicatedGestureDetector</string>
+	<key>mediaqueryAppearance</key>
+	<string>metadataForce</string>
+	<key>permissiveRestriction</key>
+	<string>deferredQueue</string>
+	<key>shapeStatus</key>
+	<string>canPrepareCosine</string>
+</dict>
+</plist>

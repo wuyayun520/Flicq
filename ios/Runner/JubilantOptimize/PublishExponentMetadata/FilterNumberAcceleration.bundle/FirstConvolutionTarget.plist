@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTabView</key>
+	<string>sharedpopupdirection</string>
+	<key>conformspecifier</key>
+	<string>sliderScale</string>
+	<key>displayableAppBar</key>
+	<string>resolveResult</string>
+	<key>equalpadding</key>
+	<string>initializeLabel</string>
+	<key>navigationcolor</key>
+	<string>shouldTransitionInterpolation</string>
+	<key>responsiveSprite</key>
+	<string>canUnmountTabView</string>
+	<key>shouldFinishHistogram</key>
+	<string>priorCharacter</string>
+</dict>
+</plist>

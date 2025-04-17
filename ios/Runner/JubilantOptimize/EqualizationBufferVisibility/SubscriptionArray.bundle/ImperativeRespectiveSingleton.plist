@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentFeedback</key>
+	<string>cacheVar</string>
+	<key>customDrawer</key>
+	<string>relationalScenario</string>
+	<key>mediumCharacter</key>
+	<string>shouldPopLog</string>
+	<key>nativeBinder</key>
+	<string>symmetricamortization</string>
+	<key>providerinterpretervelocity</key>
+	<string>enabledAnchor</string>
+	<key>resilientStoryboard</key>
+	<string>visualizeLayout</string>
+	<key>signaturelikeactivity</key>
+	<string>deflateinteractor</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystlayer</key>
+	<string>shouldShowExpanded</string>
+	<key>reliabilityVisible</key>
+	<string>accessibleMargin</string>
+	<key>restartsegue</key>
+	<string>consumerstyle</string>
+	<key>retainedtimertransparency</key>
+	<string>animatedVolume</string>
+	<key>shouldSaveController</key>
+	<string>equivalentSpacing</string>
+</dict>
+</plist>

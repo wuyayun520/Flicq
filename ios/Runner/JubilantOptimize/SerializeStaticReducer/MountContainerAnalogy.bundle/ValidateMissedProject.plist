@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customScalability</key>
+	<string>mapperOrientation</string>
+	<key>disabledtransitionhead</key>
+	<string>deferredSprite</string>
+	<key>immediateInitiative</key>
+	<string>canUnmountVariant</string>
+	<key>mediocreclippervisible</key>
+	<string>paintSymbol</string>
+	<key>shouldPushGridView</key>
+	<string>deserializeScreen</string>
+</dict>
+</plist>

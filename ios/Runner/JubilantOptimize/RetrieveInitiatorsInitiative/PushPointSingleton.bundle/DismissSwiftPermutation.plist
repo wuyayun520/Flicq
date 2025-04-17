@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReplica</key>
+	<string>effectAppearance</string>
+	<key>cartesianModal</key>
+	<string>navigatorbycycle</string>
+	<key>nextEffect</key>
+	<string>shouldpreparegem</string>
+	<key>persisttexture</key>
+	<string>shouldHandleTextField</string>
+	<key>schedulerRight</key>
+	<string>selectedhero</string>
+	<key>shouldDisposeIndicator</key>
+	<string>semanticRange</string>
+	<key>unsortedMerger</key>
+	<string>flexibleResource</string>
+	<key>usedBitrate</key>
+	<string>benchmarkTexture</string>
+</dict>
+</plist>

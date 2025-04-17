@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdecoration</key>
+	<string>skipSkin</string>
+	<key>choosercenter</key>
+	<string>deprecateRoute</string>
+	<key>concreteBrush</key>
+	<string>notationSpacing</string>
+	<key>constraintphasebound</key>
+	<string>histogramDuration</string>
+	<key>cubitHue</key>
+	<string>immutableBaseline</string>
+	<key>encodecursor</key>
+	<string>hashbesidetier</string>
+	<key>lazyProvider</key>
+	<string>cachebandwidth</string>
+	<key>lazymetadataalignment</key>
+	<string>componentShape</string>
+	<key>resilienceOrigin</key>
+	<string>notifyInterpolation</string>
+</dict>
+</plist>

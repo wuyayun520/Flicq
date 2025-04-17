@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyTicker</key>
+	<string>prismaticCell</string>
+	<key>permissiveDescent</key>
+	<string>reusablePlayback</string>
+	<key>shouldContinueCache</key>
+	<string>renametabbar</string>
+	<key>uniformCheckbox</key>
+	<string>permissivethread</string>
+	<key>webWrapper</key>
+	<string>persistentSound</string>
+</dict>
+</plist>

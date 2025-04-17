@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAspect</key>
+	<string>animatedcontainershape</string>
+	<key>adaptiveSine</key>
+	<string>immediatePlayback</string>
+	<key>cosineFormat</key>
+	<string>resilientview</string>
+	<key>indicatorAppearance</key>
+	<string>directSegue</string>
+	<key>mobileTool</key>
+	<string>arithmeticEquipment</string>
+	<key>optimizerTransparency</key>
+	<string>asynchronousEvolution</string>
+	<key>permissiveOccasion</key>
+	<string>accessibleEquivalent</string>
+	<key>primaryrouterorientation</key>
+	<string>animatedUseCase</string>
+	<key>shouldSerializeIcon</key>
+	<string>arithmeticSymbol</string>
+	<key>unactivatedBinder</key>
+	<string>shouldResumeGradient</string>
+</dict>
+</plist>

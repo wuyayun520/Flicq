@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTop</key>
+	<string>gramMediator</string>
+	<key>batchTail</key>
+	<string>roleMargin</string>
+	<key>interactiveAwait</key>
+	<string>staticLoader</string>
+	<key>shouldDecodeVariant</key>
+	<string>mountedHero</string>
+	<key>shouldEncodeRemainder</key>
+	<string>mediumElement</string>
+	<key>shouldPrepareBrush</key>
+	<string>generateLocalization</string>
+	<key>statefulTask</key>
+	<string>associatedConverter</string>
+	<key>taskduringobserver</key>
+	<string>currentRole</string>
+	<key>triggerDensity</key>
+	<string>smallView</string>
+</dict>
+</plist>

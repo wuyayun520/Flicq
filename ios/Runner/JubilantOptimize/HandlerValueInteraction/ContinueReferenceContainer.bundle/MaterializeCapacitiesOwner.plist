@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionSize</key>
+	<string>semanticpolygon</string>
+	<key>deferredProcessor</key>
+	<string>shouldBuildProfile</string>
+	<key>difficultRepository</key>
+	<string>bufferName</string>
+	<key>geometricSignature</key>
+	<string>desktopSubscription</string>
+	<key>notifyresource</key>
+	<string>publicTabView</string>
+	<key>seamlessZone</key>
+	<string>shouldProcessBorder</string>
+	<key>shouldRebuildCurve</key>
+	<string>catalystOrientation</string>
+	<key>usedOffset</key>
+	<string>diversifiedCursor</string>
+	<key>visibleIntegrity</key>
+	<string>signatureDecorator</string>
+</dict>
+</plist>

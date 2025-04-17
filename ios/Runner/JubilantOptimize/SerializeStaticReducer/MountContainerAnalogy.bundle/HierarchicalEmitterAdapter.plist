@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDensity</key>
+	<string>compileresult</string>
+	<key>autoInteraction</key>
+	<string>dismissMatrix</string>
+	<key>chaptersingletonstate</key>
+	<string>fragmentBuffer</string>
+	<key>disabledtickervisible</key>
+	<string>responderSpeed</string>
+	<key>flexibleHash</key>
+	<string>buildWidget</string>
+	<key>priorityFeedback</key>
+	<string>pointTop</string>
+	<key>shouldRouteTabView</key>
+	<string>sequentialResolver</string>
+	<key>shouldunbindchecklist</key>
+	<string>shouldTrainSegment</string>
+	<key>tappableIsolate</key>
+	<string>shouldRenderDrawer</string>
+	<key>temporaryChart</key>
+	<string>persistentbuttonsize</string>
+</dict>
+</plist>

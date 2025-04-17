@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachstream</key>
+	<string>canCacheBullet</string>
+	<key>binderTransparency</key>
+	<string>hashContext</string>
+	<key>compositionalContrast</key>
+	<string>popAwait</string>
+	<key>directlyAlpha</key>
+	<string>currentprofilelocation</string>
+	<key>nodeHead</key>
+	<string>shoulddisposeinkwell</string>
+	<key>smalldropdownbutton</key>
+	<string>statusPadding</string>
+	<key>synchronouslabel</key>
+	<string>customizedContraction</string>
+</dict>
+</plist>

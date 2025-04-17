@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitivetaxonomy</key>
+	<string>injectspine</string>
+	<key>paintinitiators</key>
+	<string>eventinset</string>
+	<key>rapidExpanded</key>
+	<string>bindRemainder</string>
+	<key>transformloop</key>
+	<string>criticalSample</string>
+</dict>
+</plist>

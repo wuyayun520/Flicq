@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicModel</key>
+	<string>timeruntilparam</string>
+	<key>presenterBehavior</key>
+	<string>unsortedSegment</string>
+	<key>sensorForce</key>
+	<string>streamDirection</string>
+	<key>shouldPrepareMaster</key>
+	<string>dynamicTentative</string>
+	<key>taxonomyMomentum</key>
+	<string>paintComposition</string>
+</dict>
+</plist>

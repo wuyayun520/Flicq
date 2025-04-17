@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoOrientation</key>
+	<string>skirtamongfunction</string>
+	<key>gemHue</key>
+	<string>deprecatetheme</string>
+	<key>granularscenemargin</key>
+	<string>permanentDuration</string>
+	<key>interactiveTentative</key>
+	<string>cubitAlignment</string>
+	<key>routeduration</key>
+	<string>canPopPageView</string>
+	<key>shouldFetchOption</key>
+	<string>navigationcubit</string>
+	<key>skinInset</key>
+	<string>bindEquipment</string>
+	<key>skirtInterval</key>
+	<string>renderPromise</string>
+</dict>
+</plist>

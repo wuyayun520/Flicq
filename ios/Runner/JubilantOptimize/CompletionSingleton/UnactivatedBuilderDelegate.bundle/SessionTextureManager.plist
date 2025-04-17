@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderInset</key>
+	<string>canMountedChecklist</string>
+	<key>creatorBehavior</key>
+	<string>makeLabel</string>
+	<key>paddingTension</key>
+	<string>callbackcolor</string>
+	<key>reusableMenu</key>
+	<string>typicalShape</string>
+	<key>scalemargin</key>
+	<string>elasticAnimator</string>
+	<key>segueloader</key>
+	<string>usecaseDirection</string>
+	<key>shouldCreateCheckbox</key>
+	<string>momentumPrototype</string>
+	<key>shouldInflateBase</key>
+	<string>draggableGradient</string>
+	<key>significantPet</key>
+	<string>onbasetap</string>
+</dict>
+</plist>

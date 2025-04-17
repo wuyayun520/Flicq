@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatRequest</key>
+	<string>compositionForm</string>
+	<key>hasCosine</key>
+	<string>disparateVolume</string>
+	<key>lastaxis</key>
+	<string>explicitaudio</string>
+	<key>loopAlignment</key>
+	<string>specifyDimension</string>
+	<key>resolverbeyondcomposite</key>
+	<string>canStartMission</string>
+	<key>shouldRouteCache</key>
+	<string>playInterface</string>
+	<key>shouldShowBuilder</key>
+	<string>screenParameter</string>
+	<key>shouldStopLog</key>
+	<string>compositionalIndicator</string>
+	<key>typicalClipper</key>
+	<string>shouldendcanvas</string>
+</dict>
+</plist>

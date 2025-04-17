@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedmaterializer</key>
+	<string>handlerhead</string>
+	<key>firstPrecision</key>
+	<string>easyVideo</string>
+	<key>normalFuture</key>
+	<string>subtleprovider</string>
+	<key>screenOrigin</key>
+	<string>subscriptionBridge</string>
+	<key>sequentialRequest</key>
+	<string>originalNavigator</string>
+	<key>shouldSetStateKernel</key>
+	<string>iconOpacity</string>
+	<key>stopisolate</key>
+	<string>mobileMargin</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSegment</key>
+	<string>deferredNavigation</string>
+	<key>arithmeticSplitter</key>
+	<string>canPersistSkirt</string>
+	<key>callbackimage</key>
+	<string>canUnbindStack</string>
+	<key>popuprate</key>
+	<string>dispatchbutton</string>
+	<key>resizableTechnique</key>
+	<string>webBoxShadow</string>
+	<key>robustResource</key>
+	<string>entropytrigger</string>
+	<key>shouldListenMusic</key>
+	<string>undertakeRoute</string>
+	<key>shouldUnmountedProject</key>
+	<string>displayableBinary</string>
+	<key>substantialColor</key>
+	<string>typicalAnimation</string>
+</dict>
+</plist>

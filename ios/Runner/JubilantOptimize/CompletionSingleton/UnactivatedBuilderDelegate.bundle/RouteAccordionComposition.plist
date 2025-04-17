@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConstraint</key>
+	<string>canDismissClipper</string>
+	<key>backwardPositioned</key>
+	<string>scopeCenter</string>
+	<key>greatShape</key>
+	<string>adjustBuffer</string>
+	<key>permissiveCollection</key>
+	<string>resilientAwait</string>
+	<key>relationalnavigatorscale</key>
+	<string>pivotalReference</string>
+	<key>shouldCreatePromise</key>
+	<string>columnforcommand</string>
+	<key>shouldYieldRole</key>
+	<string>significantMesh</string>
+	<key>swiftShape</key>
+	<string>resilientstepmode</string>
+</dict>
+</plist>

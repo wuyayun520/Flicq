@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativereducer</key>
+	<string>injectDependency</string>
+	<key>defaultpromise</key>
+	<string>scalabilityInset</string>
+	<key>litescaffold</key>
+	<string>loopCycle</string>
+	<key>mapperTension</key>
+	<string>deferredMaterializer</string>
+	<key>mechanismskewy</key>
+	<string>normalTraversal</string>
+	<key>relationalEvent</key>
+	<string>rotateDelegate</string>
+	<key>shouldBindAnimatedContainer</key>
+	<string>debugscene</string>
+</dict>
+</plist>

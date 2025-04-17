@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeLifecycle</key>
+	<string>combinecurve</string>
+	<key>easyStream</key>
+	<string>canStreamArithmetic</string>
+	<key>finderDirection</key>
+	<string>canFinishTransition</string>
+	<key>scrollfrequency</key>
+	<string>replicateProgressBar</string>
+	<key>shouldDisconnectStep</key>
+	<string>histogramScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderName</key>
+	<string>timersincejob</string>
+	<key>currentConnector</key>
+	<string>canSetStateGridView</string>
+	<key>denseReducer</key>
+	<string>dispatchCheckbox</string>
+	<key>disabledStoryboard</key>
+	<string>significantReducer</string>
+	<key>localFragments</key>
+	<string>unmountContraction</string>
+	<key>roleBottom</key>
+	<string>resizableTriangles</string>
+	<key>subtleHero</key>
+	<string>mainMerger</string>
+	<key>sustainableAwait</key>
+	<string>navigationType</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxAlignment</key>
+	<string>lostSelector</string>
+	<key>collectionfactory</key>
+	<string>shouldSubscribeStack</string>
+	<key>displayableInteraction</key>
+	<string>bufferBound</string>
+	<key>gifttype</key>
+	<string>canInitializeAccessory</string>
+	<key>intermediateCallback</key>
+	<string>symmetricConstant</string>
+	<key>provideimage</key>
+	<string>canMountedConstraint</string>
+	<key>shouldpresenttabview</key>
+	<string>keepLayout</string>
+	<key>webIntegration</key>
+	<string>gridRotation</string>
+</dict>
+</plist>

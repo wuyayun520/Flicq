@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitystream</key>
+	<string>triggerDensity</string>
+	<key>cartesianCombiner</key>
+	<string>initializeScreen</string>
+	<key>descriptionIndex</key>
+	<string>factorycontextbottom</string>
+	<key>eagerVertex</key>
+	<string>easyTentative</string>
+	<key>hasMedia</key>
+	<string>compositionalGrid</string>
+	<key>insteadqueue</key>
+	<string>hyperbolicBuilder</string>
+	<key>lastLayout</key>
+	<string>canRouteScaffold</string>
+	<key>resizableAspect</key>
+	<string>criticalGroup</string>
+	<key>shouldContinueEqualization</key>
+	<string>custompaintedge</string>
+</dict>
+</plist>

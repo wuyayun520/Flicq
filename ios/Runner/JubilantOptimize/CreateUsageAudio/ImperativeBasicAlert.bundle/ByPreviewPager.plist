@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackContrast</key>
+	<string>canAttachChannels</string>
+	<key>directRange</key>
+	<string>iterativeConfidentiality</string>
+	<key>fixedTabBar</key>
+	<string>curvekind</string>
+	<key>listviewvariablehead</key>
+	<string>publishmenu</string>
+	<key>preparebuilder</key>
+	<string>pivotalNorm</string>
+	<key>progressbarPadding</key>
+	<string>shouldInitializePageView</string>
+	<key>shouldFormatScaffold</key>
+	<string>canPersistRemainder</string>
+	<key>subpixeloutsideplatform</key>
+	<string>shouldSkipCapsule</string>
+</dict>
+</plist>

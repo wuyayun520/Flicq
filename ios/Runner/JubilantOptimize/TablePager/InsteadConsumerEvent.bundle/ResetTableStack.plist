@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPager</key>
+	<string>transformKernel</string>
+	<key>fixedReduction</key>
+	<string>canObserveController</string>
+	<key>loopfactory</key>
+	<string>mutableTitle</string>
+	<key>titleScale</key>
+	<string>visiblecurve</string>
+</dict>
+</plist>

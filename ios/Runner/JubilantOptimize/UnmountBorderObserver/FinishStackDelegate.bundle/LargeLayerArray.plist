@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCaption</key>
+	<string>elasticAperture</string>
+	<key>appbarBound</key>
+	<string>loadPet</string>
+	<key>customcubitbrightness</key>
+	<string>advancedAmortization</string>
+	<key>discardedCustomPaint</key>
+	<string>elementSkewX</string>
+	<key>immediateThreshold</key>
+	<string>geometricButton</string>
+	<key>lazyFormat</key>
+	<string>iterativeWrapper</string>
+	<key>subsequentWorkflow</key>
+	<string>unmarshalParticle</string>
+	<key>temporarySubscriber</key>
+	<string>cartesianReducer</string>
+	<key>webSwitch</key>
+	<string>invisibleGraph</string>
+</dict>
+</plist>

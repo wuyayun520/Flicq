@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationinformation</key>
+	<string>alignmentOrientation</string>
+	<key>defaultswitch</key>
+	<string>chartmethodinteraction</string>
+	<key>firstReducer</key>
+	<string>annotateBuilder</string>
+	<key>immediateTopic</key>
+	<string>opaqueIsolate</string>
+	<key>keydescription</key>
+	<string>defaultentropy</string>
+	<key>otherTimeline</key>
+	<string>beginnerAsync</string>
+	<key>rangeAppearance</key>
+	<string>declarativeListener</string>
+	<key>videoBehavior</key>
+	<string>resultAppearance</string>
+</dict>
+</plist>

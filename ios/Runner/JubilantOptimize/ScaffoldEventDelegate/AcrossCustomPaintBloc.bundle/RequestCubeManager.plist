@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentdecoration</key>
+	<string>loopForm</string>
+	<key>largeEntity</key>
+	<string>canRenderScale</string>
+	<key>momentumpermutation</key>
+	<string>escalateIsolate</string>
+	<key>opaquePainter</key>
+	<string>resilientGrid</string>
+	<key>shouldCreateWorkflow</key>
+	<string>sizedboxMemento</string>
+</dict>
+</plist>

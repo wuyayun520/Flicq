@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistBehavior</key>
+	<string>stateacceleration</string>
+	<key>completionbysystem</key>
+	<string>schedulerHead</string>
+	<key>cosineinmediator</key>
+	<string>localizationBound</string>
+	<key>customEmitter</key>
+	<string>sizeEdge</string>
+	<key>inactivegroup</key>
+	<string>grainBehavior</string>
+	<key>independentRange</key>
+	<string>imageBuffer</string>
+	<key>inflatetabbar</key>
+	<string>animateLayout</string>
+	<key>liteElement</key>
+	<string>emitBox</string>
+	<key>spotanalyzer</key>
+	<string>detachgem</string>
+</dict>
+</plist>

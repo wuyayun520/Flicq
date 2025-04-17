@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveHero</key>
+	<string>finishDocument</string>
+	<key>alignmenttheme</key>
+	<string>iterativeGraphic</string>
+	<key>bufferHue</key>
+	<string>canLoadPet</string>
+	<key>capsuleDelay</key>
+	<string>canTrainBuilder</string>
+	<key>crudeLabel</key>
+	<string>shouldFetchIcon</string>
+	<key>handlerSaturation</key>
+	<string>interactionSkewX</string>
+	<key>prismaticLayout</key>
+	<string>unaryNumber</string>
+	<key>scopeBehavior</key>
+	<string>canHandleRoute</string>
+	<key>specifyinjectionorientation</key>
+	<string>captionstrength</string>
+</dict>
+</plist>

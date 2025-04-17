@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directVideo</key>
+	<string>showbuilder</string>
+	<key>enabledInteraction</key>
+	<string>latencyResponse</string>
+	<key>granularModel</key>
+	<string>backwardSwift</string>
+	<key>graphdepth</key>
+	<string>objectLeft</string>
+	<key>heronumbertop</key>
+	<string>alphaproxyshade</string>
+	<key>numericalTopic</key>
+	<string>responsiveStrength</string>
+	<key>quantizerstream</key>
+	<string>canDismissPet</string>
+	<key>unsortedAspectRatio</key>
+	<string>webSignature</string>
+</dict>
+</plist>

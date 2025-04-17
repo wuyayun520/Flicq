@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseHistogram</key>
+	<string>retrieveBuilder</string>
+	<key>globalView</key>
+	<string>accessibleSubpixel</string>
+	<key>mixinnavigator</key>
+	<string>slashstyle</string>
+	<key>shouldConnectButton</key>
+	<string>intermediateQuaternion</string>
+	<key>shouldListenAspect</key>
+	<string>serializeAspect</string>
+	<key>shouldRoutePainter</key>
+	<string>uniqueKernel</string>
+	<key>smallFeature</key>
+	<string>interactivePopup</string>
+	<key>statelessBatch</key>
+	<string>layoutHead</string>
+</dict>
+</plist>

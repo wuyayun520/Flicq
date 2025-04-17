@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultrow</key>
+	<string>defaultSlash</string>
+	<key>hasTangent</key>
+	<string>shouldStartScaffold</string>
+	<key>isNotification</key>
+	<string>navigationHue</string>
+	<key>requestinfo</key>
+	<string>dissociateChart</string>
+	<key>requiredtext</key>
+	<string>effectDirection</string>
+</dict>
+</plist>

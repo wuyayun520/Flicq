@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedService</key>
+	<string>particleActivity</string>
+	<key>numericalinitiators</key>
+	<string>canBuildNotifier</string>
+	<key>persistentTrajectory</key>
+	<string>canAnimateTabBar</string>
+	<key>touchimpact</key>
+	<string>processSwitch</string>
+	<key>zoneatsingleton</key>
+	<string>tangentLocation</string>
+</dict>
+</plist>

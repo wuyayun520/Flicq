@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRow</key>
+	<string>shouldPublishWorkflow</string>
+	<key>greatAnalogy</key>
+	<string>grayscaleLevel</string>
+	<key>interactiveShape</key>
+	<string>alignmenttransparency</string>
+	<key>missionstatus</key>
+	<string>deliveryCoord</string>
+	<key>publicviewforce</key>
+	<string>constraintMode</string>
+	<key>shouldYieldNavigation</key>
+	<string>symbolbeyondframework</string>
+	<key>uniqueExponent</key>
+	<string>updateRow</string>
+</dict>
+</plist>

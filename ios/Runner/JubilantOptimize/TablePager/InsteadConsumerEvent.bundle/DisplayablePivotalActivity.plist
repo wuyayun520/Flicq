@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorPadding</key>
+	<string>shouldProcessNavigation</string>
+	<key>navigatorevaluation</key>
+	<string>prevInfrastructure</string>
+	<key>observechapter</key>
+	<string>canContinueKernel</string>
+	<key>requiredTimeline</key>
+	<string>substantialParticle</string>
+	<key>shouldEmitFuture</key>
+	<string>canPersistLabel</string>
+	<key>shouldStreamTable</key>
+	<string>progressbarPhase</string>
+</dict>
+</plist>

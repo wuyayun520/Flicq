@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryBrightness</key>
+	<string>generateOffset</string>
+	<key>commonTask</key>
+	<string>activityCycle</string>
+	<key>injectionborder</key>
+	<string>missedtentative</string>
+	<key>offsetCount</key>
+	<string>shouldTrainBatch</string>
+	<key>playbackaction</key>
+	<string>listenChannels</string>
+	<key>protectedReducer</key>
+	<string>standaloneInterpolation</string>
+	<key>semanticBandwidth</key>
+	<string>robustSelector</string>
+	<key>synchronousConverter</key>
+	<string>missionrectangle</string>
+</dict>
+</plist>

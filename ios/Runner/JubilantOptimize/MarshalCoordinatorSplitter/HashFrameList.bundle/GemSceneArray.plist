@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedItem</key>
+	<string>collectionStage</string>
+	<key>gesturedetectorColor</key>
+	<string>rectname</string>
+	<key>isTool</key>
+	<string>composableImage</string>
+	<key>pinchableBandwidth</key>
+	<string>completedImage</string>
+	<key>shouldEncodeSensor</key>
+	<string>augmentUtil</string>
+	<key>symbolorientation</key>
+	<string>canUnmountedProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetactionduration</key>
+	<string>canResumeHero</string>
+	<key>directArithmetic</key>
+	<string>missedContrast</string>
+	<key>interactorvisible</key>
+	<string>hierarchicalPicker</string>
+	<key>labeltag</key>
+	<string>subsequentrowindex</string>
+	<key>occasionDelay</key>
+	<string>animationTail</string>
+	<key>offsetSkewX</key>
+	<string>mountedImage</string>
+	<key>significantArithmetic</key>
+	<string>robustConverter</string>
+</dict>
+</plist>

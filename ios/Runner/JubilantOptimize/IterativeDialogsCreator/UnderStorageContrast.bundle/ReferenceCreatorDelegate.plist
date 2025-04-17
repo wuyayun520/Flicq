@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentPositioned</key>
+	<string>slidergrain</string>
+	<key>deployalert</key>
+	<string>canResumeSlider</string>
+	<key>disparateextensionmode</key>
+	<string>executeAlignment</string>
+	<key>iterativeProject</key>
+	<string>extensionscene</string>
+	<key>maintimerflags</key>
+	<string>trianglesFrequency</string>
+	<key>secondTopic</key>
+	<string>partitionStream</string>
+	<key>shouldSerializeCycle</key>
+	<string>shouldRebuildScaffold</string>
+	<key>typicalEquipment</key>
+	<string>shouldDismissFuture</string>
+	<key>videoDistance</key>
+	<string>dynamicMetrics</string>
+</dict>
+</plist>

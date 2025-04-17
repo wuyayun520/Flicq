@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorhue</key>
+	<string>disabledMechanism</string>
+	<key>concreteConverter</key>
+	<string>overrideGroup</string>
+	<key>efficiencyIndex</key>
+	<string>quaternionFrequency</string>
+	<key>groupbesidevalue</key>
+	<string>missedBloc</string>
+	<key>isolateskewy</key>
+	<string>relationalMerger</string>
+	<key>observerCount</key>
+	<string>basicRequest</string>
+	<key>sessiondistance</key>
+	<string>createSprite</string>
+	<key>substantialAmortization</key>
+	<string>staticcompletion</string>
+	<key>textureShape</key>
+	<string>shouldPaintNotification</string>
+</dict>
+</plist>

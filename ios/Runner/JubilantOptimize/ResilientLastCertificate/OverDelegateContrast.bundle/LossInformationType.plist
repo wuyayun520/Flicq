@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRemainder</key>
+	<string>activatedCaption</string>
+	<key>challengehue</key>
+	<string>lazyformat</string>
+	<key>continueresolver</key>
+	<string>responsiveStack</string>
+	<key>primaryMerger</key>
+	<string>arithmeticfilter</string>
+	<key>progressbarfinder</key>
+	<string>lossKind</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsSkewX</key>
+	<string>inheritedStorage</string>
+	<key>localservicecoord</key>
+	<string>typicalAnimation</string>
+	<key>otherScope</key>
+	<string>difficultMaster</string>
+	<key>shouldRouteHeap</key>
+	<string>shouldProcessSkirt</string>
+</dict>
+</plist>

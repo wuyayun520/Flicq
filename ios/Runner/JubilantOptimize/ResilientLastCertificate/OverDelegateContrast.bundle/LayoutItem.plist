@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultMap</key>
+	<string>expandedexceptstructure</string>
+	<key>featureOffset</key>
+	<string>containerFunction</string>
+	<key>limitunary</key>
+	<string>canReplaceCheckbox</string>
+	<key>mapperTag</key>
+	<string>composableExtension</string>
+	<key>rapidStorage</key>
+	<string>replaceThread</string>
+	<key>shouldPresentBoxShadow</key>
+	<string>injectChapter</string>
+	<key>symbolshade</key>
+	<string>progressbarMemento</string>
+	<key>tensorFeature</key>
+	<string>canDisconnectMember</string>
+	<key>unactivatedStoryboard</key>
+	<string>sessionLayer</string>
+	<key>unactivatedsubscription</key>
+	<string>canPrepareCard</string>
+</dict>
+</plist>

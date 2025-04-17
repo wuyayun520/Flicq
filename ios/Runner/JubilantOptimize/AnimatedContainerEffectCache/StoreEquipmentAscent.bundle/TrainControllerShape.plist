@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyScene</key>
+	<string>defaultTabView</string>
+	<key>giftCount</key>
+	<string>timePosition</string>
+	<key>unactivatedPermutation</key>
+	<string>stepDuration</string>
+	<key>unbindbuilder</key>
+	<string>canFinishTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletContrast</key>
+	<string>transitionLoss</string>
+	<key>evolutionbottom</key>
+	<string>sortedConvolution</string>
+	<key>requiredaudio</key>
+	<string>remainderLocation</string>
+	<key>sinkSaturation</key>
+	<string>shouldCreateLabel</string>
+</dict>
+</plist>

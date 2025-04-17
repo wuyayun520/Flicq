@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerlinker</key>
+	<string>statelessStore</string>
+	<key>deprecatecell</key>
+	<string>symmetricProcessor</string>
+	<key>handlerDepth</key>
+	<string>fusedExponent</string>
+	<key>invokemonster</key>
+	<string>missedSession</string>
+	<key>operationSpeed</key>
+	<string>dropdownbuttonPadding</string>
+</dict>
+</plist>

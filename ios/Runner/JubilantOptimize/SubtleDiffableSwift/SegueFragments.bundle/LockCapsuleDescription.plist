@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDocument</key>
+	<string>commonBorder</string>
+	<key>concreteanimationduration</key>
+	<string>storeParam</string>
+	<key>independentNib</key>
+	<string>canPresentTabView</string>
+	<key>missedIcon</key>
+	<string>shouldObserveImage</string>
+	<key>shouldBindSlider</key>
+	<string>canLoadMedia</string>
+	<key>statelessIntensity</key>
+	<string>criticalMaterializer</string>
+	<key>streamobserver</key>
+	<string>pickeredge</string>
+	<key>subtleInformation</key>
+	<string>shouldListenProfile</string>
+	<key>usedGraphic</key>
+	<string>commonAllocator</string>
+</dict>
+</plist>

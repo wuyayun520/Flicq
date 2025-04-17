@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionnumbercontrast</key>
+	<string>transformerStage</string>
+	<key>infoShade</key>
+	<string>interpolatebuffer</string>
+	<key>layoutpressure</key>
+	<string>storeformat</string>
+	<key>particleDuration</key>
+	<string>bulletDuration</string>
+	<key>previewVelocity</key>
+	<string>shouldAttachSwift</string>
+	<key>shouldRestartChecklist</key>
+	<string>moduluscontextcolor</string>
+	<key>shouldStopBinary</key>
+	<string>wrapTimer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continueaxis</key>
+	<string>finishPoint</string>
+	<key>curveenvironmentstatus</key>
+	<string>canMountText</string>
+	<key>destroyroute</key>
+	<string>encodeplate</string>
+	<key>missedbinarycolor</key>
+	<string>statefulTransition</string>
+	<key>queuefunctionacceleration</key>
+	<string>standaloneascent</string>
+	<key>scenewithadapter</key>
+	<string>typicalTrajectory</string>
+	<key>trajectoryHead</key>
+	<string>undertakelayout</string>
+</dict>
+</plist>

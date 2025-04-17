@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateentity</key>
+	<string>keyHistogram</string>
+	<key>animatedcontainerbesideshape</key>
+	<string>independentLogarithm</string>
+	<key>discoverscreen</key>
+	<string>staticTransition</string>
+	<key>searcherMomentum</key>
+	<string>canStartClipper</string>
+	<key>similarChannels</key>
+	<string>materializeCubit</string>
+	<key>subtleListView</key>
+	<string>enabledInformation</string>
+	<key>synchronousview</key>
+	<string>computepriority</string>
+</dict>
+</plist>

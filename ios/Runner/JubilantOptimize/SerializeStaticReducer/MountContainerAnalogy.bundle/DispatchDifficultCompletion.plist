@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCombiner</key>
+	<string>intensityPressure</string>
+	<key>gestureofcommand</key>
+	<string>restartUsage</string>
+	<key>ignoredDialogs</key>
+	<string>concurrentPlayback</string>
+	<key>imperativeobservershade</key>
+	<string>shouldUnbindMonster</string>
+	<key>lastsubscriptioncontrast</key>
+	<string>writebase</string>
+	<key>requiredClipper</key>
+	<string>constructConstraint</string>
+	<key>shouldUnmountedGraphic</key>
+	<string>canReplaceMaterial</string>
+</dict>
+</plist>

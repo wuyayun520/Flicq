@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteMonster</key>
+	<string>canRebuildFuture</string>
+	<key>cursorprogressbar</key>
+	<string>metricsCenter</string>
+	<key>disabledmatrix</key>
+	<string>canPrepareObserver</string>
+	<key>globallabel</key>
+	<string>pinchablePublisher</string>
+	<key>operationSpeed</key>
+	<string>prevAction</string>
+	<key>shouldLoadPositioned</key>
+	<string>prismaticCustomPaint</string>
+	<key>syncconvolution</key>
+	<string>sinkinset</string>
+</dict>
+</plist>

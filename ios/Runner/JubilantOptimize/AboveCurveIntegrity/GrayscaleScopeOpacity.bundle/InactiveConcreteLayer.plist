@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardWorkflow</key>
+	<string>buildColumn</string>
+	<key>diversifiedTicker</key>
+	<string>webAlignment</string>
+	<key>documentTransparency</key>
+	<string>inkwellimpact</string>
+	<key>firstDropdownButton</key>
+	<string>isolateContext</string>
+	<key>gateAcceleration</key>
+	<string>vectorStyle</string>
+	<key>instructionfrequency</key>
+	<string>gridSingleton</string>
+	<key>mediaTail</key>
+	<string>normalHero</string>
+	<key>roleTop</key>
+	<string>elasticityHue</string>
+	<key>volumeResponse</key>
+	<string>pivotalChannel</string>
+</dict>
+</plist>

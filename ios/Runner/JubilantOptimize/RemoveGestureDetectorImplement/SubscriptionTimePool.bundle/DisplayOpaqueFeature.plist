@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyOpacity</key>
+	<string>inheritedbuilderbound</string>
+	<key>elementResponse</key>
+	<string>temporaryScalability</string>
+	<key>handlerthroughstrategy</key>
+	<string>unsortedChecklist</string>
+	<key>materialefficiency</key>
+	<string>receiveprovider</string>
+	<key>sharedNavigator</key>
+	<string>shouldParseNorm</string>
+	<key>shouldParseTask</key>
+	<string>particleObserver</string>
+	<key>unactivatedTabView</key>
+	<string>inflateProfile</string>
+</dict>
+</plist>

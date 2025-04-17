@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaResponse</key>
+	<string>tensorRange</string>
+	<key>clonebutton</key>
+	<string>reactiveRect</string>
+	<key>comprehensiveFilter</key>
+	<string>animateCheckbox</string>
+	<key>containerstatus</key>
+	<string>scenehue</string>
+	<key>prismaticGradient</key>
+	<string>previewPhase</string>
+	<key>registerprecision</key>
+	<string>gesturedetectorBrightness</string>
+	<key>resizablegraincenter</key>
+	<string>transformCatalyst</string>
+	<key>sizeSaturation</key>
+	<string>canSkipDecoration</string>
+	<key>staticScheduler</key>
+	<string>confidentialityForce</string>
+</dict>
+</plist>

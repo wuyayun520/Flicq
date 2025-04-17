@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleIsolate</key>
+	<string>schedulerTheme</string>
+	<key>joinerVelocity</key>
+	<string>concurrentStrength</string>
+	<key>listviewversusenvironment</key>
+	<string>animatorCount</string>
+	<key>localizationName</key>
+	<string>transitionfromtemple</string>
+	<key>metadatarate</key>
+	<string>adaptiveModel</string>
+	<key>nativeTransformer</key>
+	<string>themeInterpreter</string>
+	<key>sharedLoader</key>
+	<string>shouldPaintAnchor</string>
+	<key>themeState</key>
+	<string>canProcessNib</string>
+	<key>usedMovement</key>
+	<string>capacityCount</string>
+	<key>volumetype</key>
+	<string>entropybutton</string>
+</dict>
+</plist>

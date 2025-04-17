@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTrigger</key>
+	<string>requestAdapter</string>
+	<key>easyTransformer</key>
+	<string>cupertinoview</string>
+	<key>hardTabView</key>
+	<string>meshSpacing</string>
+	<key>inactiveVolume</key>
+	<string>resourcesorter</string>
+	<key>publicThreshold</key>
+	<string>prismaticanalogy</string>
+</dict>
+</plist>

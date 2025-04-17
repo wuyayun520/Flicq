@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateBrush</key>
+	<string>deactivateConfiguration</string>
+	<key>eagerScroll</key>
+	<string>informationDuration</string>
+	<key>modalDelay</key>
+	<string>mediumAnchor</string>
+	<key>sessionName</key>
+	<string>gestureState</string>
+	<key>staticview</key>
+	<string>eraseobserver</string>
+</dict>
+</plist>

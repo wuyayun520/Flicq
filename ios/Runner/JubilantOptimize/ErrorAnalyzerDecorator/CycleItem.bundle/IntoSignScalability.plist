@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowviabuffer</key>
+	<string>otherCombiner</string>
+	<key>deactivateinteger</key>
+	<string>usedChart</string>
+	<key>detachimage</key>
+	<string>maintainWidget</string>
+	<key>gridviewflyweightstatus</key>
+	<string>pinchableSlider</string>
+	<key>topicValidation</key>
+	<string>dimensionActivity</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousChooser</key>
+	<string>fetchDimension</string>
+	<key>customInstruction</key>
+	<string>prevRequest</string>
+	<key>dedicatedConsumption</key>
+	<string>localizationBehavior</string>
+	<key>descriptorchart</key>
+	<string>bordernode</string>
+	<key>largeProcessor</key>
+	<string>uniqueFilter</string>
+	<key>reusableCubit</key>
+	<string>eventBehavior</string>
+	<key>textureStatus</key>
+	<string>imperativeNavigation</string>
+</dict>
+</plist>

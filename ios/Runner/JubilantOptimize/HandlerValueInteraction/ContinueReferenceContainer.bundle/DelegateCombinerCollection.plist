@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintTension</key>
+	<string>cartesiandata</string>
+	<key>coordinatorhash</key>
+	<string>calculateTransformer</string>
+	<key>integrationVisibility</key>
+	<string>semanticPreview</string>
+	<key>nativeviewvalidation</key>
+	<string>maintainResponse</string>
+	<key>navigatormend</key>
+	<string>vertexdelay</string>
+	<key>parallelTimeline</key>
+	<string>visualizeView</string>
+	<key>permanentaperturecontrast</key>
+	<string>normalcycleduration</string>
+	<key>shouldPersistLayout</key>
+	<string>onimagetap</string>
+</dict>
+</plist>

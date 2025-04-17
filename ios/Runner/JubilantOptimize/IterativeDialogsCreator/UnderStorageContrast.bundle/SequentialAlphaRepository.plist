@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivereceiver</key>
+	<string>moduleVisible</string>
+	<key>hardStroke</key>
+	<string>basicreferencefeedback</string>
+	<key>navigationDirection</key>
+	<string>opaqueAction</string>
+	<key>respondercolor</key>
+	<string>localIntegrity</string>
+	<key>selectedimage</key>
+	<string>combinerDistance</string>
+	<key>shouldResumeCapsule</key>
+	<string>canResumeMargin</string>
+	<key>shouldUnbindTangent</key>
+	<string>unactivatedShader</string>
+</dict>
+</plist>

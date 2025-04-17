@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveAsync</key>
+	<string>shouldDispatchMember</string>
+	<key>onmodulustap</key>
+	<string>animatedcontainerFunction</string>
+	<key>richtexthash</key>
+	<string>markLayer</string>
+	<key>robustExtension</key>
+	<string>columncoord</string>
+	<key>rowrotation</key>
+	<string>shouldSubscribeMultiplication</string>
+</dict>
+</plist>

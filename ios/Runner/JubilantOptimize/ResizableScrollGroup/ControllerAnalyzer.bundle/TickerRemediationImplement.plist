@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionbuilderstatus</key>
+	<string>infocoord</string>
+	<key>alignmentcommandpadding</key>
+	<string>stopAperture</string>
+	<key>materialPolyfill</key>
+	<string>webdelegate</string>
+	<key>materialintensity</key>
+	<string>singleDecoration</string>
+	<key>navigationHead</key>
+	<string>directTheme</string>
+	<key>progressbarBorder</key>
+	<string>fragmentstop</string>
+	<key>queuestructuretype</key>
+	<string>listenScale</string>
+	<key>sortedGrayscale</key>
+	<string>oldConfiguration</string>
+</dict>
+</plist>

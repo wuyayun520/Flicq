@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonArithmetic</key>
+	<string>zoneactivityindex</string>
+	<key>equalizationdensity</key>
+	<string>shouldserializeunary</string>
+	<key>rangeFrequency</key>
+	<string>scalabilityVisibility</string>
+	<key>requiredChannels</key>
+	<string>refreshHash</string>
+	<key>resourceprocesskind</key>
+	<string>criticalevent</string>
+	<key>shouldInflateGesture</key>
+	<string>factoryskewx</string>
+	<key>shouldPopPriority</key>
+	<string>shouldBuildVariant</string>
+	<key>splitterDelay</key>
+	<string>cartesianDistinction</string>
+	<key>uniformCurve</key>
+	<string>accordionAnimation</string>
+</dict>
+</plist>

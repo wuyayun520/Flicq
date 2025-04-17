@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackbandwidth</key>
+	<string>sliderStyle</string>
+	<key>indicatorlikeoperation</key>
+	<string>trainLoss</string>
+	<key>invisibleElasticity</key>
+	<string>sorterBottom</string>
+	<key>normtriangles</key>
+	<string>animatecosine</string>
+	<key>oldStroke</key>
+	<string>originalRichText</string>
+	<key>pinchableWidget</key>
+	<string>basicRoute</string>
+	<key>repositoryskewy</key>
+	<string>shouldshowbitrate</string>
+	<key>serializeconfiguration</key>
+	<string>stateTransparency</string>
+</dict>
+</plist>

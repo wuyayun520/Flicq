@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PostButtonView">
+            <connections>
+                <outlet property="personButton" destination="jpT-x8-WXh" id="SGY-jZ-0pM"/>
+                <outlet property="transomImageView" destination="f1B-hJ-uNR" id="uMo-N3-GHV"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Usd-I9-4ba" hidden="YES">
+            <rect key="frame" x="0.0" y="0.0" width="340.0" height="161.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView clipsSubviews="NO" userInteractionEnabled="NO" contentMode="right" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2208" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="f1B-hJ-uNR" clearsContextBeforeDrawing="NO">
+                    <rect key="frame" x="10" y="-6" width="70.1" height="117.3"/>
+                </imageView>
+                <button opaque="NO" contentMode="center" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="right" contentVerticalAlignment="bottom" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="jpT-x8-WXh" clipsSubviews="NO">
+                    <rect key="frame" x="78" y="14" width="232.3" height="117.3"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="status" image="1242-2208">
+                        <color key="titleColor" red="0.0" green="0.92914741101169432" blue="0.25322419139334357" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="model video indicator" image="1242-2688">
+                        <color key="titleColor" red="0.21894470096297267" green="0.64516003466771155" blue="0.78891295661673491" alpha="0.93374490715931907" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="pic room" image="1242-2688">
+                        <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="KmU-uJ-lYm"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="f1B-hJ-uNR" firstAttribute="leading" secondItem="Usd-I9-4ba" secondAttribute="leading" constant="7" id="Kjp-jY-Nph"/>
+                <constraint firstItem="KmU-uJ-lYm" firstAttribute="bottom" secondItem="jpT-x8-WXh" secondAttribute="bottom" constant="6" id="Cdi-fU-msL"/>
+                <constraint firstItem="jpT-x8-WXh" firstAttribute="top" secondItem="Usd-I9-4ba" secondAttribute="top" constant="7" id="J1h-Ed-SfK"/>
+                <constraint firstItem="KmU-uJ-lYm" firstAttribute="bottom" secondItem="f1B-hJ-uNR" secondAttribute="bottom" constant="4" id="bRb-sk-vcA"/>
+                <constraint firstItem="jpT-x8-WXh" firstAttribute="leading" secondItem="f1B-hJ-uNR" secondAttribute="trailing" constant="1" id="j6W-hw-UXm"/>
+                <constraint firstItem="KmU-uJ-lYm" firstAttribute="trailing" secondItem="jpT-x8-WXh" secondAttribute="trailing" constant="7" id="out-AY-In0"/>
+                <constraint firstItem="f1B-hJ-uNR" firstAttribute="top" secondItem="Usd-I9-4ba" secondAttribute="top" constant="8" id="Y7a-vI-tMN"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="57.784875539324325" y="-195.18521621414741"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="107.7" height="129.0"/>
+        <image name="1242-2688" width="107.7" height="129.0"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.96218801565732406" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

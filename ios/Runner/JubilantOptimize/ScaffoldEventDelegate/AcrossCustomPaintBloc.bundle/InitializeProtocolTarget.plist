@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorVisibility</key>
+	<string>lastBullet</string>
+	<key>layoutKind</key>
+	<string>overrideCurve</string>
+	<key>nativeSession</key>
+	<string>interfaceShape</string>
+	<key>oncardtap</key>
+	<string>showinkwell</string>
+	<key>parallelInteractor</key>
+	<string>shouldEmitBuilder</string>
+	<key>shouldPopMultiplication</key>
+	<string>embedScene</string>
+	<key>shouldRebuildPlayback</key>
+	<string>canPaintCatalyst</string>
+	<key>smallTraversal</key>
+	<string>mediumlayout</string>
+</dict>
+</plist>

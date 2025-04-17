@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedImage</key>
+	<string>ephemeralTernary</string>
+	<key>expandedwidget</key>
+	<string>inactiveSegue</string>
+	<key>momentumShape</key>
+	<string>elasticTimeline</string>
+	<key>shouldDismissLayout</key>
+	<string>interactiveArithmetic</string>
+	<key>shouldMountLogarithm</key>
+	<string>scrollableTouch</string>
+	<key>shouldUnmountedStack</key>
+	<string>brushintegrity</string>
+</dict>
+</plist>

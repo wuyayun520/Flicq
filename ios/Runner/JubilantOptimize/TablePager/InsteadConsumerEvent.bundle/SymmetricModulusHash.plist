@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesiancallback</key>
+	<string>canPaintTechnique</string>
+	<key>fixedKernel</key>
+	<string>copyTransition</string>
+	<key>ignoredAnchor</key>
+	<string>adaptiveObject</string>
+	<key>layoutperframework</key>
+	<string>presenterInset</string>
+	<key>responsiveentropyscale</key>
+	<string>distinctionInterval</string>
+	<key>shouldFormatGate</key>
+	<string>gridPattern</string>
+	<key>shouldValidateScale</key>
+	<string>arithmeticCenter</string>
+	<key>themeAlignment</key>
+	<string>textfieldDuration</string>
+	<key>webrange</key>
+	<string>exponentMomentum</string>
+</dict>
+</plist>

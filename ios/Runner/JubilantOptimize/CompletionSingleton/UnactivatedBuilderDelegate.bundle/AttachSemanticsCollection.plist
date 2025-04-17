@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktoplatency</key>
+	<string>agileTool</string>
+	<key>fixedutilinterval</key>
+	<string>shouldMountChallenge</string>
+	<key>ignoredQuaternion</key>
+	<string>shouldProcessStateful</string>
+	<key>opaqueVolume</key>
+	<string>syncLayout</string>
+	<key>overridetext</key>
+	<string>easySegue</string>
+	<key>roleRight</key>
+	<string>offsetSpeed</string>
+	<key>synchronousComposition</key>
+	<string>completedAxis</string>
+</dict>
+</plist>

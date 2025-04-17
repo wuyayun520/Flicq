@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEquipment</key>
+	<string>cursorvelocity</string>
+	<key>declarativeCharacteristic</key>
+	<string>replaceResult</string>
+	<key>localspritehue</key>
+	<string>skirtOffset</string>
+	<key>mediumCharacteristic</key>
+	<string>euclideanStroke</string>
+	<key>prismaticfragmentvisibility</key>
+	<string>shouldRouteConvolution</string>
+	<key>reactiveskirtorigin</key>
+	<string>shouldRebuildStoryboard</string>
+	<key>scrollSkewY</key>
+	<string>isolateActivity</string>
+	<key>secondMonster</key>
+	<string>resourcePosition</string>
+	<key>setstatesymbol</key>
+	<string>pointawaychain</string>
+	<key>uniformNorm</key>
+	<string>optimizeRect</string>
+</dict>
+</plist>

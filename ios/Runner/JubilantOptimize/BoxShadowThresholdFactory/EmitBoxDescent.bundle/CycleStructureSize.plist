@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificatedecoratorcontrast</key>
+	<string>canDismissInitiators</string>
+	<key>protectedOperation</key>
+	<string>reconcileContainer</string>
+	<key>resizableRoute</key>
+	<string>inheritedProjection</string>
+	<key>shouldNavigateRoute</key>
+	<string>firstTimeline</string>
+	<key>updatecolumn</key>
+	<string>localConfiguration</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAsync</key>
+	<string>coordinatorFrequency</string>
+	<key>comprehensivecustompaint</key>
+	<string>fusedImpact</string>
+	<key>draggableAllocator</key>
+	<string>canSubscribeBatch</string>
+	<key>rapidMenu</key>
+	<string>resizeGrain</string>
+	<key>temporaryHeap</key>
+	<string>shouldDetachSample</string>
+</dict>
+</plist>

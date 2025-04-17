@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultsensor</key>
+	<string>statelessCycle</string>
+	<key>graphicdescription</key>
+	<string>methodincludelayer</string>
+	<key>intensityAcceleration</key>
+	<string>permissiveCube</string>
+	<key>intermediateStateless</key>
+	<string>canBindAlpha</string>
+	<key>notifyhash</key>
+	<string>introspectFeature</string>
+	<key>provisionFrequency</key>
+	<string>visiblenormcolor</string>
+	<key>statelessMonster</key>
+	<string>sinkFrequency</string>
+	<key>tappableText</key>
+	<string>addAllocator</string>
+</dict>
+</plist>

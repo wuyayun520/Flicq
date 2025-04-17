@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionChart</key>
+	<string>catalystMethod</string>
+	<key>autoDependency</key>
+	<string>painterActivity</string>
+	<key>firstBullet</key>
+	<string>continueWorkflow</string>
+	<key>ignoredGift</key>
+	<string>canUnbindView</string>
+	<key>promiseName</key>
+	<string>resilientCheckbox</string>
+	<key>responsiveEntity</key>
+	<string>plateScope</string>
+	<key>transformerimpact</key>
+	<string>shouldParseLabel</string>
+</dict>
+</plist>

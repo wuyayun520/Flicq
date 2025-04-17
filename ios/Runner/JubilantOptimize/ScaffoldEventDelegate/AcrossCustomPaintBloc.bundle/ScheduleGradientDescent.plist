@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedLoader</key>
+	<string>mobileContraction</string>
+	<key>informationstate</key>
+	<string>canInitializeLoss</string>
+	<key>interfacealongphase</key>
+	<string>currentConfiguration</string>
+	<key>primarypoint</key>
+	<string>navigationStructure</string>
+	<key>sequentialItem</key>
+	<string>skiptimer</string>
+	<key>substantialDocument</key>
+	<string>canKeepPositioned</string>
+</dict>
+</plist>

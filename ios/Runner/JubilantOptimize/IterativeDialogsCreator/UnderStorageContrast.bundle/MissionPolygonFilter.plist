@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletOpacity</key>
+	<string>alignmentTransparency</string>
+	<key>cleanscene</key>
+	<string>similarpicker</string>
+	<key>customJoiner</key>
+	<string>resizableCharacteristic</string>
+	<key>functionalSwitch</key>
+	<string>handleTabView</string>
+	<key>shouldBindDropdownButton</key>
+	<string>decorationAdapter</string>
+	<key>statefulSkin</key>
+	<string>secondMedia</string>
+	<key>symmetricConsumer</key>
+	<string>hyperbolicCertificate</string>
+</dict>
+</plist>

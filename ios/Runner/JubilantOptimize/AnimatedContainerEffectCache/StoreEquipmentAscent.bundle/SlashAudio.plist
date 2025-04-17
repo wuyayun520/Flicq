@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalysttail</key>
+	<string>lostConsumer</string>
+	<key>directlyCertificate</key>
+	<string>interactiveRestriction</string>
+	<key>responsecount</key>
+	<string>semanticsDensity</string>
+	<key>significantbox</key>
+	<string>sharedQueue</string>
+	<key>temporaryFilter</key>
+	<string>declarativeLocalization</string>
+	<key>tickercoord</key>
+	<string>metadataStyle</string>
+</dict>
+</plist>

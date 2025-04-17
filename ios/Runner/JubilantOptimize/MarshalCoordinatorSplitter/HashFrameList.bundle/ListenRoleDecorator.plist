@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedConverter</key>
+	<string>schemacolor</string>
+	<key>autoSign</key>
+	<string>multiContainer</string>
+	<key>contractionDensity</key>
+	<string>canBindPlayback</string>
+	<key>numericalTask</key>
+	<string>profileChain</string>
+	<key>polyfillCoord</key>
+	<string>selectedborder</string>
+	<key>shouldPushPositioned</key>
+	<string>createRadio</string>
+	<key>storyboardTheme</key>
+	<string>criticalDisclaimer</string>
+</dict>
+</plist>

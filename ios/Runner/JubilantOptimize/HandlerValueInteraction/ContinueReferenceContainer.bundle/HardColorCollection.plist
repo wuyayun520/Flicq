@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchasync</key>
+	<string>symmetricGem</string>
+	<key>blocchapter</key>
+	<string>mobileBase</string>
+	<key>impressionValidation</key>
+	<string>crudeentityfeedback</string>
+	<key>missionOffset</key>
+	<string>intuitiveRoute</string>
+	<key>observerawaytype</key>
+	<string>kernelDirection</string>
+	<key>scrollableCanvas</key>
+	<string>transitionbufferborder</string>
+	<key>shouldMountedFragment</key>
+	<string>orchestrateDuration</string>
+	<key>shouldMountedMap</key>
+	<string>layoutStream</string>
+	<key>shouldsavegesturedetector</key>
+	<string>staticAnimatedContainer</string>
+</dict>
+</plist>

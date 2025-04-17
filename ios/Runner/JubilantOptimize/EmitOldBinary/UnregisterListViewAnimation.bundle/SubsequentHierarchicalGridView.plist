@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entityDepth</key>
+	<string>compileSingleton</string>
+	<key>materialStorage</key>
+	<string>tangentMethod</string>
+	<key>prioritydata</key>
+	<string>shouldPushExtension</string>
+	<key>semanticproviderbottom</key>
+	<string>dynamicReliability</string>
+	<key>sequentialAction</key>
+	<string>transitionScale</string>
+	<key>sequentialAlignment</key>
+	<string>updateChapter</string>
+	<key>shouldUnbindOperation</key>
+	<string>lastreferencevisibility</string>
+	<key>symmetricThroughput</key>
+	<string>checkRepository</string>
+	<key>usecaseRight</key>
+	<string>shouldinitializedelegate</string>
+</dict>
+</plist>

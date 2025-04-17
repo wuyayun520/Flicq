@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedUnary</key>
+	<string>shouldResumeStream</string>
+	<key>entropyRotation</key>
+	<string>contractionoraction</string>
+	<key>iterativeBinary</key>
+	<string>shouldDeserializeReduction</string>
+	<key>sequentialOperation</key>
+	<string>progressbartype</string>
+	<key>signsplitter</key>
+	<string>usageinstrategy</string>
+</dict>
+</plist>

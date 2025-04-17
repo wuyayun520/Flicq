@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorInset</key>
+	<string>nibOrientation</string>
+	<key>cachesprite</key>
+	<string>cubeutil</string>
+	<key>catalystStyle</key>
+	<string>cubitTransparency</string>
+	<key>encodeprecision</key>
+	<string>scrollerFrequency</string>
+	<key>hashdelay</key>
+	<string>deployGrid</string>
+	<key>protectedResolver</key>
+	<string>remainderTension</string>
+	<key>shouldDeserializeRow</key>
+	<string>exitstream</string>
+	<key>shouldSkipPoint</key>
+	<string>infrastructureContrast</string>
+</dict>
+</plist>

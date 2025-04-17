@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSegment</key>
+	<string>shouldconnectcomposition</string>
+	<key>concretetheme</key>
+	<string>cursorHead</string>
+	<key>inheritedAction</key>
+	<string>progressbarHead</string>
+	<key>notifierSize</key>
+	<string>scrolllocation</string>
+	<key>playbackStatus</key>
+	<string>elasticSkirt</string>
+	<key>precisionIndex</key>
+	<string>movementCenter</string>
+	<key>remainderDistance</key>
+	<string>primaryBinder</string>
+	<key>shouldUnbindNorm</key>
+	<string>routeformat</string>
+</dict>
+</plist>

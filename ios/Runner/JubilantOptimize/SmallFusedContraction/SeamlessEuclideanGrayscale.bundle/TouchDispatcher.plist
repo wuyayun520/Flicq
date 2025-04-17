@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableConstant</key>
+	<string>marginOrientation</string>
+	<key>hasIcon</key>
+	<string>directSink</string>
+	<key>rowrate</key>
+	<string>actionInterpreter</string>
+	<key>sceneactionright</key>
+	<string>graphFeedback</string>
+	<key>shouldMountTangent</key>
+	<string>canPaintBinary</string>
+</dict>
+</plist>

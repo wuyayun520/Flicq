@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalColor</key>
+	<string>resilientOverlay</string>
+	<key>mainDetector</key>
+	<string>canKeepAnchor</string>
+	<key>mapHue</key>
+	<string>newestDecoration</string>
+	<key>nativeOffset</key>
+	<string>storeGroup</string>
+	<key>parsescroll</key>
+	<string>renderNorm</string>
+	<key>rapidCreator</key>
+	<string>mediumprogressbarstyle</string>
+	<key>shouldInflateListView</key>
+	<string>shouldSubscribeCursor</string>
+	<key>threadIndex</key>
+	<string>drawerPadding</string>
+</dict>
+</plist>

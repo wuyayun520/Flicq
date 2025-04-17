@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityShape</key>
+	<string>sorterTop</string>
+	<key>descriptorappearance</key>
+	<string>selectorFlags</string>
+	<key>equalstack</key>
+	<string>cancelMap</string>
+	<key>immediateAnchor</key>
+	<string>canPopBullet</string>
+	<key>isCatalyst</key>
+	<string>synchronizeIntensity</string>
+	<key>parallelThreshold</key>
+	<string>selectorValidation</string>
+	<key>rendervariant</key>
+	<string>basicmediaquerymomentum</string>
+	<key>shouldSkipProjection</key>
+	<string>cancelresolver</string>
+	<key>standalonegrain</key>
+	<string>canMountedMovement</string>
+	<key>unactivatedConsumption</key>
+	<string>allocatorscale</string>
+</dict>
+</plist>

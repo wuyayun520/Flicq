@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultTask</key>
+	<string>visitPreview</string>
+	<key>discardedComponent</key>
+	<string>canStopCertificate</string>
+	<key>draggableSign</key>
+	<string>shouldResumeProfile</string>
+	<key>hardCompletion</key>
+	<string>resilientHistogram</string>
+	<key>lostbullet</key>
+	<string>criticalSlash</string>
+	<key>processchannels</key>
+	<string>shouldStartCoordinator</string>
+	<key>sharedsymbolmode</key>
+	<string>unmountedworkflow</string>
+	<key>shouldLayoutChallenge</key>
+	<string>shouldfetchproject</string>
+	<key>traversalDensity</key>
+	<string>keepActivity</string>
+</dict>
+</plist>

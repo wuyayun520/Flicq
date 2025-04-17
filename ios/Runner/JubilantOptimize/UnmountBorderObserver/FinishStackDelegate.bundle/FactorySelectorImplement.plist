@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesPadding</key>
+	<string>detachInkWell</string>
+	<key>newestClipper</key>
+	<string>widgetTension</string>
+	<key>pinchableresolverinteraction</key>
+	<string>resetsink</string>
+	<key>secondaction</key>
+	<string>unactivatedScroll</string>
+	<key>singlefactory</key>
+	<string>emitGram</string>
+	<key>splitterBehavior</key>
+	<string>largeclipperinteraction</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableCharacteristic</key>
+	<string>debugCurve</string>
+	<key>eagerListView</key>
+	<string>overlayContext</string>
+	<key>logarithmvaluedepth</key>
+	<string>declarativemenustate</string>
+	<key>mediocreSubscriber</key>
+	<string>shouldbuildstack</string>
+	<key>opaqueInjection</key>
+	<string>pendingTransition</string>
+	<key>priorTicker</key>
+	<string>difficultImpact</string>
+	<key>robustAllocator</key>
+	<string>visibleFragments</string>
+	<key>tappableDescriptor</key>
+	<string>visibleFuture</string>
+</dict>
+</plist>

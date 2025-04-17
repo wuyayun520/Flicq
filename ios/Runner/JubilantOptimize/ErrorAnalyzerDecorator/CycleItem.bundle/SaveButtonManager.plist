@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffablehandler</key>
+	<string>canPresentSlash</string>
+	<key>hyperbolicDelegate</key>
+	<string>sustainableCube</string>
+	<key>matrixKind</key>
+	<string>readstateless</string>
+	<key>observerspacing</key>
+	<string>largeObject</string>
+	<key>profileVisible</key>
+	<string>borderBound</string>
+	<key>rectmetrics</key>
+	<string>decorationappearance</string>
+</dict>
+</plist>

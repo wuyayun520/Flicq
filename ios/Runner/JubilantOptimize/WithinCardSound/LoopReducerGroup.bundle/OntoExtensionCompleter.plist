@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>giftposition</key>
+	<string>missionShape</string>
+	<key>hardProtocol</key>
+	<string>measurePosition</string>
+	<key>largeObject</key>
+	<string>touchFramework</string>
+	<key>missionTail</key>
+	<string>canRebuildConvolution</string>
+	<key>normState</key>
+	<string>denseAwait</string>
+	<key>permanentTouch</key>
+	<string>retainedSplitter</string>
+	<key>smartRadius</key>
+	<string>presenterplatformorientation</string>
+</dict>
+</plist>

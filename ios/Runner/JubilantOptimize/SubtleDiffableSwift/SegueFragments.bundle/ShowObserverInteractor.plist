@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivenotificationoffset</key>
+	<string>globalSingleton</string>
+	<key>advancedtickerforce</key>
+	<string>offsetEdge</string>
+	<key>baselineactionshade</key>
+	<string>pagerSize</string>
+	<key>gramVisibility</key>
+	<string>rapidStateless</string>
+	<key>inactivedelegatesize</key>
+	<string>mutablebaseline</string>
+	<key>marginstatus</key>
+	<string>binaryexceptflyweight</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>equipmentIndex</key>
+	<string>denseHandler</string>
+	<key>euclideanTrajectory</key>
+	<string>parseDescription</string>
+	<key>geometricdialogsbehavior</key>
+	<string>endreducer</string>
+	<key>marknavigation</key>
+	<string>backwardFuture</string>
+	<key>nextMember</key>
+	<string>timePosition</string>
+	<key>originalChannels</key>
+	<string>cubeComposite</string>
+	<key>permanentSingleton</key>
+	<string>notifierPhase</string>
+	<key>reactiveProcessor</key>
+	<string>resourcecommandmode</string>
+	<key>semanticStateless</key>
+	<string>shouldSavePriority</string>
+</dict>
+</plist>

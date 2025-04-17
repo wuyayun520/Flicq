@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>parallelLayout</key>
+	<string>transposeParticle</string>
+	<key>routeOrientation</key>
+	<string>canLoadScroll</string>
+	<key>routerincludedecorator</key>
+	<string>associateIntensity</string>
+	<key>shouldDisconnectConvolution</key>
+	<string>shouldPrepareHistogram</string>
+	<key>shouldReplaceSpecifier</key>
+	<string>mediaquerytempleoffset</string>
+	<key>shouldRouteSymbol</key>
+	<string>shouldStartNotifier</string>
+</dict>
+</plist>

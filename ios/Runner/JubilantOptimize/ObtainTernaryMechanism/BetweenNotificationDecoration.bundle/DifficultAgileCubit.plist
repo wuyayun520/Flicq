@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryDuration</key>
+	<string>ephemeralMedia</string>
+	<key>alignmentopacity</key>
+	<string>cartesianNavigation</string>
+	<key>difficultasynctint</key>
+	<string>currentdescent</string>
+	<key>disparatePromise</key>
+	<string>nativeMetrics</string>
+	<key>shouldAttachMaster</key>
+	<string>standaloneHeap</string>
+	<key>vectorizedecoration</key>
+	<string>descriptorparametertheme</string>
+</dict>
+</plist>

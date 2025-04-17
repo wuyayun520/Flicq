@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushhandler</key>
+	<string>animatedcontainerInterpreter</string>
+	<key>numericalviewtail</key>
+	<string>autoLogarithm</string>
+	<key>resizableprofilebehavior</key>
+	<string>stepSystem</string>
+	<key>reusableTopic</key>
+	<string>grayscalewrapper</string>
+	<key>searcherPressure</key>
+	<string>grayscaleMargin</string>
+	<key>shouldRebuildScreen</key>
+	<string>nextScope</string>
+	<key>shoulddetachsemantics</key>
+	<string>rectifyAnimation</string>
+</dict>
+</plist>

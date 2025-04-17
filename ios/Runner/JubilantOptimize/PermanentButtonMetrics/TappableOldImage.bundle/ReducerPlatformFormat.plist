@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerlinker</key>
+	<string>sensorDensity</string>
+	<key>dedicatedQueue</key>
+	<string>paintController</string>
+	<key>difficultHistogram</key>
+	<string>lazyTable</string>
+	<key>globalFragments</key>
+	<string>parallelPolyfill</string>
+	<key>ismargin</key>
+	<string>textbinder</string>
+	<key>keyprofileduration</key>
+	<string>decodeactivity</string>
+	<key>missedNorm</key>
+	<string>canPopGram</string>
+	<key>reflectinteger</key>
+	<string>attachSign</string>
+	<key>relationalConsumer</key>
+	<string>deprecateBuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorAppearance</key>
+	<string>usedHash</string>
+	<key>relationalLoss</key>
+	<string>emitOverlay</string>
+	<key>requiredContraction</key>
+	<string>seekreducer</string>
+	<key>uniformDelegate</key>
+	<string>customizedtextfield</string>
+</dict>
+</plist>

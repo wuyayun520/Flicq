@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentedge</key>
+	<string>allocatoradaptershade</string>
+	<key>globalTechnique</key>
+	<string>robustTexture</string>
+	<key>nativeException</key>
+	<string>continueaction</string>
+	<key>oldRow</key>
+	<string>customComponent</string>
+	<key>positionedState</key>
+	<string>eraseTimer</string>
+	<key>protectedAperture</key>
+	<string>deployException</string>
+	<key>usedMesh</key>
+	<string>ephemeralCertificate</string>
+</dict>
+</plist>

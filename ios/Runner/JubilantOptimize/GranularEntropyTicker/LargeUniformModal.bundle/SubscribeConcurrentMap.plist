@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyRight</key>
+	<string>canYieldGram</string>
+	<key>intensitypolyfill</key>
+	<string>allocateNavigator</string>
+	<key>liteFeature</key>
+	<string>canInitializeSemantics</string>
+	<key>shouldhandlebatch</key>
+	<string>grayscaleLeft</string>
+	<key>symmetricpresenter</key>
+	<string>interactiveInterface</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapsensor</key>
+	<string>queueVariable</string>
+	<key>scrolltemplebehavior</key>
+	<string>draggableMaterial</string>
+	<key>shouldAttachBaseline</key>
+	<string>shouldTransformModal</string>
+	<key>shouldEndEquipment</key>
+	<string>canDisconnectCanvas</string>
+	<key>skipbase</key>
+	<string>staticresult</string>
+	<key>statefulUsage</key>
+	<string>currentmarginresponse</string>
+	<key>sustainableternaryhead</key>
+	<string>canListenInitiators</string>
+	<key>swiftmediatoropacity</key>
+	<string>lostAwait</string>
+	<key>zonecommandtint</key>
+	<string>storyboardTail</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashHead</key>
+	<string>drawsink</string>
+	<key>hastouch</key>
+	<string>canPersistCaption</string>
+	<key>lostSegment</key>
+	<string>autoEvaluation</string>
+	<key>pushsymbol</key>
+	<string>shouldRouteChannels</string>
+</dict>
+</plist>

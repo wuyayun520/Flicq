@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRequest</key>
+	<string>canSaveBrush</string>
+	<key>firstvariant</key>
+	<string>schemaskewy</string>
+	<key>normalSwift</key>
+	<string>prismaticTime</string>
+	<key>pinchableTexture</key>
+	<string>shouldUnbindVariant</string>
+	<key>shapeDirection</key>
+	<string>dynamicdescription</string>
+	<key>shouldListenBinary</key>
+	<string>inheritedTask</string>
+	<key>tabviewOpacity</key>
+	<string>draggableReducer</string>
+</dict>
+</plist>

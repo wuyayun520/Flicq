@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertAppearance</key>
+	<string>radioInterval</string>
+	<key>composablePublisher</key>
+	<string>maintainChart</string>
+	<key>delicateChannel</key>
+	<string>metricsSpeed</string>
+	<key>functionalDelivery</key>
+	<string>nibStyle</string>
+	<key>independentCache</key>
+	<string>shouldSerializeRadio</string>
+	<key>materialRight</key>
+	<string>paddingtint</string>
+	<key>mechanismName</key>
+	<string>significantCell</string>
+	<key>originalMenu</key>
+	<string>pauseBitrate</string>
+</dict>
+</plist>

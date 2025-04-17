@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackRotation</key>
+	<string>onviewchanged</string>
+	<key>evaluationDelay</key>
+	<string>optimizerContrast</string>
+	<key>findcontainer</key>
+	<string>textsingletondepth</string>
+	<key>greatStamp</key>
+	<string>mixinParticle</string>
+	<key>hyperbolicpolyfill</key>
+	<string>notificationorientation</string>
+	<key>missedSingleton</key>
+	<string>setstatePrecision</string>
+	<key>threadMargin</key>
+	<string>inkwellOrigin</string>
+	<key>unsortedInteractor</key>
+	<string>buildtitle</string>
+</dict>
+</plist>

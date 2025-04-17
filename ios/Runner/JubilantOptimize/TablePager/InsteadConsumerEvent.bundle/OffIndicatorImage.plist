@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelForce</key>
+	<string>onstoryboardtap</string>
+	<key>diffableAlpha</key>
+	<string>resizableWidget</string>
+	<key>featureLeft</key>
+	<string>visualizeAlignment</string>
+	<key>geometricReliability</key>
+	<string>webCell</string>
+	<key>reusableinjection</key>
+	<string>desktopPriority</string>
+	<key>shouldPublishInterpolation</key>
+	<string>diffableWorkflow</string>
+	<key>spineviaphase</key>
+	<string>responderPadding</string>
+	<key>usedhash</key>
+	<string>shouldrestartcosine</string>
+</dict>
+</plist>

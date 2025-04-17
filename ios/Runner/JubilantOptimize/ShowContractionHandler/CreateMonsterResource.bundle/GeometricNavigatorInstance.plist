@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deserializestate</key>
+	<string>observeBatch</string>
+	<key>diffableReceiver</key>
+	<string>robustBullet</string>
+	<key>encodetimer</key>
+	<string>iterativeAlignment</string>
+	<key>listenerstatedensity</key>
+	<string>skinSingleton</string>
+	<key>symmetricConverter</key>
+	<string>parallelEntropy</string>
+	<key>temporaryButton</key>
+	<string>reliabilityCenter</string>
+	<key>unactivatedPageView</key>
+	<string>gridviewamortization</string>
+</dict>
+</plist>

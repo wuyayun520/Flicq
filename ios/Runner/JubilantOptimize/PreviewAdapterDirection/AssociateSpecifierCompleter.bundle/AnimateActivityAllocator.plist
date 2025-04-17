@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetfunctionlocation</key>
+	<string>sequentialDelivery</string>
+	<key>controllerorsystem</key>
+	<string>shearCoordinator</string>
+	<key>entropyBound</key>
+	<string>prevInteraction</string>
+	<key>imperativebitrate</key>
+	<string>routerselector</string>
+	<key>scrollableInteractor</key>
+	<string>shouldPresentSkin</string>
+	<key>shouldpainttool</key>
+	<string>shouldStartModal</string>
+	<key>statefulForce</key>
+	<string>streamresponse</string>
+	<key>tappableGesture</key>
+	<string>flexEnvironment</string>
+</dict>
+</plist>

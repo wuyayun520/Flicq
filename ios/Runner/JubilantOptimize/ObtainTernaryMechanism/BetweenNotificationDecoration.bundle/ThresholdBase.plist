@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationPadding</key>
+	<string>shouldcontinueanimation</string>
+	<key>dynamicModule</key>
+	<string>shouldYieldDropdownButton</string>
+	<key>greatListener</key>
+	<string>clipperFlyweight</string>
+	<key>respectivePublisher</key>
+	<string>loopPattern</string>
+	<key>touchbutton</key>
+	<string>aspectTransparency</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleDrawer</key>
+	<string>giftTier</string>
+	<key>crudeRecursion</key>
+	<string>euclideanInteger</string>
+	<key>eagerDimension</key>
+	<string>grayscaleProcess</string>
+	<key>ephemeralQuaternion</key>
+	<string>inflateTransformer</string>
+	<key>scrollableTrigger</key>
+	<string>delicateRow</string>
+</dict>
+</plist>

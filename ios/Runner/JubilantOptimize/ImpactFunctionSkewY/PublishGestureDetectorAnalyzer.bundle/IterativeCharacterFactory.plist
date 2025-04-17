@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianSemantics</key>
+	<string>shouldParseMomentum</string>
+	<key>criticalSound</key>
+	<string>escalateChannel</string>
+	<key>dynamicHero</key>
+	<string>factoryVisitor</string>
+	<key>ignoredBrush</key>
+	<string>draggableComposition</string>
+	<key>scrollableEqualization</key>
+	<string>canContinueWidget</string>
+	<key>wrapperOpacity</key>
+	<string>challengePosition</string>
+</dict>
+</plist>

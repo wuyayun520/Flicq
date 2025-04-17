@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularinteraction</key>
+	<string>routeProcess</string>
+	<key>lostcardoffset</key>
+	<string>shouldSubscribeHistogram</string>
+	<key>shouldTrainSession</key>
+	<string>consumeError</string>
+	<key>singleExpanded</key>
+	<string>greatTheme</string>
+</dict>
+</plist>

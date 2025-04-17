@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousPosition</key>
+	<string>currentVector</string>
+	<key>controllerstrategyduration</key>
+	<string>tickerBuffer</string>
+	<key>opaquemerger</key>
+	<string>canFetchBox</string>
+	<key>quantizertween</key>
+	<string>protocolProcess</string>
+	<key>substantialTransformer</key>
+	<string>immutableSensor</string>
+	<key>synchronousRole</key>
+	<string>refreshLayout</string>
+</dict>
+</plist>

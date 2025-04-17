@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonnearinterpreter</key>
+	<string>extensionmode</string>
+	<key>captionPressure</key>
+	<string>streamMode</string>
+	<key>comprehensiveMaterializer</key>
+	<string>shouldAnimateAnimatedContainer</string>
+	<key>keyCompleter</key>
+	<string>skipProvider</string>
+	<key>listenbloc</key>
+	<string>compositionalCapsule</string>
+	<key>pivotalReliability</key>
+	<string>gemDistance</string>
+	<key>sortedPlayback</key>
+	<string>shouldDeserializeListView</string>
+</dict>
+</plist>

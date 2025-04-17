@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatebloc</key>
+	<string>repositoryForce</string>
+	<key>componentSaturation</key>
+	<string>currentVariant</string>
+	<key>cupertinoreducer</key>
+	<string>axistop</string>
+	<key>denseGesture</key>
+	<string>parallelInjection</string>
+	<key>globalStack</key>
+	<string>uniformAnalyzer</string>
+	<key>imageVisible</key>
+	<string>vertexPadding</string>
+	<key>largeTimer</key>
+	<string>loadPromise</string>
+	<key>materializerCount</key>
+	<string>listenStateful</string>
+	<key>optimizerborder</key>
+	<string>shouldMountedSwift</string>
+</dict>
+</plist>

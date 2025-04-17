@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonAspectRatio</key>
+	<string>parseMission</string>
+	<key>defaultMonster</key>
+	<string>inheritedmend</string>
+	<key>respectiveEffect</key>
+	<string>protectedBase</string>
+	<key>statelessState</key>
+	<string>positionedmesh</string>
+	<key>taskadapterskewy</key>
+	<string>intuitiveSign</string>
+</dict>
+</plist>

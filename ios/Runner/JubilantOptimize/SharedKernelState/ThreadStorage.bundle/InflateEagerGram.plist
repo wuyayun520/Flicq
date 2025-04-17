@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouscontainer</key>
+	<string>bundleUtil</string>
+	<key>behavioratmediator</key>
+	<string>syncRect</string>
+	<key>consultativeMaster</key>
+	<string>mediaLeft</string>
+	<key>detailScale</key>
+	<string>mountstate</string>
+	<key>diffablefragment</key>
+	<string>canStopStream</string>
+	<key>layerinsideparameter</key>
+	<string>detachLayer</string>
+	<key>metadatastatecenter</key>
+	<string>scenarioTail</string>
+</dict>
+</plist>

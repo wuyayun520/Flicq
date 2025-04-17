@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProcessor</key>
+	<string>singleReplica</string>
+	<key>cardexceptobserver</key>
+	<string>completerTension</string>
+	<key>converterFrequency</key>
+	<string>scenarioBehavior</string>
+	<key>graphicviabuffer</key>
+	<string>greatData</string>
+	<key>kernelmodetension</key>
+	<string>tensoranimation</string>
+	<key>relationaltimer</key>
+	<string>performpreview</string>
+	<key>shouldStopReference</key>
+	<string>mediocreMechanism</string>
+	<key>transformertail</key>
+	<string>yieldCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyResponse</key>
+	<string>symmetricmetrics</string>
+	<key>clipperState</key>
+	<string>resilienceFeedback</string>
+	<key>directError</key>
+	<string>painterLeft</string>
+	<key>inactiveExponent</key>
+	<string>emitSink</string>
+	<key>inflatestate</key>
+	<string>searcherOffset</string>
+	<key>labelscopecoord</key>
+	<string>sorterAlignment</string>
+	<key>shoulddecodemultiplication</key>
+	<string>statefulZone</string>
+	<key>synchronousnavigatorstate</key>
+	<string>saveLoss</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cyclevaluecount</key>
+	<string>utilTier</string>
+	<key>particleAcceleration</key>
+	<string>uniqueDelivery</string>
+	<key>seamlessInterface</key>
+	<string>sizedboxTransparency</string>
+	<key>shouldDisconnectChallenge</key>
+	<string>shouldPresentCharacter</string>
+	<key>streamdelegate</key>
+	<string>notifyUsage</string>
+	<key>threadSpeed</key>
+	<string>retainedThreshold</string>
+</dict>
+</plist>

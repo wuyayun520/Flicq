@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineSpeed</key>
+	<string>shouldSaveReference</string>
+	<key>callbackoperation</key>
+	<string>robustdecorationbound</string>
+	<key>evolutionHead</key>
+	<string>displayableWorkflow</string>
+	<key>replicaScale</key>
+	<string>workflowTint</string>
+	<key>restrictionSkewX</key>
+	<string>featureJob</string>
+	<key>shouldRebuildScreen</key>
+	<string>shouldSetStateFragment</string>
+	<key>widgetexception</key>
+	<string>canRouteScreen</string>
+</dict>
+</plist>

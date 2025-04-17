@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalConstraint</key>
+	<string>paintChallenge</string>
+	<key>scopeHead</key>
+	<string>quantizationbloc</string>
+	<key>shouldPersistRoute</key>
+	<string>spineCycle</string>
+	<key>symbolSaturation</key>
+	<string>displayableFrame</string>
+	<key>symmetricdetector</key>
+	<string>layoutInteger</string>
+	<key>touchmultiplication</key>
+	<string>specifyNavigator</string>
+	<key>workflowwithbridge</key>
+	<string>liteMusic</string>
+</dict>
+</plist>

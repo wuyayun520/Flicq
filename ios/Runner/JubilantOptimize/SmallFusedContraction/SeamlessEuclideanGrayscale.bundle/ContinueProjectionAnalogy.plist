@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphicproxyskewy</key>
+	<string>assetnearphase</string>
+	<key>liteColumn</key>
+	<string>flexibleAsset</string>
+	<key>nextMatrix</key>
+	<string>convolutionFacade</string>
+	<key>shouldEmitConstraint</key>
+	<string>usecaseEdge</string>
+	<key>shouldStartEffect</key>
+	<string>protocolsaturation</string>
+</dict>
+</plist>

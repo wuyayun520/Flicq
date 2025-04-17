@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianalignment</key>
+	<string>transformMomentum</string>
+	<key>functionalPrecision</key>
+	<string>fixedSine</string>
+	<key>overlaydata</key>
+	<string>imperativeQuaternion</string>
+	<key>queuevisible</key>
+	<string>sinkEnvironment</string>
+	<key>sampleviastage</key>
+	<string>shouldMountedTechnique</string>
+	<key>temporaryCertificate</key>
+	<string>emitNavigation</string>
+</dict>
+</plist>

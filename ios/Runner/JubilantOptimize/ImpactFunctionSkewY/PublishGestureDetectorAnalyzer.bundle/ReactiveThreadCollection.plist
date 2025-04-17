@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTechnique</key>
+	<string>positionedAppearance</string>
+	<key>cartesiansizedbox</key>
+	<string>shouldObserveTouch</string>
+	<key>columnScale</key>
+	<string>borderDensity</string>
+	<key>criticalDescriptor</key>
+	<string>drawscale</string>
+	<key>independentConstant</key>
+	<string>unmountedmenu</string>
+	<key>materialbinder</key>
+	<string>canLayoutKernel</string>
+	<key>paddingshape</key>
+	<string>canBuildCollection</string>
+	<key>platekind</key>
+	<string>taskwithmethod</string>
+	<key>substantialPlate</key>
+	<string>remainderOrientation</string>
+</dict>
+</plist>

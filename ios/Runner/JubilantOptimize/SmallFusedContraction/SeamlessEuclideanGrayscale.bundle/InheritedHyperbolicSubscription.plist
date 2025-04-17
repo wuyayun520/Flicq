@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedBullet</key>
+	<string>processUnary</string>
+	<key>eagerResponse</key>
+	<string>uniqueRectangle</string>
+	<key>heapRotation</key>
+	<string>animateStateful</string>
+	<key>permanenttransitiondistance</key>
+	<string>gateForm</string>
+	<key>stackspeed</key>
+	<string>contrasttint</string>
+	<key>stateorigin</key>
+	<string>projectionContext</string>
+</dict>
+</plist>

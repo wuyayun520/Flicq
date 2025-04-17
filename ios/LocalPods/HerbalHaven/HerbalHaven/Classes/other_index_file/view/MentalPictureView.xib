@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="MentalPictureView">
+            <connections>
+                <outlet property="viewFemaleLabel" destination="PIl-8z-raS" id="epH-Sx-Qiq"/>
+                <outlet property="valueLabel" destination="Qb7-zX-Ijn" id="NRF-TH-Ezb"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="xmI-3I-xwQ">
+            <rect key="frame" x="0.0" y="0.0" width="66.7" height="149.0"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="top" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="type section complete equal row" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PIl-8z-raS" numberOfLines="9">
+                    <rect key="frame" x="5" y="35.5" width="152.2" height="30.3"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="11"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="305" verticalHuggingPriority="194" text="online near data end" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Qb7-zX-Ijn" adjustsFontForContentSizeCategory="YES" numberOfLines="9" highlighted="YES">
+                    <rect key="frame" x="8" y="1" width="152.2" height="14.8"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="GPQ-sy-Az9"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Qb7-zX-Ijn" firstAttribute="leading" secondItem="GPQ-sy-Az9" secondAttribute="leading" constant="7" id="GEF-wI-4Wr"/>
+                <constraint firstAttribute="trailing" secondItem="PIl-8z-raS" secondAttribute="trailing" constant="3" id="clf-uN-2mj"/>
+                <constraint firstItem="PIl-8z-raS" firstAttribute="leading" secondItem="GPQ-sy-Az9" secondAttribute="leading" id="E69-1T-M27"/>
+                <constraint firstItem="GPQ-sy-Az9" firstAttribute="trailing" secondItem="Qb7-zX-Ijn" secondAttribute="trailing" constant="5" id="BlS-Vs-4I0"/>
+                <constraint firstItem="PIl-8z-raS" firstAttribute="top" secondItem="xmI-3I-xwQ" secondAttribute="top" constant="4" id="LaO-fs-rk7"/>
+                <constraint firstItem="GPQ-sy-Az9" firstAttribute="bottom" secondItem="Qb7-zX-Ijn" secondAttribute="bottom" constant="4" id="IoW-y8-drT"/>
+                <constraint firstItem="Qb7-zX-Ijn" firstAttribute="top" secondItem="PIl-8z-raS" secondAttribute="bottom" constant="9" id="x62-Yf-9tq"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="-48.784627667704518" y="-199.39324347625642"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

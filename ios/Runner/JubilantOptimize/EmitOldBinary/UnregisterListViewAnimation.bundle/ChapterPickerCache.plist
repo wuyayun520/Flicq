@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorSpeed</key>
+	<string>autoLoss</string>
+	<key>draggableresponder</key>
+	<string>concurrentSlider</string>
+	<key>optimizerName</key>
+	<string>fusedGate</string>
+	<key>refactortask</key>
+	<string>accessibletextfrequency</string>
+	<key>scaffoldVisibility</key>
+	<string>unactivatedCombiner</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationprototypevalidation</key>
+	<string>paddingSystem</string>
+	<key>elasticImpact</key>
+	<string>shouldBuildRole</string>
+	<key>liteLocalization</key>
+	<string>displayablePrecision</string>
+	<key>normopacity</key>
+	<string>contractionlayer</string>
+	<key>oldLifecycle</key>
+	<string>topicflyweightorientation</string>
+	<key>onmusictap</key>
+	<string>shouldDetachProvider</string>
+	<key>segmentName</key>
+	<string>endstore</string>
+</dict>
+</plist>

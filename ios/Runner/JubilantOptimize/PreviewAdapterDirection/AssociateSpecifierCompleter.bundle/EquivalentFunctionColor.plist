@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detailopacity</key>
+	<string>ephemeralBoxShadow</string>
+	<key>documentDistance</key>
+	<string>associatedTentative</string>
+	<key>framelatency</key>
+	<string>delicateDocument</string>
+	<key>invisibleScene</key>
+	<string>canDetachScale</string>
+	<key>unmountcurve</key>
+	<string>symmetricDuration</string>
+	<key>webAudio</key>
+	<string>utilWork</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleGift</key>
+	<string>serializeTicker</string>
+	<key>serviceTransparency</key>
+	<string>precisionStructure</string>
+	<key>shouldRouteListView</key>
+	<string>documentAdapter</string>
+	<key>statelessPoint</key>
+	<string>persistSensor</string>
+</dict>
+</plist>

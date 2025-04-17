@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>defaultcontainer</key>
+	<string>prevBloc</string>
+	<key>largeEntity</key>
+	<string>detectorTransparency</string>
+	<key>mobileIndicator</key>
+	<string>compileStorage</string>
+	<key>pinchableinterpolationstyle</key>
+	<string>protectedCard</string>
+	<key>respectiveSession</key>
+	<string>canTrainPriority</string>
+	<key>routerscopealignment</key>
+	<string>transitionplayback</string>
+	<key>similarTask</key>
+	<string>localSample</string>
+	<key>splitterTop</key>
+	<string>prismaticSkin</string>
+	<key>tensorvariantvelocity</key>
+	<string>immediateBitrate</string>
+	<key>usecasemode</key>
+	<string>markHash</string>
+</dict>
+</plist>

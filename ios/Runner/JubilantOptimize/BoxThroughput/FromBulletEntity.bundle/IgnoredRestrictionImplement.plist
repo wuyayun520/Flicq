@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAwait</key>
+	<string>nativeMediaQuery</string>
+	<key>fixedConstant</key>
+	<string>requestVar</string>
+	<key>impressionOpacity</key>
+	<string>builderMode</string>
+	<key>precisionSize</key>
+	<string>publicMetadata</string>
+	<key>secondImage</key>
+	<string>usedChooser</string>
+	<key>shouldDisconnectInstruction</key>
+	<string>canBindAnchor</string>
+	<key>shouldObserveMomentum</key>
+	<string>heroColor</string>
+	<key>shouldProcessConstraint</key>
+	<string>imperativescaledelay</string>
+	<key>spotstylelocation</key>
+	<string>shouldContinueHistogram</string>
+</dict>
+</plist>

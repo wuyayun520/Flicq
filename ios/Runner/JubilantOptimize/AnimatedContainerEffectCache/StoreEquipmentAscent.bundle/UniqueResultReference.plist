@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxtypevisibility</key>
+	<string>directTitle</string>
+	<key>diffableVertex</key>
+	<string>nodecount</string>
+	<key>flexworkright</key>
+	<string>connectIntensity</string>
+	<key>intuitiveIsolate</key>
+	<string>intuitiveAnimatedContainer</string>
+	<key>reactiveSearcher</key>
+	<string>commonTrigger</string>
+	<key>shouldTransformPoint</key>
+	<string>shouldConnectIndicator</string>
+	<key>shouldTransitionScroll</key>
+	<string>singleBoxShadow</string>
+</dict>
+</plist>

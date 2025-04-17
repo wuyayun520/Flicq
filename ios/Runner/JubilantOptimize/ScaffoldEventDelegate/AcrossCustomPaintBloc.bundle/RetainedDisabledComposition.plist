@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggablemodalposition</key>
+	<string>deserializeTopic</string>
+	<key>loadersaturation</key>
+	<string>desktopLifecycle</string>
+	<key>missedConfidentiality</key>
+	<string>inactiveTitle</string>
+	<key>sizedboxOrientation</key>
+	<string>resumeMargin</string>
+</dict>
+</plist>

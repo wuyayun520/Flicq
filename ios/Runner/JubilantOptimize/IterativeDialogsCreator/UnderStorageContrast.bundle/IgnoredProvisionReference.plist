@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatebuilder</key>
+	<string>revisitrouter</string>
+	<key>allocatorandpattern</key>
+	<string>prismaticHandler</string>
+	<key>compositiontail</key>
+	<string>canPushRole</string>
+	<key>fusedfeatureedge</key>
+	<string>shouldMountBrush</string>
+	<key>iconInteraction</key>
+	<string>positionedStyle</string>
+	<key>pointlocation</key>
+	<string>herointensity</string>
+	<key>resizablePageView</key>
+	<string>replacepositioned</string>
+	<key>sortedconstrainttype</key>
+	<string>euclideanTaxonomy</string>
+</dict>
+</plist>

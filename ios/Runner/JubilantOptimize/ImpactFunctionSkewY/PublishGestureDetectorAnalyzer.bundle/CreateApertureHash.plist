@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxmodel</key>
+	<string>completerFunction</string>
+	<key>controlleruntilstage</key>
+	<string>rangeHue</string>
+	<key>customSchema</key>
+	<string>statelessBinder</string>
+	<key>featurestroke</key>
+	<string>yieldText</string>
+	<key>movementSkewX</key>
+	<string>cancelMargin</string>
+</dict>
+</plist>

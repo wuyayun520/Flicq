@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermechanism</key>
+	<string>sampleMethod</string>
+	<key>gridvaluespacing</key>
+	<string>shouldRebuildNavigator</string>
+	<key>inheritedQuaternion</key>
+	<string>previewDistance</string>
+	<key>intuitiveCharacteristic</key>
+	<string>routername</string>
+	<key>invisibleGrid</key>
+	<string>associatedMatrix</string>
+	<key>respectiveThreshold</key>
+	<string>activityDensity</string>
+	<key>shouldDeserializeExponent</key>
+	<string>shouldAnimatePlayback</string>
+</dict>
+</plist>

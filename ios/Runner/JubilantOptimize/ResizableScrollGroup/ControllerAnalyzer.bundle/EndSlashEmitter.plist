@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFrequency</key>
+	<string>restoreCoordinator</string>
+	<key>clipperwithoutcomposite</key>
+	<string>cartesianShader</string>
+	<key>compositioninterface</key>
+	<string>revisitManager</string>
+	<key>currentslider</key>
+	<string>awaittheme</string>
+	<key>exceptionhead</key>
+	<string>roleType</string>
+	<key>initializevariant</key>
+	<string>canValidateLog</string>
+	<key>modalmementorate</key>
+	<string>shouldEmitLog</string>
+	<key>requiredcompleter</key>
+	<string>completercount</string>
+	<key>sharedShader</key>
+	<string>defaultmission</string>
+	<key>transformertype</key>
+	<string>smartRestriction</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveChannel</key>
+	<string>animationOrigin</string>
+	<key>checkboxinjection</key>
+	<string>shouldDispatchObserver</string>
+	<key>columnLocation</key>
+	<string>constraintstrategyorigin</string>
+	<key>cursorHead</key>
+	<string>pointStructure</string>
+	<key>intuitiveScalability</key>
+	<string>multiPrecision</string>
+	<key>prevChannels</key>
+	<string>shouldSubscribeInitiators</string>
+	<key>strengthOffset</key>
+	<string>processstorage</string>
+</dict>
+</plist>

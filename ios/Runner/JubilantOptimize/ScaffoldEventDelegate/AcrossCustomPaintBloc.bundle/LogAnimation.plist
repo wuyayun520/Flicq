@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioTail</key>
+	<string>permissiveResolver</string>
+	<key>comprehensiveConsumer</key>
+	<string>navigationVisitor</string>
+	<key>declarativeSegment</key>
+	<string>loadCell</string>
+	<key>deferredPoint</key>
+	<string>composableShape</string>
+	<key>mediumComposition</key>
+	<string>factoryLeft</string>
+	<key>shouldInflateMovement</key>
+	<string>showVariant</string>
+</dict>
+</plist>

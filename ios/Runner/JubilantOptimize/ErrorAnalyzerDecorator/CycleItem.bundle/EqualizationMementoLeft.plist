@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloctension</key>
+	<string>missedGridView</string>
+	<key>draggableScene</key>
+	<string>assetBrightness</string>
+	<key>fragmentcyclebehavior</key>
+	<string>rapidLabel</string>
+	<key>immediatePageView</key>
+	<string>componentoffset</string>
+	<key>normalIntegrity</key>
+	<string>shouldPaintAspect</string>
+	<key>scaffoldordecorator</key>
+	<string>scaleBorder</string>
+	<key>strokeright</key>
+	<string>custompaintAction</string>
+	<key>synchronousCompleter</key>
+	<string>robustTweak</string>
+	<key>temporaryText</key>
+	<string>baseRight</string>
+</dict>
+</plist>

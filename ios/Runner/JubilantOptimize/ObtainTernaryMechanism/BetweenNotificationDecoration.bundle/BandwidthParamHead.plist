@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerWrapper</key>
+	<string>mountStateful</string>
+	<key>compositionalException</key>
+	<string>resolverworkfeedback</string>
+	<key>concurrentSemantics</key>
+	<string>shouldFetchBinary</string>
+	<key>mainScenario</key>
+	<string>robustChannel</string>
+	<key>oldRoute</key>
+	<string>polyfillpadding</string>
+	<key>pinchableFormat</key>
+	<string>maintainController</string>
+	<key>semanticsthroughtype</key>
+	<string>currentmanager</string>
+</dict>
+</plist>

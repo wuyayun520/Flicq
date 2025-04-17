@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDelay</key>
+	<string>directSensor</string>
+	<key>associatedTheme</key>
+	<string>canLoadTabView</string>
+	<key>cupertinoPromise</key>
+	<string>capsuleType</string>
+	<key>declarativenavigator</key>
+	<string>mainResource</string>
+	<key>dedicatedMaterializer</key>
+	<string>animatedresourceleft</string>
+	<key>materialButton</key>
+	<string>canParseCertificate</string>
+	<key>smallTransition</key>
+	<string>tensoranchor</string>
+	<key>symmetricSize</key>
+	<string>variantInterval</string>
+	<key>tensorStoryboard</key>
+	<string>enabledScreen</string>
+</dict>
+</plist>

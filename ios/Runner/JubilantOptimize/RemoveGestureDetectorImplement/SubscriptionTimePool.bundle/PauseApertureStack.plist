@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerDepth</key>
+	<string>trainoperation</string>
+	<key>mediumPlayback</key>
+	<string>eraseDecoration</string>
+	<key>observerstagebrightness</key>
+	<string>delegateEnvironment</string>
+	<key>shouldvalidatechallenge</key>
+	<string>reconcileInjection</string>
+	<key>specifySprite</key>
+	<string>encodeKernel</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+#import "FetchFragmentContainer.h"
+#import "GrainNotation.h"
+
+#import <UIKit/UIKit.h>
+
+NS_ASSUME_NONNULL_BEGIN
+
+@interface DisconnectPrismaticConfiguration : NSObject
+
+
+- (void) disconnectInteractiveTransition;
+
+- (void) bindPrimaryAnimation;
+
+@end
+
+NS_ASSUME_NONNULL_END
+        

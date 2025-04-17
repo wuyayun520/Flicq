@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileDelegate</key>
+	<string>respectiveTriangles</string>
+	<key>aperturebrightness</key>
+	<string>mobiletimerflags</string>
+	<key>featureRotation</key>
+	<string>hardSizedBox</string>
+	<key>hardpositionstyle</key>
+	<string>stepMediator</string>
+	<key>lazyhandler</key>
+	<string>canPublishSlash</string>
+	<key>managerbyscope</key>
+	<string>spotName</string>
+	<key>queuevisible</key>
+	<string>composableCaption</string>
+	<key>rectRight</key>
+	<string>cubeAppearance</string>
+	<key>semanticsforce</key>
+	<string>shouldValidateGridView</string>
+</dict>
+</plist>

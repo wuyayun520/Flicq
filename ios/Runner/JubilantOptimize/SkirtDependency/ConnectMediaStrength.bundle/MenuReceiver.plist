@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalInteraction</key>
+	<string>publicProvider</string>
+	<key>immutableChart</key>
+	<string>tweenPressure</string>
+	<key>interactorFeedback</key>
+	<string>canUpdateSizedBox</string>
+	<key>mobilePlayback</key>
+	<string>stopgrid</string>
+	<key>pageviewAlignment</key>
+	<string>seamlessVideo</string>
+	<key>parallelProvision</key>
+	<string>chapterNumber</string>
+	<key>shouldParseSpine</key>
+	<string>iterativeSchema</string>
+	<key>sortedTopic</key>
+	<string>cancelTernary</string>
+	<key>toolDensity</key>
+	<string>gemTransparency</string>
+</dict>
+</plist>

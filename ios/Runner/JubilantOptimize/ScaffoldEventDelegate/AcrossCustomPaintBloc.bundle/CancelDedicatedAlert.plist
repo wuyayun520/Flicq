@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completerforproxy</key>
+	<string>presenterTop</string>
+	<key>customPosition</key>
+	<string>shouldEmitNib</string>
+	<key>dedicatedReference</key>
+	<string>chartColor</string>
+	<key>disparateTheme</key>
+	<string>shouldcreateinstruction</string>
+	<key>sliderOpacity</key>
+	<string>lostbutton</string>
+</dict>
+</plist>

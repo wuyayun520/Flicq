@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedDropdownButton</key>
+	<string>matrixResponse</string>
+	<key>enabledNotification</key>
+	<string>timerHue</string>
+	<key>missedevolution</key>
+	<string>robustAsync</string>
+	<key>rectangleLocation</key>
+	<string>beginnerVertex</string>
+	<key>shouldRebuildNavigation</key>
+	<string>selectedcharacter</string>
+	<key>shouldResumeDialogs</key>
+	<string>quantizerService</string>
+	<key>shouldSerializeExponent</key>
+	<string>tangentAlignment</string>
+	<key>shouldpopbrush</key>
+	<string>singleinformation</string>
+	<key>statelessLeft</key>
+	<string>disposeIcon</string>
+</dict>
+</plist>

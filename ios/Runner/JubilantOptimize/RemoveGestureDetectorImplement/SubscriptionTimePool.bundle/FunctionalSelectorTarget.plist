@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveMapper</key>
+	<string>tweakColor</string>
+	<key>alertscene</key>
+	<string>webTopic</string>
+	<key>denseframe</key>
+	<string>shouldNavigateVariant</string>
+	<key>reactiveInformation</key>
+	<string>dedicatedTimeline</string>
+	<key>scopePressure</key>
+	<string>animationstyle</string>
+	<key>smallEvent</key>
+	<string>destroyUseCase</string>
+	<key>smallLatency</key>
+	<string>precisionActivity</string>
+</dict>
+</plist>

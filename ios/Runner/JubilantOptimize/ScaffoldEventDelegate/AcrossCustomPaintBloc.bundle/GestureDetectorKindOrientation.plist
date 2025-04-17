@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertstatus</key>
+	<string>canBuildCurve</string>
+	<key>keyAspect</key>
+	<string>ternarymapper</string>
+	<key>keyEmitter</key>
+	<string>shouldListenBuilder</string>
+	<key>onconstrainttap</key>
+	<string>robustCubit</string>
+	<key>repositoryRate</key>
+	<string>serializeEntropy</string>
+	<key>respectiveAlert</key>
+	<string>pendingMultiplication</string>
+	<key>sessionRight</key>
+	<string>shouldNotifyReduction</string>
+	<key>similarTrajectory</key>
+	<string>dedicatedConsumption</string>
+	<key>techniqueVisible</key>
+	<string>profileSkewX</string>
+	<key>uniqueMechanism</key>
+	<string>defaultequalization</string>
+</dict>
+</plist>

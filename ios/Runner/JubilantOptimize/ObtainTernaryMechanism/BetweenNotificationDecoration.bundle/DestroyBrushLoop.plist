@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalProvider</key>
+	<string>arithmeticIndex</string>
+	<key>rapidListener</key>
+	<string>requestSkewX</string>
+	<key>scrollableMaterial</key>
+	<string>canMountedScroll</string>
+	<key>sortedGrid</key>
+	<string>intuitiveEvent</string>
+</dict>
+</plist>

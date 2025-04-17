@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousTimeline</key>
+	<string>asyncinset</string>
+	<key>crucialTimeline</key>
+	<string>resilientPageView</string>
+	<key>hardEvolution</key>
+	<string>sizedboxOperation</string>
+	<key>metricsName</key>
+	<string>dismissReduction</string>
+	<key>multiFactory</key>
+	<string>largeMultiplication</string>
+	<key>oldReducer</key>
+	<string>shouldContinueProtocol</string>
+	<key>presenterStatus</key>
+	<string>shouldObserveBase</string>
+	<key>publicConsumer</key>
+	<string>shouldUpdateStoryboard</string>
+	<key>shouldDismissConvolution</key>
+	<string>shouldSaveMaster</string>
+	<key>smallTopic</key>
+	<string>capsulebrightness</string>
+</dict>
+</plist>

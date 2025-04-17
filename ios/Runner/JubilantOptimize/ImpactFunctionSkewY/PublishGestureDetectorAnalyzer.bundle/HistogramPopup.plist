@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agilereplica</key>
+	<string>escalateInjection</string>
+	<key>basicBullet</key>
+	<string>hasMission</string>
+	<key>eagerMatrix</key>
+	<string>batchFlags</string>
+	<key>eagersprite</key>
+	<string>finderFlags</string>
+	<key>firstintegration</key>
+	<string>histogramtop</string>
+	<key>matrixVisible</key>
+	<string>visibleAnchor</string>
+	<key>mediocreSignature</key>
+	<string>clusterInset</string>
+	<key>shouldBuildSymbol</key>
+	<string>discardedRemainder</string>
+	<key>significantGroup</key>
+	<string>rendererLocation</string>
+	<key>sustainablePositioned</key>
+	<string>executeRequest</string>
+</dict>
+</plist>

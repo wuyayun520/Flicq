@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileOverlay</key>
+	<string>moveduration</string>
+	<key>asynchronousDisclaimer</key>
+	<string>synchronousrichtext</string>
+	<key>axiscallback</key>
+	<string>shouldUnbindGestureDetector</string>
+	<key>eventDuration</key>
+	<string>elasticUtil</string>
+	<key>explicitCanvas</key>
+	<string>responsiveColumn</string>
+	<key>prevQuaternion</key>
+	<string>shouldRestartGram</string>
+</dict>
+</plist>

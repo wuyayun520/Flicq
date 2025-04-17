@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedError</key>
+	<string>resizablecharacteristic</string>
+	<key>decorationprocessor</key>
+	<string>musicFacade</string>
+	<key>dismisslayer</key>
+	<string>shouldMountedCell</string>
+	<key>nextVector</key>
+	<string>videoDistance</string>
+	<key>similarCallback</key>
+	<string>emitSample</string>
+</dict>
+</plist>

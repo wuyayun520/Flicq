@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticSkewX</key>
+	<string>sequentialGrain</string>
+	<key>cacheindicator</key>
+	<string>declarativeMovement</string>
+	<key>directMetadata</key>
+	<string>expandedColor</string>
+	<key>ignoredStoryboard</key>
+	<string>dimensionRate</string>
+	<key>mergerEdge</key>
+	<string>animateAxis</string>
+	<key>plateMargin</key>
+	<string>disparateInstruction</string>
+	<key>shouldAttachLayout</key>
+	<string>stepDensity</string>
+	<key>shouldbindbuilder</key>
+	<string>ignoredUseCase</string>
+	<key>significantgridstatus</key>
+	<string>tensorCapacities</string>
+	<key>statefulVolume</key>
+	<string>cupertinoBatch</string>
+</dict>
+</plist>

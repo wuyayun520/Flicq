@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionShape</key>
+	<string>tensorScalability</string>
+	<key>elasticPadding</key>
+	<string>lazyThreshold</string>
+	<key>interfacearoundbridge</key>
+	<string>shouldNotifySlider</string>
+	<key>modelleft</key>
+	<string>clipperTension</string>
+	<key>oldclipper</key>
+	<string>persistnorm</string>
+	<key>reusableDisclaimer</key>
+	<string>presentTabBar</string>
+	<key>seamlessPolyfill</key>
+	<string>hardMusic</string>
+	<key>shouldCreateTextField</key>
+	<string>musicContext</string>
+	<key>themeTag</key>
+	<string>benchmarkDelegate</string>
+	<key>unregisterfactory</key>
+	<string>performCoordinator</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basePadding</key>
+	<string>projectionPadding</string>
+	<key>blocContrast</key>
+	<string>selectedlog</string>
+	<key>featurestagefrequency</key>
+	<string>canKeepSegment</string>
+	<key>interactivedocumentfeedback</key>
+	<string>canKeepCycle</string>
+	<key>materialSample</key>
+	<string>draggableDelegate</string>
+	<key>persistentSegue</key>
+	<string>displayablepresenter</string>
+	<key>scrollspacing</key>
+	<string>repositoryPosition</string>
+	<key>sliderInterval</key>
+	<string>timerDelay</string>
+	<key>unbindreduction</key>
+	<string>materialTheme</string>
+</dict>
+</plist>

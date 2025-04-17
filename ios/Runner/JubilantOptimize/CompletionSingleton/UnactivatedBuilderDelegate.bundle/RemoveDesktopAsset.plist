@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>robustAlignment</key>
+	<string>sophisticatedNorm</string>
+	<key>shouldPopBinary</key>
+	<string>configurationTask</string>
+	<key>shouldUnbindNorm</key>
+	<string>shouldUnbindAspectRatio</string>
+	<key>statelessAlert</key>
+	<string>writeAlignment</string>
+</dict>
+</plist>

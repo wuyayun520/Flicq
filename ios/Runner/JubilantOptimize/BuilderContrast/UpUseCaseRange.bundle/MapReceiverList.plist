@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureRight</key>
+	<string>escalatePosition</string>
+	<key>borderStatus</key>
+	<string>shouldSubscribeBoxShadow</string>
+	<key>capacitiesSize</key>
+	<string>alertoffset</string>
+	<key>decorationShade</key>
+	<string>independentManager</string>
+	<key>functionalSplitter</key>
+	<string>canSetStateObserver</string>
+	<key>margincoord</key>
+	<string>metadataDensity</string>
+	<key>permissiveMusic</key>
+	<string>notationDepth</string>
+	<key>shouldEndStateless</key>
+	<string>accordionAnimatedContainer</string>
+	<key>tensorFinder</key>
+	<string>replicaOpacity</string>
+</dict>
+</plist>

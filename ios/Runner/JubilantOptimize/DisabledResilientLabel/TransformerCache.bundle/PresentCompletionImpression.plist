@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorbound</key>
+	<string>locallabelcolor</string>
+	<key>featuretentative</key>
+	<string>shouldLayoutTouch</string>
+	<key>futureintegrity</key>
+	<string>initializeInteractor</string>
+	<key>globalVertex</key>
+	<string>shaderRight</string>
+	<key>intermediateInitiators</key>
+	<string>shouldfinishnavigation</string>
+	<key>radiodistance</key>
+	<string>accessibleAsync</string>
+	<key>responseOrigin</key>
+	<string>tableVariable</string>
+	<key>seektransition</key>
+	<string>moveState</string>
+	<key>significantWorkflow</key>
+	<string>asynchronousroute</string>
+	<key>skirtarchitecture</key>
+	<string>canUnbindMatrix</string>
+</dict>
+</plist>

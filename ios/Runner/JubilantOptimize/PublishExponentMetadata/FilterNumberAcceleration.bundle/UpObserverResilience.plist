@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredDocument</key>
+	<string>rapidComposition</string>
+	<key>fixedIcon</key>
+	<string>transitionSingleton</string>
+	<key>materialborder</key>
+	<string>activitycluster</string>
+	<key>shouldMountedCatalyst</key>
+	<string>sinkparamstate</string>
+	<key>shouldResumePadding</key>
+	<string>embedDescription</string>
+	<key>similarProfile</key>
+	<string>initiativeType</string>
+	<key>titleBottom</key>
+	<string>optimizeFeature</string>
+	<key>usecaseShade</key>
+	<string>canSaveGraphic</string>
+	<key>webElasticity</key>
+	<string>synchronousAccessory</string>
+</dict>
+</plist>

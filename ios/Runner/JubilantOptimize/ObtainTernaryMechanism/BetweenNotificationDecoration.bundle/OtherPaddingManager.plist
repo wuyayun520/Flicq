@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorytag</key>
+	<string>associatedFinder</string>
+	<key>activatedTable</key>
+	<string>hashflags</string>
+	<key>colorMode</key>
+	<string>pivotalDrawer</string>
+	<key>cupertinoresourceright</key>
+	<string>controllerInset</string>
+	<key>defaultRadio</key>
+	<string>materialscroller</string>
+	<key>immediateBitrate</key>
+	<string>canTransformKernel</string>
+	<key>shouldPersistPageView</key>
+	<string>apertureStructure</string>
+	<key>significantSize</key>
+	<string>shouldEncodeEntropy</string>
+	<key>transformfactory</key>
+	<string>respondTopic</string>
+</dict>
+</plist>

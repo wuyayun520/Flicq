@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDetail</key>
+	<string>interactiveCharacteristic</string>
+	<key>mobilehero</key>
+	<string>deployButton</string>
+	<key>permutationDirection</key>
+	<string>responseTask</string>
+	<key>profilecanvas</key>
+	<string>shouldTransformEffect</string>
+	<key>secondAscent</key>
+	<string>binaryalongcommand</string>
+	<key>sharedGraphic</key>
+	<string>timeBorder</string>
+</dict>
+</plist>

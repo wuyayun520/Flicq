@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularReference</key>
+	<string>formatFeedback</string>
+	<key>isSwitch</key>
+	<string>currentMargin</string>
+	<key>layoutScale</key>
+	<string>colorDistance</string>
+	<key>locatehero</key>
+	<string>respectiveGrid</string>
+	<key>materialposition</key>
+	<string>arithmeticimage</string>
+	<key>otherpainterorigin</key>
+	<string>shouldConnectProject</string>
+	<key>reusableSplitter</key>
+	<string>modulusKind</string>
+	<key>temporarygesture</key>
+	<string>synchronousView</string>
+</dict>
+</plist>

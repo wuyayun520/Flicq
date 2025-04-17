@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxVisibility</key>
+	<string>publishproject</string>
+	<key>currentLoop</key>
+	<string>descriptorsearcher</string>
+	<key>defaultMargin</key>
+	<string>binderBorder</string>
+	<key>densemethod</key>
+	<string>curveFrequency</string>
+	<key>granularHeap</key>
+	<string>canSubscribeCurve</string>
+	<key>graphiccubit</key>
+	<string>fixedTaxonomy</string>
+	<key>hasextension</key>
+	<string>instantiateCallback</string>
+	<key>similarUsage</key>
+	<string>multiUseCase</string>
+</dict>
+</plist>

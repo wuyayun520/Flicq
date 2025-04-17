@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionversustype</key>
+	<string>threadInterval</string>
+	<key>equalcosine</key>
+	<string>sampleEdge</string>
+	<key>otherskinopacity</key>
+	<string>debugInterface</string>
+	<key>persistentPermutation</key>
+	<string>visitRoute</string>
+	<key>protecteddependency</key>
+	<string>canDisposeDocument</string>
+	<key>selectorInset</key>
+	<string>beginnerMomentum</string>
+	<key>shouldInflateDialogs</key>
+	<string>popTransition</string>
+	<key>shouldSubscribeBatch</key>
+	<string>sortedScroll</string>
+	<key>uniformLocalization</key>
+	<string>animateHandler</string>
+</dict>
+</plist>

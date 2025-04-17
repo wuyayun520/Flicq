@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackcapacity</key>
+	<string>analyzeGroup</string>
+	<key>comprehensiveMechanism</key>
+	<string>enabledGroup</string>
+	<key>constraintscale</key>
+	<string>assetSize</string>
+	<key>declarativeslider</key>
+	<string>consultativeTolerance</string>
+	<key>reactiveChooser</key>
+	<string>currentEfficiency</string>
+	<key>substantialStrength</key>
+	<string>progressbarAlignment</string>
+</dict>
+</plist>

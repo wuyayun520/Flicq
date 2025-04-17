@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorreplica</key>
+	<string>pinchableCustomPaint</string>
+	<key>capsuledirection</key>
+	<string>shouldAttachHeap</string>
+	<key>createcolumn</key>
+	<string>batchBehavior</string>
+	<key>keymetadatastate</key>
+	<string>enabledtransitiontop</string>
+	<key>localLoader</key>
+	<string>elasticMetrics</string>
+	<key>shouldCreateCursor</key>
+	<string>columnbyparam</string>
+	<key>shouldInflateActivity</key>
+	<string>loopComposite</string>
+	<key>shouldunmountedtechnique</key>
+	<string>precisionstatus</string>
+	<key>unbindpresenter</key>
+	<string>invisibleRouter</string>
+	<key>webModal</key>
+	<string>localizationborder</string>
+</dict>
+</plist>

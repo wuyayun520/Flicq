@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchdistinction</key>
+	<string>canReplacePoint</string>
+	<key>denseRecursion</key>
+	<string>dialogsInteraction</string>
+	<key>displayfuture</key>
+	<string>responsiveFilter</string>
+	<key>distinctionSkewX</key>
+	<string>quitMethod</string>
+	<key>shouldResumeInstruction</key>
+	<string>unmountpresenter</string>
+	<key>timerBehavior</key>
+	<string>similarFactory</string>
+</dict>
+</plist>

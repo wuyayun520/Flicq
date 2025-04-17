@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryOpacity</key>
+	<string>priorUseCase</string>
+	<key>activeanimatedcontainer</key>
+	<string>mediaFlags</string>
+	<key>evaluationTop</key>
+	<string>confidentialitymargin</string>
+	<key>missedInfo</key>
+	<string>immediateConsumer</string>
+	<key>protocolchainvisible</key>
+	<string>ignoredPageView</string>
+	<key>shouldAnimateSample</key>
+	<string>creatorLeft</string>
+	<key>shouldRouteMedia</key>
+	<string>sequentialDispatcher</string>
+	<key>similarCombiner</key>
+	<string>robustFilter</string>
+	<key>singleAnimation</key>
+	<string>elasticcompleter</string>
+</dict>
+</plist>

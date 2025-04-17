@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleTheme</key>
+	<string>cupertinoStrategy</string>
+	<key>denseFragment</key>
+	<string>symbolLevel</string>
+	<key>processorLocation</key>
+	<string>concreteGraphic</string>
+	<key>shouldshowinstruction</key>
+	<string>refactorContainer</string>
+</dict>
+</plist>

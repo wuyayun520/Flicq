@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerOrientation</key>
+	<string>fixedAnchor</string>
+	<key>isolateDepth</key>
+	<string>encodeutil</string>
+	<key>lazyBox</key>
+	<string>canPrepareAxis</string>
+	<key>pinchableBuilder</key>
+	<string>documentDecorator</string>
+	<key>smallAmortization</key>
+	<string>activitylayercolor</string>
+</dict>
+</plist>

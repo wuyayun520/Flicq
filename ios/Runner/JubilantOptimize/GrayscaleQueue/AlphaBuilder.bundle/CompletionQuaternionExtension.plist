@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoVariant</key>
+	<string>textfieldSkewX</string>
+	<key>createanimatedcontainer</key>
+	<string>canStopBuilder</string>
+	<key>lazyOverlay</key>
+	<string>formatIcon</string>
+	<key>metadataPosition</key>
+	<string>assetspacing</string>
+	<key>opaqueEffect</key>
+	<string>deactivateTopic</string>
+	<key>smallQuaternion</key>
+	<string>sortedLoop</string>
+</dict>
+</plist>

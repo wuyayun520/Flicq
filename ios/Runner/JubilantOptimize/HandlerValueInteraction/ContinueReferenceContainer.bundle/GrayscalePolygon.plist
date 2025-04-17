@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completionInteraction</key>
+	<string>permanenttask</string>
+	<key>compositionalwidgetfeedback</key>
+	<string>discardedElement</string>
+	<key>firstblocopacity</key>
+	<string>semanticStorage</string>
+	<key>flexibleSelector</key>
+	<string>dedicatedConsumer</string>
+	<key>futureadapterborder</key>
+	<string>radiusDistance</string>
+	<key>shouldResumeAppBar</key>
+	<string>methodSingleton</string>
+	<key>tentativeAcceleration</key>
+	<string>explicitTween</string>
+	<key>webChart</key>
+	<string>defaultmonster</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioDelay</key>
+	<string>onprotocoltap</string>
+	<key>concreteconsumer</key>
+	<string>shouldParseColumn</string>
+	<key>eagerStore</key>
+	<string>reusableAlignment</string>
+	<key>easytimeline</key>
+	<string>functionalbloc</string>
+	<key>inactiveStore</key>
+	<string>primaryZone</string>
+	<key>mobileGraph</key>
+	<string>instantiateCubit</string>
+	<key>nativeInteraction</key>
+	<string>eventoffset</string>
+	<key>shouldupdateequalization</key>
+	<string>pivotalCustomPaint</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedObject</key>
+	<string>priorloss</string>
+	<key>appbaredge</key>
+	<string>hierarchicalLayout</string>
+	<key>currentInitiators</key>
+	<string>invisibleGraph</string>
+	<key>enabledSingleton</key>
+	<string>infrastructureTheme</string>
+	<key>infrastructureColor</key>
+	<string>formatBorder</string>
+	<key>marklayout</key>
+	<string>immutableContainer</string>
+	<key>otherTaxonomy</key>
+	<string>usagetrigger</string>
+	<key>skinMode</key>
+	<string>canParseConsumer</string>
+</dict>
+</plist>

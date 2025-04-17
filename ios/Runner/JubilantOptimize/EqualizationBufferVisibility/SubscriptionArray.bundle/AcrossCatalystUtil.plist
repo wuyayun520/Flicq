@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detachstateful</key>
+	<string>globalUsage</string>
+	<key>gridviewcontroller</key>
+	<string>opaqueUsage</string>
+	<key>independentInterpolation</key>
+	<string>significanttraversal</string>
+	<key>precisionOrientation</key>
+	<string>dependencyShade</string>
+	<key>shouldMountConstraint</key>
+	<string>asynchronousStack</string>
+	<key>shouldRenderSubpixel</key>
+	<string>permanentBoxShadow</string>
+	<key>splitterIndex</key>
+	<string>requiredAllocator</string>
+	<key>stepStatus</key>
+	<string>singleTabBar</string>
+	<key>streamlinecompleter</key>
+	<string>shouldMountedPlate</string>
+	<key>topicframeworkname</key>
+	<string>curveproxyleft</string>
+</dict>
+</plist>

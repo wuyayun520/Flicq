@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedsize</key>
+	<string>moveSize</string>
+	<key>resilientCard</key>
+	<string>initializeCoordinator</string>
+	<key>synchronousTopic</key>
+	<string>routepadding</string>
+</dict>
+</plist>

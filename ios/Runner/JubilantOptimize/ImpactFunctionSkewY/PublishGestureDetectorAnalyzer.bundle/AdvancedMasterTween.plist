@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredScene</key>
+	<string>permissiveSession</string>
+	<key>icongraph</key>
+	<string>shouldEncodeDrawer</string>
+	<key>multiplicationStatus</key>
+	<string>canEncodeProfile</string>
+	<key>popupContrast</key>
+	<string>greatStrength</string>
+	<key>priorReceiver</key>
+	<string>parallelRectangle</string>
+	<key>shouldLoadLog</key>
+	<string>canResumeCapsule</string>
+	<key>shouldSaveNavigation</key>
+	<string>cupertinoMetadata</string>
+	<key>timebehavior</key>
+	<string>canBuildModulus</string>
+	<key>unactivatedCertificate</key>
+	<string>transitionVisibility</string>
+</dict>
+</plist>

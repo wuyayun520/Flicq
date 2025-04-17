@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nativeQueue</key>
+	<string>shouldEndUnary</string>
+	<key>sampledespitetemple</key>
+	<string>storyboardFlags</string>
+	<key>shouldFormatCard</key>
+	<string>provideresource</string>
+	<key>shouldlayoutindicator</key>
+	<string>impressionShade</string>
+	<key>symbolproxyvalidation</key>
+	<string>canKeepCustomPaint</string>
+</dict>
+</plist>

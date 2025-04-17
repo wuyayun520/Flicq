@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentMaster</key>
+	<string>rebuildMember</string>
+	<key>logShade</key>
+	<string>intuitiveDuration</string>
+	<key>multiplicationInterval</key>
+	<string>modelFrequency</string>
+	<key>operationSpeed</key>
+	<string>beginnerDetector</string>
+	<key>requiredFlex</key>
+	<string>reflectCubit</string>
+	<key>shouldStartChannels</key>
+	<string>tweencount</string>
+	<key>uniformSink</key>
+	<string>shouldRestartConsumer</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAppearance</key>
+	<string>shouldCacheRoute</string>
+	<key>finderBehavior</key>
+	<string>tensorCollection</string>
+	<key>seamlessItem</key>
+	<string>robustFuture</string>
+	<key>selectedgate</key>
+	<string>currentThread</string>
+	<key>shouldPushFlex</key>
+	<string>logtension</string>
+</dict>
+</plist>

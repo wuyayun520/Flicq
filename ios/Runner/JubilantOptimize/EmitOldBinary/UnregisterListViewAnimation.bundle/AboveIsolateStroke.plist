@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directDetector</key>
+	<string>smartConstant</string>
+	<key>disabledRemainder</key>
+	<string>sharedstoredensity</string>
+	<key>graphicHead</key>
+	<string>semanticsIndex</string>
+	<key>handlerdata</key>
+	<string>baseType</string>
+	<key>informationBottom</key>
+	<string>variantScale</string>
+	<key>radiushead</key>
+	<string>mapShade</string>
+	<key>shouldFetchExpanded</key>
+	<string>mobileSearcher</string>
+	<key>transitionactivitytension</key>
+	<string>elasticRecursion</string>
+</dict>
+</plist>

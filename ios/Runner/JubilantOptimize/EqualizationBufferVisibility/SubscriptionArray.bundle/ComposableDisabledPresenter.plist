@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIntegration</key>
+	<string>shouldEmitDimension</string>
+	<key>directlyGate</key>
+	<string>binarystylefrequency</string>
+	<key>enableddependencyflags</key>
+	<string>textfieldaction</string>
+	<key>shouldReplacePadding</key>
+	<string>canMountedPageView</string>
+	<key>shouldUnbindImage</key>
+	<string>largeSpecifier</string>
+</dict>
+</plist>

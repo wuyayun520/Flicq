@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileIntegration</key>
+	<string>remediationSpeed</string>
+	<key>channelsFormat</key>
+	<string>singletonagainstvisitor</string>
+	<key>criticalDescriptor</key>
+	<string>canSetStateNotifier</string>
+	<key>independentAllocator</key>
+	<string>initializeHash</string>
+	<key>secondTrajectory</key>
+	<string>backwardmenu</string>
+	<key>shouldPopRichText</key>
+	<string>nativeConverter</string>
+	<key>spotResponse</key>
+	<string>binddependency</string>
+	<key>synchronousScroll</key>
+	<string>queuelocation</string>
+	<key>trajectoryOffset</key>
+	<string>finderStatus</string>
+</dict>
+</plist>

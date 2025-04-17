@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInjection</key>
+	<string>widgetstrategyforce</string>
+	<key>deferredSorter</key>
+	<string>delegateBehavior</string>
+	<key>generateallocator</key>
+	<string>prevModulus</string>
+	<key>masterreplica</key>
+	<string>eagerContraction</string>
+	<key>nodeTag</key>
+	<string>permissiveNavigation</string>
+	<key>rectangleFrequency</key>
+	<string>canAttachExpanded</string>
+	<key>requiredtitletop</key>
+	<string>dismissGraph</string>
+	<key>shouldReplaceRow</key>
+	<string>shouldStartSemantics</string>
+	<key>shouldupdateanimation</key>
+	<string>nextSample</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConsumer</key>
+	<string>hierarchicalFactory</string>
+	<key>declarativesound</key>
+	<string>storelevelspeed</string>
+	<key>disabledscheduler</key>
+	<string>movementdelivery</string>
+	<key>gradientColor</key>
+	<string>awaitProcess</string>
+	<key>lossInset</key>
+	<string>discardedduration</string>
+	<key>offsettimeline</key>
+	<string>criticalinteractorbound</string>
+	<key>pageviewoffset</key>
+	<string>ephemeralternary</string>
+	<key>respectivepreviewinset</key>
+	<string>shouldNotifyIcon</string>
+	<key>shouldTransitionLayout</key>
+	<string>storeLocalization</string>
+	<key>staticScheduler</key>
+	<string>observeTechnique</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>framePadding</key>
+	<string>buttonstatus</string>
+	<key>respectiveMovement</key>
+	<string>keepMobile</string>
+	<key>shouldInflateResource</key>
+	<string>removeOffset</string>
+	<key>uniformEvolution</key>
+	<string>singletonBuffer</string>
+	<key>uniformTool</key>
+	<string>animatedrectorigin</string>
+</dict>
+</plist>

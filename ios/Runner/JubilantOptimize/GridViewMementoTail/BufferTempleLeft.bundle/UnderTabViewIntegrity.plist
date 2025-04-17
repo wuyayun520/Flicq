@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellfeedback</key>
+	<string>handleAnimation</string>
+	<key>concurrentNavigation</key>
+	<string>scrollColor</string>
+	<key>difficultInfrastructure</key>
+	<string>intuitiveItem</string>
+	<key>finishimage</key>
+	<string>shouldShowAnimation</string>
+	<key>flexibleDropdownButton</key>
+	<string>shouldDetachModulus</string>
+	<key>nextSprite</key>
+	<string>resilientsessionorientation</string>
+	<key>protocolOrigin</key>
+	<string>canPersistTextField</string>
+	<key>remainderpatterntag</key>
+	<string>checklistShade</string>
+	<key>shouldTransformComposition</key>
+	<string>shouldPersistKernel</string>
+</dict>
+</plist>

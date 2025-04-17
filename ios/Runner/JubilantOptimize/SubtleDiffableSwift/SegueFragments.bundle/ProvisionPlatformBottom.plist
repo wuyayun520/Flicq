@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audioShade</key>
+	<string>reactiveInteger</string>
+	<key>effectContrast</key>
+	<string>shouldNotifyBox</string>
+	<key>grainedge</key>
+	<string>customIntegrity</string>
+	<key>mobileStatus</key>
+	<string>fragmentVisible</string>
+	<key>navigatorvideo</key>
+	<string>lossbound</string>
+	<key>normalColor</key>
+	<string>canListenBuilder</string>
+	<key>shouldFinishScaffold</key>
+	<string>transposeTicker</string>
+	<key>shouldpersistequalization</key>
+	<string>tickerstrategyinset</string>
+	<key>symmetricExtension</key>
+	<string>keepSpecifier</string>
+</dict>
+</plist>

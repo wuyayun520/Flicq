@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelinjection</key>
+	<string>canAttachOperation</string>
+	<key>consultativeHandler</key>
+	<string>canPushWorkflow</string>
+	<key>dismissexpanded</key>
+	<string>mainPainter</string>
+	<key>receiverTint</key>
+	<string>encodeTween</string>
+	<key>requiredImpression</key>
+	<string>canTransformSkin</string>
+</dict>
+</plist>

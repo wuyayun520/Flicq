@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableRadius</key>
+	<string>topicSkewY</string>
+	<key>extensionDirection</key>
+	<string>tensorSwift</string>
+	<key>mediumResult</key>
+	<string>sorterappearance</string>
+	<key>pageracceleration</key>
+	<string>sortedVolume</string>
+	<key>shouldFormatAccessory</key>
+	<string>draggableLoop</string>
+	<key>shouldRouteStream</key>
+	<string>parallelDescription</string>
+	<key>similarButton</key>
+	<string>concreteThreshold</string>
+</dict>
+</plist>

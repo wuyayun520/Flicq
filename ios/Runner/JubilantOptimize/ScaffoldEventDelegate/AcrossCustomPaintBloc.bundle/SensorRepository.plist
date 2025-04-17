@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeElement</key>
+	<string>lastBase</string>
+	<key>directCertificate</key>
+	<string>liteCupertino</string>
+	<key>infrastructurevisible</key>
+	<string>documentFlags</string>
+	<key>injectionstate</key>
+	<string>formatPriority</string>
+	<key>observervolume</key>
+	<string>canMountedAppBar</string>
+</dict>
+</plist>

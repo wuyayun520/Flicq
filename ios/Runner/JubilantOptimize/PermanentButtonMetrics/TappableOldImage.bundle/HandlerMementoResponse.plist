@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismissgrid</key>
+	<string>trajectoryEdge</string>
+	<key>dynamicGram</key>
+	<string>reactiveResilience</string>
+	<key>mediaqueryenvironmentcoord</key>
+	<string>integrationPadding</string>
+	<key>oldHero</key>
+	<string>shouldRestartSkirt</string>
+	<key>opaqueData</key>
+	<string>tensorView</string>
+	<key>operationPosition</key>
+	<string>canSubscribeMusic</string>
+	<key>shouldKeepCache</key>
+	<string>localListView</string>
+	<key>shouldmountbitrate</key>
+	<string>collectionShade</string>
+</dict>
+</plist>

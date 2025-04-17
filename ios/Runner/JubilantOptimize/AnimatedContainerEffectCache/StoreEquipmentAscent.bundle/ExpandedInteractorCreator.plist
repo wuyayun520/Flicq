@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autopageviewflags</key>
+	<string>renameRadius</string>
+	<key>boxshadowrotation</key>
+	<string>tensorPageView</string>
+	<key>creatorRate</key>
+	<string>receiverForce</string>
+	<key>escalatecontainer</key>
+	<string>rapidRoute</string>
+	<key>mergerdirection</key>
+	<string>smallArithmetic</string>
+	<key>shouldUnmountedFragment</key>
+	<string>compositionContext</string>
+	<key>substantialStateful</key>
+	<string>canPopSizedBox</string>
+</dict>
+</plist>

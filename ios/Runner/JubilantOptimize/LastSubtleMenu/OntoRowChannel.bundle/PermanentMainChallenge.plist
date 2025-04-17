@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationRotation</key>
+	<string>touchatvar</string>
+	<key>asynchronousanimationname</key>
+	<string>mobileStage</string>
+	<key>deferredCupertino</key>
+	<string>concatenateRouter</string>
+	<key>geometricController</key>
+	<string>createMethod</string>
+	<key>nativeTaxonomy</key>
+	<string>invokeNode</string>
+	<key>shouldEmitTransition</key>
+	<string>canUpdateProject</string>
+	<key>titletierappearance</key>
+	<string>concurrentGridView</string>
+</dict>
+</plist>

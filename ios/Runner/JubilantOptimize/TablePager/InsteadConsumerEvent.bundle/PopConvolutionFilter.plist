@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasmediatorshade</key>
+	<string>subtlePopup</string>
+	<key>errorValidation</key>
+	<string>informationCoord</string>
+	<key>iterativeSemantics</key>
+	<string>partitiongem</string>
+	<key>resizableScroll</key>
+	<string>persistAnimation</string>
+	<key>semanticMember</key>
+	<string>canSubscribeCustomPaint</string>
+	<key>shouldConnectCupertino</key>
+	<string>autoChecklist</string>
+	<key>shouldReplaceCollection</key>
+	<string>currenthistogram</string>
+	<key>smallTopic</key>
+	<string>swiftappearance</string>
+</dict>
+</plist>

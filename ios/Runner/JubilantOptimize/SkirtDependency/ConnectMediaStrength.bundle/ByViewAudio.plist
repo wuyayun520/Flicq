@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateInstruction</key>
+	<string>delicateLifecycle</string>
+	<key>injectionLocation</key>
+	<string>dialogscompleter</string>
+	<key>sortertheme</key>
+	<string>shouldNotifyOperation</string>
+	<key>trianglesLocation</key>
+	<string>uniformNavigation</string>
+	<key>typicalStore</key>
+	<string>normexception</string>
+</dict>
+</plist>

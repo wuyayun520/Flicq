@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudetimer</key>
+	<string>shouldPushProjection</string>
+	<key>disconnectlabel</key>
+	<string>persistentStorage</string>
+	<key>primaryUsage</key>
+	<string>shouldEmitGate</string>
+	<key>pushrichtext</key>
+	<string>createController</string>
+	<key>shouldDecodeCanvas</key>
+	<string>commonmaterial</string>
+	<key>statelessBloc</key>
+	<string>concurrentMaster</string>
+	<key>textfieldIndex</key>
+	<string>injectChart</string>
+</dict>
+</plist>

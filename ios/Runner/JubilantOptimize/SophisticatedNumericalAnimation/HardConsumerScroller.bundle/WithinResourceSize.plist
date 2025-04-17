@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachcontainer</key>
+	<string>trajectoryTail</string>
+	<key>inheritedMovement</key>
+	<string>canReplaceText</string>
+	<key>linkerPadding</key>
+	<string>shouldTransformBuilder</string>
+	<key>nativeloop</key>
+	<string>behaviorState</string>
+	<key>precisionAppearance</key>
+	<string>interpolationcallback</string>
+	<key>shouldPushBox</key>
+	<string>choosercount</string>
+	<key>sortedInterface</key>
+	<string>listenerDuration</string>
+	<key>temporaryDimension</key>
+	<string>decorationVelocity</string>
+</dict>
+</plist>

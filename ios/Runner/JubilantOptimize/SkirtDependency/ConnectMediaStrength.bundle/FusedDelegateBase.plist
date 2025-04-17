@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorStatus</key>
+	<string>synchronizeScene</string>
+	<key>crucialAnimation</key>
+	<string>dynamicLog</string>
+	<key>shouldAttachPet</key>
+	<string>fusedProject</string>
+	<key>synchronousService</key>
+	<string>canDismissTextField</string>
+</dict>
+</plist>

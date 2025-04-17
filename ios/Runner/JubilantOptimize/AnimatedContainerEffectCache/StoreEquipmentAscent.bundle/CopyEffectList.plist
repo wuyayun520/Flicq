@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticComposition</key>
+	<string>spotName</string>
+	<key>backwardmovementposition</key>
+	<string>advancedSymbol</string>
+	<key>deferredMonster</key>
+	<string>persistentDecoration</string>
+	<key>dropoutlayer</key>
+	<string>pinchableDecoration</string>
+	<key>notifyobserver</key>
+	<string>delicatesubscriber</string>
+	<key>publicIntegrity</key>
+	<string>liteRect</string>
+	<key>scrollablesingleton</key>
+	<string>evaluationTransparency</string>
+</dict>
+</plist>

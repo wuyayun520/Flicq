@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTransition</key>
+	<string>globalDocument</string>
+	<key>buildercycleleft</key>
+	<string>canPrepareDescriptor</string>
+	<key>commonRadio</key>
+	<string>coordinatorBorder</string>
+	<key>difficultEntropy</key>
+	<string>configurationValidation</string>
+	<key>oldOption</key>
+	<string>customVertex</string>
+</dict>
+</plist>

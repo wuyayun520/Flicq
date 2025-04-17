@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoBrush</key>
+	<string>unactivatedCanvas</string>
+	<key>memberRate</key>
+	<string>missedBoxShadow</string>
+	<key>pinchableCursor</key>
+	<string>subpixelShade</string>
+	<key>shouldResumeSpine</key>
+	<string>numericalSizedBox</string>
+	<key>timelineTag</key>
+	<string>shouldObserveLogarithm</string>
+	<key>toleranceRight</key>
+	<string>euclideanSign</string>
+	<key>unactivatedAllocator</key>
+	<string>sensorleft</string>
+</dict>
+</plist>

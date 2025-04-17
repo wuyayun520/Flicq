@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawernearsystem</key>
+	<string>animatedAnimator</string>
+	<key>managerDelay</key>
+	<string>immediateMediaQuery</string>
+	<key>moduluspopup</key>
+	<string>shouldEncodeConstraint</string>
+	<key>persistentAnimatedContainer</key>
+	<string>sensorprocessbrightness</string>
+	<key>requiredNorm</key>
+	<string>projectionIndex</string>
+	<key>retainedRect</key>
+	<string>labelhue</string>
+	<key>stampPosition</key>
+	<string>maxPet</string>
+	<key>subpixelscoperate</key>
+	<string>maintainanimation</string>
+</dict>
+</plist>

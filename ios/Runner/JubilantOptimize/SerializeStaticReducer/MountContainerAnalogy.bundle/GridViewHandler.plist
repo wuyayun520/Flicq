@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>largeCard</key>
+	<string>repositoryCycle</string>
+	<key>managerspeed</key>
+	<string>shouldSetStateUnary</string>
+	<key>schedulerBehavior</key>
+	<string>trajectoryTop</string>
+	<key>seamlesslabelskewx</key>
+	<string>canLoadBrush</string>
+	<key>shouldRenderSegment</key>
+	<string>uniformprovidervelocity</string>
+	<key>smallStateless</key>
+	<string>initiativeFlags</string>
+	<key>streamcharacteristic</key>
+	<string>requiredSample</string>
+	<key>subtleBullet</key>
+	<string>subtleSchema</string>
+</dict>
+</plist>

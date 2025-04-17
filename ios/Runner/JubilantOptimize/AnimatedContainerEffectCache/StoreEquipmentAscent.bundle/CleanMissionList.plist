@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticInitiators</key>
+	<string>cacheinwork</string>
+	<key>commondurationcenter</key>
+	<string>compositionalAllocator</string>
+	<key>declarativeReliability</key>
+	<string>lockProvider</string>
+	<key>missedRole</key>
+	<string>customnavigator</string>
+	<key>multiElement</key>
+	<string>integrityShade</string>
+	<key>radiusmaterial</key>
+	<string>canTransitionBrush</string>
+	<key>smartlocalizationvisible</key>
+	<string>checklistfilter</string>
+	<key>specifychannelstype</key>
+	<string>usagemode</string>
+	<key>substantialRoute</key>
+	<string>canFetchProtocol</string>
+</dict>
+</plist>

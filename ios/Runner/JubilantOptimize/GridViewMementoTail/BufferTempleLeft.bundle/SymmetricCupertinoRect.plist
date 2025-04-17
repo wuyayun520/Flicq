@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveObserver</key>
+	<string>smallLayer</string>
+	<key>itemBorder</key>
+	<string>playbackShade</string>
+	<key>seguereceiver</key>
+	<string>topicright</string>
+	<key>shouldNotifySign</key>
+	<string>encodeScene</string>
+	<key>shouldProcessConvolution</key>
+	<string>temporaryNode</string>
+	<key>taskcombiner</key>
+	<string>shouldValidateUnary</string>
+	<key>yieldbloc</key>
+	<string>chooserMargin</string>
+</dict>
+</plist>

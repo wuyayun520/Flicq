@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalGrayscale</key>
+	<string>queueKind</string>
+	<key>crudeProcessor</key>
+	<string>canAnimateTangent</string>
+	<key>defaultImage</key>
+	<string>shouldPrepareAccessory</string>
+	<key>replaceradius</key>
+	<string>immutableTitle</string>
+	<key>respectiveStack</key>
+	<string>adaptiveAnimator</string>
+	<key>shouldPrepareSegue</key>
+	<string>usageState</string>
+	<key>staticGem</key>
+	<string>denseProfile</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorborder</key>
+	<string>nodeTheme</string>
+	<key>fusedSegue</key>
+	<string>shouldfetchinstruction</string>
+	<key>interfaceFormat</key>
+	<string>draggabletangent</string>
+	<key>limittransition</key>
+	<string>canAttachBullet</string>
+	<key>permissiveEqualization</key>
+	<string>hardAxis</string>
+	<key>publicPriority</key>
+	<string>priornavigationtransparency</string>
+	<key>shouldpersistinterpolation</key>
+	<string>utilSystem</string>
+</dict>
+</plist>

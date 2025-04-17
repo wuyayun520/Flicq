@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSkin</key>
+	<string>shouldProcessStateless</string>
+	<key>animationintegrity</key>
+	<string>persistentConfiguration</string>
+	<key>cupertinoSpacing</key>
+	<string>compositionalScroller</string>
+	<key>imperativeanimatedcontainer</key>
+	<string>normalContrast</string>
+	<key>previewconstant</key>
+	<string>defaultArithmetic</string>
+	<key>profileInset</key>
+	<string>accordionjoiner</string>
+	<key>shouldPushProjection</key>
+	<string>inactiveworkflowvelocity</string>
+	<key>shouldstartsymbol</key>
+	<string>euclideanContrast</string>
+	<key>statelessSpeed</key>
+	<string>callbackthanactivity</string>
+</dict>
+</plist>

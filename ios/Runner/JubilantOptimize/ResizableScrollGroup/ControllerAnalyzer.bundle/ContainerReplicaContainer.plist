@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthDistance</key>
+	<string>channelShape</string>
+	<key>concatenatenib</key>
+	<string>defaultdialogs</string>
+	<key>concurrentAsync</key>
+	<string>synchronousTabBar</string>
+	<key>mixinradius</key>
+	<string>euclideanScaffold</string>
+	<key>radiusforbuffer</key>
+	<string>canUnmountedOverlay</string>
+	<key>shouldpausecomposition</key>
+	<string>commonSignature</string>
+	<key>tensorProfile</key>
+	<string>euclideanListView</string>
+</dict>
+</plist>

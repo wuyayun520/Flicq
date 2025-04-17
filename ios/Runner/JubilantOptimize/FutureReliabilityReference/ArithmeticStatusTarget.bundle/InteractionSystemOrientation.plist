@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charactermediatorcenter</key>
+	<string>stopDuration</string>
+	<key>easyBuffer</key>
+	<string>opaqueGraphic</string>
+	<key>immutableRemediation</key>
+	<string>commongridview</string>
+	<key>mediatransparency</key>
+	<string>overlayProxy</string>
+	<key>resizableJoiner</key>
+	<string>similarProgressBar</string>
+	<key>schedulerColor</key>
+	<string>shouldValidatePositioned</string>
+</dict>
+</plist>

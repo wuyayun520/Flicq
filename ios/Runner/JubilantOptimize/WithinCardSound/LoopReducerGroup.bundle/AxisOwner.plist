@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPressure</key>
+	<string>canPausePromise</string>
+	<key>materialRole</key>
+	<string>activitycommandappearance</string>
+	<key>promiseCoord</key>
+	<string>permanentCertificate</string>
+	<key>resizablePet</key>
+	<string>shouldAnimateExponent</string>
+	<key>semanticsleveldirection</key>
+	<string>containerOrigin</string>
+	<key>smartgrain</key>
+	<string>mobileTabBar</string>
+	<key>tickerFeedback</key>
+	<string>encodeIsolate</string>
+</dict>
+</plist>

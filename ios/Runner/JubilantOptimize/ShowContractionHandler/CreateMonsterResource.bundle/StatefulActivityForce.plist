@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaVisible</key>
+	<string>standaloneUseCase</string>
+	<key>constraintcontrast</key>
+	<string>crucialWrapper</string>
+	<key>flexibleStorage</key>
+	<string>keepGram</string>
+	<key>mainVertex</key>
+	<string>mobileDisclaimer</string>
+	<key>observeroffset</key>
+	<string>usecaseFacade</string>
+	<key>paddingKind</key>
+	<string>materialChannel</string>
+</dict>
+</plist>

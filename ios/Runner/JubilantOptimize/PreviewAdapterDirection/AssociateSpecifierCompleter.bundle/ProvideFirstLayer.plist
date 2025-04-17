@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonStore</key>
+	<string>disabledStorage</string>
+	<key>disabledeventcoord</key>
+	<string>activatedCube</string>
+	<key>hardmetadatacoord</key>
+	<string>shouldContinueAccessory</string>
+	<key>initializerow</key>
+	<string>benchmarkGraph</string>
+	<key>playbacktint</key>
+	<string>compositionalTabBar</string>
+	<key>routerflags</key>
+	<string>directBloc</string>
+	<key>shouldBuildNib</key>
+	<string>cellInset</string>
+	<key>shouldRenderDelegate</key>
+	<string>standaloneScroll</string>
+	<key>shouldStreamTheme</key>
+	<string>effectBrightness</string>
+</dict>
+</plist>

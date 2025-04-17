@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>instantiateradio</key>
+	<string>delicateQueue</string>
+	<key>nextInstruction</key>
+	<string>resetSingleton</string>
+	<key>shouldListenComposition</key>
+	<string>containerTint</string>
+	<key>topicCoord</key>
+	<string>subtleScope</string>
+	<key>usedDropdownButton</key>
+	<string>marginresilience</string>
+</dict>
+</plist>

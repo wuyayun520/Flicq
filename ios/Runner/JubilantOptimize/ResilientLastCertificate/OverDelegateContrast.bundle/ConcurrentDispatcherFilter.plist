@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curvethroughstyle</key>
+	<string>fetchOption</string>
+	<key>desktopChart</key>
+	<string>canRebuildBase</string>
+	<key>discardedModule</key>
+	<string>offsetMethod</string>
+	<key>shouldNotifyHistogram</key>
+	<string>missedcontroller</string>
+	<key>sorteracceleration</key>
+	<string>independentModal</string>
+	<key>standaloneInteraction</key>
+	<string>shouldPublishSpine</string>
+	<key>wrapperDelay</key>
+	<string>markTimer</string>
+</dict>
+</plist>

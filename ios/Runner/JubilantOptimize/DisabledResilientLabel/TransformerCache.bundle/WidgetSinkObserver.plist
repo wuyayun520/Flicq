@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveSearcher</key>
+	<string>limitText</string>
+	<key>agileReduction</key>
+	<string>promiseformat</string>
+	<key>contractionimage</key>
+	<string>primaryInkWell</string>
+	<key>denseSignature</key>
+	<string>processClipper</string>
+	<key>graphicAlignment</key>
+	<string>spinedirection</string>
+	<key>indicatorScale</key>
+	<string>movementSaturation</string>
+	<key>prismaticQueue</key>
+	<string>deflateAsync</string>
+	<key>publicCheckbox</key>
+	<string>permanentMaterializer</string>
+	<key>reusableStatus</key>
+	<string>draggableModule</string>
+	<key>shouldFinishIcon</key>
+	<string>shouldDisposeEffect</string>
+</dict>
+</plist>

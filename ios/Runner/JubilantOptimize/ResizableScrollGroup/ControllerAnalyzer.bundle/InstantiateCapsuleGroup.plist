@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constraintawayfacade</key>
+	<string>backwardResource</string>
+	<key>futureInset</key>
+	<string>paddingforoperation</string>
+	<key>hasPrecision</key>
+	<string>toleranceAcceleration</string>
+	<key>pinchableAppBar</key>
+	<string>soundAlignment</string>
+	<key>previeworigin</key>
+	<string>respectiveNotation</string>
+	<key>resizablebuffer</key>
+	<string>finishSensor</string>
+	<key>splitterDensity</key>
+	<string>animationParam</string>
+</dict>
+</plist>

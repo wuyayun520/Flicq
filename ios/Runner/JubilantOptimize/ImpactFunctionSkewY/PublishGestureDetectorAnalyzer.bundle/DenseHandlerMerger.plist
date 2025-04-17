@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableChooser</key>
+	<string>positionedSize</string>
+	<key>interactiveIcon</key>
+	<string>completedUnary</string>
+	<key>priorFlex</key>
+	<string>observeProgressBar</string>
+	<key>recursionType</key>
+	<string>accessibleCombiner</string>
+	<key>utilinmode</key>
+	<string>canTransformAccessory</string>
+</dict>
+</plist>

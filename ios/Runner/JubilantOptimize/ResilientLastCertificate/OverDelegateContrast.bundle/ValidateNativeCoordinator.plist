@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedInkWell</key>
+	<string>screenCycle</string>
+	<key>flexiblecellborder</key>
+	<string>pivotaldelivery</string>
+	<key>retainedSignature</key>
+	<string>prevgraph</string>
+	<key>shouldLoadExpanded</key>
+	<string>consumerShade</string>
+	<key>shouldPauseMomentum</key>
+	<string>toolappearance</string>
+	<key>shouldSerializeSample</key>
+	<string>ternaryCommand</string>
+	<key>staticplayback</key>
+	<string>responderResponse</string>
+	<key>statusDepth</key>
+	<string>flexibleWrapper</string>
+	<key>streamviatype</key>
+	<string>stateContrast</string>
+	<key>sustainableEvaluation</key>
+	<string>shouldPopSwift</string>
+</dict>
+</plist>

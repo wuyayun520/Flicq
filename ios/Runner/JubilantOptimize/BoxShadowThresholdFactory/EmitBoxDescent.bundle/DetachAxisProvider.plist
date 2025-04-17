@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorstyle</key>
+	<string>trianglesBottom</string>
+	<key>elasticityRate</key>
+	<string>disabledStroke</string>
+	<key>hierarchicalMerger</key>
+	<string>canFormatSign</string>
+	<key>shouldDismissText</key>
+	<string>positionOrientation</string>
+	<key>shouldDisposeSkin</key>
+	<string>deferredConstant</string>
+	<key>shouldlayoutcell</key>
+	<string>contrastinteraction</string>
+	<key>textconsumer</key>
+	<string>canStopInitiators</string>
+</dict>
+</plist>

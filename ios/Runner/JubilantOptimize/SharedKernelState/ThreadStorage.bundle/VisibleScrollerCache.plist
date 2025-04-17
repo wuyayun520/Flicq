@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutSaturation</key>
+	<string>shouldStopDecoration</string>
+	<key>onaspectratiotap</key>
+	<string>fixedHash</string>
+	<key>shouldContinueDuration</key>
+	<string>canPrepareMatrix</string>
+	<key>shouldTrainChannels</key>
+	<string>shouldParsePlate</string>
+	<key>symmetricAspect</key>
+	<string>materialConsumer</string>
+</dict>
+</plist>

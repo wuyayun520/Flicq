@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterspacing</key>
+	<string>transformLayout</string>
+	<key>differentiateborder</key>
+	<string>publisherspacing</string>
+	<key>functionalAction</key>
+	<string>granularInfo</string>
+	<key>mobileAudio</key>
+	<string>revisitResource</string>
+	<key>shouldPresentTechnique</key>
+	<string>dynamicHeap</string>
+	<key>temporaryNavigator</key>
+	<string>transitiontransformer</string>
+</dict>
+</plist>

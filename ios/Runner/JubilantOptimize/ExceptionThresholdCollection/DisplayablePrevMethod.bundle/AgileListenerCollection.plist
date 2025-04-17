@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxtension</key>
+	<string>shouldFormatShader</string>
+	<key>disabledConfiguration</key>
+	<string>dynamicCompletion</string>
+	<key>explicitScope</key>
+	<string>materialmethod</string>
+	<key>musichash</key>
+	<string>statelessButton</string>
+	<key>pageviewFeedback</key>
+	<string>scrollContext</string>
+	<key>shouldDismissController</key>
+	<string>cubitSystem</string>
+	<key>shouldDispatchCapsule</key>
+	<string>awaitChain</string>
+	<key>smartcontainer</key>
+	<string>instructionPhase</string>
+</dict>
+</plist>

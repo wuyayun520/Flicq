@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregatescreen</key>
+	<string>customMovement</string>
+	<key>allocatorleft</key>
+	<string>symmetricAlpha</string>
+	<key>arithmeticCluster</key>
+	<string>persistentconstant</string>
+	<key>draggableCapsule</key>
+	<string>shouldUnmountPageView</string>
+	<key>gridDepth</key>
+	<string>scopeSkewX</string>
+	<key>groupparamdelay</key>
+	<string>sequentialNib</string>
+	<key>infrastructureAlignment</key>
+	<string>cartesiandelegate</string>
+	<key>layoutconstant</key>
+	<string>constraintProxy</string>
+	<key>responseState</key>
+	<string>shouldPresentGridView</string>
+</dict>
+</plist>

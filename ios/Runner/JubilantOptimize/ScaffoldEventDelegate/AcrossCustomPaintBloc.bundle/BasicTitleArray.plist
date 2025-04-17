@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionindex</key>
+	<string>multiplyChapter</string>
+	<key>currentShader</key>
+	<string>materialwithoutenvironment</string>
+	<key>flexibleDrawer</key>
+	<string>schedulerOffset</string>
+	<key>hasheap</key>
+	<string>provisionLocation</string>
+	<key>pageviewacceleration</key>
+	<string>entropyInterval</string>
+	<key>particleKind</key>
+	<string>pointgraph</string>
+	<key>permissiveStore</key>
+	<string>canRestartMusic</string>
+	<key>protectedSkirt</key>
+	<string>crucialSpecifier</string>
+	<key>tentativeFeedback</key>
+	<string>canRenderAlpha</string>
+	<key>vectorenvironmentkind</key>
+	<string>uniqueQueue</string>
+</dict>
+</plist>

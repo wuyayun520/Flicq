@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatecompleter</key>
+	<string>restartOverlay</string>
+	<key>checklistutil</key>
+	<string>symbolEdge</string>
+	<key>interactivePlate</key>
+	<string>showTexture</string>
+	<key>shouldPaintBoxShadow</key>
+	<string>canCacheSkirt</string>
+	<key>shouldTransformFlex</key>
+	<string>canSerializeOverlay</string>
+	<key>synchronousbitratelocation</key>
+	<string>activatedEmitter</string>
+</dict>
+</plist>

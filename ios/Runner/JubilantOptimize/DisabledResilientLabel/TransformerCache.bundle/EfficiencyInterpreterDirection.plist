@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleObserver</key>
+	<string>oldCertificate</string>
+	<key>denseMovement</key>
+	<string>mediumBase</string>
+	<key>evolutionstatus</key>
+	<string>basicScroller</string>
+	<key>gateRight</key>
+	<string>visualizeDelegate</string>
+	<key>shouldDetachRichText</key>
+	<string>disparateStoryboard</string>
+	<key>shouldDismissPageView</key>
+	<string>enumerateStore</string>
+	<key>shouldFetchBinary</key>
+	<string>statelessSwitch</string>
+</dict>
+</plist>

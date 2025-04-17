@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardskewx</key>
+	<string>freelabel</string>
+	<key>granularGrain</key>
+	<string>enhanceResolver</string>
+	<key>ignoredmultiplicationpadding</key>
+	<string>responsiveComposition</string>
+	<key>limitflex</key>
+	<string>radiusshapeformat</string>
+	<key>primaryLayer</key>
+	<string>shouldStreamSpecifier</string>
+	<key>rebuildalert</key>
+	<string>drawSize</string>
+	<key>remainderuntiltier</key>
+	<string>shouldDeserializeCanvas</string>
+</dict>
+</plist>

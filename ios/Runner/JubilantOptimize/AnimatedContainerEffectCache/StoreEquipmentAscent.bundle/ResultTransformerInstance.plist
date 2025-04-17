@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeMaterializer</key>
+	<string>tentativeDelay</string>
+	<key>concreteInteraction</key>
+	<string>canCreateStateful</string>
+	<key>disabledReplica</key>
+	<string>polyfillForce</string>
+	<key>evolutionOrigin</key>
+	<string>inactiveConstant</string>
+	<key>localwrapper</key>
+	<string>canContinueScale</string>
+	<key>semanticRequest</key>
+	<string>inactiveBox</string>
+	<key>shouldSaveDrawer</key>
+	<string>lastOptimizer</string>
+	<key>standaloneMend</key>
+	<string>animatedCustomPaint</string>
+	<key>textfieldincycle</key>
+	<string>attachExpanded</string>
+</dict>
+</plist>

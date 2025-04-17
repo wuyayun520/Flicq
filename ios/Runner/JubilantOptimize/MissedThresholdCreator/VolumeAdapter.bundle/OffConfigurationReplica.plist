@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertCenter</key>
+	<string>prismaticIndicator</string>
+	<key>awaitvarresponse</key>
+	<string>conformController</string>
+	<key>boxstate</key>
+	<string>swiftformat</string>
+	<key>entropyIndex</key>
+	<string>evolutionpadding</string>
+	<key>screenOrigin</key>
+	<string>pushsingleton</string>
+	<key>spineBorder</key>
+	<string>mountedOverlay</string>
+</dict>
+</plist>

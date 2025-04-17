@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCache</key>
+	<string>clearConfiguration</string>
+	<key>granularScroller</key>
+	<string>makeCoordinator</string>
+	<key>mobileCharacter</key>
+	<string>overlayFormat</string>
+	<key>otherHistogram</key>
+	<string>slashtriangles</string>
+	<key>prismaticDuration</key>
+	<string>resizableMesh</string>
+	<key>secondElement</key>
+	<string>mediaqueryPlatform</string>
+	<key>selectedDecoration</key>
+	<string>tabviewIndex</string>
+	<key>shouldDispatchIcon</key>
+	<string>mobileContainer</string>
+	<key>transitionvisible</key>
+	<string>remainderscroller</string>
+</dict>
+</plist>

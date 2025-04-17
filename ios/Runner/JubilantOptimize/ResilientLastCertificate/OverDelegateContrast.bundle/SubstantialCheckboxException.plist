@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleresultforce</key>
+	<string>nibFunction</string>
+	<key>animatedcontainerOrientation</key>
+	<string>beginnerConfiguration</string>
+	<key>beginnerRoute</key>
+	<string>unbindtheme</string>
+	<key>cardAppearance</key>
+	<string>captureRouter</string>
+	<key>originalRecursion</key>
+	<string>functionalstroke</string>
+	<key>prismaticGraph</key>
+	<string>crudeTool</string>
+	<key>shouldPushGate</key>
+	<string>shouldBuildLabel</string>
+	<key>transformersinceactivity</key>
+	<string>pauseMember</string>
+</dict>
+</plist>

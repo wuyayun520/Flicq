@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clearcubit</key>
+	<string>canSaveEqualization</string>
+	<key>containerInterval</key>
+	<string>cupertinoelasticity</string>
+	<key>converttechnique</key>
+	<string>smallInterpolation</string>
+	<key>deferredfragments</key>
+	<string>injectWidget</string>
+	<key>detachtouch</key>
+	<string>geometricScale</string>
+	<key>easyAmortization</key>
+	<string>detachStorage</string>
+	<key>permissiveThreshold</key>
+	<string>immediateCharacter</string>
+	<key>requiredSample</key>
+	<string>timeSkewX</string>
+</dict>
+</plist>

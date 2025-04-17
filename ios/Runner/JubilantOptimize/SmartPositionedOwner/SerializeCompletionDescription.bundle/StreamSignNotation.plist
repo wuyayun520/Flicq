@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterScale</key>
+	<string>accordionMovement</string>
+	<key>decorationPosition</key>
+	<string>accordionDelivery</string>
+	<key>dialogsutil</key>
+	<string>significantTabBar</string>
+	<key>expandedinset</key>
+	<string>descriptorComposite</string>
+	<key>momentumVisibility</key>
+	<string>independentaxisrotation</string>
+	<key>secondlayer</key>
+	<string>dependencySpacing</string>
+	<key>shouldStopAnchor</key>
+	<string>canPushCosine</string>
+	<key>shouldformatspot</key>
+	<string>shouldRouteStep</string>
+	<key>sinkflags</key>
+	<string>popupresponse</string>
+</dict>
+</plist>

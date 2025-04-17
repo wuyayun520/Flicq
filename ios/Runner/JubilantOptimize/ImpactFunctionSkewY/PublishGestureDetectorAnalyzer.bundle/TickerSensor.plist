@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immediateTangent</key>
+	<string>validateTabView</string>
+	<key>searcherFeedback</key>
+	<string>shouldBindCell</string>
+	<key>shouldBindProtocol</key>
+	<string>hierarchicalGift</string>
+	<key>shouldPublishRow</key>
+	<string>protectedDetector</string>
+	<key>shouldResumeNib</key>
+	<string>controllerSkewY</string>
+	<key>thresholdoffset</key>
+	<string>euclideanRange</string>
+</dict>
+</plist>

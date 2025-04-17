@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxtimer</key>
+	<string>localizationPhase</string>
+	<key>concurrentfilter</key>
+	<string>canSaveGrayscale</string>
+	<key>cosineValidation</key>
+	<string>keepMobile</string>
+	<key>interfaceOffset</key>
+	<string>opaqueBaseline</string>
+	<key>subscriptionsingletonedge</key>
+	<string>cartesianbutton</string>
+</dict>
+</plist>

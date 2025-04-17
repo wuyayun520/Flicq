@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedStrength</key>
+	<string>screenVar</string>
+	<key>hierarchicalHeap</key>
+	<string>gatekind</string>
+	<key>pinchablegrain</key>
+	<string>protocolMediator</string>
+	<key>resizableplayback</key>
+	<string>popBox</string>
+	<key>screenKind</key>
+	<string>shouldKeepTextField</string>
+	<key>shouldCacheCupertino</key>
+	<string>assetShade</string>
+	<key>shouldPresentRemainder</key>
+	<string>pushMenu</string>
+	<key>sorterstate</key>
+	<string>presenterParameter</string>
+</dict>
+</plist>

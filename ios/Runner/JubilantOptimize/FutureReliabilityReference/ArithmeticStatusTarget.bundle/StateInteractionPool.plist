@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionShade</key>
+	<string>sequentialFactory</string>
+	<key>directlySpine</key>
+	<string>spinBloc</string>
+	<key>framejobbehavior</key>
+	<string>shouldresumekernel</string>
+	<key>groupdirection</key>
+	<string>uniformcallback</string>
+	<key>immediateSine</key>
+	<string>alignmentVisible</string>
+	<key>materialScreen</key>
+	<string>newestMenu</string>
+	<key>pagerkind</key>
+	<string>compositionqueue</string>
+	<key>significantTool</key>
+	<string>canStreamStateless</string>
+	<key>substantialInjection</key>
+	<string>transformerhandler</string>
+</dict>
+</plist>

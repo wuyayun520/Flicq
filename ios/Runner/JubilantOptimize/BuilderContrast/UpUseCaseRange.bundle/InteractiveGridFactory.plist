@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticdependency</key>
+	<string>protectedRange</string>
+	<key>customModel</key>
+	<string>updateReduction</string>
+	<key>isolateduration</key>
+	<string>cartesianAwait</string>
+	<key>limitnotifier</key>
+	<string>geometricMechanism</string>
+	<key>resilientpicker</key>
+	<string>immutableDuration</string>
+	<key>selectedColumn</key>
+	<string>composablereferencebrightness</string>
+	<key>subtlesize</key>
+	<string>imperativeNotation</string>
+	<key>timerRight</key>
+	<string>canFetchInkWell</string>
+	<key>toolTag</key>
+	<string>significantMargin</string>
+</dict>
+</plist>

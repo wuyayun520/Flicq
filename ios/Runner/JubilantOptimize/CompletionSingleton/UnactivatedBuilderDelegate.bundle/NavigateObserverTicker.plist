@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentConfidentiality</key>
+	<string>registerNode</string>
+	<key>fixedPreview</key>
+	<string>newestlayersize</string>
+	<key>gemsize</key>
+	<string>localizationTransparency</string>
+	<key>mediocreLog</key>
+	<string>loadColumn</string>
+	<key>projectMargin</key>
+	<string>spinCurve</string>
+	<key>shouldMountSpot</key>
+	<string>disconnectBox</string>
+	<key>showicon</key>
+	<string>columnbottom</string>
+</dict>
+</plist>

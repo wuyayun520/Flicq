@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorforce</key>
+	<string>tweenopacity</string>
+	<key>declarativeNotification</key>
+	<string>swiftLayer</string>
+	<key>dismissentity</key>
+	<string>unregisterNavigator</string>
+	<key>giftBehavior</key>
+	<string>subsequentTable</string>
+	<key>secondRect</key>
+	<string>canUnmountTheme</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateMember</key>
+	<string>parallelGridView</string>
+	<key>invisibleConnector</key>
+	<string>optionBridge</string>
+	<key>mediaqueryDensity</key>
+	<string>assetcolor</string>
+	<key>validateradio</key>
+	<string>permanentCombiner</string>
+</dict>
+</plist>

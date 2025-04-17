@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inactiveException</key>
+	<string>singleasset</string>
+	<key>overlayColor</key>
+	<string>flexibleAnalyzer</string>
+	<key>protectedTopic</key>
+	<string>disabledalert</string>
+	<key>similarHash</key>
+	<string>setstateCard</string>
+</dict>
+</plist>

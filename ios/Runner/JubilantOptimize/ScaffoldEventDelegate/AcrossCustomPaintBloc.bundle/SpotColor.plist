@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterdelay</key>
+	<string>mutableModule</string>
+	<key>curvearoundflyweight</key>
+	<string>musicsingleton</string>
+	<key>entityfinder</key>
+	<string>firstHero</string>
+	<key>inactiveAscent</key>
+	<string>touchprecision</string>
+	<key>savemethod</key>
+	<string>shouldDisconnectTabView</string>
+	<key>smallCell</key>
+	<string>configureisolate</string>
+</dict>
+</plist>

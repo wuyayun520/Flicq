@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonoccasion</key>
+	<string>navigateComposition</string>
+	<key>discardedTrajectory</key>
+	<string>integerFramework</string>
+	<key>futureorbridge</key>
+	<string>connectAppBar</string>
+	<key>inheritedLocalization</key>
+	<string>extendhash</string>
+	<key>oldIndicator</key>
+	<string>fetchAxis</string>
+	<key>protectedScheduler</key>
+	<string>durationvalidation</string>
+	<key>robustTangent</key>
+	<string>canPushCycle</string>
+</dict>
+</plist>

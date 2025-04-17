@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableEvolution</key>
+	<string>smartText</string>
+	<key>flexibleAnchor</key>
+	<string>combinerBound</string>
+	<key>granularCell</key>
+	<string>dropdownbuttonDecorator</string>
+	<key>infrastructureAlignment</key>
+	<string>positionedAlignment</string>
+	<key>materialcontrast</key>
+	<string>canInitializeMomentum</string>
+	<key>publicMethod</key>
+	<string>cleanRepository</string>
+	<key>shouldEmitAxis</key>
+	<string>unmarshalUseCase</string>
+	<key>storyboardacceleration</key>
+	<string>releaseEntity</string>
+</dict>
+</plist>

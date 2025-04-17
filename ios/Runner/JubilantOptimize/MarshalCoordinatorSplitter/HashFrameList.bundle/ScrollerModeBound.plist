@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledAudio</key>
+	<string>notifierBound</string>
+	<key>elasticSession</key>
+	<string>materializeManager</string>
+	<key>emitterSpeed</key>
+	<string>cubecompositeposition</string>
+	<key>layoutstateskewx</key>
+	<string>baselineTint</string>
+	<key>pivotalSplitter</key>
+	<string>captureCompleter</string>
+	<key>responsivenode</key>
+	<string>canInflateChannels</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseconstraint</key>
+	<string>mediaquerydescent</string>
+	<key>boxStyle</key>
+	<string>viewDepth</string>
+	<key>dynamiccontrast</key>
+	<string>immediateContrast</string>
+	<key>inheritedTraversal</key>
+	<string>concreteScroller</string>
+	<key>moduleFlags</key>
+	<string>searcherLeft</string>
+	<key>nodeskewy</key>
+	<string>shouldNavigatePageView</string>
+	<key>shouldNavigateReference</key>
+	<string>unactivatedArchitecture</string>
+	<key>smallRadio</key>
+	<string>hardOperation</string>
+	<key>substantialpolyfill</key>
+	<string>backwardmodelbehavior</string>
+</dict>
+</plist>

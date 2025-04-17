@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleStack</key>
+	<string>descentBehavior</string>
+	<key>builderOpacity</key>
+	<string>resizableRichText</string>
+	<key>cellLocation</key>
+	<string>shouldKeepSpot</string>
+	<key>commonFragments</key>
+	<string>debugReducer</string>
+	<key>containervisibility</key>
+	<string>canYieldLayout</string>
+	<key>recursionduration</key>
+	<string>customMatrix</string>
+	<key>serializereducer</key>
+	<string>sharedCupertino</string>
+	<key>usedheroduration</key>
+	<string>gramFramework</string>
+</dict>
+</plist>

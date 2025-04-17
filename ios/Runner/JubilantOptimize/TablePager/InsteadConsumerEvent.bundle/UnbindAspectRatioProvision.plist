@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderpadding</key>
+	<string>mediocreposition</string>
+	<key>inheritedEqualization</key>
+	<string>autoBrush</string>
+	<key>liteColor</key>
+	<string>publicBoxShadow</string>
+	<key>previewResponse</key>
+	<string>channelsScale</string>
+	<key>timelineResponse</key>
+	<string>commonMerger</string>
+	<key>vectorVisibility</key>
+	<string>decoupleGrid</string>
+</dict>
+</plist>

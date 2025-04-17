@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedIntegration</key>
+	<string>hashnearvisitor</string>
+	<key>channelFormat</key>
+	<string>shouldLoadChecklist</string>
+	<key>currentpositioned</key>
+	<string>cosineSaturation</string>
+	<key>eagerElement</key>
+	<string>dismissReference</string>
+	<key>exceptionAlignment</key>
+	<string>webMerger</string>
+	<key>processentropy</key>
+	<string>defaultEntropy</string>
+	<key>retainedResource</key>
+	<string>shouldObserveMargin</string>
+	<key>sessionslider</key>
+	<string>prismaticScroller</string>
+	<key>shoulddetachoption</key>
+	<string>unlockGraph</string>
+	<key>skinSpacing</key>
+	<string>sophisticatedPolyfill</string>
+</dict>
+</plist>

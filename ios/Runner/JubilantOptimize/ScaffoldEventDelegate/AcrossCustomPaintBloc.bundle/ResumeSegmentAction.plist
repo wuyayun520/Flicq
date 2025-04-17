@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridMode</key>
+	<string>toolName</string>
+	<key>intuitiveThroughput</key>
+	<string>uniformError</string>
+	<key>largePoint</key>
+	<string>boxshadowopacity</string>
+	<key>oncyclechanged</key>
+	<string>dataEdge</string>
+	<key>sineorigin</key>
+	<string>crucialImpression</string>
+	<key>singleResource</key>
+	<string>sharedHero</string>
+</dict>
+</plist>

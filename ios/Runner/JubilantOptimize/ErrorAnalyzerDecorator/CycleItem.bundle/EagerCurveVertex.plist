@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeImpact</key>
+	<string>iscomposition</string>
+	<key>currentMission</key>
+	<string>mountTransition</string>
+	<key>initiativeTransparency</key>
+	<string>dropoutDuration</string>
+	<key>mediainsidevar</key>
+	<string>servicevariableshape</string>
+	<key>synchronousStep</key>
+	<string>previewStructure</string>
+</dict>
+</plist>

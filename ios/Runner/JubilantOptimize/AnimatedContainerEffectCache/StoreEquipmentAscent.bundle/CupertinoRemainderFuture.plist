@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudegrayscalefrequency</key>
+	<string>imperativeCupertino</string>
+	<key>elasticaspectratio</key>
+	<string>gridviewTail</string>
+	<key>sizedboxmerger</key>
+	<string>eventVar</string>
+	<key>zoneVelocity</key>
+	<string>shouldShowAnimation</string>
+</dict>
+</plist>

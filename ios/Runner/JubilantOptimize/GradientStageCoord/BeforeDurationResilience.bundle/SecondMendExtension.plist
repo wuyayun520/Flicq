@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasappearance</key>
+	<string>inheritedPageView</string>
+	<key>cartesianEquipment</key>
+	<string>substantialGrid</string>
+	<key>concreteObject</key>
+	<string>managerScope</string>
+	<key>intensityBorder</key>
+	<string>batchInteraction</string>
+	<key>liteTicker</key>
+	<string>requestobserverfrequency</string>
+	<key>missedAxis</key>
+	<string>geometricMaterial</string>
+	<key>shouldResumeHeap</key>
+	<string>multiSubscription</string>
+	<key>shouldloadcapacities</key>
+	<string>shouldDispatchStream</string>
+	<key>standaloneRestriction</key>
+	<string>nativeAwait</string>
+	<key>statelessSpecifier</key>
+	<string>associatedComponent</string>
+</dict>
+</plist>

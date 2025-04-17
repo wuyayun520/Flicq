@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianhash</key>
+	<string>canRestartAccessory</string>
+	<key>heapsprite</key>
+	<string>stackDecorator</string>
+	<key>retainedStorage</key>
+	<string>taskFrequency</string>
+	<key>scrollmomentum</key>
+	<string>firstTextField</string>
+	<key>shouldSetStateCard</key>
+	<string>cubitlinker</string>
+	<key>synchronousCanvas</key>
+	<string>shouldMountedMobile</string>
+</dict>
+</plist>

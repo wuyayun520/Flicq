@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedWorkflow</key>
+	<string>tappableAmortization</string>
+	<key>compileobserver</key>
+	<string>batchSystem</string>
+	<key>enabledRadius</key>
+	<string>transformBloc</string>
+	<key>entropybesideaction</key>
+	<string>sessioncontroller</string>
+	<key>independentMomentum</key>
+	<string>inactiveChannel</string>
+	<key>radioResponse</key>
+	<string>functionalProtocol</string>
+	<key>relationalSlider</key>
+	<string>shouldRestartPoint</string>
+	<key>shouldPersistCache</key>
+	<string>shouldPopExpanded</string>
+	<key>unsortedRadio</key>
+	<string>fillNode</string>
+</dict>
+</plist>

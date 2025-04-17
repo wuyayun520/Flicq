@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicFeature</key>
+	<string>crucialController</string>
+	<key>globalColor</key>
+	<string>canDispatchConsumer</string>
+	<key>immediateSplitter</key>
+	<string>displayindicator</string>
+	<key>normalswift</key>
+	<string>showBorder</string>
+	<key>observerFeedback</key>
+	<string>delicateCapsule</string>
+	<key>optionTension</key>
+	<string>hyperbolicPriority</string>
+	<key>segueAppearance</key>
+	<string>delegatealignment</string>
+</dict>
+</plist>

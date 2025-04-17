@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintDepth</key>
+	<string>smartObject</string>
+	<key>mainMatrix</key>
+	<string>canConnectSample</string>
+	<key>requiredTopic</key>
+	<string>canDisconnectOverlay</string>
+	<key>reusableConstraint</key>
+	<string>routerTheme</string>
+	<key>shouldDispatchCatalyst</key>
+	<string>granularRepository</string>
+	<key>shouldunmountedaperture</key>
+	<string>animateGraphic</string>
+	<key>trianglesLeft</key>
+	<string>progressbaroffset</string>
+</dict>
+</plist>

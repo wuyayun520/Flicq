@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionMode</key>
+	<string>removeinkwell</string>
+	<key>flexibleAction</key>
+	<string>profileevaluation</string>
+	<key>fragmentproxybound</key>
+	<string>anchorresponse</string>
+	<key>graphRight</key>
+	<string>captureLoop</string>
+	<key>scenemethodfeedback</key>
+	<string>secondCapsule</string>
+</dict>
+</plist>

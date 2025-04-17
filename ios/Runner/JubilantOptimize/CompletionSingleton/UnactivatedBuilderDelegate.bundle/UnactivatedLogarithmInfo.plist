@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardInterface</key>
+	<string>modalName</string>
+	<key>cellresilience</key>
+	<string>behaviorVariable</string>
+	<key>consultativejoiner</key>
+	<string>shouldPrepareNotification</string>
+	<key>declarativeStore</key>
+	<string>metadatastroke</string>
+	<key>immediateException</key>
+	<string>streamswitch</string>
+	<key>multiplicationOffset</key>
+	<string>standalonesorter</string>
+	<key>polygonDepth</key>
+	<string>projectBrightness</string>
+	<key>sophisticatedAscent</key>
+	<string>shouldInitializeTabView</string>
+</dict>
+</plist>

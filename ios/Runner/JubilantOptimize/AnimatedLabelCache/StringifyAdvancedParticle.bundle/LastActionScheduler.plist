@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAcceleration</key>
+	<string>transformChannel</string>
+	<key>eagerNavigator</key>
+	<string>inheritedAlignment</string>
+	<key>ephemeralObserver</key>
+	<string>inactivefuture</string>
+	<key>exceptioninoperation</key>
+	<string>statelessCheckbox</string>
+	<key>queueLocation</key>
+	<string>drawRow</string>
+	<key>screenContrast</key>
+	<string>keyPet</string>
+	<key>shouldInflateEntropy</key>
+	<string>conformProvider</string>
+	<key>signawaymemento</key>
+	<string>smartpreviewbound</string>
+	<key>sophisticatedSemantics</key>
+	<string>maxNavigator</string>
+</dict>
+</plist>

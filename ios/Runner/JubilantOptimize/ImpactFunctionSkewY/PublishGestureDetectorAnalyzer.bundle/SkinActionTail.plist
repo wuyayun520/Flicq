@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createbatch</key>
+	<string>fetchSegue</string>
+	<key>cubeContrast</key>
+	<string>defaultHistogram</string>
+	<key>hierarchicalobject</key>
+	<string>asynchronousShape</string>
+	<key>ignoredAnimatedContainer</key>
+	<string>globalLogarithm</string>
+	<key>largeData</key>
+	<string>ongatechanged</string>
+	<key>loopvisible</key>
+	<string>canPauseGridView</string>
+	<key>shouldLayoutTabBar</key>
+	<string>viewDecorator</string>
+</dict>
+</plist>

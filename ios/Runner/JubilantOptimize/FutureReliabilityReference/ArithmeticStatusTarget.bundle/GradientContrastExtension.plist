@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeLoop</key>
+	<string>chapterFormat</string>
+	<key>navigatorInset</key>
+	<string>crucialLabel</string>
+	<key>processutil</key>
+	<string>independentResilience</string>
+	<key>reductionPadding</key>
+	<string>collectionlatency</string>
+	<key>resilientNotification</key>
+	<string>arithmeticMetrics</string>
+	<key>shouldcacheprecision</key>
+	<string>shouldRebuildAxis</string>
+	<key>tensorAspect</key>
+	<string>selectedsegue</string>
+	<key>vectorindex</key>
+	<string>shouldMountedMultiplication</string>
+</dict>
+</plist>

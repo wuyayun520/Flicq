@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advanceddescriptor</key>
+	<string>consultativeChart</string>
+	<key>builderBorder</key>
+	<string>inflateAnchor</string>
+	<key>chapterplatformstate</key>
+	<string>shouldHandleCaption</string>
+	<key>completervisibility</key>
+	<string>liteView</string>
+	<key>delegatesound</key>
+	<string>diffablePicker</string>
+	<key>quitoverlay</key>
+	<string>grainBorder</string>
+	<key>shouldTrainEffect</key>
+	<string>tweenAppearance</string>
+	<key>specifyCaption</key>
+	<string>opaqueSpecifier</string>
+</dict>
+</plist>

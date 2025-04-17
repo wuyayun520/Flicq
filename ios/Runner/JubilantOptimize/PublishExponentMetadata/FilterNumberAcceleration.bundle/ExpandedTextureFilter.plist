@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHash</key>
+	<string>rowinsideshape</string>
+	<key>brushStatus</key>
+	<string>soundVisibility</string>
+	<key>joinerTint</key>
+	<string>stateTemple</string>
+	<key>reusableGrid</key>
+	<string>oldTask</string>
+	<key>semanticdescriptionstate</key>
+	<string>sequentialGraph</string>
+	<key>shouldKeepMediaQuery</key>
+	<string>animatedAction</string>
+	<key>staticCombiner</key>
+	<string>shouldPushHistogram</string>
+	<key>subscriberMomentum</key>
+	<string>pinchableSubpixel</string>
+</dict>
+</plist>

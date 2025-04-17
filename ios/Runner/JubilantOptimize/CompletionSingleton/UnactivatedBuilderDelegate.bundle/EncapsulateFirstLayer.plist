@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitDuration</key>
+	<string>temporaryService</string>
+	<key>layerBottom</key>
+	<string>repositorylinker</string>
+	<key>resulttype</key>
+	<string>pagerFrequency</string>
+	<key>shouldCancelView</key>
+	<string>offsettitle</string>
+	<key>shouldInitializeComposition</key>
+	<string>fusedTaxonomy</string>
+	<key>shouldSaveUnary</key>
+	<string>invisibleInfo</string>
+</dict>
+</plist>

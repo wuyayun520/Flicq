@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLog</key>
+	<string>mapperInset</string>
+	<key>draggableChallenge</key>
+	<string>unsortedDetector</string>
+	<key>progressbaroffset</key>
+	<string>shouldCancelTransition</string>
+	<key>shouldFetchSpot</key>
+	<string>activePlayback</string>
+	<key>statecontroller</key>
+	<string>canAnimateCapacities</string>
+	<key>tensorGridView</key>
+	<string>shoulddisconnectnavigator</string>
+</dict>
+</plist>

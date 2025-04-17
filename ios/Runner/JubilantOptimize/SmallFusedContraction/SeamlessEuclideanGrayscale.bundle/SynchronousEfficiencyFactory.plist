@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeWorkflow</key>
+	<string>numericalPresenter</string>
+	<key>fixedAllocator</key>
+	<string>endCache</string>
+	<key>handlerforenvironment</key>
+	<string>rapidReduction</string>
+	<key>imperativeAlignment</key>
+	<string>presentertint</string>
+	<key>persistentShader</key>
+	<string>setstateMediaQuery</string>
+	<key>spineprovider</key>
+	<string>globalGrayscale</string>
+	<key>textname</key>
+	<string>streamFacade</string>
+	<key>throughputSkewX</key>
+	<string>disparateAperture</string>
+</dict>
+</plist>

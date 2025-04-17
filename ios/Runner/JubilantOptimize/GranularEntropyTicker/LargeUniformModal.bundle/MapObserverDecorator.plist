@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferorigin</key>
+	<string>scopeRotation</string>
+	<key>deferredTheme</key>
+	<string>formatroute</string>
+	<key>permissiveascent</key>
+	<string>sequentialRenderer</string>
+	<key>reactiveBitrate</key>
+	<string>dismissNotifier</string>
+	<key>shouldParseConstraint</key>
+	<string>moveAwait</string>
+	<key>usecasetype</key>
+	<string>compositionalbloc</string>
+</dict>
+</plist>

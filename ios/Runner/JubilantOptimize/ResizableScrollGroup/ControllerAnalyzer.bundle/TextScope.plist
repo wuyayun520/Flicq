@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationVelocity</key>
+	<string>semanticAppBar</string>
+	<key>baseinstructure</key>
+	<string>shouldRestartFuture</string>
+	<key>exponentType</key>
+	<string>iterativeResource</string>
+	<key>greatCube</key>
+	<string>transitioncontainlevel</string>
+	<key>materialState</key>
+	<string>nextMonster</string>
+	<key>rapidSample</key>
+	<string>copyFrame</string>
+	<key>shouldNotifyRadio</key>
+	<string>tentativeLeft</string>
+</dict>
+</plist>

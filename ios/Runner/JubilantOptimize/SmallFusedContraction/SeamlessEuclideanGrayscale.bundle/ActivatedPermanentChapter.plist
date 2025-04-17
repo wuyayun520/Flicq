@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedActivity</key>
+	<string>measuredependency</string>
+	<key>deserializeroute</key>
+	<string>scrollerKind</string>
+	<key>ignoredScreen</key>
+	<string>requestsingletontop</string>
+	<key>shouldSkipChannels</key>
+	<string>largeTimer</string>
+	<key>shouldStreamSignature</key>
+	<string>channeloperationtheme</string>
+	<key>unactivatedTimeline</key>
+	<string>triggerTheme</string>
+	<key>uniqueController</key>
+	<string>nextStateful</string>
+	<key>unsortedFinder</key>
+	<string>restoreTween</string>
+</dict>
+</plist>

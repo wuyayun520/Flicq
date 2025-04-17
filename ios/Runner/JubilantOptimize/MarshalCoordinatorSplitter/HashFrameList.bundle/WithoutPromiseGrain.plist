@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonBehavior</key>
+	<string>dependencyTail</string>
+	<key>crucialcursor</key>
+	<string>projectionColor</string>
+	<key>currentAnchor</key>
+	<string>sensorAppearance</string>
+	<key>grouphead</key>
+	<string>canInflateExtension</string>
+	<key>priorRadio</key>
+	<string>clearcaption</string>
+	<key>shouldRestartSwift</key>
+	<string>configurationHead</string>
+	<key>unactivatedModulus</key>
+	<string>stringifySingleton</string>
+</dict>
+</plist>

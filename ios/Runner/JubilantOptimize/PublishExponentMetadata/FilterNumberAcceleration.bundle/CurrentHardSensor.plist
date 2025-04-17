@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedListener</key>
+	<string>canSaveMember</string>
+	<key>lastEquivalent</key>
+	<string>canFetchTool</string>
+	<key>polygonContrast</key>
+	<string>exceptionAlignment</string>
+	<key>scrollableElement</key>
+	<string>shouldDismissSession</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositioneffect</key>
+	<string>anchorTail</string>
+	<key>groupcontainvar</key>
+	<string>accessibleLatency</string>
+	<key>hierarchicalformat</key>
+	<string>bloctag</string>
+	<key>imperativeContrast</key>
+	<string>maintainError</string>
+	<key>reusableModel</key>
+	<string>sorterscale</string>
+	<key>statefulConstraint</key>
+	<string>initializeHash</string>
+	<key>statefulProvision</key>
+	<string>canFinishMaster</string>
+	<key>upgradeticker</key>
+	<string>tableEdge</string>
+</dict>
+</plist>

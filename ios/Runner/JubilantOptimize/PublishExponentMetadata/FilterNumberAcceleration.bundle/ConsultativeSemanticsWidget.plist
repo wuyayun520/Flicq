@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorright</key>
+	<string>unactivatedScroll</string>
+	<key>concurrentNotifier</key>
+	<string>elasticcontroller</string>
+	<key>eventbyinterpreter</key>
+	<string>shouldStopScale</string>
+	<key>mobilestructuredelay</key>
+	<string>alignmentchaincenter</string>
+	<key>providerofstage</key>
+	<string>textureInterval</string>
+	<key>retaineddurationrotation</key>
+	<string>permanentmediaquerymode</string>
+	<key>shouldAnimateRadio</key>
+	<string>vectorizelog</string>
+	<key>workflowbeyondcycle</key>
+	<string>extensioninsidetype</string>
+</dict>
+</plist>

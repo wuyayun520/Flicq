@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReducer</key>
+	<string>inheritedTernary</string>
+	<key>enabledfuture</key>
+	<string>renameListener</string>
+	<key>hardCurve</key>
+	<string>constraintAppearance</string>
+	<key>multiIntegration</key>
+	<string>commonTexture</string>
+	<key>numericalMovement</key>
+	<string>nibDistance</string>
+	<key>observerstylevisible</key>
+	<string>serializestate</string>
+	<key>scrollerEdge</key>
+	<string>loopInset</string>
+	<key>shouldLayoutLog</key>
+	<string>shouldEmitSizedBox</string>
+	<key>singleLinker</key>
+	<string>interpolationValidation</string>
+	<key>uniqueboxresponse</key>
+	<string>gridviewColor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinelayerstate</key>
+	<string>dropdownbuttonForce</string>
+	<key>connectordelay</key>
+	<string>canCreatePromise</string>
+	<key>deferredComponent</key>
+	<string>elasticSlider</string>
+	<key>displaylocalization</key>
+	<string>dimensionLevel</string>
+	<key>shouldCacheThread</key>
+	<string>particleForce</string>
+	<key>shouldPauseExpanded</key>
+	<string>currentTween</string>
+	<key>shouldSerializeSample</key>
+	<string>dimensionEdge</string>
+	<key>streamFeedback</key>
+	<string>shouldtraincollection</string>
+</dict>
+</plist>

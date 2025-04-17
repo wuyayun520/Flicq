@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardProjection</key>
+	<string>compositionalmodel</string>
+	<key>controllerDistance</key>
+	<string>effectEdge</string>
+	<key>customradio</key>
+	<string>convolutionObserver</string>
+	<key>lazyTheme</key>
+	<string>interfacePattern</string>
+	<key>methodPressure</key>
+	<string>handleImage</string>
+	<key>requiredComposition</key>
+	<string>shouldProcessAppBar</string>
+	<key>robustSkin</key>
+	<string>canPublishCaption</string>
+	<key>staticTernary</key>
+	<string>diffableConverter</string>
+</dict>
+</plist>

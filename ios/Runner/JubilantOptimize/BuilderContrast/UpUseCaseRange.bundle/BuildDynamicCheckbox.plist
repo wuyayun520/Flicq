@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatGradient</key>
+	<string>referenceActivity</string>
+	<key>overlayBorder</key>
+	<string>searcherTail</string>
+	<key>resilientCanvas</key>
+	<string>canMountSpine</string>
+	<key>secondNotation</key>
+	<string>extendfeature</string>
+	<key>shouldMountedWidget</key>
+	<string>iterativeFragment</string>
+</dict>
+</plist>

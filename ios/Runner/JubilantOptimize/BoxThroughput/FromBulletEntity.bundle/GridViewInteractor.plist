@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalStrength</key>
+	<string>awaitJob</string>
+	<key>constantTint</key>
+	<string>rendervariant</string>
+	<key>customMission</key>
+	<string>mobileGrayscale</string>
+	<key>immutableGradient</key>
+	<string>normalLoss</string>
+	<key>lastOperation</key>
+	<string>commonInterpolation</string>
+	<key>persistentResponder</key>
+	<string>grayscalePosition</string>
+	<key>shouldResumeTechnique</key>
+	<string>axisPhase</string>
+	<key>sustainableStrength</key>
+	<string>chapterMomentum</string>
+	<key>synchronousEntity</key>
+	<string>evaluationTint</string>
+</dict>
+</plist>

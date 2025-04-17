@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableTernary</key>
+	<string>encodepreview</string>
+	<key>nibchainrotation</key>
+	<string>temporaryView</string>
+	<key>normintegrity</key>
+	<string>hyperbolicColumn</string>
+	<key>shouldCreateCapacities</key>
+	<string>performAllocator</string>
+	<key>shouldNotifyStoryboard</key>
+	<string>wrapAnimation</string>
+	<key>splittertransparency</key>
+	<string>arithmeticVisibility</string>
+	<key>visibleTitle</key>
+	<string>restoreTween</string>
+</dict>
+</plist>

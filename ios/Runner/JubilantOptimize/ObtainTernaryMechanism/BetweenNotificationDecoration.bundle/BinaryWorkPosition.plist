@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAction</key>
+	<string>usageInteraction</string>
+	<key>mutableScale</key>
+	<string>dimensionTail</string>
+	<key>nextOptimizer</key>
+	<string>reducerleft</string>
+	<key>permanentAnimation</key>
+	<string>staticConstraint</string>
+	<key>shouldContinueTheme</key>
+	<string>similarDelegate</string>
+	<key>unmountprecision</key>
+	<string>granularTicker</string>
+</dict>
+</plist>

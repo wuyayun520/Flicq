@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardType</key>
+	<string>nativeAnimator</string>
+	<key>easyhandlerinset</key>
+	<string>serializeEntropy</string>
+	<key>nativeTentative</key>
+	<string>embedManager</string>
+	<key>pinchableStream</key>
+	<string>configurationLevel</string>
+	<key>shouldUnbindClipper</key>
+	<string>activatedTabView</string>
+	<key>shouldcreatescroll</key>
+	<string>unaryJob</string>
+</dict>
+</plist>

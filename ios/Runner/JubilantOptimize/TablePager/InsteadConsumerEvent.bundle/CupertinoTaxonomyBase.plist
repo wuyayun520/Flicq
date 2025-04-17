@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterrange</key>
+	<string>collectionScale</string>
+	<key>disabledBuffer</key>
+	<string>unmountCupertino</string>
+	<key>intermediateLinker</key>
+	<string>skirtOpacity</string>
+	<key>isolateobservertype</key>
+	<string>canParseCaption</string>
+	<key>materialShader</key>
+	<string>retainedChart</string>
+	<key>polygonLocation</key>
+	<string>semanticgrid</string>
+	<key>sequentialExpanded</key>
+	<string>subscriptionOpacity</string>
+	<key>uniqueAsset</key>
+	<string>asynchronousGraph</string>
+</dict>
+</plist>

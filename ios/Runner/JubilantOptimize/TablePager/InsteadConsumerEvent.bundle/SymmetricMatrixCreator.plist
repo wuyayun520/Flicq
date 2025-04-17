@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedcatalyst</key>
+	<string>difficultLayout</string>
+	<key>discardedConstraint</key>
+	<string>shouldUnmountSizedBox</string>
+	<key>drawerTag</key>
+	<string>methodResponse</string>
+	<key>layertint</key>
+	<string>shouldNavigateTable</string>
+	<key>shouldDisposePositioned</key>
+	<string>canBindUsage</string>
+	<key>shouldSaveDimension</key>
+	<string>mutableGroup</string>
+	<key>shouldSubscribeOption</key>
+	<string>nextFilter</string>
+</dict>
+</plist>

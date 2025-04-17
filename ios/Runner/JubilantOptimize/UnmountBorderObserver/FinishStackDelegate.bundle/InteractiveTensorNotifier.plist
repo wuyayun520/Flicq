@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveStore</key>
+	<string>imperativeListener</string>
+	<key>aspectstyle</key>
+	<string>errortriangles</string>
+	<key>graphVisibility</key>
+	<string>selectedequipment</string>
+	<key>polygonType</key>
+	<string>canPresentTouch</string>
+	<key>semanticScroll</key>
+	<string>publicChecklist</string>
+	<key>shouldShowCheckbox</key>
+	<string>convolutionDistance</string>
+	<key>ternaryInterval</key>
+	<string>statelessCompleter</string>
+</dict>
+</plist>

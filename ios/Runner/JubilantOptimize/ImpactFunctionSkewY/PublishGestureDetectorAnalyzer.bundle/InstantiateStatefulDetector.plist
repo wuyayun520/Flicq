@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatortint</key>
+	<string>constructSlider</string>
+	<key>axisTail</key>
+	<string>cubitHead</string>
+	<key>drawdependency</key>
+	<string>limitAction</string>
+	<key>metadataValidation</key>
+	<string>interactiveCurve</string>
+	<key>mountqueue</key>
+	<string>primaryBatch</string>
+	<key>mutableTangent</key>
+	<string>containerOffset</string>
+	<key>parallelWidget</key>
+	<string>reductionObserver</string>
+	<key>respondgate</key>
+	<string>momentumspacing</string>
+</dict>
+</plist>

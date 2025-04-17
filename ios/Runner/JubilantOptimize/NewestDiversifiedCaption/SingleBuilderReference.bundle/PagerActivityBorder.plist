@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblewidget</key>
+	<string>backwardNavigator</string>
+	<key>animationinsidestrategy</key>
+	<string>nextTentative</string>
+	<key>cupertinoImpact</key>
+	<string>inflatebuilder</string>
+	<key>cursoratsystem</key>
+	<string>liteMovement</string>
+	<key>logKind</key>
+	<string>prismaticfuture</string>
+	<key>numericalBox</key>
+	<string>unactivatedRouter</string>
+	<key>numericalBullet</key>
+	<string>independentWorkflow</string>
+	<key>taskCoord</key>
+	<string>deferredDescent</string>
+	<key>taskobserver</key>
+	<string>nativeAnimatedContainer</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialResponse</key>
+	<string>usedbuttonstate</string>
+	<key>declarativeModule</key>
+	<string>shouldContinueSign</string>
+	<key>missedTriangles</key>
+	<string>serializeOffset</string>
+	<key>originalStamp</key>
+	<string>streamInterpolation</string>
+	<key>performnavigator</key>
+	<string>associatedThread</string>
+	<key>persistentMerger</key>
+	<string>tickerdelivery</string>
+	<key>quantizerinterface</key>
+	<string>interpolateexception</string>
+	<key>reliabilityfrequency</key>
+	<string>wrapperOrigin</string>
+	<key>respectiveService</key>
+	<string>canMountedAlert</string>
+	<key>resultTail</key>
+	<string>mediocreSwitch</string>
+</dict>
+</plist>

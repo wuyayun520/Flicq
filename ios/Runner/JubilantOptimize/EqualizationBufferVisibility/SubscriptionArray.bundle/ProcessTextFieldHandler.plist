@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMenu</key>
+	<string>textfieldBound</string>
+	<key>composablereducer</key>
+	<string>lastInitiators</string>
+	<key>concurrentDelivery</key>
+	<string>rapidview</string>
+	<key>diffableEvolution</key>
+	<string>dialogsSize</string>
+	<key>hierarchicalSchema</key>
+	<string>gemContrast</string>
+	<key>relationalreducer</key>
+	<string>refreshTween</string>
+	<key>shouldSubscribeWorkflow</key>
+	<string>localAnimator</string>
+</dict>
+</plist>

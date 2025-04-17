@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorFrequency</key>
+	<string>techniquedelay</string>
+	<key>frameInteraction</key>
+	<string>shouldStopAxis</string>
+	<key>hierarchicalObserver</key>
+	<string>formatFormat</string>
+	<key>particlenearlevel</key>
+	<string>allocateMethod</string>
+	<key>reflectmedia</key>
+	<string>pageviewComposite</string>
+	<key>routerPressure</key>
+	<string>backwardSegue</string>
+	<key>shouldDisconnectEquipment</key>
+	<string>mapprototypestate</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDelegate</key>
+	<string>observerscroller</string>
+	<key>consultativeSymbol</key>
+	<string>shouldbindcupertino</string>
+	<key>diffableCompletion</key>
+	<string>replaceslash</string>
+	<key>dynamicFactory</key>
+	<string>associatedBase</string>
+	<key>shouldCreateStream</key>
+	<string>sineSystem</string>
+	<key>shouldHandleTheme</key>
+	<string>fusedInfrastructure</string>
+	<key>transitionsorter</key>
+	<string>responsiveService</string>
+	<key>uniformRole</key>
+	<string>subtlecertificateedge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentInterval</key>
+	<string>tangentvardirection</string>
+	<key>controlleranimation</key>
+	<string>customizedPadding</string>
+	<key>fetchmetadata</key>
+	<string>histogramMode</string>
+	<key>lastDisclaimer</key>
+	<string>agileCaption</string>
+	<key>mediaAlignment</key>
+	<string>writedelegate</string>
+	<key>reactiveConstant</key>
+	<string>shouldPresentBloc</string>
+	<key>shouldShowSample</key>
+	<string>eagerTentative</string>
+	<key>statefulTolerance</key>
+	<string>diffablePromise</string>
+	<key>taxonomyCount</key>
+	<string>screensinceprototype</string>
+</dict>
+</plist>

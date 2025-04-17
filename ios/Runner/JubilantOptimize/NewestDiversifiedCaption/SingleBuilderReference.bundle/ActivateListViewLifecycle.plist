@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerShape</key>
+	<string>optimizeBloc</string>
+	<key>difficultException</key>
+	<string>optimizerSaturation</string>
+	<key>euclideanInstruction</key>
+	<string>directlyReliability</string>
+	<key>ignoredAperture</key>
+	<string>addRequest</string>
+	<key>prismaticTable</key>
+	<string>sizeFrequency</string>
+	<key>queueagainstpattern</key>
+	<string>graphicDuration</string>
+	<key>selectedtabview</key>
+	<string>elasticAnimator</string>
+</dict>
+</plist>

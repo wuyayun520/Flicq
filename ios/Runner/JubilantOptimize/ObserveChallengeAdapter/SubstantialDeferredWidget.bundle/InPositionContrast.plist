@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphbandwidth</key>
+	<string>shouldUnbindContraction</string>
+	<key>skinshapekind</key>
+	<string>mediumCapsule</string>
+	<key>statusShape</key>
+	<string>documentValidation</string>
+	<key>tabviewPosition</key>
+	<string>seamlessModulus</string>
+</dict>
+</plist>

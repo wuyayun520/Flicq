@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalProvider</key>
+	<string>retainedJoiner</string>
+	<key>disabledawait</key>
+	<string>canUnmountAspectRatio</string>
+	<key>shouldUnmountDescriptor</key>
+	<string>documentInteraction</string>
+	<key>shoulddisposecertificate</key>
+	<string>intermediateTangent</string>
+	<key>tickerBorder</key>
+	<string>animateMediaQuery</string>
+</dict>
+</plist>

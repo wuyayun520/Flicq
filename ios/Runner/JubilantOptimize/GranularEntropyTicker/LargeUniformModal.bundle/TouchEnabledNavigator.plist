@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionobserver</key>
+	<string>screenlistener</string>
+	<key>liteDescription</key>
+	<string>shouldEncodeText</string>
+	<key>modelkindcoord</key>
+	<string>shouldCacheTabView</string>
+	<key>originalPlate</key>
+	<string>invisibleLoop</string>
+	<key>protectedAnalyzer</key>
+	<string>dismissStream</string>
+	<key>shoulddetachfragment</key>
+	<string>elasticityContrast</string>
+	<key>symmetricMargin</key>
+	<string>nextoptionshade</string>
+	<key>textresponse</key>
+	<string>integrationInteraction</string>
+	<key>usedFrame</key>
+	<string>shouldNavigateRow</string>
+</dict>
+</plist>

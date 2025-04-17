@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularScreen</key>
+	<string>canPushWidget</string>
+	<key>interactiveClipper</key>
+	<string>deactivateDecoration</string>
+	<key>lazyworkflow</key>
+	<string>cacheSize</string>
+	<key>shouldInitializeComposition</key>
+	<string>shouldFetchNotifier</string>
+	<key>shouldformatheap</key>
+	<string>tensorMapper</string>
+</dict>
+</plist>

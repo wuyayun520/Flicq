@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCatalyst</key>
+	<string>vectorShape</string>
+	<key>customizedModal</key>
+	<string>buttonLayer</string>
+	<key>intensitybinder</key>
+	<string>smartAccessory</string>
+	<key>shouldSubscribeProjection</key>
+	<string>restrictionTransparency</string>
+	<key>similarIntegration</key>
+	<string>dynamicQueue</string>
+	<key>themeperstructure</key>
+	<string>configurationstyleduration</string>
+	<key>webContainer</key>
+	<string>adaptiveSplitter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitsaturation</key>
+	<string>plateForm</string>
+	<key>chapterPosition</key>
+	<string>inactiveRestriction</string>
+	<key>normalWorkflow</key>
+	<string>arithmeticRotation</string>
+	<key>resilientStateful</key>
+	<string>equalIntensity</string>
+	<key>shouldPushContraction</key>
+	<string>canAnimateCustomPaint</string>
+	<key>shouldResumeInterpolation</key>
+	<string>referenceframeworktransparency</string>
+	<key>tabviewFlags</key>
+	<string>requestLeft</string>
+</dict>
+</plist>

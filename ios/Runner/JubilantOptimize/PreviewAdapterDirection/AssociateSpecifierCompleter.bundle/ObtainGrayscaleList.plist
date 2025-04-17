@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterEdge</key>
+	<string>shouldPushSkin</string>
+	<key>ignoredResource</key>
+	<string>ephemeralequipment</string>
+	<key>mainAction</key>
+	<string>usedSizedBox</string>
+	<key>mutableequivalent</key>
+	<string>requestbesidemethod</string>
+	<key>normalradius</key>
+	<string>shouldFetchExponent</string>
+	<key>rowalignment</key>
+	<string>usedFinder</string>
+</dict>
+</plist>

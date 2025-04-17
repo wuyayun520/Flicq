@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopSymbol</key>
+	<string>shouldTransformColumn</string>
+	<key>localhashflags</key>
+	<string>cartesianSound</string>
+	<key>mainpaddingshape</key>
+	<string>compilestack</string>
+	<key>shouldBindNib</key>
+	<string>accessibleHeap</string>
+	<key>shouldPopGate</key>
+	<string>specifyException</string>
+	<key>shouldencodetransition</key>
+	<string>modulusRate</string>
+	<key>throughputLeft</key>
+	<string>movementvarduration</string>
+</dict>
+</plist>

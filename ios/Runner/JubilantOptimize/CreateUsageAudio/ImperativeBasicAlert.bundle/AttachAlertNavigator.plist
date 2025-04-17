@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatoracceleration</key>
+	<string>reductionHead</string>
+	<key>assetvisibility</key>
+	<string>overrideRoute</string>
+	<key>diffablearithmetictop</key>
+	<string>canDecodeGesture</string>
+	<key>inkwellShape</key>
+	<string>gridIndex</string>
+	<key>iterativedropdownbuttonleft</key>
+	<string>toleranceedge</string>
+	<key>persistentTweak</key>
+	<string>ignoredSwitch</string>
+	<key>petName</key>
+	<string>unmarshalAnimation</string>
+	<key>statelessChecklist</key>
+	<string>buildresult</string>
+	<key>usedStream</key>
+	<string>agileModulus</string>
+</dict>
+</plist>

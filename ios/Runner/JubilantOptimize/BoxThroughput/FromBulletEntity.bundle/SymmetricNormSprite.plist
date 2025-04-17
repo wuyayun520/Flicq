@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customplaybackskewy</key>
+	<string>relationalStack</string>
+	<key>dedicatedCollection</key>
+	<string>addcompleter</string>
+	<key>isolatewithoutstate</key>
+	<string>tappableTrigger</string>
+	<key>literesolverappearance</key>
+	<string>sharedHandler</string>
+	<key>memberfrequency</key>
+	<string>dispatchDuration</string>
+	<key>prismaticMargin</key>
+	<string>cupertinoInset</string>
+	<key>slashEdge</key>
+	<string>canSetStateHeap</string>
+</dict>
+</plist>

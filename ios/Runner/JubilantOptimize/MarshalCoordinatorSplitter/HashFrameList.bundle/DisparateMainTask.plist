@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedfragmentdensity</key>
+	<string>sortedClipper</string>
+	<key>functionalDependency</key>
+	<string>shouldSkipDelegate</string>
+	<key>refreshtitle</key>
+	<string>replaceAspect</string>
+	<key>respectiveHandler</key>
+	<string>deployOffset</string>
+	<key>shouldPushCanvas</key>
+	<string>analyzeMetadata</string>
+	<key>significantAmortization</key>
+	<string>audioName</string>
+</dict>
+</plist>

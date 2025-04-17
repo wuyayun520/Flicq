@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseCompletion</key>
+	<string>smallResponder</string>
+	<key>formatLocation</key>
+	<string>analyzerlocation</string>
+	<key>independentDescent</key>
+	<string>sceneDelay</string>
+	<key>notifierpresenter</key>
+	<string>dismissOption</string>
+	<key>positionfacadespeed</key>
+	<string>providerDistance</string>
+	<key>shouldListenModulus</key>
+	<string>paintresponse</string>
+	<key>tappableBase</key>
+	<string>cosineposition</string>
+</dict>
+</plist>

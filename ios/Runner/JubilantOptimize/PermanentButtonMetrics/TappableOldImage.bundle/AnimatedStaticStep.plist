@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellinjection</key>
+	<string>geometricAnimator</string>
+	<key>concurrentBloc</key>
+	<string>newestcallback</string>
+	<key>custompaintInset</key>
+	<string>sinkVar</string>
+	<key>deactivatebutton</key>
+	<string>geometricCaption</string>
+	<key>opaqueInteraction</key>
+	<string>maxTabView</string>
+	<key>uniqueScale</key>
+	<string>imperativeEvolution</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularHandler</key>
+	<string>selectedplate</string>
+	<key>greatCoordinator</key>
+	<string>disconnectOverlay</string>
+	<key>hierarchicalAlert</key>
+	<string>layoutAdapter</string>
+	<key>normalRouter</key>
+	<string>timerDepth</string>
+	<key>prevWidget</key>
+	<string>animationOrigin</string>
+	<key>requiredthemeskewx</key>
+	<string>imperativeseguepadding</string>
+	<key>schemaMode</key>
+	<string>markEntity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionSpacing</key>
+	<string>navigateTechnique</string>
+	<key>criticalGate</key>
+	<string>shouldshowdialogs</string>
+	<key>histogramBound</key>
+	<string>webIsolate</string>
+	<key>independentradiusacceleration</key>
+	<string>cartesianAllocator</string>
+	<key>shouldStartBehavior</key>
+	<string>positionFlyweight</string>
+	<key>shouldUnmountProvider</key>
+	<string>layoutobject</string>
+	<key>shouldUpdateUsage</key>
+	<string>canUnbindSensor</string>
+	<key>toolbridgeorientation</key>
+	<string>discardedSorter</string>
+</dict>
+</plist>

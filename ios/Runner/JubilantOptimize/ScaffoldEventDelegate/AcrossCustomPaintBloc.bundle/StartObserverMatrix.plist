@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>pushinterface</key>
+	<string>variantEdge</string>
+	<key>shouldDispatchMargin</key>
+	<string>shouldCancelSample</string>
+	<key>shouldUnbindComposition</key>
+	<string>drawerChain</string>
+	<key>strokeAcceleration</key>
+	<string>asyncVelocity</string>
+	<key>unaryfrequency</key>
+	<string>canAttachIndicator</string>
+</dict>
+</plist>

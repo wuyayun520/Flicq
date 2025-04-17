@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoSubscriber</key>
+	<string>primaryContrast</string>
+	<key>dedicatedAnimation</key>
+	<string>dropoutshader</string>
+	<key>directScope</key>
+	<string>shouldEncodeVariant</string>
+	<key>futureTheme</key>
+	<string>nextFeature</string>
+	<key>membertierresponse</key>
+	<string>profileTopic</string>
+	<key>progressbarTag</key>
+	<string>cupertinoPager</string>
+	<key>shouldEmitRemainder</key>
+	<string>maxMonster</string>
+	<key>shoulddetachmobile</key>
+	<string>projectreducer</string>
+</dict>
+</plist>

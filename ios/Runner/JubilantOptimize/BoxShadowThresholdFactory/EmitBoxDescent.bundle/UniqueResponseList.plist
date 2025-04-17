@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionMobile</key>
+	<string>commonPolyfill</string>
+	<key>attachmember</key>
+	<string>parseHero</string>
+	<key>beginnerAnalyzer</key>
+	<string>nibOpacity</string>
+	<key>compositionalAwait</key>
+	<string>liteTweak</string>
+	<key>delegatedescription</key>
+	<string>canFinishMobile</string>
+	<key>expandedincludelayer</key>
+	<string>shouldEndWorkflow</string>
+	<key>sharedCollection</key>
+	<string>meshDirection</string>
+	<key>shouldpausebrush</key>
+	<string>delicateasyncflags</string>
+</dict>
+</plist>

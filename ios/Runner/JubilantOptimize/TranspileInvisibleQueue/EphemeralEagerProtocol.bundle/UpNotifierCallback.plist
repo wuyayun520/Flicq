@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPresenter</key>
+	<string>invisiblePolygon</string>
+	<key>curvetransformer</key>
+	<string>canPersistMomentum</string>
+	<key>cycleDistance</key>
+	<string>unsortedItem</string>
+	<key>isTangent</key>
+	<string>skipOptimizer</string>
+	<key>keyFragment</key>
+	<string>convertAsset</string>
+	<key>numericalIcon</key>
+	<string>localizationposition</string>
+	<key>shouldRenderCheckbox</key>
+	<string>canTrainDecoration</string>
+	<key>symmetricCapsule</key>
+	<string>provideSubscription</string>
+	<key>unsortedEvolution</key>
+	<string>createCertificate</string>
+</dict>
+</plist>

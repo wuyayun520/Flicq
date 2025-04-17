@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capturetimer</key>
+	<string>resizableSelector</string>
+	<key>durationKind</key>
+	<string>deferredReliability</string>
+	<key>lostCatalyst</key>
+	<string>spotCycle</string>
+	<key>newestbullet</key>
+	<string>animationrate</string>
+	<key>oldInteractor</key>
+	<string>beginnerDocument</string>
+	<key>parallelroute</key>
+	<string>robustStore</string>
+	<key>prismaticTrigger</key>
+	<string>modulusVelocity</string>
+	<key>roleconfiguration</key>
+	<string>tabbarIndex</string>
+	<key>shouldrebuildmember</key>
+	<string>usageorvar</string>
+	<key>statefulMode</key>
+	<string>reflectTopic</string>
+</dict>
+</plist>

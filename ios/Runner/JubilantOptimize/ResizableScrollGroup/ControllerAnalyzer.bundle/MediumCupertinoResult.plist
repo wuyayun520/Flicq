@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerHandler</key>
+	<string>eagerRadius</string>
+	<key>notificationskewx</key>
+	<string>inactiveFinder</string>
+	<key>reactiveBinder</key>
+	<string>shouldNotifyClipper</string>
+	<key>reactiveDescent</key>
+	<string>canResumeResource</string>
+	<key>shouldEmitNotifier</key>
+	<string>callbackstateformat</string>
+	<key>sophisticatedInterface</key>
+	<string>skinForm</string>
+	<key>transitionnearcomposite</key>
+	<string>pickerFormat</string>
+	<key>typicalStream</key>
+	<string>synchronousAwait</string>
+</dict>
+</plist>

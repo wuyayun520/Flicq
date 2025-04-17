@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintvisibility</key>
+	<string>operationCommand</string>
+	<key>disabledLatency</key>
+	<string>smallconstraintcontrast</string>
+	<key>gridviewInterval</key>
+	<string>consumerFlags</string>
+	<key>keyDocument</key>
+	<string>callbackPrototype</string>
+	<key>loaderAcceleration</key>
+	<string>keyOffset</string>
+	<key>mediocrepresenteredge</key>
+	<string>listenLabel</string>
+	<key>routervalidation</key>
+	<string>requiredMerger</string>
+	<key>schedulerdensity</key>
+	<string>objecttype</string>
+	<key>shouldDismissPadding</key>
+	<string>shouldDisconnectDrawer</string>
+	<key>tappableStream</key>
+	<string>shouldBindBloc</string>
+</dict>
+</plist>

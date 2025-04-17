@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticScenario</key>
+	<string>disposeMedia</string>
+	<key>concretelayer</key>
+	<string>currentsizedbox</string>
+	<key>consultativeslider</key>
+	<string>utilfromlayer</string>
+	<key>enabledStore</key>
+	<string>rebuildScaffold</string>
+	<key>firstMend</key>
+	<string>dispatchsession</string>
+	<key>shouldDisposeCursor</key>
+	<string>semanticStream</string>
+	<key>tensorBorder</key>
+	<string>canReplaceDialogs</string>
+</dict>
+</plist>

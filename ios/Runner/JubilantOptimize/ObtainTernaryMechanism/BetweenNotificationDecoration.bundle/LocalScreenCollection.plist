@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnoperationdirection</key>
+	<string>handlerEdge</string>
+	<key>cycleBrightness</key>
+	<string>canTransformColumn</string>
+	<key>dedicatedStorage</key>
+	<string>requiredController</string>
+	<key>deferredInteger</key>
+	<string>tweakVisibility</string>
+	<key>eagerChart</key>
+	<string>searcherForce</string>
+	<key>imperativeView</key>
+	<string>granularPresenter</string>
+	<key>infrastructureSaturation</key>
+	<string>injectInterface</string>
+	<key>subsequentanimation</key>
+	<string>tablePrototype</string>
+	<key>vectorHead</key>
+	<string>dispatchPromise</string>
+</dict>
+</plist>

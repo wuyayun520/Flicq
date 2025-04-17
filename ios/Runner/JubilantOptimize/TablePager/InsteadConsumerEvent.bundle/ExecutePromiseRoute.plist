@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customEfficiency</key>
+	<string>celllayerleft</string>
+	<key>firstbrush</key>
+	<string>promiseTask</string>
+	<key>interactiveCurve</key>
+	<string>transitionVariable</string>
+	<key>mapBottom</key>
+	<string>desktopRange</string>
+	<key>pointflags</key>
+	<string>radiusPressure</string>
+	<key>semanticcontraction</key>
+	<string>exponentNumber</string>
+</dict>
+</plist>

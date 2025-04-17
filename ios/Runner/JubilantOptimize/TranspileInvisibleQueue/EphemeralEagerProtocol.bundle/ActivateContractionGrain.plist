@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endconfiguration</key>
+	<string>mapForm</string>
+	<key>resilientRadius</key>
+	<string>globalDisclaimer</string>
+	<key>sceneofcontext</key>
+	<string>lasttextfieldtag</string>
+	<key>shouldSerializeCell</key>
+	<string>shouldDetachMediaQuery</string>
+	<key>textfieldAlignment</key>
+	<string>canListenEntropy</string>
+</dict>
+</plist>

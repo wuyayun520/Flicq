@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedbutton</key>
+	<string>addtransition</string>
+	<key>discardedTime</key>
+	<string>sequentialExpanded</string>
+	<key>equalizationadaptermargin</key>
+	<string>similarMedia</string>
+	<key>infoInterval</key>
+	<string>gestureinparam</string>
+	<key>scrollableConsumer</key>
+	<string>hyperbolicRow</string>
+	<key>timerBehavior</key>
+	<string>normIndex</string>
+</dict>
+</plist>

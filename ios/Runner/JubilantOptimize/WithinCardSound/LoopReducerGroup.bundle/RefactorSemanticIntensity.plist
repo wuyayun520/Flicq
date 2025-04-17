@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticvalidation</key>
+	<string>activatedCheckbox</string>
+	<key>cardwithtype</key>
+	<string>associatedstoryboardorigin</string>
+	<key>completionValidation</key>
+	<string>cupertinoAppearance</string>
+	<key>drawerEdge</key>
+	<string>shouldPublishNotification</string>
+	<key>platequeue</key>
+	<string>previewDecorator</string>
+	<key>relationalMethod</key>
+	<string>pinchableLocalization</string>
+	<key>renametable</key>
+	<string>pivotalConsumer</string>
+	<key>semanticRow</key>
+	<string>shouldSubscribeStep</string>
+	<key>triggerKind</key>
+	<string>overlayOffset</string>
+</dict>
+</plist>

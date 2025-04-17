@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderflyweighttension</key>
+	<string>shouldContinueNorm</string>
+	<key>crudeInteraction</key>
+	<string>canPauseClipper</string>
+	<key>gateFlags</key>
+	<string>canAttachPet</string>
+	<key>opaqueAspect</key>
+	<string>otherSlider</string>
+	<key>publicScenario</key>
+	<string>activatedElasticity</string>
+	<key>smallDelivery</key>
+	<string>lazyDelivery</string>
+	<key>spotOpacity</key>
+	<string>accordionBorder</string>
+</dict>
+</plist>

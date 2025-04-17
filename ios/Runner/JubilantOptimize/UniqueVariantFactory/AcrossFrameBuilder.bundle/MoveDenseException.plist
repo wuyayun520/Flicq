@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSegue</key>
+	<string>responderVisible</string>
+	<key>explicitSymbol</key>
+	<string>formatCoord</string>
+	<key>segmenttexture</key>
+	<string>iterativePosition</string>
+	<key>shouldLoadBaseline</key>
+	<string>greatChannel</string>
+	<key>symmetricNavigation</key>
+	<string>subtleMetrics</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleloop</key>
+	<string>canCacheBoxShadow</string>
+	<key>displayableElasticity</key>
+	<string>joinerValidation</string>
+	<key>relationaltextfieldspacing</key>
+	<string>nodeProcess</string>
+	<key>signatureselector</key>
+	<string>nextSession</string>
+	<key>tentativecenter</key>
+	<string>skipOverlay</string>
+</dict>
+</plist>

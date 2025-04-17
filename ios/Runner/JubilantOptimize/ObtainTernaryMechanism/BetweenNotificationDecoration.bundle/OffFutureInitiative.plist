@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleUseCase</key>
+	<string>mobileofbridge</string>
+	<key>composableChallenge</key>
+	<string>storageopacity</string>
+	<key>comprehensiveReliability</key>
+	<string>greatFragments</string>
+	<key>handlerCount</key>
+	<string>prepareEqualization</string>
+	<key>pinchableDropdownButton</key>
+	<string>canCacheStateful</string>
+	<key>primaryColumn</key>
+	<string>layoutCustomPaint</string>
+	<key>servicelikememento</key>
+	<string>constraintorientation</string>
+	<key>specifierLeft</key>
+	<string>normalSound</string>
+</dict>
+</plist>

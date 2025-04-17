@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalInkWell</key>
+	<string>intermediateCompleter</string>
+	<key>descentDelay</key>
+	<string>subscribeGesture</string>
+	<key>grainInterval</key>
+	<string>concurrentDispatcher</string>
+	<key>mergerIndex</key>
+	<string>activeResilience</string>
+	<key>secondactivity</key>
+	<string>mobileRenderer</string>
+	<key>shouldAttachSine</key>
+	<string>extendEvent</string>
+	<key>shouldNavigateSignature</key>
+	<string>lazyConfiguration</string>
+	<key>shouldTrainNavigator</key>
+	<string>setstatematerial</string>
+	<key>unactivatedAllocator</key>
+	<string>shouldStreamContraction</string>
+</dict>
+</plist>

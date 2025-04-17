@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDrawer</key>
+	<string>intermediateNotation</string>
+	<key>arithmeticSkin</key>
+	<string>canInitializeFuture</string>
+	<key>criticaldescent</key>
+	<string>stepDuration</string>
+	<key>litecubetint</key>
+	<string>cupertinoIntegrity</string>
+	<key>mapstyle</key>
+	<string>deferredResponse</string>
+	<key>mobileCharacteristic</key>
+	<string>wrapDuration</string>
+	<key>tensorFrame</key>
+	<string>sharedmechanism</string>
+	<key>textfieldRotation</key>
+	<string>rowValue</string>
+</dict>
+</plist>

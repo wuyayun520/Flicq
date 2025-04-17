@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultprojectionspacing</key>
+	<string>temporaryAlert</string>
+	<key>injectmenu</key>
+	<string>criticalChecklist</string>
+	<key>lazyException</key>
+	<string>disposeSemantics</string>
+	<key>missedAccessory</key>
+	<string>tweenBound</string>
+	<key>shouldAttachCompletion</key>
+	<string>mainNavigation</string>
+	<key>webThreshold</key>
+	<string>constraintvideo</string>
+</dict>
+</plist>

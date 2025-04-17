@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionTransparency</key>
+	<string>multiplyEvent</string>
+	<key>emitterMode</key>
+	<string>newestTrajectory</string>
+	<key>granularLabel</key>
+	<string>maxCanvas</string>
+	<key>rapidFactory</key>
+	<string>shearCallback</string>
+	<key>reliabilityleft</key>
+	<string>persistentBitrate</string>
+	<key>statelessMaterializer</key>
+	<string>constraintOrigin</string>
+	<key>staticbinder</key>
+	<string>difficultCombiner</string>
+	<key>tappableStoryboard</key>
+	<string>indicatorPrototype</string>
+	<key>visiblerecursion</key>
+	<string>semanticThroughput</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanTheme</key>
+	<string>retainedItem</string>
+	<key>groupexceptflyweight</key>
+	<string>shouldPreparePlayback</string>
+	<key>inheritedRemediation</key>
+	<string>signaturedelay</string>
+	<key>sequentialPositioned</key>
+	<string>shouldDisconnectMusic</string>
+	<key>shouldListenBox</key>
+	<string>polygonVisible</string>
+</dict>
+</plist>

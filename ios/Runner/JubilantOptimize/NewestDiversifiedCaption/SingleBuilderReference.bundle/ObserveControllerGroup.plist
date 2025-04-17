@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianAspectRatio</key>
+	<string>imperativePresenter</string>
+	<key>independentCombiner</key>
+	<string>tweakDepth</string>
+	<key>largeWrapper</key>
+	<string>cubeDelay</string>
+	<key>memberskewy</key>
+	<string>shouldSaveCursor</string>
+	<key>shouldresumecapsule</key>
+	<string>builderTag</string>
+	<key>singleContrast</key>
+	<string>provideManager</string>
+	<key>sortedExpanded</key>
+	<string>shouldMountStack</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentChart</key>
+	<string>mediocreDescription</string>
+	<key>deferredtolerance</key>
+	<string>formatmap</string>
+	<key>immutableStorage</key>
+	<string>shouldFormatChecklist</string>
+	<key>observerdetector</key>
+	<string>consumernotation</string>
+	<key>seamlessConsumption</key>
+	<string>shouldLayoutNotifier</string>
+	<key>shouldObserveStack</key>
+	<string>localZone</string>
+	<key>shouldPushView</key>
+	<string>parseresult</string>
+	<key>transformpositioned</key>
+	<string>diversifiedSubscription</string>
+</dict>
+</plist>

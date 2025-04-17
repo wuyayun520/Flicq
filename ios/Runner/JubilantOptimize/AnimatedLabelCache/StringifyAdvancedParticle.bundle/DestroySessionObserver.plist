@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleCenter</key>
+	<string>canSkipBox</string>
+	<key>draggableFragment</key>
+	<string>interpolationJob</string>
+	<key>greatdurationsize</key>
+	<string>delegateActivity</string>
+	<key>handleresponse</key>
+	<string>pendingDrawer</string>
+	<key>responseEdge</key>
+	<string>nextcallback</string>
+	<key>shouldSubscribeEqualization</key>
+	<string>accordionfactoryopacity</string>
+	<key>shouldSubscribeStoryboard</key>
+	<string>iterativeListener</string>
+	<key>sustainableSwift</key>
+	<string>lazyGram</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileanimatedcontainerdistance</key>
+	<string>instantiateResult</string>
+	<key>localInterpolation</key>
+	<string>standaloneDependency</string>
+	<key>radioFrequency</key>
+	<string>unregisterHandler</string>
+	<key>rapidStroke</key>
+	<string>poolAction</string>
+	<key>thresholdInset</key>
+	<string>sortedPager</string>
+</dict>
+</plist>

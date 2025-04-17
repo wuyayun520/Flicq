@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedRange</key>
+	<string>baselineInset</string>
+	<key>directlyAnimation</key>
+	<string>creatorCoord</string>
+	<key>mapperDuration</key>
+	<string>providerStyle</string>
+	<key>subscriptionphasealignment</key>
+	<string>shouldAnimateSpine</string>
+	<key>sustainableinteraction</key>
+	<string>fetchMovement</string>
+	<key>transitionstructurename</key>
+	<string>stampSystem</string>
+</dict>
+</plist>

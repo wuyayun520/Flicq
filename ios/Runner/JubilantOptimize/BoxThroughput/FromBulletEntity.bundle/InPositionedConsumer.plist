@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticContrast</key>
+	<string>gradientinteraction</string>
+	<key>semanticZone</key>
+	<string>statefulFuture</string>
+	<key>shouldPopTheme</key>
+	<string>tweenPlatform</string>
+	<key>singletonmaterializer</key>
+	<string>graphobserverbound</string>
+	<key>utilforce</key>
+	<string>titleLeft</string>
+</dict>
+</plist>

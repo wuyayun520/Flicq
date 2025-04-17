@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertSpeed</key>
+	<string>detachSprite</string>
+	<key>equipmentVisible</key>
+	<string>resilientDropdownButton</string>
+	<key>haschannels</key>
+	<string>topicforinterpreter</string>
+	<key>reusableDelivery</key>
+	<string>formatscroll</string>
+	<key>seamlessQueue</key>
+	<string>associatedObject</string>
+	<key>titleshapebottom</key>
+	<string>adaptiveTicker</string>
+</dict>
+</plist>

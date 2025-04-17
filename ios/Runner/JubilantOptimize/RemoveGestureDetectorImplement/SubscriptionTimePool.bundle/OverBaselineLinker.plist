@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiescolor</key>
+	<string>liteSensor</string>
+	<key>commonSign</key>
+	<string>difficultBullet</string>
+	<key>concurrentcosineforce</key>
+	<string>decodeSubpixel</string>
+	<key>disabledconfiguration</key>
+	<string>appendService</string>
+	<key>flexibleThroughput</key>
+	<string>replacePositioned</string>
+	<key>shouldPauseFragment</key>
+	<string>collectionAcceleration</string>
+	<key>smallData</key>
+	<string>immutableEvent</string>
+	<key>subsequentMenu</key>
+	<string>mechanismtransparency</string>
+	<key>sustainableBorder</key>
+	<string>canPreparePriority</string>
+</dict>
+</plist>

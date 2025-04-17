@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialBinary</key>
+	<string>elasticPreview</string>
+	<key>observervarname</key>
+	<string>swiftSkewX</string>
+	<key>rapidBox</key>
+	<string>deactivateAllocator</string>
+	<key>segueDistance</key>
+	<string>sinkInterval</string>
+	<key>specifymodel</key>
+	<string>basicMediaQuery</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistdelay</key>
+	<string>repositoryDistance</string>
+	<key>directlyColor</key>
+	<string>mountedEffect</string>
+	<key>inactiveElement</key>
+	<string>shouldMountProfile</string>
+	<key>lastSignature</key>
+	<string>brushdensity</string>
+	<key>seekcallback</key>
+	<string>canFetchChallenge</string>
+	<key>sensorSize</key>
+	<string>delegatebyprocess</string>
+	<key>shouldNotifyRole</key>
+	<string>granularThroughput</string>
+	<key>shouldPauseAccessory</key>
+	<string>shouldTransitionMultiplication</string>
+</dict>
+</plist>

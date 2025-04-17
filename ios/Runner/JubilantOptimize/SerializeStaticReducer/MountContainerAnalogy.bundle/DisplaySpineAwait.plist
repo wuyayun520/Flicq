@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredMapper</key>
+	<string>notificationStrategy</string>
+	<key>plateType</key>
+	<string>sophisticatedSample</string>
+	<key>shouldpainttabbar</key>
+	<string>euclideanCursor</string>
+	<key>themescale</key>
+	<string>shouldAnimateMediaQuery</string>
+	<key>vertexhue</key>
+	<string>delegatemediatorrotation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveCell</key>
+	<string>binaryBrightness</string>
+	<key>dimensionCenter</key>
+	<string>insteadLoop</string>
+	<key>displayableSelector</key>
+	<string>discardedBinder</string>
+	<key>entityduration</key>
+	<string>gateCommand</string>
+	<key>lazyMaterial</key>
+	<string>inactiveGrain</string>
+	<key>resizableAudio</key>
+	<string>temporaryCoordinator</string>
+	<key>shouldResumeProfile</key>
+	<string>sceneCoord</string>
+	<key>shouldStartDescriptor</key>
+	<string>canNotifyConstraint</string>
+	<key>stateName</key>
+	<string>visitAlignment</string>
+</dict>
+</plist>

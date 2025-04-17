@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentChart</key>
+	<string>touchformat</string>
+	<key>dedicatedSubpixel</key>
+	<string>otherStroke</string>
+	<key>normalSubscriber</key>
+	<string>infoSpacing</string>
+	<key>publicSingleton</key>
+	<string>subscriptionOrientation</string>
+	<key>queueTension</key>
+	<string>canFetchSample</string>
+	<key>scalabilityinterval</key>
+	<string>tweenBrightness</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarInteraction</key>
+	<string>touchTension</string>
+	<key>firstprogressbar</key>
+	<string>titlewithoutenvironment</string>
+	<key>shouldYieldSkin</key>
+	<string>sceneTag</string>
+	<key>shoulddisconnectthread</key>
+	<string>holdframe</string>
+	<key>stampFlags</key>
+	<string>observerFunction</string>
+</dict>
+</plist>

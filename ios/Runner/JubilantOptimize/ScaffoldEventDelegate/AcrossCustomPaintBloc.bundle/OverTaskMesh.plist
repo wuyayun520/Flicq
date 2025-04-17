@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeText</key>
+	<string>publishBinary</string>
+	<key>enabledRestriction</key>
+	<string>durationstrategyspacing</string>
+	<key>inheritedText</key>
+	<string>unscheduleStorage</string>
+	<key>primaryProfile</key>
+	<string>confidentialityScale</string>
+	<key>progressbardistance</key>
+	<string>nexttransformersize</string>
+	<key>radioRate</key>
+	<string>toolPosition</string>
+	<key>shouldBuildCard</key>
+	<string>permanentCapacity</string>
+</dict>
+</plist>

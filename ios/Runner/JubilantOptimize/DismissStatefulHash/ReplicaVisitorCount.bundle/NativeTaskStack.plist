@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMaster</key>
+	<string>accessorystate</string>
+	<key>certificateDepth</key>
+	<string>shouldPopBox</string>
+	<key>extensionpressure</key>
+	<string>sceneTheme</string>
+	<key>fragmentSpeed</key>
+	<string>titlevolume</string>
+	<key>modalrecursion</key>
+	<string>groupForce</string>
+	<key>permissiveAlpha</key>
+	<string>advancedinstruction</string>
+	<key>shouldListenStep</key>
+	<string>shouldPublishHero</string>
+	<key>shouldUpdateFuture</key>
+	<string>optimizeWidget</string>
+	<key>subsequenteventdelay</key>
+	<string>shouldStartFlex</string>
+</dict>
+</plist>

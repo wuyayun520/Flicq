@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectskirt</key>
+	<string>handleruntiljob</string>
+	<key>eagerShape</key>
+	<string>pointVisitor</string>
+	<key>playbackkind</key>
+	<string>enabledEvent</string>
+	<key>pointAcceleration</key>
+	<string>sortedimagename</string>
+	<key>referencedrawer</key>
+	<string>advancedconvolution</string>
+	<key>rendererDensity</key>
+	<string>grainShade</string>
+	<key>shouldFetchMusic</key>
+	<string>playController</string>
+	<key>shouldListenGift</key>
+	<string>showEntity</string>
+	<key>shouldSaveAlpha</key>
+	<string>independentCapacity</string>
+	<key>shouldStopMatrix</key>
+	<string>usageStage</string>
+</dict>
+</plist>

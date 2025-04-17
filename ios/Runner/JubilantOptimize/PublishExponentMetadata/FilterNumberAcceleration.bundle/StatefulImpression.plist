@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintAcceleration</key>
+	<string>completionValue</string>
+	<key>effectsubscriber</key>
+	<string>detachhandler</string>
+	<key>hyperbolicSemantics</key>
+	<string>oncoordinatorchanged</string>
+	<key>ignoredDisclaimer</key>
+	<string>semanticIndicator</string>
+	<key>semanticEffect</key>
+	<string>loaderSkewY</string>
+	<key>shouldencodereduction</key>
+	<string>accordionReduction</string>
+</dict>
+</plist>

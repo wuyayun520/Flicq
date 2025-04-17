@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionDetector</key>
+	<string>intermediatePoint</string>
+	<key>appbarRate</key>
+	<string>gatecomponent</string>
+	<key>customizedTopic</key>
+	<string>objectInteraction</string>
+	<key>delicateAction</key>
+	<string>labelinsideparam</string>
+	<key>handleternary</key>
+	<string>pointdespitetype</string>
+	<key>localObject</key>
+	<string>dropdownbuttonMethod</string>
+	<key>retainedLoop</key>
+	<string>canSaveProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalPresenter</key>
+	<string>selectedWorkflow</string>
+	<key>featureStyle</key>
+	<string>ondocumenttap</string>
+	<key>shouldEncodeMultiplication</key>
+	<string>multiDocument</string>
+	<key>shouldYieldSession</key>
+	<string>invisiblePosition</string>
+	<key>usageFrequency</key>
+	<string>interactiveHistogram</string>
+</dict>
+</plist>

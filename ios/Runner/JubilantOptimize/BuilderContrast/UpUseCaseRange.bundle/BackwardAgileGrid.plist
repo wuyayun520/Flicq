@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialInteger</key>
+	<string>synchronousScene</string>
+	<key>immediateAscent</key>
+	<string>transitionlocation</string>
+	<key>resizableWidget</key>
+	<string>menuAdapter</string>
+	<key>shouldConnectShader</key>
+	<string>parallelListener</string>
+	<key>shouldPersistGradient</key>
+	<string>istabbar</string>
+	<key>sortedNotation</key>
+	<string>selectedReduction</string>
+	<key>statelessDetector</key>
+	<string>effectPressure</string>
+	<key>themeDepth</key>
+	<string>saveChallenge</string>
+</dict>
+</plist>

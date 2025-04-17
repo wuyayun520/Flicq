@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCaption</key>
+	<string>denseRouter</string>
+	<key>defaultexpanded</key>
+	<string>basicWrapper</string>
+	<key>dynamicTicker</key>
+	<string>canEmitPoint</string>
+	<key>gatedistance</key>
+	<string>displayableIntensity</string>
+	<key>independentRow</key>
+	<string>parallelVertex</string>
+	<key>isolateHead</key>
+	<string>canPopCurve</string>
+	<key>isolatescroller</key>
+	<string>requiredGraph</string>
+	<key>richtextLocation</key>
+	<string>shouldInitializeExponent</string>
+</dict>
+</plist>

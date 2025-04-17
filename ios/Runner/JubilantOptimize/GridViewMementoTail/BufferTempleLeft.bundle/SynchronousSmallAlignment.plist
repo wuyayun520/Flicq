@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardSpeed</key>
+	<string>requiredListener</string>
+	<key>cartesianMultiplication</key>
+	<string>persistComposition</string>
+	<key>denseInformation</key>
+	<string>neweststream</string>
+	<key>invisibleTabBar</key>
+	<string>subpixelLocation</string>
+	<key>reducerstyle</key>
+	<string>shouldStartModal</string>
+	<key>resumenavigator</key>
+	<string>introspecthandler</string>
+	<key>synchronoustransition</key>
+	<string>publishentropy</string>
+</dict>
+</plist>

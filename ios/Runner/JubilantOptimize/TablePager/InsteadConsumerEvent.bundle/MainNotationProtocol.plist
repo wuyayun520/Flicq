@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticView</key>
+	<string>modulusoperation</string>
+	<key>shouldMountedFlex</key>
+	<string>embraceoverlay</string>
+	<key>shouldfetchstep</key>
+	<string>convertTimer</string>
+	<key>symmetricTimer</key>
+	<string>defaultOption</string>
+</dict>
+</plist>

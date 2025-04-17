@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardGesture</key>
+	<string>canLayoutSkin</string>
+	<key>cursorIndex</key>
+	<string>semanticgraph</string>
+	<key>hasGesture</key>
+	<string>shouldUpdateSpine</string>
+	<key>isolatePosition</key>
+	<string>stopLayout</string>
+</dict>
+</plist>

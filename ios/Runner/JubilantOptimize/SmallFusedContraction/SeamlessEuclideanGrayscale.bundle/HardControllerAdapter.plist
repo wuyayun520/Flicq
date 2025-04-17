@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorScale</key>
+	<string>enabledGram</string>
+	<key>localizationmatrix</key>
+	<string>ignoredInterpolation</string>
+	<key>shouldPushStep</key>
+	<string>layerBound</string>
+	<key>standalonemusic</key>
+	<string>standaloneInfrastructure</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveView</key>
+	<string>hierarchicalListener</string>
+	<key>draggableReference</key>
+	<string>setstateProject</string>
+	<key>futurerate</key>
+	<string>encodeSubpixel</string>
+	<key>pinchableQuaternion</key>
+	<string>timerFlags</string>
+	<key>requiredMapper</key>
+	<string>concatenateLabel</string>
+	<key>shouldAttachAnimation</key>
+	<string>newestPopup</string>
+	<key>textDensity</key>
+	<string>uniformException</string>
+</dict>
+</plist>

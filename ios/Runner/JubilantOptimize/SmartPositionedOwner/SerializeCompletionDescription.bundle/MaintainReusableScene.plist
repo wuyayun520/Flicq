@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMember</key>
+	<string>menuPhase</string>
+	<key>dedicatedlistviewrotation</key>
+	<string>graphicadaptertail</string>
+	<key>displayablepublisher</key>
+	<string>optionShade</string>
+	<key>fetchternary</key>
+	<string>paintAxis</string>
+	<key>interfaceKind</key>
+	<string>firstSlash</string>
+	<key>shouldConnectTextField</key>
+	<string>parseSprite</string>
+	<key>shouldSavePrecision</key>
+	<string>globalRouter</string>
+	<key>shouldTransformTernary</key>
+	<string>parseLoss</string>
+</dict>
+</plist>

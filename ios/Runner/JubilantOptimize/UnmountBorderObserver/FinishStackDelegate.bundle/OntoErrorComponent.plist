@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalSubpixel</key>
+	<string>concurrentPet</string>
+	<key>dynamicError</key>
+	<string>seekStream</string>
+	<key>operationValidation</key>
+	<string>immediateThread</string>
+	<key>persistentMesh</key>
+	<string>resizableRow</string>
+	<key>responsefacadebrightness</key>
+	<string>newestRenderer</string>
+</dict>
+</plist>

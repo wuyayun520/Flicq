@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorvisible</key>
+	<string>switchTail</string>
+	<key>basicMetadata</key>
+	<string>liteEvent</string>
+	<key>descriptiontheme</key>
+	<string>progressbaradapterscale</string>
+	<key>greatAnchor</key>
+	<string>tickerforframework</string>
+	<key>serviceName</key>
+	<string>transpileUtil</string>
+	<key>shouldBuildDimension</key>
+	<string>rowSkewX</string>
+	<key>spritebottom</key>
+	<string>protocolOffset</string>
+	<key>statelessGesture</key>
+	<string>canUnmountedInkWell</string>
+</dict>
+</plist>

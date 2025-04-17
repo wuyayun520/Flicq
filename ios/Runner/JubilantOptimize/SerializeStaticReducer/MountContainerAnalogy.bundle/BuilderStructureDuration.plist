@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedProject</key>
+	<string>splitterValidation</string>
+	<key>progressbarMode</key>
+	<string>mobilefrequency</string>
+	<key>routeasync</key>
+	<string>dismissRole</string>
+	<key>scaleRotation</key>
+	<string>transitionStage</string>
+</dict>
+</plist>

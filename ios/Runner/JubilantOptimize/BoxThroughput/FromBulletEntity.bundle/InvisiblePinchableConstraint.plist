@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedChannel</key>
+	<string>spriteVisible</string>
+	<key>chapterColor</key>
+	<string>painterObserver</string>
+	<key>protectedprojection</key>
+	<string>activatehandler</string>
+	<key>reusableChannels</key>
+	<string>sequentialScene</string>
+</dict>
+</plist>

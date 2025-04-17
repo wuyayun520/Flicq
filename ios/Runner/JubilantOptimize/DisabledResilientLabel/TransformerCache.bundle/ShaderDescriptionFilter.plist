@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredAnchor</key>
+	<string>reconcileAnimation</string>
+	<key>newestMaster</key>
+	<string>columnDepth</string>
+	<key>othercontroller</key>
+	<string>notificationsearcher</string>
+	<key>propagatefuture</key>
+	<string>standaloneFinder</string>
+	<key>shouldBindPadding</key>
+	<string>spriteOffset</string>
+	<key>shouldCreateAlert</key>
+	<string>replicateBuffer</string>
+	<key>shouldDisconnectBatch</key>
+	<string>customizedInfrastructure</string>
+</dict>
+</plist>

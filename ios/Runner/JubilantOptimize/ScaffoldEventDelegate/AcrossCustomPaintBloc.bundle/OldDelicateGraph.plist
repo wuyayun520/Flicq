@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentItem</key>
+	<string>shouldListenArithmetic</string>
+	<key>graphscale</key>
+	<string>detachmap</string>
+	<key>lazyNavigation</key>
+	<string>stringifyindicator</string>
+	<key>shouldpopvariant</key>
+	<string>requiredPoint</string>
+	<key>taxonomyInteraction</key>
+	<string>cardBorder</string>
+</dict>
+</plist>

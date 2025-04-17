@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateOffset</key>
+	<string>blocPhase</string>
+	<key>specifyutiltransparency</key>
+	<string>requestAllocator</string>
+	<key>tensorEvolution</key>
+	<string>encodeIndicator</string>
+	<key>tweenIndex</key>
+	<string>canSubscribeTabView</string>
+	<key>usageLocation</key>
+	<string>loadAnimation</string>
+</dict>
+</plist>

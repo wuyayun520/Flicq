@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionclipperlocation</key>
+	<string>parseBoxShadow</string>
+	<key>cubitcombiner</key>
+	<string>observeSample</string>
+	<key>protectedCache</key>
+	<string>itemRotation</string>
+	<key>shouldobserverow</key>
+	<string>minAperture</string>
+	<key>wrapperBehavior</key>
+	<string>publisherTheme</string>
+</dict>
+</plist>

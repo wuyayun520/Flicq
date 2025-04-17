@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableSelector</key>
+	<string>slidertint</string>
+	<key>keytext</key>
+	<string>stackValue</string>
+	<key>shouldparserole</key>
+	<string>repositoryplatformpressure</string>
+	<key>sorterLeft</key>
+	<string>timelineSpeed</string>
+	<key>strengthmomentum</key>
+	<string>multiplyReducer</string>
+</dict>
+</plist>

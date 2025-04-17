@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitysensor</key>
+	<string>inheritedUseCase</string>
+	<key>creatorAlignment</key>
+	<string>pendingStoryboard</string>
+	<key>draggableResponder</key>
+	<string>shouldPublishPet</string>
+	<key>enhanceanimatedcontainer</key>
+	<string>combineService</string>
+	<key>handlerspeed</key>
+	<string>dialogslifecycle</string>
+	<key>keyStorage</key>
+	<string>disparateGridView</string>
+	<key>largeInteractor</key>
+	<string>modalSize</string>
+	<key>onbitratetap</key>
+	<string>mediocrePresenter</string>
+	<key>reusableStack</key>
+	<string>accelerateFactory</string>
+	<key>storageContrast</key>
+	<string>immutableCaption</string>
+</dict>
+</plist>

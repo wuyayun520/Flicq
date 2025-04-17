@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredNotifier</key>
+	<string>detachTheme</string>
+	<key>gemDistance</key>
+	<string>requestEvent</string>
+	<key>parallelfactory</key>
+	<string>apertureHue</string>
+	<key>pivotalPolyfill</key>
+	<string>dimensionVisible</string>
+	<key>schemaindex</key>
+	<string>shouldSetStateOverlay</string>
+	<key>semanticModulus</key>
+	<string>constraintHue</string>
+	<key>typicalSingleton</key>
+	<string>shouldLoadMedia</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVelocity</key>
+	<string>animationPhase</string>
+	<key>curveduringplatform</key>
+	<string>uniqueRectangle</string>
+	<key>lastCosine</key>
+	<string>shouldDispatchThread</string>
+	<key>memberinterval</key>
+	<string>tensorAscent</string>
+	<key>mobilelistener</key>
+	<string>boxborder</string>
+	<key>protectedPlayback</key>
+	<string>consultativeListener</string>
+	<key>resolverOffset</key>
+	<string>titleBridge</string>
+	<key>shouldTransitionCoordinator</key>
+	<string>shouldDeserializeMember</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitplatformkind</key>
+	<string>autoCollection</string>
+	<key>blocvisibility</key>
+	<string>scheduleresult</string>
+	<key>builderprototypecontrast</key>
+	<string>primaryTimer</string>
+	<key>firstBinder</key>
+	<string>criticalDocument</string>
+	<key>mutableSizedBox</key>
+	<string>opaqueVideo</string>
+	<key>pooloptimizer</key>
+	<string>canPresentStateful</string>
+	<key>promiseCenter</key>
+	<string>declarativeAnchor</string>
+	<key>selectorDirection</key>
+	<string>sophisticatedEfficiency</string>
+	<key>shouldMountedUsage</key>
+	<string>deferredTernary</string>
+</dict>
+</plist>

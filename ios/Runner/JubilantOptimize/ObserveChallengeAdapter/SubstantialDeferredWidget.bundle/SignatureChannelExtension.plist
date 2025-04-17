@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianChart</key>
+	<string>logarithmInset</string>
+	<key>deferreddetail</key>
+	<string>optionservice</string>
+	<key>elasticityHead</key>
+	<string>limitSingleton</string>
+	<key>isDropdownButton</key>
+	<string>compositionalScheduler</string>
+	<key>opaqueIndicator</key>
+	<string>chapterSpacing</string>
+	<key>reactivegradient</key>
+	<string>keepActivity</string>
+	<key>seamlessbatchfrequency</key>
+	<string>canEndLayout</string>
+	<key>shouldEncodeScreen</key>
+	<string>logarithmstylestyle</string>
+	<key>shouldFinishNavigation</key>
+	<string>lostStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorName</key>
+	<string>firstTrajectory</string>
+	<key>dedicatedtitlescale</key>
+	<string>mixinResolver</string>
+	<key>optimizerHead</key>
+	<string>shaderValidation</string>
+	<key>robustAudio</key>
+	<string>activatedRemediation</string>
+	<key>searchproject</key>
+	<string>invisibleMatrix</string>
+	<key>shouldDispatchBrush</key>
+	<string>canPersistAnchor</string>
+	<key>shouldPaintSubpixel</key>
+	<string>poolDuration</string>
+</dict>
+</plist>

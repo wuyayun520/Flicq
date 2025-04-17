@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionNotifier</key>
+	<string>threadsincejob</string>
+	<key>activatedRequest</key>
+	<string>canObserveText</string>
+	<key>deferredroute</key>
+	<string>attachRouter</string>
+	<key>shouldResumeAlpha</key>
+	<string>calculateFuture</string>
+	<key>statelessMechanism</key>
+	<string>delegateHue</string>
+	<key>staticbutton</key>
+	<string>shouldUnmountedPlayback</string>
+	<key>subsequentmanager</key>
+	<string>difficultThreshold</string>
+</dict>
+</plist>

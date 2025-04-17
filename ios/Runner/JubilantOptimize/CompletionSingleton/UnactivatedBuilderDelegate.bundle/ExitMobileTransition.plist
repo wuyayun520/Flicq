@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedTime</key>
+	<string>detachGraph</string>
+	<key>cartesianScroller</key>
+	<string>logAction</string>
+	<key>ignoredBandwidth</key>
+	<string>responderrate</string>
+	<key>iterativeFrame</key>
+	<string>petBehavior</string>
+	<key>resumefuture</key>
+	<string>reduceParticle</string>
+	<key>rowadaptermomentum</key>
+	<string>removetexture</string>
+	<key>shouldPauseCanvas</key>
+	<string>fixedFeature</string>
+	<key>shouldSkipTangent</key>
+	<string>diffablefuture</string>
+	<key>subsequentSession</key>
+	<string>inheritedpresenter</string>
+</dict>
+</plist>

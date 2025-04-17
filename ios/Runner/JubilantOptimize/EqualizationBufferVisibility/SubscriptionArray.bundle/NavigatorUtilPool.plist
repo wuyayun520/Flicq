@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleNavigator</key>
+	<string>routefactory</string>
+	<key>blocdirection</key>
+	<string>timelineskewy</string>
+	<key>charttypebound</key>
+	<string>yieldcatalyst</string>
+	<key>cubitbottom</key>
+	<string>shouldCreateMedia</string>
+	<key>otherpolygon</key>
+	<string>protectedtask</string>
+	<key>shadertransformer</key>
+	<string>cursorStage</string>
+	<key>shouldRestartCapsule</key>
+	<string>shouldPrepareNavigator</string>
+	<key>shouldTransitionRow</key>
+	<string>otherDuration</string>
+	<key>storefeedback</key>
+	<string>histograminterval</string>
+</dict>
+</plist>

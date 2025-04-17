@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushTheme</key>
+	<string>drawCallback</string>
+	<key>customFinder</key>
+	<string>fetchCatalyst</string>
+	<key>discardedStrength</key>
+	<string>enablednavigatorbottom</string>
+	<key>lazytrigger</key>
+	<string>retainedTicker</string>
+	<key>respectiveEffect</key>
+	<string>symmetricObserver</string>
+	<key>restartresponse</key>
+	<string>traversaltag</string>
+	<key>robustProfile</key>
+	<string>sortedroute</string>
+	<key>shouldlistenmediaquery</key>
+	<string>pivotalScroller</string>
+</dict>
+</plist>

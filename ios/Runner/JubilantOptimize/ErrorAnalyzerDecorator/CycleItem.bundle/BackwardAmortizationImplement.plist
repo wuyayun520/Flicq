@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramTint</key>
+	<string>cacheTask</string>
+	<key>keyScroller</key>
+	<string>pauseAnimation</string>
+	<key>shouldRebuildButton</key>
+	<string>temporaryChart</string>
+	<key>shouldRenderTask</key>
+	<string>normValidation</string>
+	<key>smartAlpha</key>
+	<string>granularRouter</string>
+	<key>taskperparameter</key>
+	<string>baseVisitor</string>
+</dict>
+</plist>

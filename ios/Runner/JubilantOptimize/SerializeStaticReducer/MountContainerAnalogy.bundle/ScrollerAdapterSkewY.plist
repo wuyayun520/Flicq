@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impactMode</key>
+	<string>declarativeJoiner</string>
+	<key>methodmaterializer</key>
+	<string>inflateArithmetic</string>
+	<key>originalRadio</key>
+	<string>displayablelatency</string>
+	<key>shouldCacheAnimation</key>
+	<string>threadresponse</string>
+	<key>tensorMedia</key>
+	<string>rapidConfidentiality</string>
+	<key>visiblecontrast</key>
+	<string>quantizationLabel</string>
+</dict>
+</plist>

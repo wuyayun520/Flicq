@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderinteraction</key>
+	<string>deferredCheckbox</string>
+	<key>eventthroughenvironment</key>
+	<string>statefulLayout</string>
+	<key>interactionDirection</key>
+	<string>platebuilder</string>
+	<key>ontaskchanged</key>
+	<string>clipcontroller</string>
+	<key>rowalongmode</key>
+	<string>handlerobservertag</string>
+	<key>sequentialColumn</key>
+	<string>cursorFrequency</string>
+	<key>shouldBuildDimension</key>
+	<string>accessoryPosition</string>
+	<key>unmountaspect</key>
+	<string>responsename</string>
+	<key>unsortedpolyfill</key>
+	<string>ignoredMend</string>
+</dict>
+</plist>

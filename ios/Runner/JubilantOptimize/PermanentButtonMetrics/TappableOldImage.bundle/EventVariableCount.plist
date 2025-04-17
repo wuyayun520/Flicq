@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deploystate</key>
+	<string>shouldCancelDecoration</string>
+	<key>drawersearcher</key>
+	<string>visitRow</string>
+	<key>momentumforce</key>
+	<string>canShowAspect</string>
+	<key>pageviewcount</key>
+	<string>locateLayer</string>
+	<key>shouldCancelCheckbox</key>
+	<string>graphFlyweight</string>
+	<key>shouldloadequalization</key>
+	<string>pivotalShader</string>
+	<key>textureContrast</key>
+	<string>labelStrategy</string>
+	<key>uniqueGem</key>
+	<string>shouldDisconnectAspect</string>
+	<key>wrapcurve</key>
+	<string>filterIndex</string>
+</dict>
+</plist>

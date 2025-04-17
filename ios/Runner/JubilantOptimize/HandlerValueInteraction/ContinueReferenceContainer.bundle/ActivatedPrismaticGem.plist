@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedStateful</key>
+	<string>semanticCatalyst</string>
+	<key>currentSprite</key>
+	<string>unactivatedDocument</string>
+	<key>errorkind</key>
+	<string>intuitivePopup</string>
+	<key>functionalDisclaimer</key>
+	<string>canTransformRole</string>
+	<key>handleroute</key>
+	<string>bulletDepth</string>
+	<key>hasProject</key>
+	<string>ephemeralLayout</string>
+	<key>invisibleElasticity</key>
+	<string>interactorchaincenter</string>
+	<key>similarTask</key>
+	<string>completerFlags</string>
+	<key>smallEvent</key>
+	<string>boxBridge</string>
+	<key>writepadding</key>
+	<string>adaptiveTexture</string>
+</dict>
+</plist>

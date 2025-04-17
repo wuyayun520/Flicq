@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartactivitystyle</key>
+	<string>timerScale</string>
+	<key>currentLabel</key>
+	<string>binderOpacity</string>
+	<key>disparateDescent</key>
+	<string>robustRectangle</string>
+	<key>framestagehue</key>
+	<string>bufferwithframework</string>
+	<key>granularCompletion</key>
+	<string>routeThread</string>
+	<key>rowobservertint</key>
+	<string>consumptionType</string>
+	<key>vertexAppearance</key>
+	<string>storeOpacity</string>
+</dict>
+</plist>

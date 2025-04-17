@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cellScale</key>
+	<string>coordinatorAction</string>
+	<key>hierarchicalColor</key>
+	<string>singleRestriction</string>
+	<key>intuitivePositioned</key>
+	<string>unsortedGestureDetector</string>
+	<key>materialBuilder</key>
+	<string>maxNorm</string>
+	<key>notificationTag</key>
+	<string>persistentGift</string>
+	<key>sessionCoord</key>
+	<string>sustainableAudio</string>
+	<key>standalonelayout</key>
+	<string>difficultThreshold</string>
+	<key>topicalongmethod</key>
+	<string>permissiveMethod</string>
+</dict>
+</plist>

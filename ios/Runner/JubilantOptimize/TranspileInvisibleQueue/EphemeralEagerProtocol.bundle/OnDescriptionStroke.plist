@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEvaluation</key>
+	<string>channelsstateposition</string>
+	<key>deferredCreator</key>
+	<string>mobileVisible</string>
+	<key>efficiencystate</key>
+	<string>subscriptionfromstate</string>
+	<key>fixedListener</key>
+	<string>checkService</string>
+	<key>notationVelocity</key>
+	<string>currentprovider</string>
+	<key>temporaryGradient</key>
+	<string>iterativeAppBar</string>
+	<key>usedAnimation</key>
+	<string>sharedChapter</string>
+</dict>
+</plist>

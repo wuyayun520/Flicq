@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryFormat</key>
+	<string>durationFunction</string>
+	<key>checkboxcontextformat</key>
+	<string>canFinishPlate</string>
+	<key>listviewcreator</key>
+	<string>canContinueProtocol</string>
+	<key>prevQueue</key>
+	<string>canRenderMediaQuery</string>
+	<key>shouldParseNavigator</key>
+	<string>intuitiveTernary</string>
+	<key>timelineBorder</key>
+	<string>combineLabel</string>
+</dict>
+</plist>

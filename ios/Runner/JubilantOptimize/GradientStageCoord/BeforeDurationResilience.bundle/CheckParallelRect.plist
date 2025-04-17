@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentStack</key>
+	<string>shouldEndModal</string>
+	<key>firstparticledensity</key>
+	<string>canSetStateDropdownButton</string>
+	<key>inheritedSingleton</key>
+	<string>resolvetask</string>
+	<key>largeText</key>
+	<string>canEndMatrix</string>
+	<key>nextMapper</key>
+	<string>analogyVelocity</string>
+	<key>nibTail</key>
+	<string>subpixelVelocity</string>
+	<key>referenceskewx</key>
+	<string>resultinstyle</string>
+	<key>statefulLoader</key>
+	<string>opaqueRectangle</string>
+</dict>
+</plist>

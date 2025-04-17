@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aperturekindkind</key>
+	<string>shouldEndMargin</string>
+	<key>customScroller</key>
+	<string>gridviewStructure</string>
+	<key>interactiveScreen</key>
+	<string>fusedAsset</string>
+	<key>invisibleSizedBox</key>
+	<string>usecaseVisible</string>
+	<key>largeTheme</key>
+	<string>extensionversusmediator</string>
+	<key>limitexpanded</key>
+	<string>requiredCycle</string>
+	<key>mainGridView</key>
+	<string>mobileTabBar</string>
+	<key>particleOrigin</key>
+	<string>shouldInitializeReference</string>
+</dict>
+</plist>

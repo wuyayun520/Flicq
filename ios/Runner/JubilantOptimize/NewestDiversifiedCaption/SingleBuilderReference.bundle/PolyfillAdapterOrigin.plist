@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerContrast</key>
+	<string>configurationcolor</string>
+	<key>metricsMode</key>
+	<string>convolutionValidation</string>
+	<key>mutableShader</key>
+	<string>quantizerTexture</string>
+	<key>resizableRichText</key>
+	<string>subtleAnimator</string>
+	<key>segueBottom</key>
+	<string>shouldContinueRichText</string>
+	<key>shouldRestartPromise</key>
+	<string>heapspeed</string>
+	<key>shouldmountedmusic</key>
+	<string>localChapter</string>
+	<key>signsaturation</key>
+	<string>movementexceptcomposite</string>
+	<key>synchronousTexture</key>
+	<string>discardedAwait</string>
+</dict>
+</plist>

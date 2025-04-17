@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileListener</key>
+	<string>greatText</string>
+	<key>agileVertex</key>
+	<string>shouldYieldCosine</string>
+	<key>requestaboutchain</key>
+	<string>providerflags</string>
+	<key>shouldPauseInterpolation</key>
+	<string>strengthBrightness</string>
+	<key>shouldUnbindNavigation</key>
+	<string>inheritedBase</string>
+	<key>shouldfetchmodal</key>
+	<string>canCreateSignature</string>
+	<key>skirtShade</key>
+	<string>shouldInitializeGesture</string>
+	<key>staticAnchor</key>
+	<string>shouldunbindsignature</string>
+	<key>tappableController</key>
+	<string>advancedbullet</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableAperture</key>
+	<string>skinParameter</string>
+	<key>criticalCompletion</key>
+	<string>completedCupertino</string>
+	<key>finderInset</key>
+	<string>difficultGesture</string>
+	<key>hardTicker</key>
+	<string>bindSemantics</string>
+	<key>listviewSpacing</key>
+	<string>eraseUtil</string>
+	<key>mutableVolume</key>
+	<string>shouldAttachArithmetic</string>
+	<key>painterStyle</key>
+	<string>callbackbrightness</string>
+	<key>positionbynumber</key>
+	<string>scaleShade</string>
+	<key>publicSegue</key>
+	<string>shouldStopBloc</string>
+	<key>titleTheme</key>
+	<string>yieldbutton</string>
+</dict>
+</plist>

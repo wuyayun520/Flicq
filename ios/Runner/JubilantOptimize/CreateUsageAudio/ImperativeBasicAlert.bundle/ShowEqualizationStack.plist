@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateTheme</key>
+	<string>finderIndex</string>
+	<key>factorycontainmethod</key>
+	<string>mediumHeap</string>
+	<key>frameaslevel</key>
+	<string>canNotifyGradient</string>
+	<key>obtainexception</key>
+	<string>shouldShowMap</string>
+	<key>queuedescent</key>
+	<string>updatealert</string>
+	<key>secondBandwidth</key>
+	<string>notifyThread</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>protectedProvision</key>
+	<string>mediocreTween</string>
+	<key>shouldContinueIcon</key>
+	<string>crudeTicker</string>
+	<key>shouldListenExponent</key>
+	<string>registerIsolate</string>
+	<key>techniqueFlags</key>
+	<string>effectVar</string>
+</dict>
+</plist>

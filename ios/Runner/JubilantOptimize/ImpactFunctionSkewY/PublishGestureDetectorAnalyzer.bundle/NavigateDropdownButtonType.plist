@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxtaskappearance</key>
+	<string>cupertinoTexture</string>
+	<key>dropoutrequest</key>
+	<string>enhanceinjection</string>
+	<key>indicatortexture</key>
+	<string>immutableIntegrity</string>
+	<key>inheritedInterpolation</key>
+	<string>draggableFragment</string>
+	<key>mapAppearance</key>
+	<string>storyboardlevelshape</string>
+	<key>modelFlags</key>
+	<string>setstateCatalyst</string>
+	<key>normalRole</key>
+	<string>associateResponse</string>
+	<key>primarySound</key>
+	<string>shoulddismissbrush</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousactiondensity</key>
+	<string>connectPadding</string>
+	<key>customGraphic</key>
+	<string>mediaqueryShade</string>
+	<key>intermediateResponder</key>
+	<string>profileDecoration</string>
+	<key>listenerexceptshape</key>
+	<string>elasticSize</string>
+	<key>quaternionCount</key>
+	<string>interactiveposition</string>
+	<key>retainedBuilder</key>
+	<string>canListenDelegate</string>
+	<key>shouldMountObserver</key>
+	<string>repositoryRight</string>
+</dict>
+</plist>

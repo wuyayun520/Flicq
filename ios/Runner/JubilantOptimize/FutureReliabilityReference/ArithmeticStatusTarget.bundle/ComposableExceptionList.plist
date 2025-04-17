@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtrigger</key>
+	<string>shouldSubscribeCharacter</string>
+	<key>cubeName</key>
+	<string>descentmomentum</string>
+	<key>fragmentEdge</key>
+	<string>tabbarCoord</string>
+	<key>invisibleBuilder</key>
+	<string>parseReference</string>
+	<key>materialLeft</key>
+	<string>stopAnimation</string>
+	<key>multiRadio</key>
+	<string>subtleExponent</string>
+	<key>publicPadding</key>
+	<string>cupertinostampsize</string>
+</dict>
+</plist>

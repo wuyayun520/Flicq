@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEvolution</key>
+	<string>directlymemberfrequency</string>
+	<key>bulletColor</key>
+	<string>alertProxy</string>
+	<key>granularReliability</key>
+	<string>debugQueue</string>
+	<key>intermediateCube</key>
+	<string>marginContext</string>
+	<key>normalCompleter</key>
+	<string>missedCharacteristic</string>
+	<key>unactivatedCreator</key>
+	<string>popTernary</string>
+</dict>
+</plist>

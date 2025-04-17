@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitRouter</key>
+	<string>liteAnimator</string>
+	<key>geometricVariant</key>
+	<string>viewPattern</string>
+	<key>gesturedetectorVelocity</key>
+	<string>encodestate</string>
+	<key>injectionstaterotation</key>
+	<string>sequentialCombiner</string>
+	<key>inkwellparamborder</key>
+	<string>combineCallback</string>
+	<key>shouldPushProject</key>
+	<string>frameHead</string>
+	<key>smartSwift</key>
+	<string>transformProject</string>
+	<key>unactivatedIntegrity</key>
+	<string>shouldBindCycle</string>
+</dict>
+</plist>

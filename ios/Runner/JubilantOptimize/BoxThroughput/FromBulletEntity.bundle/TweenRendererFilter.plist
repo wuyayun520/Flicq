@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layoutvaluetint</key>
+	<string>subscriptionLevel</string>
+	<key>normalgraphic</key>
+	<string>handleaspectratio</string>
+	<key>replicatetext</key>
+	<string>tweenSkewX</string>
+	<key>subtleMetrics</key>
+	<string>cyclerotation</string>
+</dict>
+</plist>

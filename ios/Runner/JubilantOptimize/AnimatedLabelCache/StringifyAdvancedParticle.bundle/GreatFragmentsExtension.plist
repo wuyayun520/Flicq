@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaCoord</key>
+	<string>resizableTrigger</string>
+	<key>arithmeticCharacter</key>
+	<string>activeContainer</string>
+	<key>behaviorEdge</key>
+	<string>originalternarydensity</string>
+	<key>bufferTop</key>
+	<string>drawerjobskewy</string>
+	<key>delegatekind</key>
+	<string>diffableCoordinator</string>
+	<key>dependencysize</key>
+	<string>sliderType</string>
+	<key>infrastructureAppearance</key>
+	<string>customStorage</string>
+	<key>interpolatepriority</key>
+	<string>descentState</string>
+	<key>intuitiveContrast</key>
+	<string>crudePreview</string>
+	<key>standaloneScenario</key>
+	<string>deprecateMetadata</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containermediatorspeed</key>
+	<string>limitConstraint</string>
+	<key>filterCenter</key>
+	<string>serializeCustomPaint</string>
+	<key>generatepopup</key>
+	<string>gridaroundcycle</string>
+	<key>impressionSaturation</key>
+	<string>permanentAmortization</string>
+	<key>intuitiveAsset</key>
+	<string>interceptRow</string>
+	<key>latencyscale</key>
+	<string>rectangleVisible</string>
+	<key>tabviewOpacity</key>
+	<string>vectorizeLayout</string>
+</dict>
+</plist>

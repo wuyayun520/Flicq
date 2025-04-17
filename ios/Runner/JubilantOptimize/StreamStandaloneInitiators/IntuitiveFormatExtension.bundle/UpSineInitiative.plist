@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentpriority</key>
+	<string>shouldencodesegment</string>
+	<key>dynamicConstant</key>
+	<string>preparegrid</string>
+	<key>enumeratechapter</key>
+	<string>delegatecontrast</string>
+	<key>lastScene</key>
+	<string>localizationbottom</string>
+	<key>persistentRecursion</key>
+	<string>sanitizeOffset</string>
+	<key>resizablePet</key>
+	<string>shouldInflateNotification</string>
+	<key>retaineddependencytail</key>
+	<string>mediumProjection</string>
+</dict>
+</plist>

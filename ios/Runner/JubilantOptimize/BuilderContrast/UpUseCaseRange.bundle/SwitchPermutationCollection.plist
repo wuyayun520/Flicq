@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedMenu</key>
+	<string>commonaxis</string>
+	<key>informationSkewY</key>
+	<string>unmountBloc</string>
+	<key>localizationofphase</key>
+	<string>locateState</string>
+	<key>shouldPushOverlay</key>
+	<string>widgetaspect</string>
+	<key>sortedmetrics</key>
+	<string>subscribeobserver</string>
+</dict>
+</plist>

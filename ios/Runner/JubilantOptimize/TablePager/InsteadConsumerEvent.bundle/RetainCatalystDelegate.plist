@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveEvent</key>
+	<string>canEndLayout</string>
+	<key>concurrentEvent</key>
+	<string>shouldMountedCompletion</string>
+	<key>curveaboutstrategy</key>
+	<string>injectionpadding</string>
+	<key>dimensionMode</key>
+	<string>respectivepromise</string>
+	<key>firstScope</key>
+	<string>calculateInterface</string>
+	<key>publicOperation</key>
+	<string>draggableMusic</string>
+</dict>
+</plist>

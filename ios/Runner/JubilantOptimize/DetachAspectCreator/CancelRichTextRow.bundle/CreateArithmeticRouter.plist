@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentRotation</key>
+	<string>bufferexceptcomposite</string>
+	<key>erasecurve</key>
+	<string>uniqueLinker</string>
+	<key>protectedStamp</key>
+	<string>largeDialogs</string>
+	<key>secondSpine</key>
+	<string>normalmodalappearance</string>
+	<key>sortedrect</key>
+	<string>grainBottom</string>
+	<key>textpublisher</key>
+	<string>currenteffect</string>
+	<key>transitionState</key>
+	<string>inheritedElasticity</string>
+</dict>
+</plist>

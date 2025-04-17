@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseNotification</key>
+	<string>mutableNotation</string>
+	<key>gradienthue</key>
+	<string>materialAnchor</string>
+	<key>iterativeCombiner</key>
+	<string>threadimage</string>
+	<key>scenariovisible</key>
+	<string>attachShader</string>
+	<key>shouldListenLayout</key>
+	<string>shouldDecodeMomentum</string>
+</dict>
+</plist>

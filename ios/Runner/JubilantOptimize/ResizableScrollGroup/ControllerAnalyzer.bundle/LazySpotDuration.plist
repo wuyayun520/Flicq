@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errorHue</key>
+	<string>globalMedia</string>
+	<key>hasImage</key>
+	<string>widgetBrightness</string>
+	<key>layoutedge</key>
+	<string>canTrainDialogs</string>
+	<key>newestTolerance</key>
+	<string>bufferSpacing</string>
+	<key>sophisticatedChecklist</key>
+	<string>newestDescription</string>
+	<key>transformeffect</key>
+	<string>canFormatNotifier</string>
+</dict>
+</plist>

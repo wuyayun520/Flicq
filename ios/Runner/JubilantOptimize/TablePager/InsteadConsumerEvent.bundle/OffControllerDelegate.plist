@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthPressure</key>
+	<string>agilerange</string>
+	<key>cursorVisible</key>
+	<string>accessoryJob</string>
+	<key>geometricStroke</key>
+	<string>asynchronousBaseline</string>
+	<key>permanentStore</key>
+	<string>uniformCollection</string>
+	<key>resizablehistogrambehavior</key>
+	<string>thresholdTail</string>
+</dict>
+</plist>

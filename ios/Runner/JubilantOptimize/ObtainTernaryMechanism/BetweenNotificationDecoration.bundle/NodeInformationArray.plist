@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronoustween</key>
+	<string>lazySample</string>
+	<key>basicTask</key>
+	<string>dynamicTolerance</string>
+	<key>independentTouch</key>
+	<string>otherAspectRatio</string>
+	<key>localizationBorder</key>
+	<string>finishGesture</string>
+	<key>observecompleter</key>
+	<string>alertShade</string>
+	<key>selectedchecklist</key>
+	<string>shouldParseContainer</string>
+	<key>shouldStartTool</key>
+	<string>smallIcon</string>
+	<key>standaloneInterpolation</key>
+	<string>animateMaster</string>
+	<key>unaryOpacity</key>
+	<string>shouldFetchSpecifier</string>
+</dict>
+</plist>

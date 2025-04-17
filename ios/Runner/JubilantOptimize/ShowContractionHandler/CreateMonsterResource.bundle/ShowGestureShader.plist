@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAcceleration</key>
+	<string>accessoryinenvironment</string>
+	<key>mechanismFormat</key>
+	<string>fixedSingleton</string>
+	<key>rapidContraction</key>
+	<string>rectDelay</string>
+	<key>shouldBindStep</key>
+	<string>initializeStream</string>
+</dict>
+</plist>

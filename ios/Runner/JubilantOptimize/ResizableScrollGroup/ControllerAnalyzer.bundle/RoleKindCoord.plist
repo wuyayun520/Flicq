@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerscale</key>
+	<string>escalateTitle</string>
+	<key>independentBehavior</key>
+	<string>mediaParameter</string>
+	<key>mapacceleration</key>
+	<string>masterLeft</string>
+	<key>replicarotation</key>
+	<string>emitcubit</string>
+	<key>screenduringflyweight</key>
+	<string>frameTag</string>
+	<key>shouldPopMission</key>
+	<string>shouldPublishBatch</string>
+	<key>tweenpatterncolor</key>
+	<string>reusablePoint</string>
+</dict>
+</plist>

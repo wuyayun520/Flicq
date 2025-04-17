@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisstyle</key>
+	<string>callbackbesidefunction</string>
+	<key>blocintegrity</key>
+	<string>ternaryCenter</string>
+	<key>inactiveUsage</key>
+	<string>otherModulus</string>
+	<key>newestTernary</key>
+	<string>tasktime</string>
+	<key>prismaticStroke</key>
+	<string>mendCount</string>
+	<key>scenetransparency</key>
+	<string>radiusvariablefrequency</string>
+	<key>serializeutil</key>
+	<string>intensityrect</string>
+	<key>shouldStreamPainter</key>
+	<string>shouldFinishCatalyst</string>
+	<key>spritemode</key>
+	<string>platedelay</string>
+	<key>subtleReceiver</key>
+	<string>canStreamInitiators</string>
+</dict>
+</plist>

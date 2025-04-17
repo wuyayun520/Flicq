@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorContrast</key>
+	<string>canPopSwitch</string>
+	<key>currentArchitecture</key>
+	<string>fusedThread</string>
+	<key>hasicon</key>
+	<string>publicstore</string>
+	<key>lastequivalent</key>
+	<string>composableBrush</string>
+	<key>listenerStatus</key>
+	<string>shouldProcessMaterial</string>
+	<key>oldEvent</key>
+	<string>imperativeBullet</string>
+	<key>shouldLoadCollection</key>
+	<string>pauseStack</string>
+	<key>unsortedSkin</key>
+	<string>visualizeEvent</string>
+</dict>
+</plist>

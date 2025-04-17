@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonVisible</key>
+	<string>shouldInflateExtension</string>
+	<key>compositionalprofileformat</key>
+	<string>asynccoord</string>
+	<key>customgridskewx</key>
+	<string>coordinatorDirection</string>
+	<key>diversifiedresolversize</key>
+	<string>smallInfo</string>
+	<key>hyperbolicCharacter</key>
+	<string>staticboxacceleration</string>
+	<key>intermediateAscent</key>
+	<string>notifyhandler</string>
+	<key>priorSizedBox</key>
+	<string>gridCoord</string>
+	<key>sinkRate</key>
+	<string>writeInteractor</string>
+	<key>taskRotation</key>
+	<string>seamlessBatch</string>
+	<key>uniformDescriptor</key>
+	<string>sophisticateddelegateshape</string>
+</dict>
+</plist>

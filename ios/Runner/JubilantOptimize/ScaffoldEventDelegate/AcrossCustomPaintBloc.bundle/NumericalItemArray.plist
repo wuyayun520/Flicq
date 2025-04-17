@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionhead</key>
+	<string>smallVariant</string>
+	<key>dimensionappearance</key>
+	<string>canInflateRemainder</string>
+	<key>disabledcharacteristic</key>
+	<string>shouldObserveWorkflow</string>
+	<key>eventcompositeborder</key>
+	<string>enhanceservice</string>
+	<key>retainedStroke</key>
+	<string>diffableTabView</string>
+	<key>shouldDispatchRadio</key>
+	<string>exitgraphic</string>
+	<key>shouldEncodeListView</key>
+	<string>anchorStructure</string>
+	<key>shouldPersistTool</key>
+	<string>sequentialOffset</string>
+	<key>shouldStartTransition</key>
+	<string>executeBuffer</string>
+</dict>
+</plist>

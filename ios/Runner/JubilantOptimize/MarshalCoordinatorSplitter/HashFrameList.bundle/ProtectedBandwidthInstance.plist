@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directPlayback</key>
+	<string>entropyChain</string>
+	<key>keyLinker</key>
+	<string>matrixInset</string>
+	<key>protocolCoord</key>
+	<string>threadVar</string>
+	<key>shearlayer</key>
+	<string>clipFeature</string>
+	<key>shouldUnbindSpecifier</key>
+	<string>shouldFetchMaster</string>
+	<key>taskSpeed</key>
+	<string>gesturedetectorAppearance</string>
+</dict>
+</plist>

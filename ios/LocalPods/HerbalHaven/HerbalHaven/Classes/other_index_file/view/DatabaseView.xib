@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="DatabaseView">
+            <connections>
+                <outlet property="everyLabel" destination="yNq-QP-ECX" id="eow-O0-Edb"/>
+                <outlet property="chemicalButton" destination="vMd-xn-Com" id="fNT-sR-gCT"/>
+                <outlet property="smartLabel" destination="B9V-cj-CwN" id="imO-NQ-vkn"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="I0p-r1-fP2" autoresizesSubviews="NO">
+            <rect key="frame" x="0.0" y="0.0" width="634.3" height="127.8"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="topRight" translatesAutoresizingMaskIntoConstraints="NO" id="IYY-8R-xW1" hidden="YES" alignment="center">
+                    <rect key="frame" x="4" y="-0" width="548.7" height="114.3"/>
+                    <subviews>
+                        <label userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="height input domain" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="B9V-cj-CwN" numberOfLines="9">
+                            <rect key="frame" x="-4.6" y="-6.6" width="132.1" height="114.3"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                            <color key="textColor" red="0.31996676123438775" green="0.86290642202511869" blue="0.80495647775651258" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <label userInteractionEnabled="NO" contentMode="top" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" text="table pick load" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="yNq-QP-ECX" numberOfLines="9" highlighted="YES">
+                            <rect key="frame" x="147.9" y="9.3" width="74.7" height="114.3"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                            <color key="textColor" red="0.31704826807907868" green="0.79719862729115654" blue="0.84317603395847834" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button contentMode="left" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="leading" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="vMd-xn-Com">
+                            <rect key="frame" x="237" y="6.6" width="296.3" height="114.3"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="will property button news constraint" image="1242-2688">
+                                <color key="titleColor" red="0.0960168127065278" green="0.96936312880299461" blue="0.37846977138572796" alpha="0.82981520581527957" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="for gift data no label" image="1242-2208">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="highlighted" title="collection online" image="1242-2208">
+                                <color key="titleColor" red="0.14635633029932139" green="1" blue="0.35616746170643654" alpha="0.97558276449675771" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Ope-fT-L8E"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Ope-fT-L8E" firstAttribute="trailing" secondItem="IYY-8R-xW1" secondAttribute="trailing" constant="3" id="OiX-v4-cC0"/>
+                <constraint firstItem="IYY-8R-xW1" firstAttribute="top" secondItem="I0p-r1-fP2" secondAttribute="top" constant="3" id="ea9-EG-aTj"/>
+                <constraint firstAttribute="bottom" secondItem="IYY-8R-xW1" secondAttribute="bottom" constant="4" id="leC-yE-Bid"/>
+                <constraint firstItem="IYY-8R-xW1" firstAttribute="leading" secondItem="Ope-fT-L8E" secondAttribute="leading" constant="3" id="INi-HI-fXP"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="131.12102722173643" y="-421.04276003162202"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="118.9" height="121.0"/>
+        <image name="1242-2208" width="118.9" height="121.0"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

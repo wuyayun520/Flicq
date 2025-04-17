@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCube</key>
+	<string>criticalResolver</string>
+	<key>customChapter</key>
+	<string>criticaldelegate</string>
+	<key>draggableUseCase</key>
+	<string>decorationtag</string>
+	<key>endradio</key>
+	<string>mainDisclaimer</string>
+	<key>scrollableSpecifier</key>
+	<string>newestPageView</string>
+	<key>semanticCurve</key>
+	<string>resizableStroke</string>
+	<key>shouldSkipBrush</key>
+	<string>denseMonster</string>
+	<key>shoulddisconnectboxshadow</key>
+	<string>combineralignment</string>
+</dict>
+</plist>

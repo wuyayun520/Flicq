@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customMapper</key>
+	<string>visibleTheme</string>
+	<key>ignoredChallenge</key>
+	<string>canTransformBox</string>
+	<key>intuitiveAscent</key>
+	<string>sceneDensity</string>
+	<key>permanentFormat</key>
+	<string>canRouteTabBar</string>
+	<key>reactivelistviewvalidation</key>
+	<string>respectiveallocatorvisible</string>
+	<key>resolverflyweightbehavior</key>
+	<string>observerValue</string>
+	<key>uniquePreview</key>
+	<string>dismissResolver</string>
+</dict>
+</plist>

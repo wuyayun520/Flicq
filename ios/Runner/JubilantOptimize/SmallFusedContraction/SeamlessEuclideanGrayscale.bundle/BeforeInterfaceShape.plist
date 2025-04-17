@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentSizedBox</key>
+	<string>dedicatedMetadata</string>
+	<key>logBound</key>
+	<string>unregisterinterface</string>
+	<key>mutableContrast</key>
+	<string>cubitSaturation</string>
+	<key>normalSample</key>
+	<string>canDeserializeProjection</string>
+	<key>secondItem</key>
+	<string>requiredNotifier</string>
+	<key>splitterOffset</key>
+	<string>lazyDetail</string>
+	<key>unmountrequest</key>
+	<string>serializeOptimizer</string>
+</dict>
+</plist>

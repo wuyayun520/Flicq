@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionfunctionpressure</key>
+	<string>shouldPopBase</string>
+	<key>efficiencyAlignment</key>
+	<string>replaceCard</string>
+	<key>persistentEntity</key>
+	<string>shouldSerializeDelegate</string>
+	<key>selectedaccessory</key>
+	<string>canEncodeAnchor</string>
+	<key>shouldUnbindGram</key>
+	<string>responseOpacity</string>
+</dict>
+</plist>

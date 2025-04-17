@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionatframework</key>
+	<string>visibleScroll</string>
+	<key>draggableNorm</key>
+	<string>lazylabeltag</string>
+	<key>emitterPosition</key>
+	<string>textureMomentum</string>
+	<key>fixedSpot</key>
+	<string>immediateFuture</string>
+	<key>materialEquipment</key>
+	<string>canResumeCache</string>
+	<key>meshInterval</key>
+	<string>coordinatorTheme</string>
+	<key>shouldSubscribeGridView</key>
+	<string>compositionalDispatcher</string>
+</dict>
+</plist>

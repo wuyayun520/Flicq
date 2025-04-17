@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableInfrastructure</key>
+	<string>canObserveBrush</string>
+	<key>contrastlocation</key>
+	<string>publicView</string>
+	<key>customizedchapter</key>
+	<string>canContinueView</string>
+	<key>globalMaterializer</key>
+	<string>imageCoord</string>
+	<key>groupbufferskewx</key>
+	<string>scenarioHead</string>
+	<key>interactiveChannels</key>
+	<string>boxshadowSaturation</string>
+	<key>publicLoop</key>
+	<string>sortedBorder</string>
+	<key>schedulerfrequency</key>
+	<string>granularPriority</string>
+	<key>workflowPadding</key>
+	<string>viewpressure</string>
+</dict>
+</plist>

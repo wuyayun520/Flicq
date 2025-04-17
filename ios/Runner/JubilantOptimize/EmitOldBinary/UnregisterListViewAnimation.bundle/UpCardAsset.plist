@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionsize</key>
+	<string>currentmap</string>
+	<key>explicitDescent</key>
+	<string>stateForm</string>
+	<key>iterativeCallback</key>
+	<string>introspectDecoration</string>
+	<key>overlayfilter</key>
+	<string>writeButton</string>
+	<key>sharedPrecision</key>
+	<string>canPersistAnimatedContainer</string>
+	<key>shouldnotifyswift</key>
+	<string>infoType</string>
+	<key>smartTween</key>
+	<string>draggableTraversal</string>
+	<key>usageSkewX</key>
+	<string>shouldAnimateDelegate</string>
+</dict>
+</plist>

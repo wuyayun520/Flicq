@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bindstorage</key>
+	<string>unaryStrategy</string>
+	<key>denseModule</key>
+	<string>videoFeedback</string>
+	<key>dropdownbuttondistinction</key>
+	<string>chaptersound</string>
+	<key>intuitiveSymbol</key>
+	<string>shouldrebuildconsumer</string>
+	<key>iterativeChapter</key>
+	<string>reusableConverter</string>
+	<key>lostTouch</key>
+	<string>visitFactory</string>
+	<key>prismaticChannels</key>
+	<string>titleTint</string>
+	<key>responsedistance</key>
+	<string>newestPicker</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonDelegate</key>
+	<string>canInitializeActivity</string>
+	<key>enabledRemainder</key>
+	<string>shouldUnmountedStateless</string>
+	<key>hardTopic</key>
+	<string>canTrainGridView</string>
+	<key>normalSpecifier</key>
+	<string>canDeserializeCache</string>
+	<key>resourcejoiner</key>
+	<string>compileTween</string>
+	<key>shouldResumeDelegate</key>
+	<string>drawerorparam</string>
+	<key>similarBorder</key>
+	<string>herointeraction</string>
+	<key>videoDensity</key>
+	<string>shouldUnbindLogarithm</string>
+</dict>
+</plist>

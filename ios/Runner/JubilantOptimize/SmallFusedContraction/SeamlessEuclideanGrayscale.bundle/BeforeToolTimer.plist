@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionobserver</key>
+	<string>showAlpha</string>
+	<key>kernelchapter</key>
+	<string>navigateSink</string>
+	<key>layoutinformation</key>
+	<string>gridviewPrototype</string>
+	<key>listenerright</key>
+	<string>shouldDisposeCheckbox</string>
+	<key>meshHue</key>
+	<string>subtleMetadata</string>
+	<key>modelDirection</key>
+	<string>eagerLinker</string>
+	<key>responsiveElement</key>
+	<string>associateHash</string>
+	<key>shouldLoadBloc</key>
+	<string>shoulddisposedelegate</string>
+</dict>
+</plist>

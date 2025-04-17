@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analogyScale</key>
+	<string>canFetchMedia</string>
+	<key>defaultOptimizer</key>
+	<string>canSubscribeMaterial</string>
+	<key>enabledmodelcolor</key>
+	<string>interfaceScope</string>
+	<key>memberCenter</key>
+	<string>paralleltexture</string>
+	<key>newestParticle</key>
+	<string>prevGraph</string>
+	<key>primaryFactory</key>
+	<string>interactorForm</string>
+	<key>projectionqueue</key>
+	<string>gradientHead</string>
+	<key>sortedScaffold</key>
+	<string>usecaseOperation</string>
+	<key>tasktheme</key>
+	<string>initializeHandler</string>
+	<key>techniquebottom</key>
+	<string>throughputVelocity</string>
+</dict>
+</plist>

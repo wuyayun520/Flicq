@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferduringoperation</key>
+	<string>shouldRebuildActivity</string>
+	<key>compositionalAxis</key>
+	<string>pauseSpot</string>
+	<key>persistentBrush</key>
+	<string>graphicVariable</string>
+	<key>protocolPressure</key>
+	<string>relationalCanvas</string>
+	<key>resumecubit</key>
+	<string>notifyRadio</string>
+	<key>shouldStartCapsule</key>
+	<string>subsequentActivity</string>
+</dict>
+</plist>

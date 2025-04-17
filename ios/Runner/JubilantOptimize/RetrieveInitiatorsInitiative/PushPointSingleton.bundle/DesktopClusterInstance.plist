@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>providercycleskewx</key>
+	<string>respectiveMultiplication</string>
+	<key>shouldShowTask</key>
+	<string>desktopEvaluation</string>
+	<key>shouldTrainDelegate</key>
+	<string>bitrateAlignment</string>
+	<key>spineOffset</key>
+	<string>tangentvisibility</string>
+	<key>transitionnavigator</key>
+	<string>routeDialogs</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentanalogy</key>
+	<string>rolePressure</string>
+	<key>disabledDelegate</key>
+	<string>canEmitDelegate</string>
+	<key>ephemeraldrawerstatus</key>
+	<string>shouldPaintChecklist</string>
+	<key>monsterandtask</key>
+	<string>cellInset</string>
+	<key>particlefunctionresponse</key>
+	<string>canPublishMaterial</string>
+	<key>rendererdistance</key>
+	<string>impressionSkewY</string>
+	<key>resultspeed</key>
+	<string>accelerateTimer</string>
+	<key>shouldTrainCube</key>
+	<string>responsecommandbound</string>
+	<key>singleReliability</key>
+	<string>shaderkind</string>
+	<key>sophisticatedStream</key>
+	<string>timerdirection</string>
+</dict>
+</plist>

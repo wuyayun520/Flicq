@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowsensor</key>
+	<string>retrieveLayout</string>
+	<key>commonLoss</key>
+	<string>singleStateless</string>
+	<key>discardedElasticity</key>
+	<string>permanentMaterial</string>
+	<key>originalIsolate</key>
+	<string>shouldendgrayscale</string>
+	<key>selectorCenter</key>
+	<string>shouldUpdateComposition</string>
+	<key>tentativeKind</key>
+	<string>scrollableSprite</string>
+</dict>
+</plist>

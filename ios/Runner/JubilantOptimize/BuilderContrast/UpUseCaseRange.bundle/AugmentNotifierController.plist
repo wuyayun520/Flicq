@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityshade</key>
+	<string>explicitbuffer</string>
+	<key>displayablePageView</key>
+	<string>statelessTentative</string>
+	<key>equalizationLeft</key>
+	<string>storyboardScope</string>
+	<key>lastScenario</key>
+	<string>reactiveConverter</string>
+	<key>sensorTint</key>
+	<string>missedResilience</string>
+	<key>shouldPaintCache</key>
+	<string>alignmentdirection</string>
+	<key>skirtcluster</key>
+	<string>persistentGridView</string>
+	<key>tensorCharacter</key>
+	<string>deferredfuturerotation</string>
+	<key>utilAppearance</key>
+	<string>enabledCollection</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicBitrate</key>
+	<string>platetheme</string>
+	<key>globalGrayscale</key>
+	<string>sizeVelocity</string>
+	<key>robustCupertino</key>
+	<string>stepIndex</string>
+	<key>shouldInflateGram</key>
+	<string>scrollerFormat</string>
+	<key>shouldMountFlex</key>
+	<string>localMetrics</string>
+	<key>shouldbuildsegment</key>
+	<string>showdecoration</string>
+</dict>
+</plist>

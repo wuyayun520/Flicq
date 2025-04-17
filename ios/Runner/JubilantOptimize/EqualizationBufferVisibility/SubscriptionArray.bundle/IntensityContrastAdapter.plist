@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoPadding</key>
+	<string>callbackState</string>
+	<key>catalyststate</key>
+	<string>yieldAspect</string>
+	<key>dropdownbuttoneffect</key>
+	<string>shouldDismissDecoration</string>
+	<key>isgradient</key>
+	<string>shouldSaveText</string>
+	<key>memberentity</key>
+	<string>mainAnimatedContainer</string>
+	<key>nativeClipper</key>
+	<string>infoDirection</string>
+	<key>shouldNotifyStateless</key>
+	<string>canLayoutExpanded</string>
+	<key>shouldSaveReduction</key>
+	<string>ignoredOverlay</string>
+	<key>storyboarddensity</key>
+	<string>sophisticatedBullet</string>
+</dict>
+</plist>

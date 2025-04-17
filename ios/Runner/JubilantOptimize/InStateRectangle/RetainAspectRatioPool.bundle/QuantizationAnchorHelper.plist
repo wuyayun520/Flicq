@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>relationalAudio</key>
+	<string>textPattern</string>
+	<key>requiredRepository</key>
+	<string>animatedcontainerTier</string>
+	<key>shouldBindCatalyst</key>
+	<string>scrollFlags</string>
+	<key>shouldStopAnimation</key>
+	<string>beginnerSegment</string>
+	<key>shouldSubscribeMonster</key>
+	<string>pauseLog</string>
+</dict>
+</plist>

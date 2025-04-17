@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedResource</key>
+	<string>observeChannel</string>
+	<key>composableRoute</key>
+	<string>segmentStrategy</string>
+	<key>easySize</key>
+	<string>invisiblemerger</string>
+	<key>largeaspectratio</key>
+	<string>keepscroll</string>
+	<key>mutableMedia</key>
+	<string>interceptParticle</string>
+	<key>taxonomyfeedback</key>
+	<string>stateBridge</string>
+	<key>validatepriority</key>
+	<string>captureternary</string>
+</dict>
+</plist>

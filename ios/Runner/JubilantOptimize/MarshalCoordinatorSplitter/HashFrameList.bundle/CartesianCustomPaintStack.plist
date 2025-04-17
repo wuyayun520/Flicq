@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDistinction</key>
+	<string>shouldNotifyPlate</string>
+	<key>coordinatordensity</key>
+	<string>scrollableChapter</string>
+	<key>enabledExponent</key>
+	<string>associatedGestureDetector</string>
+	<key>notationBorder</key>
+	<string>sizedboxCommand</string>
+	<key>polyfillMode</key>
+	<string>lasterror</string>
+	<key>requiredpositionedinterval</key>
+	<string>persistentBandwidth</string>
+	<key>resilienceTag</key>
+	<string>resilientRichText</string>
+	<key>threadopacity</key>
+	<string>immutableRemainder</string>
+</dict>
+</plist>

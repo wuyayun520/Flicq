@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedrowindex</key>
+	<string>canParseSlider</string>
+	<key>baselineversusfacade</key>
+	<string>mediocreMargin</string>
+	<key>compositionalProtocol</key>
+	<string>seamlessCaption</string>
+	<key>gramAcceleration</key>
+	<string>canUpdateSwitch</string>
+	<key>logBrightness</key>
+	<string>reactiveGridView</string>
+	<key>oldCursor</key>
+	<string>accordionInterface</string>
+	<key>scrollableUtil</key>
+	<string>discoverRect</string>
+	<key>selectedentropy</key>
+	<string>canUnmountedMember</string>
+</dict>
+</plist>

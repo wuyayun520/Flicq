@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerShade</key>
+	<string>greatNode</string>
+	<key>analyzetimer</key>
+	<string>keepSensor</string>
+	<key>commonMenu</key>
+	<string>createTool</string>
+	<key>encodeview</key>
+	<string>switchPhase</string>
+	<key>intuitiveProvision</key>
+	<string>usedListView</string>
+	<key>reusableScalability</key>
+	<string>segueOperation</string>
+	<key>sensortrigger</key>
+	<string>webTool</string>
+	<key>shouldInflateReduction</key>
+	<string>canSubscribeMediaQuery</string>
+	<key>widgetpressure</key>
+	<string>canSetStateLayout</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>popupalongframework</key>
+	<string>synchronizetitle</string>
+	<key>retrievescaffold</key>
+	<string>canUnbindStateful</string>
+	<key>scrollvaluebottom</key>
+	<string>semanticCollection</string>
+	<key>shouldYieldAccessory</key>
+	<string>movementParameter</string>
+	<key>shouldpresentplayback</key>
+	<string>canSaveExtension</string>
+	<key>synchronousPopup</key>
+	<string>explicitPromise</string>
+</dict>
+</plist>

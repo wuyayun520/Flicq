@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPolyfill</key>
+	<string>exitResource</string>
+	<key>animatedSample</key>
+	<string>curvemode</string>
+	<key>discardedSprite</key>
+	<string>subsequentAscent</string>
+	<key>interactiveDisclaimer</key>
+	<string>methodTemple</string>
+	<key>shouldPauseDocument</key>
+	<string>renameTopic</string>
+	<key>shouldPushRoute</key>
+	<string>liteResource</string>
+</dict>
+</plist>

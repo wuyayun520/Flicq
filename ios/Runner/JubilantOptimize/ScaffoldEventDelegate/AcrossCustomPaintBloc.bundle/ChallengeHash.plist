@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendradio</key>
+	<string>detachReference</string>
+	<key>beginnerModel</key>
+	<string>canEmitFuture</string>
+	<key>elasticEqualization</key>
+	<string>immutableEvent</string>
+	<key>ephemeralMaterializer</key>
+	<string>canBuildLoss</string>
+	<key>loopStyle</key>
+	<string>screenhandler</string>
+	<key>mapOpacity</key>
+	<string>emitterInteraction</string>
+	<key>unmountstack</key>
+	<string>collectionProcess</string>
+</dict>
+</plist>

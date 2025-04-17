@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedContrast</key>
+	<string>canInflateTheme</string>
+	<key>compositionstrategyskewx</key>
+	<string>notificationProcess</string>
+	<key>hardTabBar</key>
+	<string>inheritedPolygon</string>
+	<key>persistentremediation</key>
+	<string>canFormatCheckbox</string>
+	<key>resultForce</key>
+	<string>contractionBorder</string>
+	<key>shouldStartProfile</key>
+	<string>canNotifyFragment</string>
+	<key>standaloneHero</key>
+	<string>arithmeticlistviewtransparency</string>
+</dict>
+</plist>

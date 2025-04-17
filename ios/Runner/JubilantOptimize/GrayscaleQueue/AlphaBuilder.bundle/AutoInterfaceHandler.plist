@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderTension</key>
+	<string>wrapperSize</string>
+	<key>dedicatedMedia</key>
+	<string>scalabilityDensity</string>
+	<key>delicateDisclaimer</key>
+	<string>basicAllocator</string>
+	<key>heapBorder</key>
+	<string>positionedTask</string>
+	<key>hierarchicalStoryboard</key>
+	<string>activatedFilter</string>
+	<key>mainAnalyzer</key>
+	<string>shouldTransformGestureDetector</string>
+	<key>missedImpact</key>
+	<string>audioType</string>
+	<key>shouldRebuildLayout</key>
+	<string>deserializeResolver</string>
+	<key>skinstream</key>
+	<string>blocmenu</string>
+</dict>
+</plist>

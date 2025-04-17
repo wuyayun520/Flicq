@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionTopic</key>
+	<string>interactorColor</string>
+	<key>adaptiveexpanded</key>
+	<string>appbararoundpattern</string>
+	<key>associatedHash</key>
+	<string>dimensionStage</string>
+	<key>characterstate</key>
+	<string>customTernary</string>
+	<key>secondheroacceleration</key>
+	<string>granularInfo</string>
+	<key>spriteTransparency</key>
+	<string>shouldDispatchOptimizer</string>
+</dict>
+</plist>

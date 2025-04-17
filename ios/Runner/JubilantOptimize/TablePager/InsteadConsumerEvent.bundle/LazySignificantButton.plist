@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cloneerror</key>
+	<string>serializeProgressBar</string>
+	<key>composableCube</key>
+	<string>notificationperfacade</string>
+	<key>concurrentSearcher</key>
+	<string>contrastOrigin</string>
+	<key>currentMatrix</key>
+	<string>topicVisibility</string>
+	<key>multireduction</key>
+	<string>granularCapsule</string>
+	<key>permissiveChooser</key>
+	<string>canTransitionCache</string>
+	<key>routerdirection</key>
+	<string>hasAccessory</string>
+	<key>splitterSpeed</key>
+	<string>transitionappbar</string>
+</dict>
+</plist>

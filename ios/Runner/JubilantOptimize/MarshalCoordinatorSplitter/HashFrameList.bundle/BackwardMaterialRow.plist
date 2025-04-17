@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredsubscriptionforce</key>
+	<string>semanticsFlyweight</string>
+	<key>interactiveThread</key>
+	<string>disconnectAccessory</string>
+	<key>intermediateView</key>
+	<string>sortedHeap</string>
+	<key>keysingletondelay</key>
+	<string>dropoutticker</string>
+	<key>sessionRotation</key>
+	<string>iterativepresenter</string>
+	<key>singleManager</key>
+	<string>equalMenu</string>
+	<key>synchronousDelegate</key>
+	<string>basicPermutation</string>
+</dict>
+</plist>

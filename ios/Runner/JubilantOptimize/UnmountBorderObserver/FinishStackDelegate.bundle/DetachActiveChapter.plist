@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appendinteger</key>
+	<string>restartTheme</string>
+	<key>hierarchicalEntropy</key>
+	<string>activityvisibility</string>
+	<key>nextPager</key>
+	<string>observeCard</string>
+	<key>tabviewShade</key>
+	<string>integrationVisible</string>
+	<key>tensorResilience</key>
+	<string>uniformStore</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopCaption</key>
+	<string>shouldBindListView</string>
+	<key>factoryBound</key>
+	<string>shapeorigin</string>
+	<key>marginscenario</key>
+	<string>declarativeMesh</string>
+	<key>prismaticDescent</key>
+	<string>pauseWidget</string>
+	<key>semanticDistinction</key>
+	<string>interpolateContainer</string>
+</dict>
+</plist>

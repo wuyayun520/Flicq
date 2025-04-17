@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetdistance</key>
+	<string>variantresource</string>
+	<key>interceptmethod</key>
+	<string>stateForce</string>
+	<key>intuitiveScope</key>
+	<string>advancedSpecifier</string>
+	<key>pinchableNavigation</key>
+	<string>polygonOrigin</string>
+	<key>receiverPressure</key>
+	<string>canMountedDuration</string>
+	<key>shouldHandleBoxShadow</key>
+	<string>canMountedModal</string>
+	<key>shouldLoadThread</key>
+	<string>entityAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableservicemargin</key>
+	<string>parallelCosine</string>
+	<key>lostAllocator</key>
+	<string>scrollableSkin</string>
+	<key>mobilestroke</key>
+	<string>canFetchUnary</string>
+	<key>preparesingleton</key>
+	<string>unaryFrequency</string>
+	<key>prismaticTriangles</key>
+	<string>encodeInstruction</string>
+	<key>specifyPolyfill</key>
+	<string>notificationBrightness</string>
+	<key>staticCurve</key>
+	<string>insteadSprite</string>
+	<key>subscribeconfiguration</key>
+	<string>tensorVector</string>
+	<key>workflowSpacing</key>
+	<string>streamIndex</string>
+</dict>
+</plist>

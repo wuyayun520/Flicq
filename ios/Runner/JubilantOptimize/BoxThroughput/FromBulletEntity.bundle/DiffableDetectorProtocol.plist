@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalOptimizer</key>
+	<string>shouldShowCube</string>
+	<key>pageviewOpacity</key>
+	<string>shouldAttachSizedBox</string>
+	<key>pinchableChart</key>
+	<string>visitvector</string>
+	<key>protectedSizedBox</key>
+	<string>shouldDismissUsage</string>
+</dict>
+</plist>

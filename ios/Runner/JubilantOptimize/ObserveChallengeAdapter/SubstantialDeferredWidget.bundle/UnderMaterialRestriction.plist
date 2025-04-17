@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTentative</key>
+	<string>combineManager</string>
+	<key>beginnerThread</key>
+	<string>parseIsolate</string>
+	<key>largeLoop</key>
+	<string>resizeConstraint</string>
+	<key>semanticshead</key>
+	<string>shouldUnmountedBinary</string>
+	<key>shouldFinishNorm</key>
+	<string>cupertinoTolerance</string>
+	<key>splitterTag</key>
+	<string>staticSign</string>
+	<key>unmountbox</key>
+	<string>canObserveTernary</string>
+</dict>
+</plist>

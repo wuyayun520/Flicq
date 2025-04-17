@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionConfidentiality</key>
+	<string>canDisconnectReference</string>
+	<key>catalystBottom</key>
+	<string>elasticLoop</string>
+	<key>hashInterval</key>
+	<string>imperativePopup</string>
+	<key>modelTop</key>
+	<string>retainedEntity</string>
+	<key>shaderFlags</key>
+	<string>specifyBox</string>
+	<key>shouldStopRichText</key>
+	<string>usedbrush</string>
+</dict>
+</plist>

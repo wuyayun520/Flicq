@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectcache</key>
+	<string>playRoute</string>
+	<key>connectorLocation</key>
+	<string>basicAlert</string>
+	<key>ephemeralProvider</key>
+	<string>inheritedSemantics</string>
+	<key>futureinteraction</key>
+	<string>backwardobserverrate</string>
+	<key>mobileFilter</key>
+	<string>processorPosition</string>
+	<key>nativemapper</key>
+	<string>cupertinoConstant</string>
+	<key>remediationVisibility</key>
+	<string>easyChannels</string>
+	<key>similarOccasion</key>
+	<string>rectfrequency</string>
+	<key>startloop</key>
+	<string>timerCoord</string>
+	<key>unlockprovider</key>
+	<string>intermediateCharacter</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeTolerance</key>
+	<string>canMountedDimension</string>
+	<key>coordinatormodespacing</key>
+	<string>scrollerRate</string>
+	<key>custompaintCenter</key>
+	<string>collectionScope</string>
+	<key>pivotalTween</key>
+	<string>stopchart</string>
+	<key>reusableFrame</key>
+	<string>unmountedRoute</string>
+	<key>seamlessHeap</key>
+	<string>densePet</string>
+</dict>
+</plist>

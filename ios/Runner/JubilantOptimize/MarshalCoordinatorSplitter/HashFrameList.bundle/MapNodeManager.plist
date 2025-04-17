@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>audiorotation</key>
+	<string>animateDependency</string>
+	<key>backwardstream</key>
+	<string>canvasShape</string>
+	<key>capsuledensity</key>
+	<string>optimizerRotation</string>
+	<key>clusterdistance</key>
+	<string>distinctionVelocity</string>
+	<key>directlyLabel</key>
+	<string>compositionalFinder</string>
+	<key>entitykind</key>
+	<string>materialsplitter</string>
+	<key>ephemeralWrapper</key>
+	<string>factoryValue</string>
+	<key>litesymboltag</key>
+	<string>futureorigin</string>
+	<key>responsiveAnalyzer</key>
+	<string>routedecoratormomentum</string>
+</dict>
+</plist>

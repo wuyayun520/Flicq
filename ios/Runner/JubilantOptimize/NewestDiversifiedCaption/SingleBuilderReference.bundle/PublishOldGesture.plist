@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositioncoord</key>
+	<string>rendererDepth</string>
+	<key>intensityfacadetheme</key>
+	<string>shouldPushListView</string>
+	<key>localizationcontrast</key>
+	<string>activatedIsolate</string>
+	<key>prioritypadding</key>
+	<string>pushTimer</string>
+	<key>rectVisibility</key>
+	<string>hierarchicalAlpha</string>
+	<key>seamlessinfo</key>
+	<string>canRouteNotifier</string>
+	<key>shouldInflateMaster</key>
+	<string>secondCertificate</string>
+	<key>stackproxyfrequency</key>
+	<string>emitUseCase</string>
+	<key>subtleObject</key>
+	<string>decorationObserver</string>
+	<key>uniquerow</key>
+	<string>shouldResumeFragment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronouscallback</key>
+	<string>clipperContrast</string>
+	<key>cupertinoFrame</key>
+	<string>pivotalScene</string>
+	<key>enabledGradient</key>
+	<string>crucialTheme</string>
+	<key>extensionTint</key>
+	<string>commonMargin</string>
+	<key>formatscaffold</key>
+	<string>modalcoord</string>
+	<key>intensityDepth</key>
+	<string>expandedAdapter</string>
+	<key>momentumtransparency</key>
+	<string>shouldUnbindWorkflow</string>
+	<key>shouldEndTransition</key>
+	<string>mainPromise</string>
+</dict>
+</plist>

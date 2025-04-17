@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerradius</key>
+	<string>startSlash</string>
+	<key>arithmeticEdge</key>
+	<string>graphicStrategy</string>
+	<key>commonBuilder</key>
+	<string>tentativeTag</string>
+	<key>injectionobserverflags</key>
+	<string>releaseState</string>
+	<key>lazyConvolution</key>
+	<string>shouldPushSpot</string>
+	<key>limitexception</key>
+	<string>imperativeRect</string>
+	<key>obtainborder</key>
+	<string>largeMaster</string>
+	<key>particlefactory</key>
+	<string>skirtState</string>
+	<key>singleMaterial</key>
+	<string>temporaryoptimizer</string>
+	<key>subscriptionpressure</key>
+	<string>singlePicker</string>
+</dict>
+</plist>

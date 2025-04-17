@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterfeedback</key>
+	<string>playbackBehavior</string>
+	<key>flexiblespot</key>
+	<string>axisShade</string>
+	<key>interactorstyle</key>
+	<string>shaderBrightness</string>
+	<key>isSlash</key>
+	<string>eraseDuration</string>
+	<key>pushsegue</key>
+	<string>musicRotation</string>
+	<key>significantSegue</key>
+	<string>minColumn</string>
+	<key>storyboardRotation</key>
+	<string>diffableListView</string>
+</dict>
+</plist>

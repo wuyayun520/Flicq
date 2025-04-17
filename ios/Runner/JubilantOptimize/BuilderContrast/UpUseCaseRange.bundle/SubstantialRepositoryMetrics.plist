@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableOverlay</key>
+	<string>shouldDismissDescriptor</string>
+	<key>emitflex</key>
+	<string>requestComposite</string>
+	<key>managerprocesstag</key>
+	<string>evaluationHead</string>
+	<key>meshState</key>
+	<string>subscribeStream</string>
+	<key>parallelFragments</key>
+	<string>richtextPressure</string>
+	<key>responseframeworkappearance</key>
+	<string>activateText</string>
+	<key>shouldSetStateDuration</key>
+	<string>appbarAcceleration</string>
+	<key>shouldSetStateInterpolation</key>
+	<string>intermediateStatus</string>
+</dict>
+</plist>

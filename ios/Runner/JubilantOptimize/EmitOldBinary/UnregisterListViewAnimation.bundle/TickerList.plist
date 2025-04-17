@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyProcessor</key>
+	<string>canYieldProtocol</string>
+	<key>localizationawaycommand</key>
+	<string>unsortedPager</string>
+	<key>missedstatus</key>
+	<string>disposeDrawer</string>
+	<key>saverouter</key>
+	<string>singleIntegration</string>
+	<key>shouldReplaceModulus</key>
+	<string>taskBrightness</string>
+</dict>
+</plist>

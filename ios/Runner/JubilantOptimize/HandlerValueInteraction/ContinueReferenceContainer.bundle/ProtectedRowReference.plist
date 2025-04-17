@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticvalueoffset</key>
+	<string>diffableResource</string>
+	<key>cellduration</key>
+	<string>missedTaxonomy</string>
+	<key>liteCapsule</key>
+	<string>canPrepareNib</string>
+	<key>mobilecursorsize</key>
+	<string>animateAsset</string>
+	<key>progressbarpermediator</key>
+	<string>crudeAlpha</string>
+	<key>shouldBindRichText</key>
+	<string>rowBehavior</string>
+	<key>shouldPersistDescriptor</key>
+	<string>shearLayer</string>
+	<key>temporaryLoss</key>
+	<string>mediumusecaseoffset</string>
+</dict>
+</plist>

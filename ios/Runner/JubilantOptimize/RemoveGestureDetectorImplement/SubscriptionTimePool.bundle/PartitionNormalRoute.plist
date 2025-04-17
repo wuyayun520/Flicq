@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachmethod</key>
+	<string>unactivatedAlpha</string>
+	<key>checkgrain</key>
+	<string>validateReduction</string>
+	<key>chooserStyle</key>
+	<string>criticalScreen</string>
+	<key>firstIntegration</key>
+	<string>missedExpanded</string>
+	<key>granularBaseline</key>
+	<string>logarithmHue</string>
+	<key>initiativeHead</key>
+	<string>rapidBaseline</string>
+	<key>lastPoint</key>
+	<string>localappbarcenter</string>
+	<key>sharedModule</key>
+	<string>signForce</string>
+	<key>specifiershade</key>
+	<string>canMountedMultiplication</string>
+</dict>
+</plist>

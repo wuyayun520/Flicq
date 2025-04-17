@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationPadding</key>
+	<string>precisionacceleration</string>
+	<key>mediaqueryMargin</key>
+	<string>basicWorkflow</string>
+	<key>obtainnode</key>
+	<string>interactiveChapter</string>
+	<key>shouldBindAxis</key>
+	<string>retainProgressBar</string>
+	<key>shouldShowNavigation</key>
+	<string>checklistvalidation</string>
+	<key>shouldYieldClipper</key>
+	<string>observerFlyweight</string>
+	<key>texttop</key>
+	<string>immediateChart</string>
+	<key>typicalGrid</key>
+	<string>markUtil</string>
+</dict>
+</plist>

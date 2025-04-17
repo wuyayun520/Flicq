@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBrightness</key>
+	<string>seamlessTicker</string>
+	<key>comprehensiveReplica</key>
+	<string>statelessRepository</string>
+	<key>heapscenario</key>
+	<string>mendBottom</string>
+	<key>inkwellDepth</key>
+	<string>elasticityDistance</string>
+	<key>priorInterpolation</key>
+	<string>shouldPrepareLabel</string>
+	<key>shouldCreateChannels</key>
+	<string>backwardreductiondensity</string>
+	<key>shouldDispatchRemainder</key>
+	<string>compositionalSelector</string>
+	<key>subscribestorage</key>
+	<string>canUnmountDropdownButton</string>
+</dict>
+</plist>

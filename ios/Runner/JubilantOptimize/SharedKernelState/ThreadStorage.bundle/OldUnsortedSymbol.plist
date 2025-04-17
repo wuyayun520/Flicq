@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCurve</key>
+	<string>lazyContrast</string>
+	<key>globalTolerance</key>
+	<string>scaffoldSpacing</string>
+	<key>lifecycleColor</key>
+	<string>shouldRenderPriority</string>
+	<key>movementtension</key>
+	<string>immutableFormat</string>
+	<key>similarKernel</key>
+	<string>canCacheHistogram</string>
+	<key>tappableProtocol</key>
+	<string>canLoadAspect</string>
+	<key>uniqueAwait</key>
+	<string>inkwelltexture</string>
+</dict>
+</plist>

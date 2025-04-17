@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customLayer</key>
+	<string>liteMovement</string>
+	<key>dynamicDropdownButton</key>
+	<string>trajectoryBehavior</string>
+	<key>mechanismFormat</key>
+	<string>unactivatedtheme</string>
+	<key>quitprovider</key>
+	<string>yieldMatrix</string>
+	<key>shouldUnmountAlpha</key>
+	<string>inflateSession</string>
+	<key>shoulddeserializedimension</key>
+	<string>synchronousInjection</string>
+	<key>storyboardpublisher</key>
+	<string>priorOperation</string>
+	<key>subscriptionFeedback</key>
+	<string>respondPopup</string>
+</dict>
+</plist>

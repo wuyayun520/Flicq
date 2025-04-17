@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedProvider</key>
+	<string>certificateStatus</string>
+	<key>canvasShape</key>
+	<string>revisitlayout</string>
+	<key>chapterstructureinteraction</key>
+	<string>setupAsync</string>
+	<key>entitynearenvironment</key>
+	<string>tappableSplitter</string>
+	<key>profileHead</key>
+	<string>linkerOrientation</string>
+	<key>sizestatus</key>
+	<string>shouldCancelGridView</string>
+	<key>statefulTabView</key>
+	<string>shouldPushListView</string>
+	<key>subscriptionsingletoninteraction</key>
+	<string>buttonformvisibility</string>
+	<key>toolforenvironment</key>
+	<string>freeWidget</string>
+</dict>
+</plist>

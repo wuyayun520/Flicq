@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyEntropy</key>
+	<string>unactivatedCharacteristic</string>
+	<key>euclideanFrame</key>
+	<string>tentativespacing</string>
+	<key>finderAcceleration</key>
+	<string>ignoredDrawer</string>
+	<key>lastOccasion</key>
+	<string>shouldObserveGate</string>
+	<key>missedConsumption</key>
+	<string>canSaveFragment</string>
+	<key>mountedtabbar</key>
+	<string>durationDensity</string>
+	<key>movementSize</key>
+	<string>skinresponse</string>
+	<key>primaryListener</key>
+	<string>smallQueue</string>
+	<key>recursionVelocity</key>
+	<string>shouldUnmountOption</string>
+	<key>sophisticatedRenderer</key>
+	<string>streamCenter</string>
+</dict>
+</plist>

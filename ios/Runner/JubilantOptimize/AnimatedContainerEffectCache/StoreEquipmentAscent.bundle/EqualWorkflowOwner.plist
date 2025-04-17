@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedSample</key>
+	<string>easyTriangles</string>
+	<key>delicateScene</key>
+	<string>canCreateBatch</string>
+	<key>interactionTheme</key>
+	<string>prevanimatedcontainertransparency</string>
+	<key>observecube</key>
+	<string>emitterTop</string>
+	<key>reactiveElasticity</key>
+	<string>addManager</string>
+	<key>tweenCenter</key>
+	<string>finderFrequency</string>
+</dict>
+</plist>

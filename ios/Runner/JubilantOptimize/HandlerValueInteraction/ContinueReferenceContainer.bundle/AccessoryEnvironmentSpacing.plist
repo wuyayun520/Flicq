@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentuntilnumber</key>
+	<string>routerKind</string>
+	<key>animationforce</key>
+	<string>beginnerEntity</string>
+	<key>bitrateDelay</key>
+	<string>canSerializeSensor</string>
+	<key>descriptionType</key>
+	<string>indicatorFlyweight</string>
+	<key>inactiveaxisscale</key>
+	<string>resilientgesturedetectorsaturation</string>
+	<key>polyfillfrequency</key>
+	<string>directEvaluation</string>
+	<key>signatureposition</key>
+	<string>customImage</string>
+	<key>uniformGram</key>
+	<string>canDisconnectSlider</string>
+</dict>
+</plist>

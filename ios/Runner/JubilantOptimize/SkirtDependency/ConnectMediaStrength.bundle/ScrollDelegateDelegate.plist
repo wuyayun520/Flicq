@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>grainworkdensity</key>
+	<string>immediateCanvas</string>
+	<key>heroDensity</key>
+	<string>exceptionbuffervalidation</string>
+	<key>independentPriority</key>
+	<string>transformChapter</string>
+	<key>normCenter</key>
+	<string>inactiveWrapper</string>
+	<key>shouldCacheCycle</key>
+	<string>reducerPattern</string>
+	<key>shouldEmitMember</key>
+	<string>resultinmethod</string>
+</dict>
+</plist>

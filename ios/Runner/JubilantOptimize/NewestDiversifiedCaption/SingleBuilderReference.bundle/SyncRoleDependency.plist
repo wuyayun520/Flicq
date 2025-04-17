@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedHistogram</key>
+	<string>remainderRate</string>
+	<key>capsuleMomentum</key>
+	<string>draggableInterpolation</string>
+	<key>controlleroperationinteraction</key>
+	<string>exponentRate</string>
+	<key>defaultpageview</key>
+	<string>keyChannels</string>
+	<key>dismissscene</key>
+	<string>signduration</string>
+	<key>explicitTweak</key>
+	<string>cupertinoBrightness</string>
+	<key>hardArchitecture</key>
+	<string>observeConvolution</string>
+	<key>shouldDetachChecklist</key>
+	<string>disabledTabBar</string>
+</dict>
+</plist>

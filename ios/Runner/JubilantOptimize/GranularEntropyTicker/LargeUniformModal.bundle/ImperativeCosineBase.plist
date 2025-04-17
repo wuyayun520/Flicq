@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorTheme</key>
+	<string>skipMusic</string>
+	<key>globalSpine</key>
+	<string>subscribeBehavior</string>
+	<key>mediaqueryconverter</key>
+	<string>disconnectButton</string>
+	<key>particlekindcolor</key>
+	<string>tableProcess</string>
+	<key>prepareanchor</key>
+	<string>activeKernel</string>
+	<key>requiredThroughput</key>
+	<string>composableheapscale</string>
+	<key>sustainableAction</key>
+	<string>iscompletion</string>
+	<key>symmetricpublisher</key>
+	<string>newestSlider</string>
+	<key>tabbarShade</key>
+	<string>associatedlinker</string>
+	<key>utilskewy</key>
+	<string>shouldKeepStateless</string>
+</dict>
+</plist>

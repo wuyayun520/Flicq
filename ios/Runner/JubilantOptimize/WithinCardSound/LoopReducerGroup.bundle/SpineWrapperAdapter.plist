@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxrouter</key>
+	<string>imperativeSelector</string>
+	<key>controllervisitorinterval</key>
+	<string>discardedScope</string>
+	<key>nodeSkewX</key>
+	<string>refreshTween</string>
+	<key>oldshader</key>
+	<string>usedMapper</string>
+	<key>sensorTint</key>
+	<string>requiredParticle</string>
+	<key>synchronousAlpha</key>
+	<string>presenterTemple</string>
+</dict>
+</plist>

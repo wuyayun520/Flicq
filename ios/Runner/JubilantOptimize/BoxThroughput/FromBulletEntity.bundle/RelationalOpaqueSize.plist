@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonbridgeresponse</key>
+	<string>loadBaseline</string>
+	<key>gramName</key>
+	<string>equipmentContext</string>
+	<key>moduleBound</key>
+	<string>lostAlpha</string>
+	<key>queueTint</key>
+	<string>spineName</string>
+	<key>shouldRestartSensor</key>
+	<string>shouldResumeInstruction</string>
+	<key>shouldstartmaster</key>
+	<string>canvasMargin</string>
+	<key>stateOpacity</key>
+	<string>canCancelReference</string>
+</dict>
+</plist>

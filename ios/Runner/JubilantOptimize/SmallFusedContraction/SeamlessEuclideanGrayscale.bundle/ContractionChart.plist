@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedTrigger</key>
+	<string>shouldValidateSwift</string>
+	<key>aspectkind</key>
+	<string>shouldyieldscroll</string>
+	<key>dependencymetrics</key>
+	<string>integerRight</string>
+	<key>missedNotation</key>
+	<string>divideInteractor</string>
+	<key>permutationfeedback</key>
+	<string>samplearoundadapter</string>
+	<key>seamlessScheduler</key>
+	<string>sceneTemple</string>
+	<key>shouldTrainComposition</key>
+	<string>elasticDependency</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionFeature</key>
+	<string>secondTransition</string>
+	<key>axiscolor</key>
+	<string>combinerStyle</string>
+	<key>contractionOffset</key>
+	<string>accessibleProjection</string>
+	<key>flexibleCache</key>
+	<string>nodeBorder</string>
+	<key>frameIndex</key>
+	<string>greatLoop</string>
+	<key>granularisolatebottom</key>
+	<string>startCycle</string>
+	<key>typicalStamp</key>
+	<string>fixedPlayback</string>
+	<key>uniformGraphic</key>
+	<string>canPushPromise</string>
+	<key>uniformRouter</key>
+	<string>handleAction</string>
+	<key>uniqueAllocator</key>
+	<string>ascentVelocity</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyConfidentiality</key>
+	<string>canFormatSkirt</string>
+	<key>provideexception</key>
+	<string>nativeStoryboard</string>
+	<key>responsiveArchitecture</key>
+	<string>canShowInteger</string>
+	<key>responsiveContrast</key>
+	<string>providerDistance</string>
+	<key>shouldMountColumn</key>
+	<string>shouldListenStamp</string>
+	<key>shouldloadtransition</key>
+	<string>canCachePriority</string>
+	<key>transitionscaffold</key>
+	<string>profilescroll</string>
+	<key>zoneOrientation</key>
+	<string>tangentForm</string>
+</dict>
+</plist>

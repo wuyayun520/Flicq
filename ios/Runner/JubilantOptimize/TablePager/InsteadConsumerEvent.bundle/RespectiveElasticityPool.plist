@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intermediateLogarithm</key>
+	<string>shouldPublishVariant</string>
+	<key>shouldPauseBaseline</key>
+	<string>responsiveactionacceleration</string>
+	<key>smartLifecycle</key>
+	<string>sequentialSize</string>
+	<key>soundFeedback</key>
+	<string>geometricView</string>
+</dict>
+</plist>

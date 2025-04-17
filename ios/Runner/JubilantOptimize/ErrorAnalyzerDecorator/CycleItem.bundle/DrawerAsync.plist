@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultConvolution</key>
+	<string>buildProfile</string>
+	<key>intuitiveScene</key>
+	<string>positionedopacity</string>
+	<key>localizationLocation</key>
+	<string>seekbutton</string>
+	<key>shouldSetStateResource</key>
+	<string>radioScope</string>
+	<key>timeAcceleration</key>
+	<string>semanticsLocation</string>
+	<key>usedTweak</key>
+	<string>saveReduction</string>
+</dict>
+</plist>

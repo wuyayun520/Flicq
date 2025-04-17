@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hardUseCase</key>
+	<string>searchStore</string>
+	<key>immutableCard</key>
+	<string>endDecoration</string>
+	<key>materializeredge</key>
+	<string>customizedTernary</string>
+	<key>poolgraph</key>
+	<string>delicateRemediation</string>
+	<key>provideequipment</key>
+	<string>deactivateGroup</string>
+	<key>reducerTail</key>
+	<string>shouldSkipSemantics</string>
+	<key>resultFrequency</key>
+	<string>asynchronousHash</string>
+	<key>shouldCacheArithmetic</key>
+	<string>canStreamOptimizer</string>
+	<key>shouldPresentHistogram</key>
+	<string>visualizePreview</string>
+</dict>
+</plist>

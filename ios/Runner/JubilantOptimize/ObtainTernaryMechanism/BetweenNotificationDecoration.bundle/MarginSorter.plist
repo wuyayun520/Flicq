@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeDelegate</key>
+	<string>streamPainter</string>
+	<key>coordinatororigin</key>
+	<string>completionstyle</string>
+	<key>dropdownbuttonOrigin</key>
+	<string>significantSpot</string>
+	<key>ignoredschema</key>
+	<string>axisPressure</string>
+</dict>
+</plist>

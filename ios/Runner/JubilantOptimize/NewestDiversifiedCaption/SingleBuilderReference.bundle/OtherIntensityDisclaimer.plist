@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAnalogy</key>
+	<string>tensorInstruction</string>
+	<key>analogyVelocity</key>
+	<string>shouldParseCard</string>
+	<key>compositionthroughdecorator</key>
+	<string>annotateCoordinator</string>
+	<key>configurationShape</key>
+	<string>setstateFuture</string>
+	<key>intuitiveGridView</key>
+	<string>widgetTask</string>
+	<key>largeCheckbox</key>
+	<string>chooserKind</string>
+	<key>requestSaturation</key>
+	<string>webSizedBox</string>
+	<key>shouldResumeMedia</key>
+	<string>canSerializeDecoration</string>
+	<key>sineCoord</key>
+	<string>granularAlert</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorySaturation</key>
+	<string>streamJob</string>
+	<key>alertStatus</key>
+	<string>yieldAxis</string>
+	<key>basicDescriptor</key>
+	<string>canPresentStamp</string>
+	<key>crucialtransition</key>
+	<string>storeSingleton</string>
+	<key>documentName</key>
+	<string>previewDecorator</string>
+	<key>herobound</key>
+	<string>toolTransparency</string>
+	<key>liteException</key>
+	<string>resizableStore</string>
+	<key>smartAsync</key>
+	<string>checkboxactionlocation</string>
+	<key>standaloneGrid</key>
+	<string>resizeInteractor</string>
+</dict>
+</plist>

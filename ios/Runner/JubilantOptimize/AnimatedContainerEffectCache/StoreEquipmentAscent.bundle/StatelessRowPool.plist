@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedTrajectory</key>
+	<string>popupBottom</string>
+	<key>endcontroller</key>
+	<string>saveScroll</string>
+	<key>nextSubscriber</key>
+	<string>shouldTransitionGate</string>
+	<key>shouldRebuildOption</key>
+	<string>statefulchallenge</string>
+	<key>shouldkeepgraphic</key>
+	<string>scenarioRotation</string>
+	<key>significantBase</key>
+	<string>popupTension</string>
+	<key>tappablemediaduration</key>
+	<string>mountTable</string>
+	<key>updateplayback</key>
+	<string>injectionComposite</string>
+	<key>visiblegesturedetectorstatus</key>
+	<string>canListenGraphic</string>
+</dict>
+</plist>

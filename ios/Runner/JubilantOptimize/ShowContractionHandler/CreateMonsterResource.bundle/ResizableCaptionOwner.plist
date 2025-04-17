@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCube</key>
+	<string>particleCenter</string>
+	<key>granularAxis</key>
+	<string>timerKind</string>
+	<key>similarOption</key>
+	<string>resumeGrayscale</string>
+</dict>
+</plist>

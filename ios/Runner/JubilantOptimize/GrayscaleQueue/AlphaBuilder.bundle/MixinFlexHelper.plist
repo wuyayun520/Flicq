@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoRemediation</key>
+	<string>compositionalTrajectory</string>
+	<key>checkboxeffect</key>
+	<string>shouldpopthread</string>
+	<key>globalRow</key>
+	<string>chartFacade</string>
+	<key>gramInterval</key>
+	<string>gramState</string>
+	<key>iterativetransitionspacing</key>
+	<string>painterProxy</string>
+	<key>lastPoint</key>
+	<string>responsiveTransformer</string>
+	<key>prevParticle</key>
+	<string>currentmechanism</string>
+	<key>shouldfetchcatalyst</key>
+	<string>entropyTail</string>
+	<key>transpiletext</key>
+	<string>shouldContinueExtension</string>
+</dict>
+</plist>

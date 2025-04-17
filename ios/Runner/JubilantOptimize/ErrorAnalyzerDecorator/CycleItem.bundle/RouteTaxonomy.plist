@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalTween</key>
+	<string>notifierTop</string>
+	<key>detectorvelocity</key>
+	<string>disabledEqualization</string>
+	<key>firstGridView</key>
+	<string>inactiveFeature</string>
+	<key>functionalUsage</key>
+	<string>shouldKeepAspectRatio</string>
+	<key>hyperbolicBinder</key>
+	<string>integerMode</string>
+	<key>inheritedsegment</key>
+	<string>dedicatedquaternion</string>
+	<key>workflowdirection</key>
+	<string>multiascent</string>
+</dict>
+</plist>

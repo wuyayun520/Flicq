@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarstyle</key>
+	<string>interactororientation</string>
+	<key>buttonrate</key>
+	<string>disconnectMobile</string>
+	<key>eagerAlignment</key>
+	<string>robustCube</string>
+	<key>interactorbottom</key>
+	<string>mobileService</string>
+	<key>loaderFormat</key>
+	<string>reflectResponse</string>
+	<key>mutableExpanded</key>
+	<string>standaloneTransition</string>
+	<key>shouldInflateGram</key>
+	<string>invisibleTrigger</string>
+	<key>shouldStartInitiators</key>
+	<string>tickerfeedback</string>
+</dict>
+</plist>

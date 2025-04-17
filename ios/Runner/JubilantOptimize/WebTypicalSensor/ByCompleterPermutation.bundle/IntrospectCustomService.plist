@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagermetrics</key>
+	<string>compositioncompositetop</string>
+	<key>fixedMapper</key>
+	<string>optionTint</string>
+	<key>granularmap</key>
+	<string>impressionbehavior</string>
+	<key>movebuilder</key>
+	<string>filterStyle</string>
+	<key>persistentCheckbox</key>
+	<string>dedicatedButton</string>
+	<key>rotatemenu</key>
+	<string>smartWidget</string>
+	<key>smallChannel</key>
+	<string>fragmentframeworktransparency</string>
+</dict>
+</plist>

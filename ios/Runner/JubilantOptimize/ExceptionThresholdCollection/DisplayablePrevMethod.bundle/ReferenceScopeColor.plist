@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectTransparency</key>
+	<string>processSensor</string>
+	<key>callbackShade</key>
+	<string>fixedCharacteristic</string>
+	<key>ephemeralResolver</key>
+	<string>builderSize</string>
+	<key>radiusstructurefrequency</key>
+	<string>criticalResponse</string>
+	<key>shouldMountedDimension</key>
+	<string>semanticMaterializer</string>
+	<key>symmetricAnimation</key>
+	<string>canInflateSizedBox</string>
+	<key>validateindicator</key>
+	<string>sanitizeListener</string>
+	<key>visualizeservice</key>
+	<string>shouldPersistGate</string>
+</dict>
+</plist>

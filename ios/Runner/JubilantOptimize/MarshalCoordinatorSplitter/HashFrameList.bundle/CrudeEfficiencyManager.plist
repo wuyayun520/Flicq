@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinescalability</key>
+	<string>canDetachOperation</string>
+	<key>firstModel</key>
+	<string>resilientClipper</string>
+	<key>layoutspecifier</key>
+	<string>petwithmemento</string>
+	<key>presenterRight</key>
+	<string>progressbarEdge</string>
+	<key>standaloneChart</key>
+	<string>splitterStyle</string>
+	<key>statelessStack</key>
+	<string>invisibleSemantics</string>
+	<key>workflowoffset</key>
+	<string>painterLeft</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customTriangles</key>
+	<string>visibleScaffold</string>
+	<key>modalDelay</key>
+	<string>elasticityHue</string>
+	<key>shouldSetStateProfile</key>
+	<string>standaloneMission</string>
+	<key>singleListener</key>
+	<string>mountbehavior</string>
+	<key>specifyTransformer</key>
+	<string>standaloneEvolution</string>
+	<key>spriteindex</key>
+	<string>temporarySpecifier</string>
+</dict>
+</plist>

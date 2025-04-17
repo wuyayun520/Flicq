@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexDuration</key>
+	<string>rapidcolor</string>
+	<key>modelType</key>
+	<string>currentbatch</string>
+	<key>nativeNib</key>
+	<string>diversifiedMapper</string>
+	<key>shouldSaveExtension</key>
+	<string>groupPrototype</string>
+	<key>throughputformat</key>
+	<string>pushException</string>
+</dict>
+</plist>

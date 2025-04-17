@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousInstruction</key>
+	<string>disabledtickertag</string>
+	<key>channelTop</key>
+	<string>bufferPadding</string>
+	<key>criticalTicker</key>
+	<string>onbasetap</string>
+	<key>differentiateinitiators</key>
+	<string>prismaticskirtacceleration</string>
+	<key>drawerSaturation</key>
+	<string>shouldunmountedactivity</string>
+	<key>globalMerger</key>
+	<string>canReplaceDropdownButton</string>
+	<key>inactiveAnalyzer</key>
+	<string>instructionTail</string>
+	<key>newestCallback</key>
+	<string>animatedDecoration</string>
+	<key>smartPresenter</key>
+	<string>flexibleBuilder</string>
+</dict>
+</plist>

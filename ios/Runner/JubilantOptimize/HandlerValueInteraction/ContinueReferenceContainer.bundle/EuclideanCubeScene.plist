@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryinteraction</key>
+	<string>modelProcess</string>
+	<key>chaptercreator</key>
+	<string>profileFramework</string>
+	<key>consumerbottom</key>
+	<string>materializerDistance</string>
+	<key>criticalAsync</key>
+	<string>statefulDependency</string>
+	<key>immediateCursor</key>
+	<string>animateSemantics</string>
+	<key>inkwellKind</key>
+	<string>shouldRebuildPoint</string>
+	<key>marginmomentum</key>
+	<string>roleSingleton</string>
+	<key>respectiveinjectioncount</key>
+	<string>activeSprite</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedParticle</key>
+	<string>controllerOffset</string>
+	<key>agileObject</key>
+	<string>viewbufferbrightness</string>
+	<key>comprehensiveDialogs</key>
+	<string>precisionFramework</string>
+	<key>dynamicFrame</key>
+	<string>emitTopic</string>
+	<key>fusedReplica</key>
+	<string>canParseRole</string>
+	<key>normalSample</key>
+	<string>shouldStreamBaseline</string>
+	<key>offsetShade</key>
+	<string>textValidation</string>
+	<key>shouldSetStateContraction</key>
+	<string>pushMonster</string>
+	<key>soundInteraction</key>
+	<string>diversifiedAnimator</string>
+	<key>spotSaturation</key>
+	<string>shearVector</string>
+</dict>
+</plist>

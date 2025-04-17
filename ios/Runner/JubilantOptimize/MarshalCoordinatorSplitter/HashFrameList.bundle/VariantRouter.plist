@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionFlags</key>
+	<string>lossValidation</string>
+	<key>deferredMission</key>
+	<string>displayableFactory</string>
+	<key>flexibleSearcher</key>
+	<string>shouldCreateCell</string>
+	<key>rectVisibility</key>
+	<string>smallMultiplication</string>
+	<key>shouldMountMovement</key>
+	<string>routeParam</string>
+	<key>temporarychannels</key>
+	<string>gradienttop</string>
+	<key>ternaryDepth</key>
+	<string>referenceForm</string>
+</dict>
+</plist>

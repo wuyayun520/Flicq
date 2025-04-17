@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystrectangle</key>
+	<string>storeCompleter</string>
+	<key>graphicInteraction</key>
+	<string>hasmomentum</string>
+	<key>permanentAlignment</key>
+	<string>movementStage</string>
+	<key>primaryawait</key>
+	<string>composableStore</string>
+	<key>roleBrightness</key>
+	<string>aspectratioAlignment</string>
+	<key>specifierRight</key>
+	<string>orchestrateHandler</string>
+</dict>
+</plist>

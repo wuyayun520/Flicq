@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMomentum</key>
+	<string>mountedstep</string>
+	<key>cacheTint</key>
+	<string>hardBaseline</string>
+	<key>enabledEvent</key>
+	<string>menuEnvironment</string>
+	<key>globalDistinction</key>
+	<string>onaspecttap</string>
+	<key>mediocreView</key>
+	<string>groupcolor</string>
+	<key>meshPadding</key>
+	<string>canLayoutBatch</string>
+	<key>scaleborder</key>
+	<string>diversifiedNorm</string>
+	<key>sequentialcycle</key>
+	<string>positionedmode</string>
+	<key>shouldInitializeMonster</key>
+	<string>callbackorproxy</string>
+</dict>
+</plist>

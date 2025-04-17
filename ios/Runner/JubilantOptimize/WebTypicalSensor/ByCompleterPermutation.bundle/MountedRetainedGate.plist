@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedPresenter</key>
+	<string>prevparticletint</string>
+	<key>cupertinoMesh</key>
+	<string>permanentIndicator</string>
+	<key>initiatorsType</key>
+	<string>staticRect</string>
+	<key>materialtransformer</key>
+	<string>otherlistenerhead</string>
+	<key>metadataTheme</key>
+	<string>drawerpadding</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionatfunction</key>
+	<string>enumerateChart</string>
+	<key>characterOrientation</key>
+	<string>controllerColor</string>
+	<key>expandedstyle</key>
+	<string>adjustLabel</string>
+	<key>infrastructureAcceleration</key>
+	<string>deserializeCell</string>
+	<key>materialView</key>
+	<string>histogramBuffer</string>
+	<key>multiImpact</key>
+	<string>specifyChannel</string>
+	<key>resourcequaternion</key>
+	<string>interpolatestore</string>
+	<key>shouldListenPadding</key>
+	<string>euclideangridorigin</string>
+</dict>
+</plist>

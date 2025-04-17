@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTweak</key>
+	<string>semanticsMediator</string>
+	<key>roledetail</key>
+	<string>canSetStateThread</string>
+	<key>shouldStopHistogram</key>
+	<string>currentsliderorigin</string>
+	<key>specifyElasticity</key>
+	<string>coordinatorLayer</string>
+</dict>
+</plist>

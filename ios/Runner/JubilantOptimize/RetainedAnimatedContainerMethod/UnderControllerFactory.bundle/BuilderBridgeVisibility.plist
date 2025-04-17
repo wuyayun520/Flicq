@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cosinevariabledelay</key>
+	<string>lockChannel</string>
+	<key>currentcycle</key>
+	<string>layoutBaseline</string>
+	<key>otherCache</key>
+	<string>elasticityBorder</string>
+	<key>permanentData</key>
+	<string>smartSlash</string>
+</dict>
+</plist>

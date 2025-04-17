@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxflags</key>
+	<string>requiredMember</string>
+	<key>declarativeGate</key>
+	<string>dismisssemantics</string>
+	<key>explicitSample</key>
+	<string>originalCanvas</string>
+	<key>methodformvisible</key>
+	<string>schemaTag</string>
+	<key>pointinchain</key>
+	<string>hardImpact</string>
+	<key>responsiveResolver</key>
+	<string>shouldRouteAnchor</string>
+	<key>retrievebutton</key>
+	<string>canDetachCache</string>
+	<key>shoulddisposeternary</key>
+	<string>spineCenter</string>
+</dict>
+</plist>

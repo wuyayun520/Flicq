@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keyDistinction</key>
+	<string>directQuaternion</string>
+	<key>shouldobservecell</key>
+	<string>renderstream</string>
+	<key>subscribertop</key>
+	<string>shouldRouteDescriptor</string>
+	<key>subtleRange</key>
+	<string>otherPainter</string>
+</dict>
+</plist>

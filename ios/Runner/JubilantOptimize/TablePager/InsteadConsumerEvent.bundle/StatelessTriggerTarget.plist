@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>keySearcher</key>
+	<string>isTabView</string>
+	<key>listenerreducer</key>
+	<string>retrieveLoop</string>
+	<key>lostResilience</key>
+	<string>arithmeticEvent</string>
+	<key>otherStateful</key>
+	<string>canFetchExpanded</string>
+	<key>pivotalModal</key>
+	<string>canReplaceCapacities</string>
+	<key>processorinteraction</key>
+	<string>mainUsage</string>
+	<key>storyboardfeature</key>
+	<string>ephemeralListView</string>
+	<key>webAperture</key>
+	<string>pinchableMap</string>
+	<key>webdimensionalignment</key>
+	<string>entityAlignment</string>
+</dict>
+</plist>

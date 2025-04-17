@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>initiativeStatus</key>
+	<string>toolFlags</string>
+	<key>invokeexpanded</key>
+	<string>boxisolate</string>
+	<key>marginjobcenter</key>
+	<string>graphicprocessorientation</string>
+	<key>reusableevaluation</key>
+	<string>keeproute</string>
+	<key>selectedGrayscale</key>
+	<string>canRenderGate</string>
+	<key>shouldRenderMaterial</key>
+	<string>mitigateskin</string>
+	<key>sustainableGestureDetector</key>
+	<string>functionalHero</string>
+</dict>
+</plist>

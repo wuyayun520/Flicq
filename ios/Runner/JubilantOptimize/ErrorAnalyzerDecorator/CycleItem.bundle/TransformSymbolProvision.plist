@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionReduction</key>
+	<string>trainSpot</string>
+	<key>effecttop</key>
+	<string>hyperbolicWrapper</string>
+	<key>publicequipmentfeedback</key>
+	<string>modulustop</string>
+	<key>shouldFetchTabBar</key>
+	<string>subtleSign</string>
+	<key>shouldKeepContraction</key>
+	<string>canDecodeButton</string>
+	<key>shouldKeepStep</key>
+	<string>presentEntropy</string>
+	<key>shouldRebuildGrayscale</key>
+	<string>independentSprite</string>
+	<key>shouldStartCoordinator</key>
+	<string>scrollableInkWell</string>
+	<key>yieldfactory</key>
+	<string>parseLog</string>
+</dict>
+</plist>

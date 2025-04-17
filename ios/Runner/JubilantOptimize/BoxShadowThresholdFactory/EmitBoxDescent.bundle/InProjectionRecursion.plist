@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartvelocity</key>
+	<string>maxCycle</string>
+	<key>completerRate</key>
+	<string>paintSpot</string>
+	<key>composableFinder</key>
+	<string>decorationDecorator</string>
+	<key>graphicskewx</key>
+	<string>popupLeft</string>
+	<key>isolatekindoffset</key>
+	<string>visualizeChapter</string>
+	<key>seamlessroutehue</key>
+	<string>layerHead</string>
+	<key>shouldReplaceGridView</key>
+	<string>customNotation</string>
+</dict>
+</plist>

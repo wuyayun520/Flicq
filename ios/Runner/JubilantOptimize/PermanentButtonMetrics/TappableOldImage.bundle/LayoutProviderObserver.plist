@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTint</key>
+	<string>robustGrayscale</string>
+	<key>buildernavigator</key>
+	<string>resizableLoop</string>
+	<key>delegaterate</key>
+	<string>shouldTrainCell</string>
+	<key>euclideanScope</key>
+	<string>reusableEffect</string>
+	<key>globalSkin</key>
+	<string>modelChain</string>
+	<key>mapperColor</key>
+	<string>shouldconnectoption</string>
+	<key>mediocreCupertino</key>
+	<string>kernelTemple</string>
+	<key>shouldPaintBrush</key>
+	<string>shouldBindCell</string>
+	<key>singleanimator</key>
+	<string>vertexHead</string>
+	<key>stepBorder</key>
+	<string>asyncOperation</string>
+</dict>
+</plist>

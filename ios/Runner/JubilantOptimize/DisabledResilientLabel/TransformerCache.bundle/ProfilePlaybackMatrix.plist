@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonInkWell</key>
+	<string>secondSchema</string>
+	<key>currentplate</key>
+	<string>draggablecubit</string>
+	<key>globalProgressBar</key>
+	<string>showLayer</string>
+	<key>intuitiveGraph</key>
+	<string>aperturetop</string>
+	<key>permissiveQuaternion</key>
+	<string>completerCount</string>
+	<key>statejobbound</key>
+	<string>lastScope</string>
+</dict>
+</plist>

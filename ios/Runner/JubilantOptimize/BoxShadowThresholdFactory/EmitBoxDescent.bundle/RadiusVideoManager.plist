@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionLocation</key>
+	<string>shouldRestartMission</string>
+	<key>chapterforprocess</key>
+	<string>normalRestriction</string>
+	<key>inheritedTrajectory</key>
+	<string>canUnbindChannels</string>
+	<key>invisibleSelector</key>
+	<string>dismissMap</string>
+	<key>listendelegate</key>
+	<string>greatShape</string>
+	<key>localLocalization</key>
+	<string>shouldUpdatePet</string>
+	<key>rapidduration</key>
+	<string>shouldRouteSegment</string>
+	<key>retainedChannel</key>
+	<string>delegatesaturation</string>
+	<key>shaderAppearance</key>
+	<string>oncompositionchanged</string>
+</dict>
+</plist>

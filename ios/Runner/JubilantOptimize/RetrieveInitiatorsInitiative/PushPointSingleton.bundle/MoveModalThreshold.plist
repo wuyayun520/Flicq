@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compileworkflow</key>
+	<string>decodestateless</string>
+	<key>nextReducer</key>
+	<string>statelessBatch</string>
+	<key>resizableCapsule</key>
+	<string>firstButton</string>
+	<key>widgetrate</key>
+	<string>secondConfidentiality</string>
+</dict>
+</plist>

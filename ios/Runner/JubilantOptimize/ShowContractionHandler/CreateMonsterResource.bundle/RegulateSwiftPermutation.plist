@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateplatformforce</key>
+	<string>exitState</string>
+	<key>globalStack</key>
+	<string>draggableBase</string>
+	<key>ignoredGestureDetector</key>
+	<string>disconnectGrayscale</string>
+	<key>integerpercycle</key>
+	<string>shouldPauseGrayscale</string>
+	<key>newestEquipment</key>
+	<string>interpolateUseCase</string>
+	<key>shouldPaintSensor</key>
+	<string>dimensionTier</string>
+	<key>storageInterval</key>
+	<string>fetchTheme</string>
+	<key>subsequentAnimation</key>
+	<string>canvasTop</string>
+</dict>
+</plist>

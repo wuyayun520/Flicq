@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>granularAlert</key>
+	<string>buildStoryboard</string>
+	<key>latencyContrast</key>
+	<string>nativeStateless</string>
+	<key>mediocreSkirt</key>
+	<string>cupertinoTweak</string>
+	<key>popuptypeorigin</key>
+	<string>shouldDisconnectSignature</string>
+	<key>priorInteraction</key>
+	<string>ephemeralrect</string>
+	<key>protectedComposition</key>
+	<string>shouldDisposeDocument</string>
+	<key>shouldStreamRadio</key>
+	<string>mutableReplica</string>
+</dict>
+</plist>

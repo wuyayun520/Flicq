@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedaccessory</key>
+	<string>localOffset</string>
+	<key>animatedPager</key>
+	<string>canRenderMovement</string>
+	<key>cubefrequency</key>
+	<string>canTransformBuilder</string>
+	<key>histogramInterval</key>
+	<string>typicalSink</string>
+	<key>ignoredAlignment</key>
+	<string>indicatorbesidesingleton</string>
+	<key>moduleVelocity</key>
+	<string>shouldPublishExponent</string>
+	<key>profileOrigin</key>
+	<string>significantAsync</string>
+	<key>requiredpaddingshade</key>
+	<string>backwardDelegate</string>
+	<key>skipclipper</key>
+	<string>analyzeNavigator</string>
+	<key>ternaryfactory</key>
+	<string>unregisterAlignment</string>
+</dict>
+</plist>

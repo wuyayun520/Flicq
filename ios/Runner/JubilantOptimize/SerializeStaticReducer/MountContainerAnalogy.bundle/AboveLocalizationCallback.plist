@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedinterfacevalidation</key>
+	<string>shouldSubscribeAnimatedContainer</string>
+	<key>imperativeImpact</key>
+	<string>clusterOffset</string>
+	<key>invisibleBox</key>
+	<string>signatureResponse</string>
+	<key>parallelController</key>
+	<string>heapLayer</string>
+	<key>similarRecursion</key>
+	<string>publicDrawer</string>
+	<key>singleAlpha</key>
+	<string>shouldUnmountButton</string>
+</dict>
+</plist>

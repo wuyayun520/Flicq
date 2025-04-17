@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintvisible</key>
+	<string>consumerOffset</string>
+	<key>nativeVolume</key>
+	<string>popslider</string>
+	<key>observerAlignment</key>
+	<string>clipperLeft</string>
+	<key>optimizerTint</key>
+	<string>resizableTernary</string>
+	<key>radiusInteraction</key>
+	<string>layoutTextField</string>
+	<key>shouldSetStatePlate</key>
+	<string>shouldDetachCurve</string>
+</dict>
+</plist>

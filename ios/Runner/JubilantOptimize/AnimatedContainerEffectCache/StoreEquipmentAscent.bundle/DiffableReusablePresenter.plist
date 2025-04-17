@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleRouter</key>
+	<string>easyChannel</string>
+	<key>constraintfeedback</key>
+	<string>transitionCheckbox</string>
+	<key>dynamicSession</key>
+	<string>polygonCount</string>
+	<key>handleragainsttier</key>
+	<string>normalConnector</string>
+	<key>iterativeCubit</key>
+	<string>allocatorresilience</string>
+	<key>newestSemantics</key>
+	<string>mutableThreshold</string>
+	<key>presenterstateindex</key>
+	<string>drawProvider</string>
+	<key>shouldTransformThread</key>
+	<string>smallDependency</string>
+	<key>staticDecoration</key>
+	<string>fusedSensor</string>
+</dict>
+</plist>

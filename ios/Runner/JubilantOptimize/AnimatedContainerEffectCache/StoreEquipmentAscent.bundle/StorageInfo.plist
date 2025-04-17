@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMechanism</key>
+	<string>pinchableCompleter</string>
+	<key>allocategridview</key>
+	<string>touchLoop</string>
+	<key>appbarinsidejob</key>
+	<string>columnstate</string>
+	<key>shouldDisposeWidget</key>
+	<string>throughputCenter</string>
+</dict>
+</plist>

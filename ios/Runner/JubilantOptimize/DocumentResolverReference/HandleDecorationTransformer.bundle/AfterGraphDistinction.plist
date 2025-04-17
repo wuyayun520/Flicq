@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInjection</key>
+	<string>flexibleSplitter</string>
+	<key>animationprovider</key>
+	<string>unactivatedMapper</string>
+	<key>asynchronousScenario</key>
+	<string>currentTransition</string>
+	<key>comprehensivemerger</key>
+	<string>differentiateinteger</string>
+	<key>denseScheduler</key>
+	<string>trajectorySkewX</string>
+	<key>discardedamortization</key>
+	<string>symmetricBandwidth</string>
+	<key>explicitmultiplication</key>
+	<string>configurationcenter</string>
+	<key>mediaquerybandwidth</key>
+	<string>cacheMultiplication</string>
+	<key>robustColumn</key>
+	<string>lostChooser</string>
+</dict>
+</plist>

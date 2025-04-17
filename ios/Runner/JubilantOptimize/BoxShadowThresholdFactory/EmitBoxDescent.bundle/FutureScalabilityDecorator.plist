@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionconsumerbehavior</key>
+	<string>initializeSink</string>
+	<key>arithmeticScalability</key>
+	<string>signScale</string>
+	<key>autoTexture</key>
+	<string>pushPopup</string>
+	<key>cubitcoord</key>
+	<string>giftDirection</string>
+	<key>extendsubpixel</key>
+	<string>alphaHue</string>
+	<key>extensionFeedback</key>
+	<string>shouldReplaceSlider</string>
+	<key>granularRepository</key>
+	<string>queuevisibility</string>
+	<key>mediocreColumn</key>
+	<string>completionPattern</string>
+	<key>overlayOpacity</key>
+	<string>unmarshalProgressBar</string>
+	<key>utilSkewX</key>
+	<string>adjustGroup</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseNotification</key>
+	<string>inkwellMediator</string>
+	<key>keyConnector</key>
+	<string>resumeLoss</string>
+	<key>lastProvider</key>
+	<string>geometricAlert</string>
+	<key>numericalBuffer</key>
+	<string>limitkernel</string>
+	<key>scaffoldalongprototype</key>
+	<string>signComposite</string>
+	<key>scrollscroller</key>
+	<string>basevisible</string>
+	<key>shouldTransitionDocument</key>
+	<string>shouldDetachBase</string>
+	<key>synchronousImpression</key>
+	<string>stacknode</string>
+</dict>
+</plist>

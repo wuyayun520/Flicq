@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticType</key>
+	<string>canUnmountSkin</string>
+	<key>lastpageview</key>
+	<string>extensionstructureappearance</string>
+	<key>mobileBehavior</key>
+	<string>shouldFinishBox</string>
+	<key>routeBottom</key>
+	<string>customizedTopic</string>
+	<key>subsequentRemediation</key>
+	<string>capacityDirection</string>
+	<key>usedMetrics</key>
+	<string>canShowBorder</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityTheme</key>
+	<string>partitionManager</string>
+	<key>associatedResult</key>
+	<string>asynchronousStatus</string>
+	<key>marginmapper</key>
+	<string>pinchableReceiver</string>
+	<key>protectedConsumer</key>
+	<string>embedDependency</string>
+	<key>shouldbuildlistview</key>
+	<string>impressionspeed</string>
+	<key>signAcceleration</key>
+	<string>intermediatescope</string>
+</dict>
+</plist>

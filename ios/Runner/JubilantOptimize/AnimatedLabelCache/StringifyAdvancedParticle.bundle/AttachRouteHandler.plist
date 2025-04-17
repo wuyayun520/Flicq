@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentQuaternion</key>
+	<string>canMountModal</string>
+	<key>enablednotation</key>
+	<string>concatenateHash</string>
+	<key>imperativeExtension</key>
+	<string>polyfillShape</string>
+	<key>margindescription</key>
+	<string>parseAllocator</string>
+	<key>permissiveQuaternion</key>
+	<string>singletonKind</string>
+	<key>retainedPager</key>
+	<string>titleValue</string>
+	<key>shouldDetachBox</key>
+	<string>pickerBottom</string>
+	<key>similarSorter</key>
+	<string>shouldSubscribeReduction</string>
+</dict>
+</plist>

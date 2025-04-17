@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchFlags</key>
+	<string>inheritedEquivalent</string>
+	<key>dedicatedMobile</key>
+	<string>canConnectGraphic</string>
+	<key>dynamicStrength</key>
+	<string>configurationmediatorcoord</string>
+	<key>immediateasync</key>
+	<string>cloneskin</string>
+	<key>immutableDocument</key>
+	<string>traversalTail</string>
+	<key>inheritedWrapper</key>
+	<string>transformCoordinator</string>
+	<key>missedDocument</key>
+	<string>configurationPrototype</string>
+	<key>publicError</key>
+	<string>shouldFetchCertificate</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiocomponent</key>
+	<string>defaultModal</string>
+	<key>cupertinoEdge</key>
+	<string>singleProject</string>
+	<key>embeddependency</key>
+	<string>shouldFetchAspect</string>
+	<key>globalframetension</key>
+	<string>mountview</string>
+	<key>intermediateRequest</key>
+	<string>creatorInteraction</string>
+	<key>ispromise</key>
+	<string>dataSkewX</string>
+	<key>ondropdownbuttontap</key>
+	<string>infrastructureDelay</string>
+	<key>relationalEfficiency</key>
+	<string>painterTask</string>
+	<key>sustainablepageview</key>
+	<string>taxonomyHead</string>
+</dict>
+</plist>

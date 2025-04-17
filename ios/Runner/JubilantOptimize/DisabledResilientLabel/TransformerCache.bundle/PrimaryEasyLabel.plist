@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderKind</key>
+	<string>provisionvelocity</string>
+	<key>crudeInfo</key>
+	<string>monsterFeedback</string>
+	<key>crudeSorter</key>
+	<string>errorreceiver</string>
+	<key>dynamicgrayscale</key>
+	<string>canDetachPadding</string>
+	<key>keytabbar</key>
+	<string>actionkind</string>
+	<key>lostListener</key>
+	<string>giftPadding</string>
+	<key>modulusright</key>
+	<string>customizedInterface</string>
+	<key>polygonStyle</key>
+	<string>signatureLeft</string>
+	<key>shouldTrainStateless</key>
+	<string>clipperDistance</string>
+	<key>standaloneAsset</key>
+	<string>shouldInitializeUnary</string>
+</dict>
+</plist>

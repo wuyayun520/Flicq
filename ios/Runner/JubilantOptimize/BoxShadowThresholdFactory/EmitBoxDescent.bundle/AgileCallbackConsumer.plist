@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dismisschart</key>
+	<string>secondThroughput</string>
+	<key>diversifiedElasticity</key>
+	<string>fixedtechniquedistance</string>
+	<key>labelsincestrategy</key>
+	<string>canInflateCapacities</string>
+	<key>sharedView</key>
+	<string>invisibleInitiative</string>
+	<key>shouldUnbindSubpixel</key>
+	<string>computeInteractor</string>
+	<key>usagescale</key>
+	<string>kernelscopedensity</string>
+</dict>
+</plist>

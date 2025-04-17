@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveStorage</key>
+	<string>canLayoutProject</string>
+	<key>explicitScaffold</key>
+	<string>startShader</string>
+	<key>graphaudio</key>
+	<string>lazyspecifier</string>
+	<key>heroSpacing</key>
+	<string>smartAnimatedContainer</string>
+	<key>interactivemusic</key>
+	<string>captionframeworkindex</string>
+	<key>shaderfacadebottom</key>
+	<string>geometricproviderorigin</string>
+</dict>
+</plist>

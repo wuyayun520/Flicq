@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedFinder</key>
+	<string>independentAxis</string>
+	<key>gesturedetectorhead</key>
+	<string>selectedPlayback</string>
+	<key>keyRole</key>
+	<string>concreteConstant</string>
+	<key>listenercenter</key>
+	<string>painterStage</string>
+	<key>repositoryTail</key>
+	<string>unaryPressure</string>
+	<key>shouldDecodeMargin</key>
+	<string>appendTransition</string>
+	<key>shouldRouteContraction</key>
+	<string>responsiveButton</string>
+	<key>workflowpadding</key>
+	<string>canDispatchInkWell</string>
+</dict>
+</plist>

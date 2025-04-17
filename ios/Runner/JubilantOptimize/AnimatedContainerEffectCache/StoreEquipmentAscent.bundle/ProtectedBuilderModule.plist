@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeassetborder</key>
+	<string>showInkWell</string>
+	<key>delegateAlignment</key>
+	<string>hasgrayscale</string>
+	<key>directlyInteraction</key>
+	<string>monsterinbuffer</string>
+	<key>grayscalemesh</key>
+	<string>requiredImage</string>
+	<key>protectedChannels</key>
+	<string>shouldRestartReduction</string>
+	<key>semanticZone</key>
+	<string>retainTexture</string>
+	<key>shouldBindBullet</key>
+	<string>aperturelayout</string>
+	<key>shouldtransitiongem</key>
+	<string>prevTime</string>
+</dict>
+</plist>

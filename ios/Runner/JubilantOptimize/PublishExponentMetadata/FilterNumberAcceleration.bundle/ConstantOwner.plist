@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyfactorybound</key>
+	<string>canBuildInkWell</string>
+	<key>eagerCreator</key>
+	<string>statelessEvent</string>
+	<key>intermediatePrecision</key>
+	<string>navigateGridView</string>
+	<key>sharedMapper</key>
+	<string>buildbutton</string>
+	<key>shouldRebuildInitiators</key>
+	<string>pagerStatus</string>
+	<key>specifierRight</key>
+	<string>radiussystemsize</string>
+	<key>standalonescalescale</key>
+	<string>rectPrototype</string>
+	<key>subsequentTweak</key>
+	<string>exponentdescription</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseTaxonomy</key>
+	<string>adaptiveCanvas</string>
+	<key>dynamicProvider</key>
+	<string>sampleVisitor</string>
+	<key>immediateasyncpadding</key>
+	<string>discardedNotifier</string>
+	<key>sophisticatedMetadata</key>
+	<string>columnSingleton</string>
+	<key>unactivatedMargin</key>
+	<string>paintcontroller</string>
+	<key>widgetformmode</key>
+	<string>axisFlags</string>
+</dict>
+</plist>

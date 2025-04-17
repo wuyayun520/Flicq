@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterTop</key>
+	<string>soundEdge</string>
+	<key>gateStyle</key>
+	<string>routeInkWell</string>
+	<key>navigatorInterval</key>
+	<string>newestQueue</string>
+	<key>uniformEntropy</key>
+	<string>reductionallocator</string>
+</dict>
+</plist>

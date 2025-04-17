@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRenderer</key>
+	<string>segueCycle</string>
+	<key>intermediatetimerdelay</key>
+	<string>intensityParameter</string>
+	<key>observerofkind</key>
+	<string>transformDescription</string>
+	<key>oldVolume</key>
+	<string>standalonemember</string>
+	<key>retainedEntropy</key>
+	<string>detectorlocation</string>
+	<key>semanticsBrightness</key>
+	<string>ignoredPicker</string>
+	<key>sortedDetector</key>
+	<string>activePageView</string>
+	<key>sustainabletangentacceleration</key>
+	<string>interactiveImpression</string>
+</dict>
+</plist>

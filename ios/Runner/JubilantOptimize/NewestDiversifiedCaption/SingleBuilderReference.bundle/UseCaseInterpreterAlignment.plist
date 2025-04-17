@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>rectBehavior</key>
+	<string>synchronousTextField</string>
+	<key>shouldFormatCoordinator</key>
+	<string>contrastLeft</string>
+	<key>shouldInitializeSubpixel</key>
+	<string>unbindresource</string>
+	<key>significantDetector</key>
+	<string>usageBehavior</string>
+	<key>uniqueReceiver</key>
+	<string>canYieldStateless</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableTopic</key>
+	<string>retainedinterface</string>
+	<key>mediaName</key>
+	<string>shouldDisconnectBehavior</string>
+	<key>nextModel</key>
+	<string>canDecodeDrawer</string>
+	<key>permanentConverter</key>
+	<string>reusableGraph</string>
+	<key>singleSubscriber</key>
+	<string>statelessObject</string>
+	<key>temporaryLoader</key>
+	<string>sliderColor</string>
+</dict>
+</plist>

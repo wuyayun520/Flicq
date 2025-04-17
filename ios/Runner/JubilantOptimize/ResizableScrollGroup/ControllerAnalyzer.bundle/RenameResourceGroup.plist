@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredInfrastructure</key>
+	<string>unmountedConvolution</string>
+	<key>ignoredProjection</key>
+	<string>utilVisibility</string>
+	<key>layoutbylayer</key>
+	<string>opaqueChecklist</string>
+	<key>permissiveMultiplication</key>
+	<string>responseSkewY</string>
+</dict>
+</plist>

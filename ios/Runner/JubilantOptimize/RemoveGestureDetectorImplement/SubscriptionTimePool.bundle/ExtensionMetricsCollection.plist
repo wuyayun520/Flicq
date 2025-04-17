@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicallocatortag</key>
+	<string>fixedBinary</string>
+	<key>beginnerbuttonindex</key>
+	<string>resilientPriority</string>
+	<key>canvasAlignment</key>
+	<string>animateSemantics</string>
+	<key>clipperformat</key>
+	<string>notificationTheme</string>
+	<key>containermechanism</key>
+	<string>binaryContrast</string>
+	<key>servicevisible</key>
+	<string>permanentMethod</string>
+	<key>temporarybuttonindex</key>
+	<string>soundMode</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionAcceleration</key>
+	<string>immediateColumn</string>
+	<key>grainMargin</key>
+	<string>cardAppearance</string>
+	<key>immutableConstraint</key>
+	<string>metadatacreator</string>
+	<key>transformerinterval</key>
+	<string>initiativeKind</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ephemeralStep</key>
+	<string>lazySize</string>
+	<key>lostChannels</key>
+	<string>detailPosition</string>
+	<key>nextcolumn</key>
+	<string>smartTabBar</string>
+	<key>responderShade</key>
+	<string>roleMediator</string>
+	<key>reusableProcessor</key>
+	<string>consumerFramework</string>
+	<key>stampStyle</key>
+	<string>routelikecomposite</string>
+	<key>textstyle</key>
+	<string>spinAnimation</string>
+</dict>
+</plist>

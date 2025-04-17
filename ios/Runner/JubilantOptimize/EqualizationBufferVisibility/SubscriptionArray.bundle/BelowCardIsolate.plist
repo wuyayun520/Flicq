@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartcoord</key>
+	<string>mixinButton</string>
+	<key>consumerDuration</key>
+	<string>shouldSkipSegment</string>
+	<key>mobileEdge</key>
+	<string>shouldRebuildBorder</string>
+	<key>oldsize</key>
+	<string>collectionFacade</string>
+	<key>sequentialchooser</key>
+	<string>currentConstant</string>
+	<key>shouldattachtool</key>
+	<string>skinPattern</string>
+	<key>subtleAwait</key>
+	<string>capsulerow</string>
+</dict>
+</plist>

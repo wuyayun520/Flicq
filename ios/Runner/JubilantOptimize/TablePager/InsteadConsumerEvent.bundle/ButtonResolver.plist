@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedrect</key>
+	<string>statelessBase</string>
+	<key>boxshadowDirection</key>
+	<string>searcherHead</string>
+	<key>reactiveTitle</key>
+	<string>canPopGrayscale</string>
+	<key>resilientscaffoldtop</key>
+	<string>evaluationtop</string>
+	<key>scalabilityVisible</key>
+	<string>agileTween</string>
+	<key>timelineOffset</key>
+	<string>decodeCupertino</string>
+</dict>
+</plist>

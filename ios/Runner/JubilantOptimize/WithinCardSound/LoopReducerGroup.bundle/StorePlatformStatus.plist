@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphappearance</key>
+	<string>scrollablelistenerrate</string>
+	<key>nextBinder</key>
+	<string>schedulerVisibility</string>
+	<key>shouldFetchGridView</key>
+	<string>ternaryShade</string>
+	<key>shouldLayoutCaption</key>
+	<string>shouldFormatFragment</string>
+	<key>signShade</key>
+	<string>delicatePublisher</string>
+</dict>
+</plist>

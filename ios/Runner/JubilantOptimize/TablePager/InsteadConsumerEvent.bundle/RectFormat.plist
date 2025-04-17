@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryVisible</key>
+	<string>litenotificationfrequency</string>
+	<key>emitparticle</key>
+	<string>routerinphase</string>
+	<key>particleTransparency</key>
+	<string>storeMargin</string>
+	<key>remainderHead</key>
+	<string>holdGraph</string>
+	<key>serializeprofile</key>
+	<string>autoAsset</string>
+	<key>shouldPushIndicator</key>
+	<string>syncLayer</string>
+	<key>shouldSetStateChallenge</key>
+	<string>shouldListenResource</string>
+	<key>smartSound</key>
+	<string>masterPadding</string>
+</dict>
+</plist>

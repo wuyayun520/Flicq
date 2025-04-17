@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainergrain</key>
+	<string>canCancelMap</string>
+	<key>asynchronouspopupspeed</key>
+	<string>deserializeinjection</string>
+	<key>emitindicator</key>
+	<string>eventComposite</string>
+	<key>indicatorStatus</key>
+	<string>bindMember</string>
+	<key>primaryBrush</key>
+	<string>defaultRadio</string>
+	<key>prismaticTween</key>
+	<string>shouldUpdateImage</string>
+	<key>seguepreview</key>
+	<string>publicLatency</string>
+</dict>
+</plist>

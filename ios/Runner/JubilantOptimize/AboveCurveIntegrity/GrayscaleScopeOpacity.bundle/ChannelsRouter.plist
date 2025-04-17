@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerGestureDetector</key>
+	<string>routeduration</string>
+	<key>curveVisibility</key>
+	<string>handlebloc</string>
+	<key>difficultProvider</key>
+	<string>publicCell</string>
+	<key>discardedLatency</key>
+	<string>dynamicRow</string>
+	<key>progressbarFlags</key>
+	<string>shouldStreamRole</string>
+	<key>protectedStoryboard</key>
+	<string>mitigateParticle</string>
+	<key>shouldEndAperture</key>
+	<string>canDispatchMargin</string>
+</dict>
+</plist>

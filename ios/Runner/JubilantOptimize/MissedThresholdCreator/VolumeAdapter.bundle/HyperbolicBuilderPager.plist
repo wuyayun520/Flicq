@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorMargin</key>
+	<string>quantizationTransition</string>
+	<key>backwardAudio</key>
+	<string>chapterInterpreter</string>
+	<key>materialalignment</key>
+	<string>validateProvider</string>
+	<key>mobileHero</key>
+	<string>shouldCacheProvider</string>
+	<key>nodemend</key>
+	<string>canKeepResource</string>
+	<key>oncustompaintchanged</key>
+	<string>touchBottom</string>
+	<key>reactiveSwitch</key>
+	<string>invisibleDropdownButton</string>
+	<key>secondAnimation</key>
+	<string>showbuilder</string>
+	<key>shouldStreamChecklist</key>
+	<string>gradientCoord</string>
+</dict>
+</plist>

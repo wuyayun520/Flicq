@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectrepository</key>
+	<string>unsorteddecoration</string>
+	<key>borderShape</key>
+	<string>shouldBuildInterpolation</string>
+	<key>comprehensiveAllocator</key>
+	<string>distinctionTheme</string>
+	<key>cursorthanstyle</key>
+	<string>shouldNavigateTouch</string>
+	<key>draggableCosine</key>
+	<string>intuitiveRecursion</string>
+	<key>euclideanListener</key>
+	<string>shouldrenderskin</string>
+	<key>listeneruntilstrategy</key>
+	<string>segmentstrategyshape</string>
+	<key>selectedbitrate</key>
+	<string>exponentSize</string>
+	<key>spotRate</key>
+	<string>autoIsolate</string>
+	<key>temporaryTraversal</key>
+	<string>smartCertificate</string>
+</dict>
+</plist>

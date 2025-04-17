@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerReceiver</key>
+	<string>materialgrid</string>
+	<key>boxmomentum</key>
+	<string>listenerForce</string>
+	<key>crucialCluster</key>
+	<string>movementintensity</string>
+	<key>featureSpeed</key>
+	<string>mapVariable</string>
+	<key>geometricbinder</key>
+	<string>segmentTension</string>
+	<key>repositoryinteraction</key>
+	<string>otherAccessory</string>
+	<key>shouldUnmountedConvolution</key>
+	<string>clearParticle</string>
+	<key>uniformConverter</key>
+	<string>notifyCallback</string>
+</dict>
+</plist>

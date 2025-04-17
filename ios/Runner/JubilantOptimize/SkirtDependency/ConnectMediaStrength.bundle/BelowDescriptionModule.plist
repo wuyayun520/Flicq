@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPresenter</key>
+	<string>shaderStage</string>
+	<key>activatedCubit</key>
+	<string>explicitLayout</string>
+	<key>animatedCubit</key>
+	<string>draggableAnimatedContainer</string>
+	<key>comprehensiveParticle</key>
+	<string>cancelController</string>
+	<key>reactiveInfrastructure</key>
+	<string>grainVisible</string>
+	<key>shouldTransformCapsule</key>
+	<string>actionelement</string>
+	<key>singleCharacter</key>
+	<string>directFeature</string>
+	<key>subsequentMethod</key>
+	<string>titleAction</string>
+	<key>volumeInteraction</key>
+	<string>updategroup</string>
+</dict>
+</plist>

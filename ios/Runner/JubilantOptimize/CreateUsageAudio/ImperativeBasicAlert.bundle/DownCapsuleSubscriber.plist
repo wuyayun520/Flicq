@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedasyncdensity</key>
+	<string>shouldBuildSession</string>
+	<key>inheritedSignature</key>
+	<string>unaryPhase</string>
+	<key>layerRate</key>
+	<string>channelInset</string>
+	<key>notifierBrightness</key>
+	<string>onbaselinechanged</string>
+	<key>shouldDisconnectSpine</key>
+	<string>labelFrequency</string>
+	<key>shouldEndImage</key>
+	<string>scaleContext</string>
+	<key>shouldEndResource</key>
+	<string>onsignchanged</string>
+	<key>statusTop</key>
+	<string>dissociateInjection</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorversusshape</key>
+	<string>unarymaterializer</string>
+	<key>displayablelocalizationvisible</key>
+	<string>finderInset</string>
+	<key>loadfuture</key>
+	<string>awaitandbridge</string>
+	<key>mainIntegrity</key>
+	<string>customreducer</string>
+	<key>nativeStamp</key>
+	<string>compositionalIntegration</string>
+	<key>numericalConsumption</key>
+	<string>canSaveCatalyst</string>
+</dict>
+</plist>

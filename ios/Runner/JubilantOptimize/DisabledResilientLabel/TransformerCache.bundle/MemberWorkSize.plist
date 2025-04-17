@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentAcceleration</key>
+	<string>canTrainEntropy</string>
+	<key>errorPadding</key>
+	<string>inkwellTheme</string>
+	<key>fixedHeap</key>
+	<string>validatequeue</string>
+	<key>previewtemplealignment</key>
+	<string>aperturePosition</string>
+	<key>shouldContinueSymbol</key>
+	<string>shouldInitializeCollection</string>
+	<key>significantConsumer</key>
+	<string>nextPlate</string>
+	<key>stampVelocity</key>
+	<string>persistbrush</string>
+	<key>tappableTask</key>
+	<string>pushSize</string>
+</dict>
+</plist>

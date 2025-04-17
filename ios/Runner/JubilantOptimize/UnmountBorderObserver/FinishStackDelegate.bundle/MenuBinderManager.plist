@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activetickertransparency</key>
+	<string>unmountswift</string>
+	<key>disabledService</key>
+	<string>shouldAttachArithmetic</string>
+	<key>globalConsumption</key>
+	<string>routeShader</string>
+	<key>shouldupdatelog</key>
+	<string>consultativeBuilder</string>
+</dict>
+</plist>

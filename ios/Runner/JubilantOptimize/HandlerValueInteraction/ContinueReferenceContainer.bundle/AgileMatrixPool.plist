@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleinjectioncolor</key>
+	<string>persistentDelivery</string>
+	<key>contrastFeedback</key>
+	<string>aggregateRow</string>
+	<key>extendroute</key>
+	<string>evaluateUtil</string>
+	<key>layercontroller</key>
+	<string>consumerFramework</string>
+	<key>playbackcubit</key>
+	<string>requiredTopic</string>
+	<key>seamlessCheckbox</key>
+	<string>associatedEntity</string>
+	<key>titlerate</key>
+	<string>geometricContraction</string>
+</dict>
+</plist>

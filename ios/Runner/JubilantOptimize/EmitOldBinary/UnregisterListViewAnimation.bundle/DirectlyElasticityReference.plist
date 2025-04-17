@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiverouterorigin</key>
+	<string>statelessVisible</string>
+	<key>configurationFeedback</key>
+	<string>injectioncompositesaturation</string>
+	<key>efficiencykind</key>
+	<string>seekinterpolation</string>
+	<key>extensionCount</key>
+	<string>descriptorVariable</string>
+	<key>immediateAwait</key>
+	<string>maxDialogs</string>
+	<key>immediatenavigator</key>
+	<string>mitigateCallback</string>
+	<key>shouldContinueGestureDetector</key>
+	<string>ephemeralBatch</string>
+	<key>tabviewstate</key>
+	<string>exponentVisibility</string>
+</dict>
+</plist>

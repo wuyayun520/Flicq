@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chaptermomentum</key>
+	<string>parallelPopup</string>
+	<key>localConsumption</key>
+	<string>denseAnalyzer</string>
+	<key>loginactivity</key>
+	<string>chooserappearance</string>
+	<key>movementOrientation</key>
+	<string>draggableComposition</string>
+	<key>otherTernary</key>
+	<string>retainedCupertino</string>
+	<key>permanentAperture</key>
+	<string>visualizePreview</string>
+	<key>shouldPopContainer</key>
+	<string>lockResource</string>
+	<key>shouldRouteStep</key>
+	<string>persistanimatedcontainer</string>
+	<key>sizelifecycle</key>
+	<string>listenSemantics</string>
+	<key>staticInterpolation</key>
+	<string>completedRole</string>
+</dict>
+</plist>

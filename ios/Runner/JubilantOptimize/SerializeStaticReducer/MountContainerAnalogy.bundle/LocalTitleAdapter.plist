@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticTweak</key>
+	<string>limitRequest</string>
+	<key>discardedDescriptor</key>
+	<string>canSubscribeSlider</string>
+	<key>lazyTraversal</key>
+	<string>textureTransparency</string>
+	<key>paddingparameteralignment</key>
+	<string>shouldSubscribeCapacities</string>
+	<key>scaffoldvariabledelay</key>
+	<string>granularListener</string>
+	<key>shouldNotifyText</key>
+	<string>publishsignature</string>
+	<key>significanttransition</key>
+	<string>projectionMediator</string>
+	<key>swiftColor</key>
+	<string>relationaloptiontension</string>
+	<key>symmetricSchema</key>
+	<string>schedulerCount</string>
+	<key>tweenaboutstyle</key>
+	<string>transformAxis</string>
+</dict>
+</plist>

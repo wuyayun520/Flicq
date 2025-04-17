@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>efficiencyMomentum</key>
+	<string>taskcontrast</string>
+	<key>exponentinteraction</key>
+	<string>createCheckbox</string>
+	<key>firstStoryboard</key>
+	<string>renderCaption</string>
+	<key>gridviewposition</key>
+	<string>tweakShade</string>
+	<key>methodfunctioncolor</key>
+	<string>menuActivity</string>
+	<key>numericalTraversal</key>
+	<string>navigatorbrightness</string>
+	<key>roleLocation</key>
+	<string>specifierFrequency</string>
+	<key>sinepatternbrightness</key>
+	<string>responsiveDelivery</string>
+</dict>
+</plist>

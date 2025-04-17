@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptorenvironmentbrightness</key>
+	<string>shouldUnmountTool</string>
+	<key>initializecard</key>
+	<string>updateMonster</string>
+	<key>normalStack</key>
+	<string>canSkipChecklist</string>
+	<key>tangentSaturation</key>
+	<string>resizableCustomPaint</string>
+	<key>threadShape</key>
+	<string>deferredExtension</string>
+	<key>wrapperForce</key>
+	<string>ternaryStyle</string>
+</dict>
+</plist>

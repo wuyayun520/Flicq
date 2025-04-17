@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteger</key>
+	<string>newestOverlay</string>
+	<key>componentStyle</key>
+	<string>animatedcontainerVisible</string>
+	<key>routervideo</key>
+	<string>menusaturation</string>
+	<key>shouldsaveinterpolation</key>
+	<string>symmetricGestureDetector</string>
+	<key>specifyCluster</key>
+	<string>rendererTension</string>
+	<key>streamAlignment</key>
+	<string>managerFlyweight</string>
+</dict>
+</plist>

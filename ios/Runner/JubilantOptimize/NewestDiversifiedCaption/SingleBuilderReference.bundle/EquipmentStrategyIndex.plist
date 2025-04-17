@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopGroup</key>
+	<string>shouldEndCosine</string>
+	<key>diffableVolume</key>
+	<string>debugTween</string>
+	<key>draggableCapacities</key>
+	<string>thresholdBehavior</string>
+	<key>interactiveSegue</key>
+	<string>canYieldChecklist</string>
+	<key>requiredUsage</key>
+	<string>shaderresponder</string>
+</dict>
+</plist>

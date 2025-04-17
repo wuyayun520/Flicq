@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentmapper</key>
+	<string>canReplaceSkin</string>
+	<key>callbackworkkind</key>
+	<string>canEncodeNorm</string>
+	<key>ismobile</key>
+	<string>largeDuration</string>
+	<key>persistentPolyfill</key>
+	<string>benchmarkChart</string>
+	<key>priorviewresponse</key>
+	<string>scaleCycle</string>
+	<key>shouldRouteNavigation</key>
+	<string>listenChapter</string>
+</dict>
+</plist>

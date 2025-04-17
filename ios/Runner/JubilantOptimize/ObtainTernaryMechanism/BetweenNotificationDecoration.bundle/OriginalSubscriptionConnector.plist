@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableHeap</key>
+	<string>movenib</string>
+	<key>flexstyletransparency</key>
+	<string>serializeAspect</string>
+	<key>imperativeCustomPaint</key>
+	<string>positionTransparency</string>
+	<key>notificationbehavior</key>
+	<string>mobilePet</string>
+	<key>offsetinsidemode</key>
+	<string>gemformat</string>
+	<key>scrollableBinary</key>
+	<string>canRenderMedia</string>
+	<key>shaderorigin</key>
+	<string>accordionConfidentiality</string>
+	<key>substantialScene</key>
+	<string>logarithmCount</string>
+	<key>synchronousSpecifier</key>
+	<string>shouldAttachCupertino</string>
+</dict>
+</plist>

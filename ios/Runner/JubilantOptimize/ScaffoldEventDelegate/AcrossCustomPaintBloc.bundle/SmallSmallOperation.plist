@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleiconscale</key>
+	<string>similarLog</string>
+	<key>composableTween</key>
+	<string>buildprovider</string>
+	<key>consultativeFrame</key>
+	<string>navigatecontroller</string>
+	<key>materialsink</key>
+	<string>intermediatePlate</string>
+	<key>projectsincestage</key>
+	<string>infrastructureTag</string>
+	<key>shouldUnbindPlate</key>
+	<string>projectTransparency</string>
+	<key>shouldpublishalpha</key>
+	<string>staticTime</string>
+	<key>themeinjection</key>
+	<string>resumeRow</string>
+	<key>touchandshape</key>
+	<string>materializeUtil</string>
+	<key>unactivatedInkWell</key>
+	<string>calculateentity</string>
+</dict>
+</plist>

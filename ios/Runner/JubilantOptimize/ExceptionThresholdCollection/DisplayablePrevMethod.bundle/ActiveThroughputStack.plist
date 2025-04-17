@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxBehavior</key>
+	<string>singlePublisher</string>
+	<key>dispatcherValidation</key>
+	<string>pagerFlags</string>
+	<key>equipmentbuffer</key>
+	<string>trainRadio</string>
+	<key>providerdirection</key>
+	<string>cartesianScenario</string>
+	<key>robustSkin</key>
+	<string>chapterDistance</string>
+	<key>shouldPublishAxis</key>
+	<string>insteadEvent</string>
+	<key>shouldcreateproject</key>
+	<string>paddingdensity</string>
+	<key>smartEvent</key>
+	<string>relationalChallenge</string>
+	<key>techniquebymode</key>
+	<string>deferredEmitter</string>
+</dict>
+</plist>

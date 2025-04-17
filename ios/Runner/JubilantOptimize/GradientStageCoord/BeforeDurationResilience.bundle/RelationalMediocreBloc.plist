@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBuilder</key>
+	<string>canPopExpanded</string>
+	<key>menustate</key>
+	<string>shearcontroller</string>
+	<key>observebloc</key>
+	<string>canDismissBuilder</string>
+	<key>prismaticBrush</key>
+	<string>uniformDistinction</string>
+	<key>shouldTransformInterpolation</key>
+	<string>uniqueClipper</string>
+	<key>signatureDistance</key>
+	<string>characterForm</string>
+</dict>
+</plist>

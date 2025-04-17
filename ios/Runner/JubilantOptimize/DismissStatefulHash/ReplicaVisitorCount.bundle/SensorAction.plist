@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binderKind</key>
+	<string>histogramKind</string>
+	<key>mobileElement</key>
+	<string>wrapperFlags</string>
+	<key>protectedHandler</key>
+	<string>smallbrushorigin</string>
+	<key>receiverBorder</key>
+	<string>coordinatorStatus</string>
+	<key>reductionBorder</key>
+	<string>hyperbolicerrordepth</string>
+	<key>shouldParseGem</key>
+	<string>scaleCoord</string>
+	<key>substantialradius</key>
+	<string>shouldSetStatePoint</string>
+	<key>symmetricMusic</key>
+	<string>basicNib</string>
+	<key>usecasecenter</key>
+	<string>canConnectSensor</string>
+</dict>
+</plist>

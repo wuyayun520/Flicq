@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTweak</key>
+	<string>cacheBase</string>
+	<key>immediateprovider</key>
+	<string>dataEdge</string>
+	<key>newestAccessory</key>
+	<string>customConstant</string>
+	<key>shouldPersistAxis</key>
+	<string>dependencysize</string>
+	<key>smartInterface</key>
+	<string>upgradeText</string>
+	<key>staticstreamcenter</key>
+	<string>selectorAcceleration</string>
+	<key>textflags</key>
+	<string>marginOffset</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalAmortization</key>
+	<string>scrollerCount</string>
+	<key>disposesample</key>
+	<string>reflectException</string>
+	<key>grainSize</key>
+	<string>sustainableBuilder</string>
+	<key>keyText</key>
+	<string>delegateStorage</string>
+	<key>requestshape</key>
+	<string>listviewAppearance</string>
+	<key>responsiveDrawer</key>
+	<string>exponentInterval</string>
+	<key>visibleRange</key>
+	<string>parseRequest</string>
+</dict>
+</plist>

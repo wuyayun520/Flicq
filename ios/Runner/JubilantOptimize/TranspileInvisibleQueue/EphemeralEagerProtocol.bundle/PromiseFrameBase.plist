@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>immutablebasebottom</key>
+	<string>singleRemainder</string>
+	<key>lazyclipper</key>
+	<string>elementvalidation</string>
+	<key>mainReceiver</key>
+	<string>dataFrequency</string>
+	<key>materialMend</key>
+	<string>widgetVariable</string>
+	<key>pinchableTabView</key>
+	<string>restoreAsset</string>
+	<key>shouldDisconnectPainter</key>
+	<string>uniformPromise</string>
+	<key>unactivatedScale</key>
+	<string>retainResult</string>
+	<key>uniqueInformation</key>
+	<string>materialExponent</string>
+</dict>
+</plist>

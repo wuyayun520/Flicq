@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateshader</key>
+	<string>shouldPauseCapsule</string>
+	<key>commontransitionlocation</key>
+	<string>visibleCapacity</string>
+	<key>completionleveltype</key>
+	<string>deployTask</string>
+	<key>difficultElement</key>
+	<string>techniqueremediation</string>
+	<key>infrastructureTransparency</key>
+	<string>dimensionAction</string>
+	<key>integrationType</key>
+	<string>shouldLayoutOperation</string>
+	<key>lostInformation</key>
+	<string>canNavigateCapacities</string>
+	<key>robustTrajectory</key>
+	<string>interpolationduration</string>
+	<key>shouldSubscribeMonster</key>
+	<string>parallelIcon</string>
+	<key>volumealignment</key>
+	<string>contrastSize</string>
+</dict>
+</plist>

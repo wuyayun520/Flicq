@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorbufferspacing</key>
+	<string>canConnectPadding</string>
+	<key>independentChart</key>
+	<string>mendTop</string>
+	<key>rapidExpanded</key>
+	<string>rapidMethod</string>
+	<key>shouldloadnotifier</key>
+	<string>interactorAcceleration</string>
+	<key>shouldunmountedbox</key>
+	<string>agileTable</string>
+	<key>standalonePadding</key>
+	<string>activityFlyweight</string>
+	<key>throughputOffset</key>
+	<string>imperativeStateful</string>
+</dict>
+</plist>

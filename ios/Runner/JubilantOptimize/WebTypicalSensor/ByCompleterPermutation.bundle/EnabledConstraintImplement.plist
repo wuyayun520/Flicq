@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitofprocess</key>
+	<string>repositorynotation</string>
+	<key>metadatauntilactivity</key>
+	<string>tabviewOffset</string>
+	<key>nibTop</key>
+	<string>keepgesturedetector</string>
+	<key>persistentEvaluation</key>
+	<string>taskOperation</string>
+	<key>shouldDisconnectOverlay</key>
+	<string>presentChecklist</string>
+	<key>smallDetector</key>
+	<string>relationalHero</string>
+</dict>
+</plist>

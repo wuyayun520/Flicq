@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builddocument</key>
+	<string>profileOpacity</string>
+	<key>decorationTheme</key>
+	<string>normalGrid</string>
+	<key>equalizationframe</key>
+	<string>seamlessSubscription</string>
+	<key>exittransformer</key>
+	<string>protectedsubpixelformat</string>
+	<key>logchannel</key>
+	<string>retainedTween</string>
+	<key>nextCupertino</key>
+	<string>comprehensiveBuffer</string>
+	<key>responsiveVector</key>
+	<string>providerorigin</string>
+	<key>seamlessAnimator</key>
+	<string>canPersistAperture</string>
+</dict>
+</plist>

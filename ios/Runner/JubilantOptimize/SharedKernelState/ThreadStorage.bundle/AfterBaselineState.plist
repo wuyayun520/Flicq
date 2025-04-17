@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalRectangle</key>
+	<string>persistSpine</string>
+	<key>extendasset</key>
+	<string>unactivatedPainter</string>
+	<key>scrollerKind</key>
+	<string>dependencyalongvar</string>
+	<key>shouldFormatActivity</key>
+	<string>animatedcontainerTint</string>
+	<key>sizedboxSpacing</key>
+	<string>staticGradient</string>
+	<key>subtleFeature</key>
+	<string>provisionName</string>
+	<key>sustainableRoute</key>
+	<string>enabledDependency</string>
+	<key>themeRight</key>
+	<string>shouldloadspine</string>
+</dict>
+</plist>

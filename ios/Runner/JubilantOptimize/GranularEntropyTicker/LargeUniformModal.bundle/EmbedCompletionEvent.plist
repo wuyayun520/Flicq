@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteduration</key>
+	<string>nexttopictint</string>
+	<key>draggableConnector</key>
+	<string>tabbarHue</string>
+	<key>drawerForce</key>
+	<string>canEndVariant</string>
+	<key>navigationcolor</key>
+	<string>positionorigin</string>
+	<key>polyfillShade</key>
+	<string>shouldUnbindOverlay</string>
+	<key>prevDetail</key>
+	<string>modalChain</string>
+	<key>primaryContrast</key>
+	<string>publishcharacter</string>
+	<key>shouldEncodeFuture</key>
+	<string>multiplicationaroundlevel</string>
+	<key>shouldYieldReference</key>
+	<string>shouldValidateReference</string>
+</dict>
+</plist>

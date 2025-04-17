@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticgridviewstatus</key>
+	<string>provideEvent</string>
+	<key>durationstructureorigin</key>
+	<string>kernelCycle</string>
+	<key>finderDirection</key>
+	<string>canPopMember</string>
+	<key>globalStamp</key>
+	<string>sineContext</string>
+	<key>isolateValidation</key>
+	<string>canYieldMargin</string>
+	<key>occasionScale</key>
+	<string>drawGroup</string>
+	<key>prismaticconsumerbottom</key>
+	<string>streamlineFeature</string>
+	<key>providerSize</key>
+	<string>configurationValue</string>
+	<key>scrollableCompletion</key>
+	<string>provisionHue</string>
+	<key>shouldSaveBloc</key>
+	<string>shouldFetchBehavior</string>
+</dict>
+</plist>

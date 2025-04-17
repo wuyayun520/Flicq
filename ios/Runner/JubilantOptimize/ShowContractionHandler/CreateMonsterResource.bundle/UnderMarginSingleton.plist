@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentnib</key>
+	<string>checklistShape</string>
+	<key>declarativeRepository</key>
+	<string>restoreState</string>
+	<key>hardmatrix</key>
+	<string>subpixelLevel</string>
+	<key>iconbesidecomposite</key>
+	<string>monsterComposite</string>
+	<key>unsortedMedia</key>
+	<string>consultativeTimeline</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferduration</key>
+	<string>autoReplica</string>
+	<key>liteTabView</key>
+	<string>popStep</string>
+	<key>multibuttonhue</key>
+	<string>listenerFrequency</string>
+	<key>requiredScene</key>
+	<string>directWorkflow</string>
+	<key>shouldEmitProtocol</key>
+	<string>consumerCenter</string>
+	<key>singletonposition</key>
+	<string>canDisposeStack</string>
+	<key>staticduration</key>
+	<string>inactiveAction</string>
+	<key>substantialVolume</key>
+	<string>prepareResource</string>
+	<key>topicrectangle</key>
+	<string>localProtocol</string>
+</dict>
+</plist>

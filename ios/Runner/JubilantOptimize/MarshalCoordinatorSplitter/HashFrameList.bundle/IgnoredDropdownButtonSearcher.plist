@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationfromtype</key>
+	<string>richtextObserver</string>
+	<key>dispatcherLocation</key>
+	<string>sequentialPreview</string>
+	<key>diversifiedColumn</key>
+	<string>progressbaroffset</string>
+	<key>elasticMetadata</key>
+	<string>difficultAlignment</string>
+	<key>euclideanBox</key>
+	<string>subtleresult</string>
+	<key>iconOrientation</key>
+	<string>listenAllocator</string>
+	<key>receiverPressure</key>
+	<string>shouldParseGridView</string>
+	<key>stackLeft</key>
+	<string>readnode</string>
+</dict>
+</plist>

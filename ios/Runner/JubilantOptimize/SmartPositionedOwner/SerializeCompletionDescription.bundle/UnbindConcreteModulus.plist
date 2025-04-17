@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalCube</key>
+	<string>canSkipSubpixel</string>
+	<key>curveactiontag</key>
+	<string>priorMend</string>
+	<key>featureVisible</key>
+	<string>actionFeedback</string>
+	<key>maintainutil</key>
+	<string>canBuildThread</string>
+	<key>monstervertex</key>
+	<string>canEncodeScroll</string>
+	<key>shouldpushgate</key>
+	<string>nativeHeap</string>
+	<key>subscriptioncapacity</key>
+	<string>emitterDelay</string>
+	<key>usedGraph</key>
+	<string>observerProxy</string>
+</dict>
+</plist>

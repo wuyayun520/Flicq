@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileUsage</key>
+	<string>subscribeController</string>
+	<key>isconsumer</key>
+	<string>strokeRight</string>
+	<key>mechanismSkewY</key>
+	<string>greatCharacteristic</string>
+	<key>pagerShape</key>
+	<string>hasCheckbox</string>
+	<key>shouldContinueNib</key>
+	<string>mediaType</string>
+	<key>shouldEncodeDialogs</key>
+	<string>associatedVolume</string>
+	<key>shouldHandleStamp</key>
+	<string>clusterRate</string>
+	<key>tangentscalability</key>
+	<string>exceptionflyweightalignment</string>
+	<key>themeRate</key>
+	<string>alertlevelflags</string>
+	<key>unsortedOption</key>
+	<string>semanticsCommand</string>
+</dict>
+</plist>

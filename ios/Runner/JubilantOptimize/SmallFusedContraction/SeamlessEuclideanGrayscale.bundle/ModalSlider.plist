@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonRect</key>
+	<string>typicalvector</string>
+	<key>draggableProfile</key>
+	<string>canHandleGestureDetector</string>
+	<key>easyTween</key>
+	<string>appendFuture</string>
+	<key>gatemargin</key>
+	<string>draggablePainter</string>
+	<key>graphinfrastructure</key>
+	<string>canStopGraphic</string>
+	<key>pivotalTitle</key>
+	<string>arithmeticPet</string>
+	<key>resourceprototypedensity</key>
+	<string>menuStatus</string>
+	<key>scrollableObject</key>
+	<string>nibScope</string>
+	<key>shouldYieldEffect</key>
+	<string>observerincludevar</string>
+	<key>smartOffset</key>
+	<string>graphBridge</string>
+</dict>
+</plist>

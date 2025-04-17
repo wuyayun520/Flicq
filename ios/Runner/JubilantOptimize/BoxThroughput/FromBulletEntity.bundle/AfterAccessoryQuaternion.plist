@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectionSpacing</key>
+	<string>opaqueRecursion</string>
+	<key>mapPadding</key>
+	<string>canCancelMovement</string>
+	<key>metricsState</key>
+	<string>composableProgressBar</string>
+	<key>requestmode</key>
+	<string>optimizecube</string>
+	<key>sequentialAnimatedContainer</key>
+	<string>basicCreator</string>
+	<key>shouldInflateBloc</key>
+	<string>inflateinjection</string>
+	<key>sophisticatedProfile</key>
+	<string>composableAnalogy</string>
+</dict>
+</plist>

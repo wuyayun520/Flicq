@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentnorm</key>
+	<string>formatbase</string>
+	<key>customizedGift</key>
+	<string>swiftposition</string>
+	<key>finderSpeed</key>
+	<string>easyCell</string>
+	<key>independentAudio</key>
+	<string>shouldPublishRichText</string>
+</dict>
+</plist>

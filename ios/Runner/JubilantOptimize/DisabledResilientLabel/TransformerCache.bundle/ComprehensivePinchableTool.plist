@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleGridView</key>
+	<string>frameversusbridge</string>
+	<key>audioRight</key>
+	<string>temporaryBehavior</string>
+	<key>commonStep</key>
+	<string>listenMonster</string>
+	<key>diffableIntegration</key>
+	<string>pointVelocity</string>
+	<key>multiStoryboard</key>
+	<string>uniquerestriction</string>
+	<key>numericalError</key>
+	<string>shouldfinishprojection</string>
+	<key>requestaxis</key>
+	<string>statefulCubit</string>
+	<key>staticNavigation</key>
+	<string>newestsubpixel</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRequest</key>
+	<string>accordionInfrastructure</string>
+	<key>eagerResponse</key>
+	<string>entityType</string>
+	<key>permissiveNotifier</key>
+	<string>formatnib</string>
+	<key>shouldDecodeCatalyst</key>
+	<string>oldResource</string>
+	<key>shouldParseProject</key>
+	<string>searcherOrigin</string>
+</dict>
+</plist>

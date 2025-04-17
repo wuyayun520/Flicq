@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticData</key>
+	<string>notifyMonster</string>
+	<key>builderagainstinterpreter</key>
+	<string>navigationtaskacceleration</string>
+	<key>encodemanager</key>
+	<string>popRichText</string>
+	<key>mediocrecanvas</key>
+	<string>savePet</string>
+	<key>requiredRepository</key>
+	<string>opaquecosine</string>
+	<key>selectormode</key>
+	<string>featureAlignment</string>
+	<key>shouldReplaceSensor</key>
+	<string>queueContext</string>
+	<key>throughputMode</key>
+	<string>detachMethod</string>
+	<key>toleranceFlags</key>
+	<string>localBox</string>
+	<key>unactivatedCatalyst</key>
+	<string>vectorStyle</string>
+</dict>
+</plist>

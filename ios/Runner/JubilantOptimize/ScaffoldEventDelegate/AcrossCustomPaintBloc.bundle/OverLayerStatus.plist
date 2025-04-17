@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyMonster</key>
+	<string>requiredTaxonomy</string>
+	<key>documentFlags</key>
+	<string>inactiveCube</string>
+	<key>grouporientation</key>
+	<string>customizedAnimator</string>
+	<key>isnavigation</key>
+	<string>resilientNavigator</string>
+	<key>oldTable</key>
+	<string>switchPhase</string>
+	<key>reductionwithmethod</key>
+	<string>retainChart</string>
+	<key>resizablePadding</key>
+	<string>symboledge</string>
+	<key>sessionPressure</key>
+	<string>tablenode</string>
+	<key>throughputFormat</key>
+	<string>resizeRect</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeVolume</key>
+	<string>scalecolor</string>
+	<key>copydelegate</key>
+	<string>animatorappearance</string>
+	<key>painterDensity</key>
+	<string>finishSpot</string>
+	<key>volumeVelocity</key>
+	<string>modalsound</string>
+</dict>
+</plist>

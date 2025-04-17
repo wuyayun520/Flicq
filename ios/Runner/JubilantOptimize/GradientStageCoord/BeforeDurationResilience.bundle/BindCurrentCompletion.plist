@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitycontrast</key>
+	<string>imperativeAudio</string>
+	<key>lossscheduler</key>
+	<string>shouldinitializemission</string>
+	<key>prevFactory</key>
+	<string>listenerproxyname</string>
+	<key>relationalArithmetic</key>
+	<string>shouldPushSizedBox</string>
+	<key>seamlessObserver</key>
+	<string>singleTheme</string>
+	<key>shouldDeserializeBullet</key>
+	<string>combinerTransparency</string>
+	<key>shouldlayoutimage</key>
+	<string>normalFlex</string>
+	<key>shouldtrainkernel</key>
+	<string>ephemeralPager</string>
+	<key>tweenmodule</key>
+	<string>factoryLevel</string>
+</dict>
+</plist>

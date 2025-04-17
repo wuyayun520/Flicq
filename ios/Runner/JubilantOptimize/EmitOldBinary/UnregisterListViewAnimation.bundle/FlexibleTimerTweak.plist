@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedSpecifier</key>
+	<string>fragmentcount</string>
+	<key>borderinformation</key>
+	<string>gemSingleton</string>
+	<key>containeracceleration</key>
+	<string>scrollableTicker</string>
+	<key>decoderoute</key>
+	<string>parseText</string>
+	<key>opaqueSignature</key>
+	<string>opaqueThroughput</string>
+	<key>optimizerTag</key>
+	<string>zoneChain</string>
+	<key>shouldInitializeCard</key>
+	<string>animatedShader</string>
+</dict>
+</plist>

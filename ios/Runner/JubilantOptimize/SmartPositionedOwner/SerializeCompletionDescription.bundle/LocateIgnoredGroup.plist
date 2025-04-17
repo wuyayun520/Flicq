@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarFormat</key>
+	<string>shouldEndProtocol</string>
+	<key>autoBase</key>
+	<string>shouldSetStateRole</string>
+	<key>autoComponent</key>
+	<string>smallComponent</string>
+	<key>delicateBitrate</key>
+	<string>storagePosition</string>
+	<key>sceneskewy</key>
+	<string>activatedTitle</string>
+	<key>shouldConnectCache</key>
+	<string>prevCharacteristic</string>
+	<key>skirtSpeed</key>
+	<string>shouldBuildRichText</string>
+</dict>
+</plist>

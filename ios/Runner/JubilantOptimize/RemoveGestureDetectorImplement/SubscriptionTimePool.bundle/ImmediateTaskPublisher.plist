@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityRotation</key>
+	<string>interceptFeature</string>
+	<key>featureBehavior</key>
+	<string>sizeInteraction</string>
+	<key>gridviewMargin</key>
+	<string>renamemethod</string>
+	<key>hasProjection</key>
+	<string>shouldskipbitrate</string>
+	<key>itemRight</key>
+	<string>usageHue</string>
+	<key>nativeCanvas</key>
+	<string>canEndCanvas</string>
+	<key>pinchableMaterializer</key>
+	<string>widgetForm</string>
+	<key>reusableCertificate</key>
+	<string>canUnbindStateless</string>
+	<key>techniqueFeedback</key>
+	<string>graphicconfidentiality</string>
+</dict>
+</plist>

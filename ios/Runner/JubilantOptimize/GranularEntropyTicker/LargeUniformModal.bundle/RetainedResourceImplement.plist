@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardnode</key>
+	<string>giftLayer</string>
+	<key>enabledGesture</key>
+	<string>mountSwift</string>
+	<key>permanentAnimator</key>
+	<string>processresult</string>
+	<key>pivotalTimeline</key>
+	<string>stringifyDecoration</string>
+	<key>shouldPublishChecklist</key>
+	<string>repositoryPadding</string>
+	<key>storagetempleduration</key>
+	<string>strokePosition</string>
+</dict>
+</plist>

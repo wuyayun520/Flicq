@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTaxonomy</key>
+	<string>shouldReplaceOverlay</string>
+	<key>collectionFormat</key>
+	<string>shouldRebuildSine</string>
+	<key>concretePrecision</key>
+	<string>consultativeMovement</string>
+	<key>functionalcomponent</key>
+	<string>subtleDependency</string>
+	<key>intensityacceleration</key>
+	<string>formatStep</string>
+	<key>isolateFrequency</key>
+	<string>mechanismHead</string>
+	<key>pivotalDependency</key>
+	<string>initiatorsPhase</string>
+	<key>statefulInteractor</key>
+	<string>canInitializeActivity</string>
+	<key>transitionmatrix</key>
+	<string>robustCompleter</string>
+</dict>
+</plist>

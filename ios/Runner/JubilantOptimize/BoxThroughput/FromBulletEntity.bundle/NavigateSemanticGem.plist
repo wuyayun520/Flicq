@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionusagestate</key>
+	<string>assetneardecorator</string>
+	<key>aspectratioutil</key>
+	<string>extensionmethodfeedback</string>
+	<key>nodePosition</key>
+	<string>itemFlags</string>
+	<key>resultpicker</key>
+	<string>tweenBuffer</string>
+	<key>shouldStreamMember</key>
+	<string>canContinueGate</string>
+	<key>shouldUnbindTabBar</key>
+	<string>validateEffect</string>
+	<key>tweenTransparency</key>
+	<string>canCancelEffect</string>
+</dict>
+</plist>

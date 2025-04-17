@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directReplica</key>
+	<string>radioservice</string>
+	<key>ignoredRect</key>
+	<string>layoutDuration</string>
+	<key>modalMargin</key>
+	<string>synchronousSorter</string>
+	<key>nextScalability</key>
+	<string>initializeCupertino</string>
+	<key>reflectchallenge</key>
+	<string>shouldPersistProfile</string>
+	<key>symmetricEqualization</key>
+	<string>sophisticatedBorder</string>
+	<key>tweenMargin</key>
+	<string>fetchContainer</string>
+</dict>
+</plist>

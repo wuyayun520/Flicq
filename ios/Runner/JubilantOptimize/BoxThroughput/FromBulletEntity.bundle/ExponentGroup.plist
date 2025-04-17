@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetHue</key>
+	<string>continueBinary</string>
+	<key>characteristicBehavior</key>
+	<string>canHandleAlpha</string>
+	<key>delegatepreview</key>
+	<string>maintainService</string>
+	<key>disparateArithmetic</key>
+	<string>unscheduleQueue</string>
+	<key>elasticConvolution</key>
+	<string>referenceFunction</string>
+	<key>intensityDensity</key>
+	<string>updateAperture</string>
+	<key>shouldConnectWidget</key>
+	<string>progressbarInterval</string>
+	<key>shouldDecodeConstraint</key>
+	<string>playbackMethod</string>
+	<key>shouldProcessCanvas</key>
+	<string>orchestrateRow</string>
+	<key>smallAlpha</key>
+	<string>gradientAppearance</string>
+</dict>
+</plist>

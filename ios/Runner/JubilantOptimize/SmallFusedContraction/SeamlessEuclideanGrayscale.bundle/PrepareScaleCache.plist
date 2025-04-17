@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianEqualization</key>
+	<string>restartSpot</string>
+	<key>popanchor</key>
+	<string>hardNavigation</string>
+	<key>publicTable</key>
+	<string>popupVar</string>
+	<key>sophisticatedconstraint</key>
+	<string>granularCupertino</string>
+</dict>
+</plist>

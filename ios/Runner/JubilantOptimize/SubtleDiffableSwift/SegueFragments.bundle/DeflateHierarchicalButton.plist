@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gesturedetectorLeft</key>
+	<string>logDirection</string>
+	<key>granularAwait</key>
+	<string>sequentialModule</string>
+	<key>permissiveTabView</key>
+	<string>documentsize</string>
+	<key>rectAlignment</key>
+	<string>selectedRichText</string>
+	<key>shouldNotifyGestureDetector</key>
+	<string>requiredCard</string>
+	<key>sophisticatedGrain</key>
+	<string>shouldSubscribeIndicator</string>
+	<key>subtleSplitter</key>
+	<string>intermediateDecoration</string>
+	<key>symbolVisibility</key>
+	<string>interceptSubscription</string>
+	<key>tweenInterval</key>
+	<string>binderTheme</string>
+</dict>
+</plist>

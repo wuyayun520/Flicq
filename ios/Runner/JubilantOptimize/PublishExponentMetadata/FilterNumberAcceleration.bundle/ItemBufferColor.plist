@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capsuleAppearance</key>
+	<string>cursorincludesingleton</string>
+	<key>discardedPadding</key>
+	<string>saveSubpixel</string>
+	<key>draggableScroller</key>
+	<string>finishNavigation</string>
+	<key>globalStorage</key>
+	<string>delegatedepth</string>
+	<key>inactiveMobile</key>
+	<string>retainedBinder</string>
+	<key>permissiveMetrics</key>
+	<string>checklistMediator</string>
+	<key>sinkFrequency</key>
+	<string>elasticityPressure</string>
+	<key>vectorprocessinterval</key>
+	<string>canFormatBox</string>
+</dict>
+</plist>

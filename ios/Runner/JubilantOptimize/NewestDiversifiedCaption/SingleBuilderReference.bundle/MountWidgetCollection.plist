@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationtiervalidation</key>
+	<string>canContinueChecklist</string>
+	<key>denseskirt</key>
+	<string>containerCycle</string>
+	<key>greatVariant</key>
+	<string>mountCursor</string>
+	<key>immutableGrid</key>
+	<string>shouldProcessCapsule</string>
+	<key>mappermomentum</key>
+	<string>canDisconnectBullet</string>
+	<key>standaloneAllocator</key>
+	<string>canDismissSession</string>
+	<key>synchronousRepository</key>
+	<string>directlyUseCase</string>
+	<key>textsprite</key>
+	<string>routehero</string>
+	<key>titlesincevariable</key>
+	<string>subsequentInfrastructure</string>
+</dict>
+</plist>

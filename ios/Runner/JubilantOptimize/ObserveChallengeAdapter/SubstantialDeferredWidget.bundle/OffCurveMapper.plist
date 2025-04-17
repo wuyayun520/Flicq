@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionCoord</key>
+	<string>connectPadding</string>
+	<key>canvasright</key>
+	<string>parallelScalability</string>
+	<key>converterScale</key>
+	<string>servicedescription</string>
+	<key>gemBound</key>
+	<string>observerleft</string>
+	<key>groupCount</key>
+	<string>agilecursormargin</string>
+	<key>mendName</key>
+	<string>queueForm</string>
+	<key>navigatorparametercoord</key>
+	<string>alertFramework</string>
+	<key>newestLayout</key>
+	<string>appendswitch</string>
+	<key>synchronousTransformer</key>
+	<string>shouldShowNotifier</string>
+</dict>
+</plist>

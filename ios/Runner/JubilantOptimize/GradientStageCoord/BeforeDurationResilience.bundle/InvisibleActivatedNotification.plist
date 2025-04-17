@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>multiButton</key>
+	<string>responseSpeed</string>
+	<key>objectBound</key>
+	<string>noderect</string>
+	<key>primaryAppBar</key>
+	<string>fixedIntensity</string>
+	<key>similarHeap</key>
+	<string>publicGraphic</string>
+	<key>tickerDirection</key>
+	<string>shouldRenderPlate</string>
+</dict>
+</plist>

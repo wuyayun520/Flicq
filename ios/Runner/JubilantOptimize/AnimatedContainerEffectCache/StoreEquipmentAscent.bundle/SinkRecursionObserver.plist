@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegateandmediator</key>
+	<string>canStartInitiators</string>
+	<key>dependencyOrigin</key>
+	<string>skinObserver</string>
+	<key>hardCaption</key>
+	<string>shouldUpdateComposition</string>
+	<key>itemOrigin</key>
+	<string>interactiveRole</string>
+	<key>permissiveBuilder</key>
+	<string>grainTheme</string>
+	<key>shouldobservebatch</key>
+	<string>effectpressure</string>
+	<key>significantFactory</key>
+	<string>bundleimage</string>
+</dict>
+</plist>

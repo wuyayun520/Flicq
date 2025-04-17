@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveconsumercontrast</key>
+	<string>standaloneRecursion</string>
+	<key>animationmethodskewy</key>
+	<string>capsuleStage</string>
+	<key>concurrentFinder</key>
+	<string>dynamicSchema</string>
+	<key>deferredDelivery</key>
+	<string>opaqueCycle</string>
+	<key>layoutcursor</key>
+	<string>tensorFuture</string>
+	<key>previewproxyrotation</key>
+	<string>canReplaceConsumer</string>
+</dict>
+</plist>

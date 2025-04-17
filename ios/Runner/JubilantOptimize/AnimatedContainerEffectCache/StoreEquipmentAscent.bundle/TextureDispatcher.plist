@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableData</key>
+	<string>bufferBound</string>
+	<key>composableresource</key>
+	<string>currentManager</string>
+	<key>gesturedetectorInteraction</key>
+	<string>permanentOptimizer</string>
+	<key>imperativeComponent</key>
+	<string>canSaveCharacter</string>
+	<key>publicDimension</key>
+	<string>validateStep</string>
+	<key>shouldDeserializeListView</key>
+	<string>lazyHero</string>
+	<key>shouldMountDocument</key>
+	<string>streamTask</string>
+	<key>shouldsubscribeusage</key>
+	<string>transitionBloc</string>
+	<key>tappableIsolate</key>
+	<string>statefulshape</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferlikefacade</key>
+	<string>shouldInitializeInitiators</string>
+	<key>factoryinparam</key>
+	<string>materialRate</string>
+	<key>missionLocation</key>
+	<string>activeHandler</string>
+	<key>modalColor</key>
+	<string>rowresponse</string>
+	<key>orchestratemap</key>
+	<string>binderHead</string>
+	<key>persistentPreview</key>
+	<string>batchOpacity</string>
+	<key>resumebuffer</key>
+	<string>usedBinary</string>
+	<key>shouldPaintListView</key>
+	<string>imperativeSingleton</string>
+	<key>subtleModule</key>
+	<string>unmountedKernel</string>
+</dict>
+</plist>

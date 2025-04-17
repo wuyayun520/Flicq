@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousArchitecture</key>
+	<string>memberelasticity</string>
+	<key>directMerger</key>
+	<string>equalizationvelocity</string>
+	<key>fixedThroughput</key>
+	<string>mergerLocation</string>
+	<key>schedulerShade</key>
+	<string>crucialDispatcher</string>
+	<key>shouldConnectScroll</key>
+	<string>providerOpacity</string>
+	<key>shouldDismissSkirt</key>
+	<string>utilTag</string>
+	<key>transitionextension</key>
+	<string>tensorEvaluation</string>
+	<key>unsortedCheckbox</key>
+	<string>lifecycleTransparency</string>
+	<key>visiblePainter</key>
+	<string>storyboardspeed</string>
+</dict>
+</plist>

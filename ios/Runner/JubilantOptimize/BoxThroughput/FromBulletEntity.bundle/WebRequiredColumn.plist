@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>augmentinstruction</key>
+	<string>shouldtrainlog</string>
+	<key>mainInteger</key>
+	<string>updateEvent</string>
+	<key>masterfrequency</key>
+	<string>makeGroup</string>
+	<key>mendborder</key>
+	<string>latencyTint</string>
+	<key>playsink</key>
+	<string>topicamortization</string>
+	<key>responsivetext</key>
+	<string>handleCache</string>
+</dict>
+</plist>

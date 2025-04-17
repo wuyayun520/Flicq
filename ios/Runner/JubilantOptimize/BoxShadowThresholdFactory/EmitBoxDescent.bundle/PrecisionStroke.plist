@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticCurve</key>
+	<string>symmetricefficiency</string>
+	<key>operationTint</key>
+	<string>writeSink</string>
+	<key>resolverrotation</key>
+	<string>introspectProvider</string>
+	<key>sanitizerouter</key>
+	<string>lostunary</string>
+	<key>variantformat</key>
+	<string>popupCoord</string>
+</dict>
+</plist>

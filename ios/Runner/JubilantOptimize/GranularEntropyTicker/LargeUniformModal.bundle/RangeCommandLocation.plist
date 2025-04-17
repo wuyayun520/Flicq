@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoNotification</key>
+	<string>shouldRouteAxis</string>
+	<key>draggableDetector</key>
+	<string>paintPositioned</string>
+	<key>publicRadio</key>
+	<string>interpolateFeature</string>
+	<key>shouldSetStateMobile</key>
+	<string>offsetpershape</string>
+</dict>
+</plist>

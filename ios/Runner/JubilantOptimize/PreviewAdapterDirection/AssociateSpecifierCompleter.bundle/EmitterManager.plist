@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionevaluation</key>
+	<string>staticMultiplication</string>
+	<key>directAnimatedContainer</key>
+	<string>instantiateInteractor</string>
+	<key>iscursor</key>
+	<string>shouldcontinuecanvas</string>
+	<key>nextMerger</key>
+	<string>shouldPushSlider</string>
+	<key>originalStateful</key>
+	<string>cartesianScale</string>
+	<key>requiredSingleton</key>
+	<string>responsiveTask</string>
+	<key>shouldMountedCoordinator</key>
+	<string>descentName</string>
+</dict>
+</plist>

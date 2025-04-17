@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customDetector</key>
+	<string>usedLoop</string>
+	<key>injectionvalueindex</key>
+	<string>anchorsystemedge</string>
+	<key>interactiveRepository</key>
+	<string>shouldRenderDocument</string>
+	<key>joinerInterval</key>
+	<string>cursorDecorator</string>
+	<key>localizationCenter</key>
+	<string>tabviewtolerance</string>
+	<key>positionedtype</key>
+	<string>keySchema</string>
+	<key>rowwithstate</key>
+	<string>inactiveDetector</string>
+	<key>timelineCoord</key>
+	<string>coordinatorcontainmemento</string>
+</dict>
+</plist>

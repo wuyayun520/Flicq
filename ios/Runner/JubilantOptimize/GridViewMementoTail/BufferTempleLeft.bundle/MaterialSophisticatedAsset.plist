@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>managerkindfrequency</key>
+	<string>sampleShape</string>
+	<key>reduceresource</key>
+	<string>haspoint</string>
+	<key>requiredOccasion</key>
+	<string>prismaticAscent</string>
+	<key>shouldYieldDrawer</key>
+	<string>shouldParseAlert</string>
+</dict>
+</plist>

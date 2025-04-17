@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopmediaqueryorientation</key>
+	<string>batchDelay</string>
+	<key>disparateMerger</key>
+	<string>parsetimer</string>
+	<key>extensionRotation</key>
+	<string>usecasebound</string>
+	<key>firstRouter</key>
+	<string>rectangleedge</string>
+	<key>globalFuture</key>
+	<string>capacityState</string>
+	<key>hierarchicalChooser</key>
+	<string>layoutTension</string>
+	<key>memberSaturation</key>
+	<string>transformRow</string>
+	<key>responsiveQueue</key>
+	<string>invisibleBuffer</string>
+	<key>synchronousBorder</key>
+	<string>interactiveScene</string>
+</dict>
+</plist>

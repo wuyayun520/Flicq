@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMediaQuery</key>
+	<string>presentMonster</string>
+	<key>intuitiveSubpixel</key>
+	<string>selectedCell</string>
+	<key>lostModal</key>
+	<string>storeFramework</string>
+	<key>singletonorientation</key>
+	<string>processOptimizer</string>
+</dict>
+</plist>

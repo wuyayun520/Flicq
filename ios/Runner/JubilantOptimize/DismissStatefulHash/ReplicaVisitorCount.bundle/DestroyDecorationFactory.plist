@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>erasefuture</key>
+	<string>skipSample</string>
+	<key>granularRenderer</key>
+	<string>erroranimation</string>
+	<key>gridname</key>
+	<string>ephemeralSink</string>
+	<key>mainstate</key>
+	<string>retainedInterpolation</string>
+	<key>oncapsuletap</key>
+	<string>animationTask</string>
+	<key>shouldDisposeMaster</key>
+	<string>signVar</string>
+	<key>skirtpolygon</key>
+	<string>invisiblepublisher</string>
+	<key>tensorevent</key>
+	<string>multiplyHash</string>
+</dict>
+</plist>

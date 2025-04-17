@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystOrientation</key>
+	<string>continueCanvas</string>
+	<key>continuestateful</key>
+	<string>denseLayout</string>
+	<key>directSpine</key>
+	<string>promiseKind</string>
+	<key>integerIndex</key>
+	<string>rowbinder</string>
+	<key>polyfillVisibility</key>
+	<string>containerskewx</string>
+	<key>responseviaoperation</key>
+	<string>freeDescription</string>
+	<key>shouldObserveCapacities</key>
+	<string>diffableEqualization</string>
+	<key>stampMode</key>
+	<string>canNotifySemantics</string>
+	<key>subtleDescriptor</key>
+	<string>coordinatorDirection</string>
+</dict>
+</plist>

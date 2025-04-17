@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>exponentdensity</key>
+	<string>contractiondensity</string>
+	<key>sceneScale</key>
+	<string>inflateLabel</string>
+	<key>shouldAnimateProjection</key>
+	<string>euclideanSelector</string>
+	<key>smartIntegrity</key>
+	<string>animationfeedback</string>
+</dict>
+</plist>

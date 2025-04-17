@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lastReduction</key>
+	<string>canDisconnectPriority</string>
+	<key>normalAperture</key>
+	<string>priorLatency</string>
+	<key>normcontainmode</key>
+	<string>listviewRotation</string>
+	<key>notifierdespiteadapter</key>
+	<string>ignoredintegertype</string>
+	<key>shouldrestartgesture</key>
+	<string>materializeTitle</string>
+	<key>temporaryBitrate</key>
+	<string>isolateFunction</string>
+	<key>unscheduleframe</key>
+	<string>embraceUtil</string>
+</dict>
+</plist>

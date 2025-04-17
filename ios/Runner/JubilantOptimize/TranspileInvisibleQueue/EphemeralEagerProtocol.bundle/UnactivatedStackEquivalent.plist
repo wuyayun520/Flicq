@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateslider</key>
+	<string>lastconfigurationmomentum</string>
+	<key>fetchawait</key>
+	<string>robustcupertino</string>
+	<key>geometricNotification</key>
+	<string>presenterinset</string>
+	<key>isthread</key>
+	<string>containeralongcontext</string>
+	<key>protocolTransparency</key>
+	<string>canFinishSkin</string>
+	<key>provideractivityedge</key>
+	<string>checklisttransparency</string>
+	<key>registermaster</key>
+	<string>shouldUnmountUnary</string>
+	<key>threadpublisher</key>
+	<string>smallCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aggregateallocator</key>
+	<string>canRestartGesture</string>
+	<key>concurrentTechnique</key>
+	<string>draweralongphase</string>
+	<key>decoupleanimation</key>
+	<string>manageracceleration</string>
+	<key>granularItem</key>
+	<string>activeElement</string>
+	<key>sortedusecase</key>
+	<string>relationalException</string>
+	<key>toleranceType</key>
+	<string>cursorFeedback</string>
+	<key>typicalGradient</key>
+	<string>canInflateReference</string>
+	<key>unmarshaloption</key>
+	<string>scenehandler</string>
+	<key>usecaseSkewX</key>
+	<string>unsortedMend</string>
+</dict>
+</plist>

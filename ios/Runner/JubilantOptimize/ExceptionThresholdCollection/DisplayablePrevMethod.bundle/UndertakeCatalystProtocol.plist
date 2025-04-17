@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convertunary</key>
+	<string>canEmitModal</string>
+	<key>globalRequest</key>
+	<string>particleactivityborder</string>
+	<key>gramType</key>
+	<string>popawait</string>
+	<key>nibloop</key>
+	<string>defaultChecklist</string>
+	<key>serviceCenter</key>
+	<string>richtextTier</string>
+	<key>shouldStopTabView</key>
+	<string>fusedAppBar</string>
+	<key>shouldYieldGesture</key>
+	<string>consultativeNorm</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finishreducer</key>
+	<string>currentConsumer</string>
+	<key>interfacemesh</key>
+	<string>strengthDirection</string>
+	<key>pinchablechannel</key>
+	<string>concatenateResult</string>
+	<key>robustProgressBar</key>
+	<string>eventContext</string>
+	<key>sustainablesemanticsleft</key>
+	<string>savePainter</string>
+	<key>unactivatedTriangles</key>
+	<string>canPrepareAnimation</string>
+	<key>unmountedbutton</key>
+	<string>benchmarkFeature</string>
+</dict>
+</plist>

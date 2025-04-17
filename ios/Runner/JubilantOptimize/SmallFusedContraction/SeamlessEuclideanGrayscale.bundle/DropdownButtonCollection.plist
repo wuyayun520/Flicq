@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncbinder</key>
+	<string>euclideanMovement</string>
+	<key>augmentinjection</key>
+	<string>onborderchanged</string>
+	<key>materialInjection</key>
+	<string>unmountedCharacter</string>
+	<key>multiplicationshader</key>
+	<string>stopInkWell</string>
+	<key>permissiveviewtag</key>
+	<string>delegateadapterresponse</string>
+	<key>widgetTheme</key>
+	<string>numericallocalizationhue</string>
+</dict>
+</plist>

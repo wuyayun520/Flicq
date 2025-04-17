@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloccount</key>
+	<string>consumerShape</string>
+	<key>interpolationbrightness</key>
+	<string>persistentColumn</string>
+	<key>shouldcontinuecosine</key>
+	<string>smallpromisebottom</string>
+	<key>uniformAmortization</key>
+	<string>equalizationStyle</string>
+</dict>
+</plist>

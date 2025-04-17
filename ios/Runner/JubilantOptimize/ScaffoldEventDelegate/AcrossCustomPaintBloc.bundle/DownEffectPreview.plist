@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushgrid</key>
+	<string>cosinePhase</string>
+	<key>detectorTransparency</key>
+	<string>tabbarTask</string>
+	<key>firstFlex</key>
+	<string>lazyInteraction</string>
+	<key>globalarchitecture</key>
+	<string>canDisposeRemainder</string>
+	<key>lostSelector</key>
+	<string>releaseAction</string>
+	<key>multiTask</key>
+	<string>minSkirt</string>
+</dict>
+</plist>

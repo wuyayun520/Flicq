@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicpager</key>
+	<string>shouldContinueSymbol</string>
+	<key>draggableSign</key>
+	<string>stopScaffold</string>
+	<key>parallelMusic</key>
+	<string>synchronousMapper</string>
+	<key>sustainableFeature</key>
+	<string>strengthtype</string>
+	<key>validateevent</key>
+	<string>substantialMusic</string>
+</dict>
+</plist>

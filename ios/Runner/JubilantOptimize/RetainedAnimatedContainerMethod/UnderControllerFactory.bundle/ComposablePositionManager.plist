@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncVisible</key>
+	<string>standaloneimpression</string>
+	<key>deferredImage</key>
+	<string>configureTexture</string>
+	<key>directcoordinatortop</key>
+	<string>servicetypeshade</string>
+	<key>otherresponder</key>
+	<string>updateDocument</string>
+	<key>pageviewselector</key>
+	<string>resilientSound</string>
+	<key>pivotalPermutation</key>
+	<string>materializeInterface</string>
+	<key>similarStroke</key>
+	<string>marshalAwait</string>
+</dict>
+</plist>

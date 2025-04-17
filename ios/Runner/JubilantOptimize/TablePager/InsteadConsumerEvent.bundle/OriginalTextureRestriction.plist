@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedAnalyzer</key>
+	<string>subtleBrush</string>
+	<key>descentStyle</key>
+	<string>canSerializeBatch</string>
+	<key>hasImage</key>
+	<string>similarScroll</string>
+	<key>memberMode</key>
+	<string>canvasForm</string>
+	<key>notifyaspectratio</key>
+	<string>richtextFeedback</string>
+	<key>quantizationsize</key>
+	<string>alphaName</string>
+	<key>sophisticatedSlash</key>
+	<string>remediationDensity</string>
+	<key>unactivatedEfficiency</key>
+	<string>flexmediatorfeedback</string>
+</dict>
+</plist>

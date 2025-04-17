@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSaturation</key>
+	<string>routeFacade</string>
+	<key>beginnerNotifier</key>
+	<string>unmarshalChapter</string>
+	<key>dedicatedCallback</key>
+	<string>entitySystem</string>
+	<key>disparateCluster</key>
+	<string>handleAnimation</string>
+	<key>scrollableDuration</key>
+	<string>scaleDensity</string>
+	<key>shouldMountedHistogram</key>
+	<string>dependencyrecursion</string>
+	<key>slashVisibility</key>
+	<string>globalLifecycle</string>
+</dict>
+</plist>

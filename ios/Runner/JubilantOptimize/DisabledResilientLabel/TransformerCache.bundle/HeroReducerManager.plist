@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchcount</key>
+	<string>displayableMaterializer</string>
+	<key>histogramprocessfrequency</key>
+	<string>canCancelSample</string>
+	<key>inheritedOffset</key>
+	<string>shouldDisposeSwitch</string>
+	<key>prevEvent</key>
+	<string>conformNavigator</string>
+	<key>queuestrategycontrast</key>
+	<string>uniformGroup</string>
+	<key>shouldYieldMatrix</key>
+	<string>usageState</string>
+	<key>subsequentAppBar</key>
+	<string>oldAwait</string>
+	<key>tappabledescription</key>
+	<string>chartInterval</string>
+</dict>
+</plist>

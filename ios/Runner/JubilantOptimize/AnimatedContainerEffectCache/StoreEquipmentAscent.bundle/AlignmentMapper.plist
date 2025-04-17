@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>drawerindex</key>
+	<string>vectorprovision</string>
+	<key>finishsample</key>
+	<string>missionCenter</string>
+	<key>hyperbolicTween</key>
+	<string>listenPlayback</string>
+	<key>immediateFragments</key>
+	<string>bufferBridge</string>
+	<key>informationOpacity</key>
+	<string>liteChecklist</string>
+	<key>metadataStatus</key>
+	<string>activityLevel</string>
+	<key>oncycletap</key>
+	<string>localScene</string>
+	<key>reducerBrightness</key>
+	<string>canInflateSubpixel</string>
+	<key>responsivechallenge</key>
+	<string>workflowcolor</string>
+</dict>
+</plist>

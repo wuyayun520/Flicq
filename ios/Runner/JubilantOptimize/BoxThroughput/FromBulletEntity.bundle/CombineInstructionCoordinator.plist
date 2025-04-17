@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeEvent</key>
+	<string>factoryCenter</string>
+	<key>cosineColor</key>
+	<string>inkwellNumber</string>
+	<key>criticalMerger</key>
+	<string>asynchronousMedia</string>
+	<key>pageviewDuration</key>
+	<string>canCreateProtocol</string>
+	<key>shouldPaintChannels</key>
+	<string>descriptionInterval</string>
+	<key>shouldTransformDelegate</key>
+	<string>paralleldelegateduration</string>
+	<key>staticSingleton</key>
+	<string>canYieldSample</string>
+	<key>tablespacing</key>
+	<string>transformerBuffer</string>
+	<key>webLabel</key>
+	<string>singleBaseline</string>
+</dict>
+</plist>

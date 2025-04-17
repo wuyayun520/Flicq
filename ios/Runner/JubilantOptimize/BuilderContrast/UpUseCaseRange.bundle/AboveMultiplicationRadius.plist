@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleChapter</key>
+	<string>sizedboxindex</string>
+	<key>heapgrain</key>
+	<string>nodestyledirection</string>
+	<key>hierarchicalPet</key>
+	<string>sequentialSelector</string>
+	<key>maptransformer</key>
+	<string>slashFramework</string>
+	<key>responsiveThreshold</key>
+	<string>animatedcontainercapacity</string>
+	<key>responsivebuilder</key>
+	<string>canShowRoute</string>
+	<key>shouldRouteDrawer</key>
+	<string>materialIcon</string>
+</dict>
+</plist>

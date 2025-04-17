@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultScroller</key>
+	<string>polyfillAcceleration</string>
+	<key>resilientSchema</key>
+	<string>certificateFramework</string>
+	<key>shouldDisposeRichText</key>
+	<string>configurationoffset</string>
+	<key>tappableVideo</key>
+	<string>connectAnimation</string>
+	<key>utildetail</key>
+	<string>customizedProvision</string>
+</dict>
+</plist>

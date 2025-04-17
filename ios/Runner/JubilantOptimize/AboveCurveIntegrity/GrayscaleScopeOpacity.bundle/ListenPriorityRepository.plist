@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>architectureRight</key>
+	<string>firstColor</string>
+	<key>delicatecyclealignment</key>
+	<string>cubitTail</string>
+	<key>equivalentInset</key>
+	<string>specifySingleton</string>
+	<key>opaqueCompletion</key>
+	<string>selectorBottom</string>
+	<key>shouldEndCatalyst</key>
+	<string>canDispatchLoss</string>
+	<key>uniqueIsolate</key>
+	<string>sinkDuration</string>
+</dict>
+</plist>

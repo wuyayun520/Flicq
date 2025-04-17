@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCosine</key>
+	<string>alertEnvironment</string>
+	<key>consultativeNotification</key>
+	<string>normalLatency</string>
+	<key>firstButton</key>
+	<string>poolNavigator</string>
+	<key>pagerCount</key>
+	<string>responsiveTimeline</string>
+	<key>parallelIcon</key>
+	<string>shouldPublishGradient</string>
+	<key>prismaticChallenge</key>
+	<string>concatenateRouter</string>
+	<key>roleKind</key>
+	<string>canLoadBaseline</string>
+	<key>shouldEmitMedia</key>
+	<string>replaceGram</string>
+</dict>
+</plist>

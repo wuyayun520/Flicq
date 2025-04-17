@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerDistinction</key>
+	<string>integerJob</string>
+	<key>converterSize</key>
+	<string>customAnimatedContainer</string>
+	<key>deploytask</key>
+	<string>canYieldTabView</string>
+	<key>extensionTransparency</key>
+	<string>canSetStateTechnique</string>
+	<key>imageScale</key>
+	<string>sinkbeyonddecorator</string>
+	<key>imperativePresenter</key>
+	<string>techniquetierappearance</string>
+	<key>requestalignment</key>
+	<string>shouldTrainColumn</string>
+	<key>shouldPresentTask</key>
+	<string>compositionalScale</string>
+	<key>sliderflags</key>
+	<string>compositionalUtil</string>
+</dict>
+</plist>

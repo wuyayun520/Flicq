@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>captionRate</key>
+	<string>grayscaleSpeed</string>
+	<key>composableNavigator</key>
+	<string>findGroup</string>
+	<key>equalizationstatehue</key>
+	<string>oninstructiontap</string>
+	<key>metricsRight</key>
+	<string>baseBrightness</string>
+	<key>primaryState</key>
+	<string>presentModulus</string>
+	<key>shouldTrainBitrate</key>
+	<string>enabledStatus</string>
+	<key>symmetricbatchflags</key>
+	<string>overrideTransformer</string>
+	<key>tensorMenu</key>
+	<string>associatedCallback</string>
+</dict>
+</plist>

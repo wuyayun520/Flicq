@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAcceleration</key>
+	<string>greatstoryboardmode</string>
+	<key>immutablestoryboardleft</key>
+	<string>clipperKind</string>
+	<key>memberMargin</key>
+	<string>transitiontypevalidation</string>
+	<key>movementCount</key>
+	<string>canObserveOperation</string>
+	<key>popcaption</key>
+	<string>canKeepChecklist</string>
+	<key>reactiveTabView</key>
+	<string>disconnectSkin</string>
+	<key>seamlessequalization</key>
+	<string>fixedMember</string>
+	<key>shouldConnectHeap</key>
+	<string>dissociateOffset</string>
+	<key>shouldObserveCycle</key>
+	<string>cycleSingleton</string>
+</dict>
+</plist>

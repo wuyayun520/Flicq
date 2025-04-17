@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentStyle</key>
+	<string>graphVariable</string>
+	<key>collectionBrightness</key>
+	<string>onprojectiontap</string>
+	<key>gemVisibility</key>
+	<string>enabledBehavior</string>
+	<key>localTolerance</key>
+	<string>onbloctap</string>
+	<key>loopColor</key>
+	<string>restartClipper</string>
+	<key>primaryEntity</key>
+	<string>sortedException</string>
+	<key>resizableProject</key>
+	<string>featureOffset</string>
+	<key>scrollableRequest</key>
+	<string>menuParameter</string>
+	<key>shouldPrepareColumn</key>
+	<string>geometricBloc</string>
+	<key>uniquebitrate</key>
+	<string>ephemeralProtocol</string>
+</dict>
+</plist>

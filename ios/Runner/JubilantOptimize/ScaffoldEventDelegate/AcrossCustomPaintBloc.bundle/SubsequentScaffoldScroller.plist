@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRotation</key>
+	<string>protectedArithmetic</string>
+	<key>contractionanalyzer</key>
+	<string>pivotalGraph</string>
+	<key>discoverpoint</key>
+	<string>canShowSensor</string>
+	<key>parallelmanagerlocation</key>
+	<string>visibleElasticity</string>
+	<key>scalabilityBorder</key>
+	<string>directRect</string>
+	<key>shouldPushSine</key>
+	<string>equalFrame</string>
+</dict>
+</plist>

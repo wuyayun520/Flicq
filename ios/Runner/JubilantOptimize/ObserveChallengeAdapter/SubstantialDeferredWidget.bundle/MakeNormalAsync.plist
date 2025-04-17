@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyoperation</key>
+	<string>delegateawaystructure</string>
+	<key>layerdetector</key>
+	<string>repositoryScope</string>
+	<key>platevisibility</key>
+	<string>canPopSlider</string>
+	<key>resizableAnimation</key>
+	<string>insteadResult</string>
+	<key>shouldvalidatetouch</key>
+	<string>popupLocation</string>
+</dict>
+</plist>

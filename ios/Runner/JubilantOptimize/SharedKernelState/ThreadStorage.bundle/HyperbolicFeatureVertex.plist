@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeCursor</key>
+	<string>emitgrid</string>
+	<key>euclideanGestureDetector</key>
+	<string>equipmenterror</string>
+	<key>indicatorFormat</key>
+	<string>prismaticNavigator</string>
+	<key>objectName</key>
+	<string>lazyAppBar</string>
+	<key>originalTangent</key>
+	<string>materialScalability</string>
+	<key>spotStyle</key>
+	<string>activityTop</string>
+</dict>
+</plist>

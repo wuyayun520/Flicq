@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelCount</key>
+	<string>initiatorscompositebottom</string>
+	<key>diffableChannels</key>
+	<string>seamlessBinder</string>
+	<key>kernelShape</key>
+	<string>blocOperation</string>
+	<key>permissiveScaffold</key>
+	<string>allocatorDecorator</string>
+	<key>unsortedCaption</key>
+	<string>localLifecycle</string>
+</dict>
+</plist>

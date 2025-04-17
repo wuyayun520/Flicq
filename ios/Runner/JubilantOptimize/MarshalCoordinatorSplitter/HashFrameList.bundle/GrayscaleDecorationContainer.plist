@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicAxis</key>
+	<string>eventIndex</string>
+	<key>expandedTension</key>
+	<string>managerBridge</string>
+	<key>fragmentscale</key>
+	<string>consumeGroup</string>
+	<key>shouldPauseProvider</key>
+	<string>symmetricGrain</string>
+	<key>shouldRenderStamp</key>
+	<string>reducerRotation</string>
+	<key>shouldSerializeVariant</key>
+	<string>canDisconnectConsumer</string>
+	<key>subsequentCycle</key>
+	<string>popupFeedback</string>
+</dict>
+</plist>

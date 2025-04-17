@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumerFormat</key>
+	<string>efficiencyTail</string>
+	<key>displayableThreshold</key>
+	<string>unmountedDimension</string>
+	<key>easyActivity</key>
+	<string>backwardButton</string>
+	<key>informationTension</key>
+	<string>joinerBehavior</string>
+	<key>resizablePresenter</key>
+	<string>searchRadius</string>
+	<key>sequentialGrid</key>
+	<string>playcoordinator</string>
+	<key>shouldPublishColumn</key>
+	<string>discardedIntensity</string>
+	<key>substantialSchema</key>
+	<string>keepInkWell</string>
+	<key>trianglesedge</key>
+	<string>boxshadowAdapter</string>
+</dict>
+</plist>

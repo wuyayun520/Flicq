@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cachecard</key>
+	<string>undertakeStream</string>
+	<key>captionstyleforce</key>
+	<string>canResumeSubpixel</string>
+	<key>granularPreview</key>
+	<string>maintainPresenter</string>
+	<key>histogramInteraction</key>
+	<string>rectifyTween</string>
+	<key>mountusage</key>
+	<string>persistentMap</string>
+	<key>rapidInteraction</key>
+	<string>groupLeft</string>
+	<key>shouldUpdatePoint</key>
+	<string>difficultInitiative</string>
+	<key>statelessScene</key>
+	<string>shouldPopRichText</string>
+</dict>
+</plist>

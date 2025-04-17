@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bitrateType</key>
+	<string>constantCoord</string>
+	<key>emitqueue</key>
+	<string>shouldDetachCursor</string>
+	<key>heroSkewY</key>
+	<string>enabledSpot</string>
+	<key>lossinset</key>
+	<string>canLoadCube</string>
+	<key>mutableentropypadding</key>
+	<string>shouldFormatActivity</string>
+	<key>requiredLocalization</key>
+	<string>ascentOffset</string>
+	<key>sizedboxPadding</key>
+	<string>sequentialMaster</string>
+</dict>
+</plist>

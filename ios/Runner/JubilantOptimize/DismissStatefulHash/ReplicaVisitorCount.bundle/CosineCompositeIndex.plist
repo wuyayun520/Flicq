@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>movecubit</key>
+	<string>tappableModel</string>
+	<key>priorbuilder</key>
+	<string>cacheButton</string>
+	<key>responseDensity</key>
+	<string>embedinkwell</string>
+	<key>shouldPaintUsage</key>
+	<string>agileInteraction</string>
+	<key>zonetransparency</key>
+	<string>firstprojectcenter</string>
+</dict>
+</plist>

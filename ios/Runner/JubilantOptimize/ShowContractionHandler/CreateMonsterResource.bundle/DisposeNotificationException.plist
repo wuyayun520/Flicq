@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerfunctionvalidation</key>
+	<string>scheduleIntensity</string>
+	<key>beginnerSlash</key>
+	<string>modalinfo</string>
+	<key>looptension</key>
+	<string>hierarchicalColumn</string>
+	<key>mutablelistview</key>
+	<string>shouldSerializeListView</string>
+	<key>webpageviewspeed</key>
+	<string>canYieldInteger</string>
+</dict>
+</plist>

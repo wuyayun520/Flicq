@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricRange</key>
+	<string>scaleNumber</string>
+	<key>hardContrast</key>
+	<string>pushSegue</string>
+	<key>localFilter</key>
+	<string>canEndDropdownButton</string>
+	<key>navigatorrenderer</key>
+	<string>transitionBaseline</string>
+	<key>providerbyfacade</key>
+	<string>referenceVisible</string>
+	<key>shouldAttachProject</key>
+	<string>painterFacade</string>
+	<key>shouldValidateRichText</key>
+	<string>resiliencehead</string>
+</dict>
+</plist>

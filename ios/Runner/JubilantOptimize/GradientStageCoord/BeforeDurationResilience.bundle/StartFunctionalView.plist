@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkobserver</key>
+	<string>shouldFinishRemainder</string>
+	<key>heapShape</key>
+	<string>detectorBehavior</string>
+	<key>invisibleInteractor</key>
+	<string>particleMemento</string>
+	<key>mobileDetail</key>
+	<string>publicMusic</string>
+</dict>
+</plist>

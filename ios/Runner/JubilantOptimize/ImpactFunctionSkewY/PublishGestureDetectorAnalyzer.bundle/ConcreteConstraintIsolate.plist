@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileReducer</key>
+	<string>shouldPopPromise</string>
+	<key>animatorStatus</key>
+	<string>shouldPersistThread</string>
+	<key>defaultcoordinator</key>
+	<string>uniformError</string>
+	<key>immutableCompletion</key>
+	<string>selectedView</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedlistener</key>
+	<string>inheritedview</string>
+	<key>blocBottom</key>
+	<string>exponentSystem</string>
+	<key>collectionpressure</key>
+	<string>maintainLayout</string>
+	<key>mediumChooser</key>
+	<string>switchShape</string>
+	<key>occasionSaturation</key>
+	<string>streamStatus</string>
+	<key>primaryLinker</key>
+	<string>uniqueSample</string>
+	<key>shouldLayoutListView</key>
+	<string>smartConverter</string>
+	<key>shouldStopFlex</key>
+	<string>awaitoutsideadapter</string>
+	<key>tabbarOffset</key>
+	<string>canUnmountedStep</string>
+	<key>tensorMaterial</key>
+	<string>resourcefeedback</string>
+</dict>
+</plist>

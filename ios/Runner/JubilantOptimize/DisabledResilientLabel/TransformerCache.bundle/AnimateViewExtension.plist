@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalManager</key>
+	<string>selectedMaterial</string>
+	<key>deferredMerger</key>
+	<string>shouldReplaceAxis</string>
+	<key>easySlider</key>
+	<string>replaceRequest</string>
+	<key>expandedDirection</key>
+	<string>richtextOperation</string>
+	<key>refreshinteractor</key>
+	<string>sophisticatedMultiplication</string>
+	<key>sortedBloc</key>
+	<string>sinkbehavior</string>
+</dict>
+</plist>

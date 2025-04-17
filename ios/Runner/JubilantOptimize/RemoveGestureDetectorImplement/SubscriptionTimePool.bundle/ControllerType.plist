@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttontaskcenter</key>
+	<string>displayableEffect</string>
+	<key>imperativeCluster</key>
+	<string>originalSample</string>
+	<key>iterativeScreen</key>
+	<string>defaultrichtext</string>
+	<key>mobileIntegrity</key>
+	<string>formatinterval</string>
+	<key>pinchablestorage</key>
+	<string>shouldHandleScaffold</string>
+	<key>projectprocessborder</key>
+	<string>independentVolume</string>
+</dict>
+</plist>

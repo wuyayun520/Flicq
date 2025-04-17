@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evolutionOrientation</key>
+	<string>frameAppearance</string>
+	<key>isolateobserver</key>
+	<string>shouldDetachMaterial</string>
+	<key>layoutformat</key>
+	<string>eagerBinder</string>
+	<key>seamlessAsset</key>
+	<string>canPopDescriptor</string>
+	<key>unactivatedTraversal</key>
+	<string>permissiveDependency</string>
+</dict>
+</plist>

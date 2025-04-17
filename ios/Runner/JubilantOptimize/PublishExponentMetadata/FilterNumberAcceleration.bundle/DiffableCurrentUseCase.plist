@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableSearcher</key>
+	<string>storyboardflags</string>
+	<key>locatelabel</key>
+	<string>extendController</string>
+	<key>roleasmode</key>
+	<string>iconParameter</string>
+	<key>scaffoldRate</key>
+	<string>giftComposite</string>
+	<key>shouldRebuildSign</key>
+	<string>shouldMountGem</string>
+	<key>shouldSaveIcon</key>
+	<string>customSensor</string>
+	<key>standalonePolygon</key>
+	<string>signatureInterval</string>
+	<key>temporaryrect</key>
+	<string>semanticsPattern</string>
+</dict>
+</plist>

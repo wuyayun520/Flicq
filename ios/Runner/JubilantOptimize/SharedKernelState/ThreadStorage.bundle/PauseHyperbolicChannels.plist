@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitpublisher</key>
+	<string>canHandleScale</string>
+	<key>giftlikeframework</key>
+	<string>dropdownbuttonAcceleration</string>
+	<key>notifierrouter</key>
+	<string>radioBottom</string>
+	<key>permissiveTernary</key>
+	<string>normorstyle</string>
+	<key>primaryGrayscale</key>
+	<string>initiativeDepth</string>
+	<key>providerHue</key>
+	<string>persistenttabviewname</string>
+	<key>singleclippercenter</key>
+	<string>permissiveBitrate</string>
+</dict>
+</plist>

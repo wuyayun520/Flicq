@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCursor</key>
+	<string>synchronousBaseline</string>
+	<key>animatedLayer</key>
+	<string>keepstateful</string>
+	<key>capacitiesexceptbridge</key>
+	<string>shouldTransitionSegment</string>
+	<key>cubitBehavior</key>
+	<string>canMountedSkirt</string>
+	<key>graphbyprocess</key>
+	<string>finishawait</string>
+	<key>multiRichText</key>
+	<string>shouldFinishPainter</string>
+	<key>shouldParseBuilder</key>
+	<string>relationalpositiontag</string>
+	<key>usedbloccount</key>
+	<string>explicitNavigation</string>
+</dict>
+</plist>

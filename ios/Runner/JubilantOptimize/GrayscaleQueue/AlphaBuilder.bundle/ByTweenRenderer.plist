@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dialogsbrightness</key>
+	<string>lastLifecycle</string>
+	<key>difficultIntensity</key>
+	<string>canFetchUnary</string>
+	<key>indicatorDirection</key>
+	<string>introspectPreview</string>
+	<key>protocoltemplecount</key>
+	<string>isgridview</string>
+	<key>shouldHandleDuration</key>
+	<string>shouldYieldTable</string>
+	<key>tappableActivity</key>
+	<string>requiredtouchshade</string>
+</dict>
+</plist>

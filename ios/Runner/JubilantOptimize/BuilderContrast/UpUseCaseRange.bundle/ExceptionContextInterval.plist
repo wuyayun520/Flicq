@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerchainvalidation</key>
+	<string>exitAllocator</string>
+	<key>exceptioncenter</key>
+	<string>shouldSubscribeScaffold</string>
+	<key>functionalMetadata</key>
+	<string>arithmeticCombiner</string>
+	<key>hierarchicalReliability</key>
+	<string>canPushTable</string>
+	<key>lastTabView</key>
+	<string>durationschema</string>
+	<key>logInterval</key>
+	<string>evolutionFlags</string>
+	<key>nibFlags</key>
+	<string>shouldInitializeInitiators</string>
+	<key>sizedboxRight</key>
+	<string>localListener</string>
+</dict>
+</plist>

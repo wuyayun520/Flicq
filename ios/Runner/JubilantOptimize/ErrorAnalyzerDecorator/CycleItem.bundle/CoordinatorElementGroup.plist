@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklayout</key>
+	<string>canDisposeObserver</string>
+	<key>customizedRequest</key>
+	<string>activatedGift</string>
+	<key>permanentRange</key>
+	<string>topicfrequency</string>
+	<key>shouldStopTabBar</key>
+	<string>shouldKeepHistogram</string>
+	<key>swiftBound</key>
+	<string>smartStrength</string>
+	<key>tappableRange</key>
+	<string>behaviorLevel</string>
+</dict>
+</plist>

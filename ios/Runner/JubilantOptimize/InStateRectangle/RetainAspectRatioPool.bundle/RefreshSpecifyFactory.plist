@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileScroller</key>
+	<string>mobileLabel</string>
+	<key>appbarAcceleration</key>
+	<string>vectortheme</string>
+	<key>gatepatterncolor</key>
+	<string>loopBorder</string>
+	<key>petInteraction</key>
+	<string>vertextail</string>
+	<key>shouldAttachVariant</key>
+	<string>shouldAnimateSpine</string>
+	<key>shouldLoadUnary</key>
+	<string>consumerborder</string>
+	<key>sineState</key>
+	<string>statelessCluster</string>
+	<key>sophisticatedInteger</key>
+	<string>largeMetadata</string>
+	<key>textpressure</key>
+	<string>shouldDecodeMargin</string>
+</dict>
+</plist>

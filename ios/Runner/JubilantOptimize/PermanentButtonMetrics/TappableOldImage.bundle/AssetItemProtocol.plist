@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicPicker</key>
+	<string>aspectratioresolver</string>
+	<key>canvasselector</key>
+	<string>imperativeReference</string>
+	<key>constantOffset</key>
+	<string>criticalAnimatedContainer</string>
+	<key>crudeScale</key>
+	<string>timelineInterval</string>
+	<key>deferredModal</key>
+	<string>commonBandwidth</string>
+	<key>eagerContraction</key>
+	<string>canMountedAnimatedContainer</string>
+	<key>positionedcommandfeedback</key>
+	<string>videoResponse</string>
+	<key>requestsorter</key>
+	<string>shouldValidateBoxShadow</string>
+</dict>
+</plist>

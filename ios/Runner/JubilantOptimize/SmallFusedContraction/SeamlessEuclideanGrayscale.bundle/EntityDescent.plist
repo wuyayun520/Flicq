@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cursorplatformcolor</key>
+	<string>popMobile</string>
+	<key>parallelSorter</key>
+	<string>isLayout</string>
+	<key>reducerconstant</key>
+	<string>searchError</string>
+	<key>remediationCoord</key>
+	<string>buildModal</string>
+	<key>shouldInitializeCupertino</key>
+	<string>usecaseoffset</string>
+	<key>unsorteddescription</key>
+	<string>materialNode</string>
+	<key>workflowShape</key>
+	<string>denseInfrastructure</string>
+</dict>
+</plist>

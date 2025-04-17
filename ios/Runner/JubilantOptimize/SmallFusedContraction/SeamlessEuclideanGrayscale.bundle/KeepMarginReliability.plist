@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableRoute</key>
+	<string>crucialPopup</string>
+	<key>effectContrast</key>
+	<string>secondImage</string>
+	<key>efficiencyMargin</key>
+	<string>smallPositioned</string>
+	<key>pivotalGrayscale</key>
+	<string>shouldHandleInterpolation</string>
+	<key>specifierSpacing</key>
+	<string>associatedInstruction</string>
+</dict>
+</plist>

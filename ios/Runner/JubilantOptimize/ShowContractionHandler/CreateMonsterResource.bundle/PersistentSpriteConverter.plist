@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prevkernelfrequency</key>
+	<string>layerVelocity</string>
+	<key>sequentialNavigation</key>
+	<string>callbackagainstshape</string>
+	<key>shouldinflateaxis</key>
+	<string>sharedColumn</string>
+	<key>typicalsemanticsdistance</key>
+	<string>uniqueascent</string>
+	<key>uniformUseCase</key>
+	<string>singletonForm</string>
+</dict>
+</plist>

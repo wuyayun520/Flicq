@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoJoiner</key>
+	<string>listenerVisitor</string>
+	<key>elasticityAcceleration</key>
+	<string>reactiveTool</string>
+	<key>exponentBound</key>
+	<string>effectedge</string>
+	<key>immediatefilter</key>
+	<string>multiplyObserver</string>
+	<key>impressionVisibility</key>
+	<string>replaceTexture</string>
+	<key>mainInformation</key>
+	<string>keepView</string>
+	<key>rowSaturation</key>
+	<string>asynchronousPositioned</string>
+	<key>shouldSetStateCollection</key>
+	<string>presentCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkboxIndex</key>
+	<string>instructionSize</string>
+	<key>elasticCompleter</key>
+	<string>disclaimerskewy</string>
+	<key>findcard</key>
+	<string>firstOffset</string>
+	<key>invisiblelogleft</key>
+	<string>columnTop</string>
+	<key>newestPublisher</key>
+	<string>actioncoord</string>
+	<key>sequentialStroke</key>
+	<string>elasticStateful</string>
+	<key>staticSound</key>
+	<string>shouldReplaceBinary</string>
+	<key>textpolyfill</key>
+	<string>transformerfeedback</string>
+	<key>usecaseorientation</key>
+	<string>denseAlert</string>
+</dict>
+</plist>

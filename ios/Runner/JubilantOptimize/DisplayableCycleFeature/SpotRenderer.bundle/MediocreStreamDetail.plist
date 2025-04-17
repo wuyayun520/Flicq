@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>charttaskbrightness</key>
+	<string>contractionrotation</string>
+	<key>desktoptexture</key>
+	<string>cloneentity</string>
+	<key>semanticSegue</key>
+	<string>activatedZone</string>
+	<key>tabviewtop</key>
+	<string>cupertinoFinder</string>
+	<key>temporaryMetrics</key>
+	<string>rectifySubscription</string>
+</dict>
+</plist>

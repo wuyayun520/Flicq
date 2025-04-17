@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iconInset</key>
+	<string>uniformTime</string>
+	<key>interactiveRouter</key>
+	<string>popupkind</string>
+	<key>labelstatefeedback</key>
+	<string>shouldYieldTabBar</string>
+	<key>lazyMaster</key>
+	<string>synchronousTable</string>
+	<key>methodVisible</key>
+	<string>keepSession</string>
+	<key>relationalInkWell</key>
+	<string>ignoredTernary</string>
+	<key>resizablecoordinator</key>
+	<string>globalEffect</string>
+	<key>rolechapter</key>
+	<string>renameBuilder</string>
+</dict>
+</plist>

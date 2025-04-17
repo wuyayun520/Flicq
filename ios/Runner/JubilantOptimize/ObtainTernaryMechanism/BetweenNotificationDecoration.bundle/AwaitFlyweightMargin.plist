@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterAlignment</key>
+	<string>volumeEdge</string>
+	<key>coordinatormediatorinset</key>
+	<string>alignmentmode</string>
+	<key>hierarchicalStrength</key>
+	<string>spritetension</string>
+	<key>robustLatency</key>
+	<string>binaryPrototype</string>
+	<key>samplecontroller</key>
+	<string>notifierChain</string>
+	<key>shouldLoadMusic</key>
+	<string>hierarchicalMedia</string>
+	<key>shouldMountedChallenge</key>
+	<string>soundValidation</string>
+	<key>subpixelBorder</key>
+	<string>popPrecision</string>
+</dict>
+</plist>

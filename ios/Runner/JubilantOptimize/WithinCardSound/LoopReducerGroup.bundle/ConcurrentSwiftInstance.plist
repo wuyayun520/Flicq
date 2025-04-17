@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratiocount</key>
+	<string>rebuildusecase</string>
+	<key>cardName</key>
+	<string>encodeLayer</string>
+	<key>filtercontrast</key>
+	<string>nextroutetransparency</string>
+	<key>globalStroke</key>
+	<string>cartesianReplica</string>
+	<key>listenertweak</key>
+	<string>playStream</string>
+	<key>publicDelegate</key>
+	<string>methodTail</string>
+</dict>
+</plist>

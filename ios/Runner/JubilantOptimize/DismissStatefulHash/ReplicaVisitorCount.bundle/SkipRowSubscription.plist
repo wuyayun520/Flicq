@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatetimer</key>
+	<string>encodestore</string>
+	<key>aspectratioRight</key>
+	<string>cosineDensity</string>
+	<key>deferredRepository</key>
+	<string>minGestureDetector</string>
+	<key>disabledDescriptor</key>
+	<string>graphicPattern</string>
+	<key>mediumpager</key>
+	<string>shouldTransformRemainder</string>
+	<key>shouldUnmountInterpolation</key>
+	<string>scaffoldAlignment</string>
+	<key>taskversusobserver</key>
+	<string>deprecateRepository</string>
+	<key>unsortedSubscriber</key>
+	<string>yieldTransition</string>
+</dict>
+</plist>

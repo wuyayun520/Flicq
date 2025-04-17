@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorscroller</key>
+	<string>crudeShader</string>
+	<key>inactivejoiner</key>
+	<string>reusableResponse</string>
+	<key>normalWrapper</key>
+	<string>chapterBridge</string>
+	<key>renamechecklist</key>
+	<string>canProcessSpecifier</string>
+	<key>resumebatch</key>
+	<string>normNumber</string>
+	<key>themedepth</key>
+	<string>sustainableThreshold</string>
+</dict>
+</plist>

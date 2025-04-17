@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerContrast</key>
+	<string>missedChooser</string>
+	<key>autoPolygon</key>
+	<string>defaultBorder</string>
+	<key>constraintborder</key>
+	<string>adaptiveStateful</string>
+	<key>easysliderinterval</key>
+	<string>playbackPlatform</string>
+	<key>gridviewEdge</key>
+	<string>mutableStep</string>
+	<key>playbackName</key>
+	<string>normalChallenge</string>
+	<key>shouldMountBinary</key>
+	<string>activateConfiguration</string>
+	<key>specifyZone</key>
+	<string>statelessAmortization</string>
+</dict>
+</plist>

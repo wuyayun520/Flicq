@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>detectorstyle</key>
+	<string>missionEdge</string>
+	<key>hardutilhead</key>
+	<string>promisebesideinterpreter</string>
+	<key>notifyhash</key>
+	<string>updateChapter</string>
+	<key>restartproject</key>
+	<string>projectTail</string>
+	<key>tappableInstruction</key>
+	<string>globalTransition</string>
+	<key>tensorstepstatus</key>
+	<string>rapidSubscription</string>
+	<key>transformeragainstcontext</key>
+	<string>sequentialFuture</string>
+</dict>
+</plist>

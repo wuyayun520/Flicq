@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>interceptqueue</key>
+	<string>shouldPresentSegment</string>
+	<key>iterativechapterappearance</key>
+	<string>lastPadding</string>
+	<key>keyDetector</key>
+	<string>encapsulateParticle</string>
+	<key>lifecycleBehavior</key>
+	<string>largeError</string>
+	<key>shouldDeserializeDrawer</key>
+	<string>sortedVariant</string>
+	<key>shouldObserveMission</key>
+	<string>modeltemplehue</string>
+	<key>taskstate</key>
+	<string>buildSlash</string>
+	<key>webTernary</key>
+	<string>pauseScaffold</string>
+</dict>
+</plist>

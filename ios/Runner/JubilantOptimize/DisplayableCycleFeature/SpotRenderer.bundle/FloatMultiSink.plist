@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedConfiguration</key>
+	<string>signorigin</string>
+	<key>builderatcomposite</key>
+	<string>shouldLoadMediaQuery</string>
+	<key>gateBottom</key>
+	<string>shouldProcessWorkflow</string>
+	<key>independentNavigator</key>
+	<string>enabledExpanded</string>
+	<key>priorRepository</key>
+	<string>createLocalization</string>
+	<key>shouldInflateSignature</key>
+	<string>selectedlabel</string>
+	<key>shouldNotifySkirt</key>
+	<string>basicCheckbox</string>
+	<key>substantialReliability</key>
+	<string>respectivegemvisibility</string>
+	<key>topiclocation</key>
+	<string>diversifiedSkirt</string>
+</dict>
+</plist>

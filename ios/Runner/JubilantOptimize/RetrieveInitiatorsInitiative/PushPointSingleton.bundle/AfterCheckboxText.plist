@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>groupcomponent</key>
+	<string>canYieldSession</string>
+	<key>layerDelay</key>
+	<string>shouldCachePet</string>
+	<key>materialasmode</key>
+	<string>yieldSine</string>
+	<key>musicbottom</key>
+	<string>shouldUnmountCheckbox</string>
+	<key>nibBrightness</key>
+	<string>anchorContrast</string>
+	<key>repositoryType</key>
+	<string>shouldPaintMission</string>
+	<key>responsiveAscent</key>
+	<string>gridviewforce</string>
+	<key>robustinteractorpressure</key>
+	<string>backwardGram</string>
+	<key>subscribemenu</key>
+	<string>disconnectMaster</string>
+	<key>triggerBehavior</key>
+	<string>memberCenter</string>
+</dict>
+</plist>

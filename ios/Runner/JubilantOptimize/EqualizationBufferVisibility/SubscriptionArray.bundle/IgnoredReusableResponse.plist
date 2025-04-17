@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayabletextfieldscale</key>
+	<string>subscriptionResponse</string>
+	<key>hierarchicalInterpolation</key>
+	<string>haslayout</string>
+	<key>mobileTweak</key>
+	<string>connectTernary</string>
+	<key>providerskewy</key>
+	<string>switchRate</string>
+	<key>stepFrequency</key>
+	<string>prismaticThreshold</string>
+	<key>viewlayervisibility</key>
+	<string>optionRate</string>
+</dict>
+</plist>

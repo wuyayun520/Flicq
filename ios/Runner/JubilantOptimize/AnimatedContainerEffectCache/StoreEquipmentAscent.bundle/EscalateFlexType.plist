@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>batchPosition</key>
+	<string>mutableinjectionbrightness</string>
+	<key>configuretext</key>
+	<string>holdEvent</string>
+	<key>customizedPageView</key>
+	<string>informationTag</string>
+	<key>pivotalDecoration</key>
+	<string>newestCapacity</string>
+</dict>
+</plist>

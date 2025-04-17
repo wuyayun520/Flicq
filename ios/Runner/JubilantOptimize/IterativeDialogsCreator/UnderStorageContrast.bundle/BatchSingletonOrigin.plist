@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationStatus</key>
+	<string>notifyloop</string>
+	<key>flexibleRouter</key>
+	<string>intuitiveAnchor</string>
+	<key>navigatorlevelskewy</key>
+	<string>canInflateOverlay</string>
+	<key>protectedCompleter</key>
+	<string>canFetchMobile</string>
+	<key>shouldConnectDimension</key>
+	<string>shouldUnmountedCompletion</string>
+	<key>shouldMountedTabView</key>
+	<string>limitTicker</string>
+	<key>unsortedinitiatorshue</key>
+	<string>fixedEmitter</string>
+</dict>
+</plist>

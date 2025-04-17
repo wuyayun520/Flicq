@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousRoute</key>
+	<string>unregisterInjection</string>
+	<key>collectionVelocity</key>
+	<string>shouldProcessProtocol</string>
+	<key>columnkindalignment</key>
+	<string>reducerTheme</string>
+	<key>immutableCell</key>
+	<string>nextScene</string>
+	<key>lastBitrate</key>
+	<string>stopSensor</string>
+	<key>mechanismVisible</key>
+	<string>compositionRotation</string>
+	<key>missedRichText</key>
+	<string>swiftvideo</string>
+	<key>momentumvelocity</key>
+	<string>offsetForm</string>
+	<key>shouldMountTheme</key>
+	<string>canHandleSegment</string>
+	<key>specifyDescription</key>
+	<string>accessibleFeature</string>
+</dict>
+</plist>

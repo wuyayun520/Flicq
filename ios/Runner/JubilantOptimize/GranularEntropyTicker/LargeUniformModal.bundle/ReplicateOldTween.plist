@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePopup</key>
+	<string>paintworkflow</string>
+	<key>createprojection</key>
+	<string>transpileRect</string>
+	<key>rectFrequency</key>
+	<string>binaryscenario</string>
+	<key>sampleDelay</key>
+	<string>paintSlider</string>
+	<key>sequentialwidget</key>
+	<string>errorFlyweight</string>
+	<key>tentativeBehavior</key>
+	<string>popQueue</string>
+</dict>
+</plist>

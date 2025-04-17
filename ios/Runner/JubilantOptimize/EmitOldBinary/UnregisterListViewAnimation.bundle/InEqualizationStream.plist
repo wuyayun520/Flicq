@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>handlerAcceleration</key>
+	<string>providerScope</string>
+	<key>immutableMerger</key>
+	<string>canNotifyFragment</string>
+	<key>mobileAnimator</key>
+	<string>shouldPaintGram</string>
+	<key>robustTolerance</key>
+	<string>shouldDismissTable</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actiondirection</key>
+	<string>performFuture</string>
+	<key>descentCenter</key>
+	<string>scalemediatorname</string>
+	<key>keyConstant</key>
+	<string>subpixelDensity</string>
+	<key>notificationcubit</key>
+	<string>elasticNode</string>
+	<key>signbeyondvalue</key>
+	<string>zoneStatus</string>
+	<key>subscribenavigator</key>
+	<string>cartesianTable</string>
+</dict>
+</plist>

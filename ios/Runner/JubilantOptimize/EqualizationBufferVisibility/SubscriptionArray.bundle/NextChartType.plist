@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarpopup</key>
+	<string>accessoryObserver</string>
+	<key>associatedDelivery</key>
+	<string>defaultgift</string>
+	<key>maincallback</key>
+	<string>traversalCount</string>
+	<key>pivotalSwift</key>
+	<string>restartCurve</string>
+	<key>protectedBuilder</key>
+	<string>listenDimension</string>
+	<key>unsortedCheckbox</key>
+	<string>composableExtension</string>
+	<key>visibleVolume</key>
+	<string>scopePadding</string>
+</dict>
+</plist>

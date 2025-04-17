@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDirection</key>
+	<string>canInitializeTabBar</string>
+	<key>entropyperstate</key>
+	<string>usedDelegate</string>
+	<key>equipmentanimator</key>
+	<string>statefulEntropy</string>
+	<key>euclideanSubpixel</key>
+	<string>shouldSerializeButton</string>
+	<key>observerDirection</key>
+	<string>disparateTraversal</string>
+	<key>sineHue</key>
+	<string>observeProtocol</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoCluster</key>
+	<string>tweakVisibility</string>
+	<key>paintertag</key>
+	<string>filterresponse</string>
+	<key>parallelSubscription</key>
+	<string>enabledPromise</string>
+	<key>priorbox</key>
+	<string>stopBox</string>
+	<key>shouldListenAlert</key>
+	<string>cellFlyweight</string>
+	<key>taskbeyondvar</key>
+	<string>listenTask</string>
+</dict>
+</plist>

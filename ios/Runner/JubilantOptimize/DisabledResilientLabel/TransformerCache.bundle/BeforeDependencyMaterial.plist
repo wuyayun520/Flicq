@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileAccessory</key>
+	<string>directCaption</string>
+	<key>associatedIndicator</key>
+	<string>compiletransition</string>
+	<key>descriptorDensity</key>
+	<string>moveTexture</string>
+	<key>durationaroundmode</key>
+	<string>canEndPainter</string>
+	<key>elasticCapsule</key>
+	<string>locateMetadata</string>
+	<key>inheritedStateful</key>
+	<string>sliderwithoutactivity</string>
+	<key>materialconstraintvalidation</key>
+	<string>canBindMediaQuery</string>
+	<key>processstream</key>
+	<string>mobileinframework</string>
+	<key>secondMobile</key>
+	<string>canDispatchDropdownButton</string>
+</dict>
+</plist>

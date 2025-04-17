@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentCluster</key>
+	<string>eagerMenu</string>
+	<key>emitmovement</key>
+	<string>intermediateMerger</string>
+	<key>injectionTransparency</key>
+	<string>canDisposeOptimizer</string>
+	<key>replicaedge</key>
+	<string>pushDescriptor</string>
+	<key>shouldUnmountPromise</key>
+	<string>navigateMission</string>
+	<key>temporarymember</key>
+	<string>memberOperation</string>
+</dict>
+</plist>

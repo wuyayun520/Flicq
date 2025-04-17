@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSegment</key>
+	<string>disconnectStorage</string>
+	<key>agileConnector</key>
+	<string>shouldPresentTool</string>
+	<key>associatedInjection</key>
+	<string>resilientBloc</string>
+	<key>columnphasedepth</key>
+	<string>operationBridge</string>
+	<key>dropdownbuttonrotation</key>
+	<string>flexibleTechnique</string>
+	<key>erasesubscription</key>
+	<string>fixedReceiver</string>
+	<key>exceptionstatus</key>
+	<string>channelBuffer</string>
+	<key>interactiveSpot</key>
+	<string>textininterpreter</string>
+	<key>uniquecontainervalidation</key>
+	<string>canFetchBatch</string>
+	<key>usecaseactionstyle</key>
+	<string>canReplaceCanvas</string>
+</dict>
+</plist>

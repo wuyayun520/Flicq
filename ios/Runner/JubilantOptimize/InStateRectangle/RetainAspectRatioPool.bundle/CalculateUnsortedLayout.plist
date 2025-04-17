@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedMaterial</key>
+	<string>storeEvent</string>
+	<key>dedicatedsignaturetheme</key>
+	<string>petawait</string>
+	<key>firstState</key>
+	<string>statelessController</string>
+	<key>menudelay</key>
+	<string>moveRadius</string>
+</dict>
+</plist>

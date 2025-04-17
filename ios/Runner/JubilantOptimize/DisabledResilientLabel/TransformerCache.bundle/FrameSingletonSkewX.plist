@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCertificate</key>
+	<string>euclideanScenario</string>
+	<key>componentRate</key>
+	<string>projectioncyclespacing</string>
+	<key>consumestream</key>
+	<string>granularConfiguration</string>
+	<key>defaultScreen</key>
+	<string>similarRequest</string>
+	<key>diffableObserver</key>
+	<string>shouldHandleProvider</string>
+	<key>similarPresenter</key>
+	<string>captureResource</string>
+</dict>
+</plist>

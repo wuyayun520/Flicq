@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyModal</key>
+	<string>shouldStartVariant</string>
+	<key>hierarchicalobserver</key>
+	<string>shouldInflateCube</string>
+	<key>interactiveElement</key>
+	<string>quantizerAsset</string>
+	<key>mediumAperture</key>
+	<string>canDispatchMaster</string>
+	<key>richtextTop</key>
+	<string>euclideanStream</string>
+	<key>rowmementoorigin</key>
+	<string>routeTechnique</string>
+	<key>shouldDispatchMission</key>
+	<string>customAlpha</string>
+	<key>shouldUpdateSpot</key>
+	<string>completedDuration</string>
+	<key>streamnearparam</key>
+	<string>shouldObservePriority</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>meshTop</key>
+	<string>shouldInflateView</string>
+	<key>othercontroller</key>
+	<string>flexJob</string>
+	<key>setstatescene</key>
+	<string>unsortedGraph</string>
+	<key>subtleEquivalent</key>
+	<string>sequentialPageView</string>
+	<key>webInterpolation</key>
+	<string>augmentEvent</string>
+</dict>
+</plist>

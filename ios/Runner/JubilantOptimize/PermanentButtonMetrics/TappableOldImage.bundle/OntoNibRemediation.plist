@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedBrush</key>
+	<string>shouldUnmountTheme</string>
+	<key>concurrentNavigator</key>
+	<string>awaitForm</string>
+	<key>lostTicker</key>
+	<string>sequentialModal</string>
+	<key>symmetricBinder</key>
+	<string>modeldirection</string>
+	<key>visibleVector</key>
+	<string>richtextStatus</string>
+</dict>
+</plist>

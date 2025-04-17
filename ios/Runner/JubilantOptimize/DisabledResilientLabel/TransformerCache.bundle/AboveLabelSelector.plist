@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTool</key>
+	<string>gramworkbound</string>
+	<key>enabledException</key>
+	<string>playbackPressure</string>
+	<key>mountedtechnique</key>
+	<string>mainSensor</string>
+	<key>operationorientation</key>
+	<string>protectedMapper</string>
+	<key>responseContrast</key>
+	<string>resilientActivity</string>
+	<key>sessionitem</key>
+	<string>constrainttentative</string>
+	<key>substantialLoss</key>
+	<string>formatPressure</string>
+	<key>unmountedbloc</key>
+	<string>particleBrightness</string>
+	<key>unmountedinteger</key>
+	<string>canLayoutCharacter</string>
+</dict>
+</plist>

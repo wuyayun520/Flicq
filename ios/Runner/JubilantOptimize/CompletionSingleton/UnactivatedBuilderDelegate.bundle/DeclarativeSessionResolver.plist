@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarVisible</key>
+	<string>commonView</string>
+	<key>characterrecursion</key>
+	<string>certificateScope</string>
+	<key>completerName</key>
+	<string>operationFrequency</string>
+	<key>diffableSample</key>
+	<string>chartcolor</string>
+	<key>latencyStatus</key>
+	<string>interceptTitle</string>
+	<key>permissivePolygon</key>
+	<string>renameProgressBar</string>
+	<key>statefulgrain</key>
+	<string>dimensionMediator</string>
+	<key>substantialComposition</key>
+	<string>backwardText</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitydensity</key>
+	<string>canUpdateStep</string>
+	<key>diversifiedEfficiency</key>
+	<string>subpixelFlyweight</string>
+	<key>permissiveBase</key>
+	<string>animationtransformer</string>
+	<key>skirtchaintag</key>
+	<string>requestalonginterpreter</string>
+	<key>standaloneAppBar</key>
+	<string>routeAppearance</string>
+</dict>
+</plist>

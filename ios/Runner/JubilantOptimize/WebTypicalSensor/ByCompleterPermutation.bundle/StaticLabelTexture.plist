@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncRate</key>
+	<string>scrollablepager</string>
+	<key>basicListener</key>
+	<string>sortedHistogram</string>
+	<key>clipperResponse</key>
+	<string>enabledCluster</string>
+	<key>equivalentTheme</key>
+	<string>currentOperation</string>
+	<key>fusedContainer</key>
+	<string>replaceSpine</string>
+	<key>offsetDelay</key>
+	<string>formatSignature</string>
+	<key>pivotalcheckboxtag</key>
+	<string>divideAwait</string>
+	<key>sequentialKernel</key>
+	<string>transformerOpacity</string>
+	<key>shouldTransformAnimation</key>
+	<string>dedicatedMargin</string>
+	<key>webNavigator</key>
+	<string>unscheduleRadius</string>
+</dict>
+</plist>

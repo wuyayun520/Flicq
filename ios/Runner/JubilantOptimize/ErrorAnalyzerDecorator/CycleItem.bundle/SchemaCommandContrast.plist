@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoPopup</key>
+	<string>reusableConfidentiality</string>
+	<key>eventequivalent</key>
+	<string>shouldRenderMediaQuery</string>
+	<key>hardAxis</key>
+	<string>contrastFrequency</string>
+	<key>momentumBorder</key>
+	<string>defaultTangent</string>
+</dict>
+</plist>

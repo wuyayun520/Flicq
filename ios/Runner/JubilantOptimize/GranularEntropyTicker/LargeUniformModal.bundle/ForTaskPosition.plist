@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builddependency</key>
+	<string>audioleft</string>
+	<key>deferredChapter</key>
+	<string>awaitOperation</string>
+	<key>enabledTool</key>
+	<string>agileTouch</string>
+	<key>overridegrayscale</key>
+	<string>blocVisible</string>
+	<key>parallelSegue</key>
+	<string>visibleData</string>
+	<key>slashDistance</key>
+	<string>spotFeedback</string>
+</dict>
+</plist>

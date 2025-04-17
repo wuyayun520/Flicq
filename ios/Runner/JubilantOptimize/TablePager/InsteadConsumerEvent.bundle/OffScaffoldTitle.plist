@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsscene</key>
+	<string>isscale</string>
+	<key>cursorcallback</key>
+	<string>constantCoord</string>
+	<key>customhandler</key>
+	<string>mountedrect</string>
+	<key>fixedRemediation</key>
+	<string>easyConsumption</string>
+	<key>invisibleGrain</key>
+	<string>robustGraph</string>
+	<key>nextTabView</key>
+	<string>documentBehavior</string>
+	<key>otherfeature</key>
+	<string>unmountedBaseline</string>
+	<key>referenceTension</key>
+	<string>shouldReplaceView</string>
+	<key>shouldDispatchTechnique</key>
+	<string>tangentAlignment</string>
+	<key>significantzone</key>
+	<string>offsetkind</string>
+</dict>
+</plist>

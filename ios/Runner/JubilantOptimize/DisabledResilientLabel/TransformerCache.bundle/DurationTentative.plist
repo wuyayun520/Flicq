@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMediaQuery</key>
+	<string>responsiveModal</string>
+	<key>intuitiveShape</key>
+	<string>entityorprototype</string>
+	<key>sequentialLoader</key>
+	<string>upgradeChannel</string>
+	<key>shouldUnmountDecoration</key>
+	<string>behaviorContrast</string>
+	<key>smallMobile</key>
+	<string>shouldtransformchecklist</string>
+	<key>standalonebrush</key>
+	<string>keepCatalyst</string>
+	<key>storeandprototype</key>
+	<string>originalTheme</string>
+	<key>storeleft</key>
+	<string>shouldCancelTouch</string>
+	<key>synchronousSplitter</key>
+	<string>pageviewBottom</string>
+	<key>unmarshallocalization</key>
+	<string>managerforcommand</string>
+</dict>
+</plist>

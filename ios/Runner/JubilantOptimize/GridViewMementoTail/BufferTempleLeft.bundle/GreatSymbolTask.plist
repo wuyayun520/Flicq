@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directQuaternion</key>
+	<string>hashForce</string>
+	<key>fixedInkWell</key>
+	<string>visibleConvolution</string>
+	<key>imperativedialogsappearance</key>
+	<string>lostChannel</string>
+	<key>locatestream</key>
+	<string>sanitizeMenu</string>
+	<key>mutablemesh</key>
+	<string>baselineMemento</string>
+	<key>resolvertop</key>
+	<string>canHandleCache</string>
+	<key>signatureKind</key>
+	<string>builderCenter</string>
+	<key>visibleBuffer</key>
+	<string>canRestartScreen</string>
+</dict>
+</plist>

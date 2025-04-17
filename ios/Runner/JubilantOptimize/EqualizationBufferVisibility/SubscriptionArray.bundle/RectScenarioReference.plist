@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationOpacity</key>
+	<string>gridtype</string>
+	<key>interactiveOperation</key>
+	<string>managerStyle</string>
+	<key>shouldEncodeIcon</key>
+	<string>clearTimer</string>
+	<key>shouldPresentMargin</key>
+	<string>isolateshape</string>
+	<key>spotAcceleration</key>
+	<string>shouldPresentGestureDetector</string>
+	<key>taskMode</key>
+	<string>checklistValidation</string>
+	<key>taskTransparency</key>
+	<string>subsequentMechanism</string>
+</dict>
+</plist>

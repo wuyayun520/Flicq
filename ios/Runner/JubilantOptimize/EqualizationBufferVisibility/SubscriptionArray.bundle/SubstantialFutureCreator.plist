@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblecallback</key>
+	<string>visibleFeature</string>
+	<key>agileQuaternion</key>
+	<string>operationVisibility</string>
+	<key>arithmeticEvent</key>
+	<string>eagerBinary</string>
+	<key>composableBuilder</key>
+	<string>lifecycleInteraction</string>
+	<key>holdvector</key>
+	<string>animatorName</string>
+	<key>largeUtil</key>
+	<string>staticNotifier</string>
+	<key>metricstop</key>
+	<string>confidentialityMode</string>
+	<key>sharedColor</key>
+	<string>delicateInitiators</string>
+	<key>storyboardCoord</key>
+	<string>createdelegate</string>
+</dict>
+</plist>

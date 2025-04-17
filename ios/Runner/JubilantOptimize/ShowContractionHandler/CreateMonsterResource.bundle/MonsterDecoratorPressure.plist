@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clusterDirection</key>
+	<string>cupertinoAlignment</string>
+	<key>consultativeLatency</key>
+	<string>currentMedia</string>
+	<key>crudeJoiner</key>
+	<string>capacityMomentum</string>
+	<key>invisibleVertex</key>
+	<string>stampInterval</string>
+	<key>mediumstrength</key>
+	<string>dropoutListener</string>
+	<key>presentercharacteristic</key>
+	<string>upgradeButton</string>
+	<key>secondElasticity</key>
+	<string>canDetachCard</string>
+	<key>shouldInflateChannels</key>
+	<string>scheduleBloc</string>
+	<key>shouldYieldTabBar</key>
+	<string>subtleFactory</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperName</key>
+	<string>completionDepth</string>
+	<key>crudeborderstyle</key>
+	<string>permissiveTriangles</string>
+	<key>cubetop</key>
+	<string>canObserveHeap</string>
+	<key>geometricNotification</key>
+	<string>pendingFuture</string>
+	<key>immediateResource</key>
+	<string>cleanSink</string>
+	<key>materialRole</key>
+	<string>decorationtag</string>
+	<key>projectionfinder</key>
+	<string>hasChannels</string>
+	<key>shouldStopVariant</key>
+	<string>columnRate</string>
+</dict>
+</plist>

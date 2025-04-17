@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bandwidthfrequency</key>
+	<string>smallLayout</string>
+	<key>catalystkind</key>
+	<string>provideInteractor</string>
+	<key>crudeRole</key>
+	<string>sophisticatedCallback</string>
+	<key>fusedContrast</key>
+	<string>layerLayer</string>
+	<key>gestureSkewX</key>
+	<string>canUpdateArithmetic</string>
+	<key>shouldContinueTabBar</key>
+	<string>synchronousreceiver</string>
+	<key>shouldemitchecklist</key>
+	<string>shouldDecodeTabBar</string>
+	<key>webChooser</key>
+	<string>drawerFormat</string>
+</dict>
+</plist>

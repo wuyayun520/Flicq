@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledlabelvalidation</key>
+	<string>interactorPattern</string>
+	<key>queueamongmemento</key>
+	<string>canTrainSwift</string>
+	<key>rectangleduration</key>
+	<string>videoName</string>
+	<key>sampleCoord</key>
+	<string>audioDensity</string>
+</dict>
+</plist>

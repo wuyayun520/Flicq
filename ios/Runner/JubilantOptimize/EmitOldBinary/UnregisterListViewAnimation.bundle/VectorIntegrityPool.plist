@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocuntilcycle</key>
+	<string>roleview</string>
+	<key>criticalreliability</key>
+	<string>custompaintSystem</string>
+	<key>globaltimeline</key>
+	<string>indicatorMomentum</string>
+	<key>mutableTriangles</key>
+	<string>basicTentative</string>
+	<key>shaderBorder</key>
+	<string>activatedIntegrity</string>
+	<key>shouldBindRemainder</key>
+	<string>desktopRenderer</string>
+	<key>shouldDisconnectNorm</key>
+	<string>crucialRectangle</string>
+	<key>significantSkin</key>
+	<string>serializeDuration</string>
+	<key>unactivatedDialogs</key>
+	<string>synchronousInfo</string>
+</dict>
+</plist>

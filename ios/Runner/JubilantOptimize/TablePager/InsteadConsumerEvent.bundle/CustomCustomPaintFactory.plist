@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptivePager</key>
+	<string>mutableThroughput</string>
+	<key>mediumbloc</key>
+	<string>animationbyparam</string>
+	<key>shouldAttachMaster</key>
+	<string>staticInteraction</string>
+	<key>shouldNavigateLogarithm</key>
+	<string>projectionInteraction</string>
+	<key>touchradius</key>
+	<string>retainedStateless</string>
+	<key>tweenpressure</key>
+	<string>listenerVar</string>
+	<key>usedExtension</key>
+	<string>sustainableWidget</string>
+	<key>vertexcenter</key>
+	<string>rebuildDialogs</string>
+	<key>visibleSample</key>
+	<string>uniqueMedia</string>
+</dict>
+</plist>

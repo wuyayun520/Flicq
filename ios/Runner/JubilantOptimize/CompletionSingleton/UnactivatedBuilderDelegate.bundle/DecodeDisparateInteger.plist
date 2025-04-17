@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>calculatelayout</key>
+	<string>petMemento</string>
+	<key>missedmodalvelocity</key>
+	<string>notifythread</string>
+	<key>numericalSpine</key>
+	<string>capsuleorientation</string>
+	<key>priorSubpixel</key>
+	<string>batchActivity</string>
+	<key>shouldSerializeGate</key>
+	<string>interfaceBottom</string>
+</dict>
+</plist>

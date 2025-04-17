@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bufferscenario</key>
+	<string>descriptionRotation</string>
+	<key>captureoffset</key>
+	<string>tickerloader</string>
+	<key>overlayBrightness</key>
+	<string>layoutSystem</string>
+	<key>reactiveGridView</key>
+	<string>formatResource</string>
+	<key>shouldYieldRow</key>
+	<string>shouldDetachShader</string>
+	<key>shouldconnectpadding</key>
+	<string>canDisposeUsage</string>
+	<key>synchronousNavigation</key>
+	<string>conformTitle</string>
+</dict>
+</plist>

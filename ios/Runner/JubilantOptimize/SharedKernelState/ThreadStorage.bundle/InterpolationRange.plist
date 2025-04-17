@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardsensorname</key>
+	<string>initializeGridView</string>
+	<key>beginnerExpanded</key>
+	<string>infrastructureKind</string>
+	<key>delegateSpacing</key>
+	<string>canShowPlayback</string>
+	<key>entropySkewY</key>
+	<string>canTransformAperture</string>
+	<key>requiredSample</key>
+	<string>resourceOpacity</string>
+	<key>scrollerorientation</key>
+	<string>uniformResponder</string>
+</dict>
+</plist>

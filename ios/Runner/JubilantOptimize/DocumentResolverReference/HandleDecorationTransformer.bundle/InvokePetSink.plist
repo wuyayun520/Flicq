@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertFrequency</key>
+	<string>beginnerShader</string>
+	<key>cycleTop</key>
+	<string>nextTangent</string>
+	<key>cyclewithoutscope</key>
+	<string>pausecolumn</string>
+	<key>graphicsaturation</key>
+	<string>timerVisibility</string>
+	<key>ignoredBinary</key>
+	<string>numericalEvolution</string>
+	<key>singleBase</key>
+	<string>observerfeedback</string>
+	<key>statelessMetrics</key>
+	<string>sorterPosition</string>
+</dict>
+</plist>

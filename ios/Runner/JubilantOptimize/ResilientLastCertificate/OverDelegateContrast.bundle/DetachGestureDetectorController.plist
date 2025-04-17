@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commontweenright</key>
+	<string>rectifyGrain</string>
+	<key>grainfunctionforce</key>
+	<string>activatedPermutation</string>
+	<key>lastGesture</key>
+	<string>canPersistSign</string>
+	<key>pivotalInfo</key>
+	<string>debugLayer</string>
+	<key>prismaticStore</key>
+	<string>tweenSize</string>
+	<key>shouldEmitTechnique</key>
+	<string>nodeTop</string>
+</dict>
+</plist>

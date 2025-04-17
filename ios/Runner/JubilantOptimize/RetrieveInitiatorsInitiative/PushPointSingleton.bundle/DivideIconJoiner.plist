@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeKernel</key>
+	<string>fetchUsage</string>
+	<key>dependencySpeed</key>
+	<string>texttransparency</string>
+	<key>difficultTechnique</key>
+	<string>permissiveRole</string>
+	<key>heapasmethod</key>
+	<string>opaqueSink</string>
+	<key>interpolationMargin</key>
+	<string>finishPlate</string>
+	<key>newestvariantscale</key>
+	<string>processService</string>
+	<key>permutationSpeed</key>
+	<string>directTween</string>
+	<key>shouldInitializeHero</key>
+	<string>cartesianController</string>
+	<key>statelessSchema</key>
+	<string>subtleRequest</string>
+</dict>
+</plist>

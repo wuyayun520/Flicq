@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationSaturation</key>
+	<string>uniformBuffer</string>
+	<key>equipmentStatus</key>
+	<string>tensorImage</string>
+	<key>shouldRenderSegment</key>
+	<string>canRestartProfile</string>
+	<key>singletonVelocity</key>
+	<string>promiseLayer</string>
+	<key>sortedCheckbox</key>
+	<string>onmomentumchanged</string>
+	<key>tappableThread</key>
+	<string>rotateFeature</string>
+	<key>webAllocator</key>
+	<string>enabledStateful</string>
+	<key>wrapperTint</key>
+	<string>scrollableGraph</string>
+</dict>
+</plist>

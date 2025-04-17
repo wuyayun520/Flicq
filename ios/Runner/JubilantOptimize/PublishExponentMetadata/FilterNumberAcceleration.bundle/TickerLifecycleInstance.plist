@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedAspect</key>
+	<string>persistCapacities</string>
+	<key>greatButton</key>
+	<string>consumptionSkewX</string>
+	<key>rectTension</key>
+	<string>mountedTouch</string>
+	<key>setstateinterface</key>
+	<string>shouldResumeSubpixel</string>
+</dict>
+</plist>

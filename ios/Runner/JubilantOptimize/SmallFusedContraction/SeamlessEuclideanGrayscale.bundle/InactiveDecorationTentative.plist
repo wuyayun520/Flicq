@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionPermutation</key>
+	<string>priorGrayscale</string>
+	<key>animatedcontainerContrast</key>
+	<string>keepDescriptor</string>
+	<key>boxshadowResponse</key>
+	<string>imperativePet</string>
+	<key>composableAlpha</key>
+	<string>hashEdge</string>
+	<key>deflatestate</key>
+	<string>stateDensity</string>
+	<key>greatSignature</key>
+	<string>requiredAnimation</string>
+	<key>objectShade</key>
+	<string>canPushDelegate</string>
+	<key>screenDensity</key>
+	<string>standaloneOverlay</string>
+	<key>shouldCacheGrayscale</key>
+	<string>typicalMission</string>
+	<key>vectorStyle</key>
+	<string>scrollFramework</string>
+</dict>
+</plist>

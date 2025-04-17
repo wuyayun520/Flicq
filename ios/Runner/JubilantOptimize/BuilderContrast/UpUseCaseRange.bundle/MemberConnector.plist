@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredQueue</key>
+	<string>shouldpresentcupertino</string>
+	<key>restrictionbound</key>
+	<string>ignoredVector</string>
+	<key>spineKind</key>
+	<string>canBindCanvas</string>
+	<key>standaloneAction</key>
+	<string>canTransitionBrush</string>
+</dict>
+</plist>

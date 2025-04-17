@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableMargin</key>
+	<string>presentTouch</string>
+	<key>declarativeDuration</key>
+	<string>semanticsbound</string>
+	<key>draggableBullet</key>
+	<string>persistPageView</string>
+	<key>marginValidation</key>
+	<string>workflowSingleton</string>
+	<key>paintresult</key>
+	<string>masteractivityappearance</string>
+	<key>shouldSkipIcon</key>
+	<string>iterativeTransition</string>
+	<key>sustainableProject</key>
+	<string>shouldYieldHero</string>
+</dict>
+</plist>

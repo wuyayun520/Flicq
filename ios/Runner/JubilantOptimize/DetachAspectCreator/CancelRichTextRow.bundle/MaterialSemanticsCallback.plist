@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>injectioninteraction</key>
+	<string>inactiveAnalyzer</string>
+	<key>onthemechanged</key>
+	<string>lostDescription</string>
+	<key>parallelResponder</key>
+	<string>alignmentamongshape</string>
+	<key>symmetricTask</key>
+	<string>optimizerOperation</string>
+</dict>
+</plist>

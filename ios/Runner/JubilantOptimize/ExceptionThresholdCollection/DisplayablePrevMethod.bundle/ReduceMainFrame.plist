@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticprovision</key>
+	<string>shouldDisconnectSpot</string>
+	<key>callbackFrequency</key>
+	<string>evaluatereduction</string>
+	<key>consultativeLoader</key>
+	<string>shouldTransformReduction</string>
+	<key>deferredFragment</key>
+	<string>requiredMovement</string>
+	<key>elasticityCoord</key>
+	<string>handlerFunction</string>
+	<key>explicitDelegate</key>
+	<string>shouldDispatchIndicator</string>
+	<key>insteadanimation</key>
+	<string>colorOffset</string>
+	<key>routeloss</key>
+	<string>singleRemainder</string>
+	<key>shouldreplacesubpixel</key>
+	<string>factoryDistance</string>
+	<key>skirtRate</key>
+	<string>undertakeinteger</string>
+</dict>
+</plist>

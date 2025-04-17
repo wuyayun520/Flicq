@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicGraph</key>
+	<string>canSaveLogarithm</string>
+	<key>futureinset</key>
+	<string>canPopTouch</string>
+	<key>iterativeanimation</key>
+	<string>challengeinteraction</string>
+	<key>methodPadding</key>
+	<string>dispatchStoryboard</string>
+	<key>slashInterval</key>
+	<string>otherchartskewy</string>
+	<key>temporaryBinder</key>
+	<string>customCard</string>
+</dict>
+</plist>

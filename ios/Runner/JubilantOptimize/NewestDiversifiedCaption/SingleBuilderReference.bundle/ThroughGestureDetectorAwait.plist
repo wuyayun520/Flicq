@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistInteraction</key>
+	<string>handlershapeorigin</string>
+	<key>dimensioncount</key>
+	<string>scrollableScene</string>
+	<key>immutableShape</key>
+	<string>loaderRotation</string>
+	<key>intermediateEvaluation</key>
+	<string>spinePadding</string>
+	<key>shouldFinishConsumer</key>
+	<string>navigatesink</string>
+	<key>shouldSaveInitiators</key>
+	<string>selectedpromise</string>
+	<key>textfieldcolor</key>
+	<string>directlyAlignment</string>
+	<key>webCard</key>
+	<string>lastTask</string>
+</dict>
+</plist>

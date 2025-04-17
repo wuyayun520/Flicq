@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultMend</key>
+	<string>routerow</string>
+	<key>intensitytint</key>
+	<string>similarScheduler</string>
+	<key>litePlate</key>
+	<string>permutationVisibility</string>
+	<key>mutableSorter</key>
+	<string>semanticStateless</string>
+	<key>opaqueTextField</key>
+	<string>injectCurve</string>
+	<key>receiverDelay</key>
+	<string>signatureTheme</string>
+	<key>roleInteraction</key>
+	<string>unmountCaption</string>
+	<key>uniqueCallback</key>
+	<string>activatedBorder</string>
+</dict>
+</plist>

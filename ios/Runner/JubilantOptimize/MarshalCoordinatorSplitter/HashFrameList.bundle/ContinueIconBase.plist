@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicBound</key>
+	<string>cupertinothreshold</string>
+	<key>difficultZone</key>
+	<string>actionCoord</string>
+	<key>profilesession</key>
+	<string>tangentuntillevel</string>
+	<key>shouldConnectSpine</key>
+	<string>indicatorstrategyinteraction</string>
+	<key>shouldEmitHeap</key>
+	<string>contractionworkduration</string>
+	<key>shouldsetstategift</key>
+	<string>connectBinary</string>
+	<key>techniquehandler</key>
+	<string>eagerIntegration</string>
+</dict>
+</plist>

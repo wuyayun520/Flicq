@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoScroll</key>
+	<string>layercount</string>
+	<key>completerRotation</key>
+	<string>canSetStateCollection</string>
+	<key>localMapper</key>
+	<string>monsterStatus</string>
+	<key>publiccompletioninteraction</key>
+	<string>shouldRouteProfile</string>
+	<key>pushproject</key>
+	<string>canHandleComposition</string>
+	<key>shouldProcessRow</key>
+	<string>substantialTimer</string>
+	<key>significantResolver</key>
+	<string>largeEvent</string>
+	<key>stateoutsidetemple</key>
+	<string>bindBase</string>
+</dict>
+</plist>

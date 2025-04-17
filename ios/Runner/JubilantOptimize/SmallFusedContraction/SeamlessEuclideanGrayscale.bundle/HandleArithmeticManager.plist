@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSemantics</key>
+	<string>typicalDecoration</string>
+	<key>moduleInterval</key>
+	<string>substantialDuration</string>
+	<key>publicDuration</key>
+	<string>canConnectUnary</string>
+	<key>scenarioDepth</key>
+	<string>updatenode</string>
+	<key>spriteKind</key>
+	<string>arithmeticNavigator</string>
+</dict>
+</plist>

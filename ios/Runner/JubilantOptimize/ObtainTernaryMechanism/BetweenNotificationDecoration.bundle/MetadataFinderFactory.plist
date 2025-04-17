@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedlabelvalidation</key>
+	<string>exponentvalidation</string>
+	<key>autoProcessor</key>
+	<string>canInitializeSwitch</string>
+	<key>confidentialityFeedback</key>
+	<string>unbindBatch</string>
+	<key>hasContainer</key>
+	<string>gateMediator</string>
+	<key>hashSaturation</key>
+	<string>unscheduleGrain</string>
+	<key>immediateTrajectory</key>
+	<string>activeButton</string>
+	<key>immutableSensor</key>
+	<string>explicitDistinction</string>
+	<key>managerscale</key>
+	<string>smartCertificate</string>
+	<key>opaqueBaseline</key>
+	<string>coordinatorelement</string>
+</dict>
+</plist>

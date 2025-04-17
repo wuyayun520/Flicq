@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>declarativeNotation</key>
+	<string>alphaContext</string>
+	<key>detachfuture</key>
+	<string>lostResource</string>
+	<key>immutableRemainder</key>
+	<string>dynamicAnimation</string>
+	<key>independentCycle</key>
+	<string>concreteEfficiency</string>
+	<key>mutableCertificate</key>
+	<string>fetchGate</string>
+	<key>resilientNib</key>
+	<string>reusableNotifier</string>
+	<key>routecache</key>
+	<string>canAnimateAspectRatio</string>
+	<key>shouldendlayout</key>
+	<string>lazyAccessory</string>
+	<key>touchshapedelay</key>
+	<string>accordionLinker</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerBorder</key>
+	<string>selectedstream</string>
+	<key>chartexceptobserver</key>
+	<string>progressbarSize</string>
+	<key>ephemeralTask</key>
+	<string>fusedGrain</string>
+	<key>layoutVisibility</key>
+	<string>stopProfile</string>
+	<key>paddingPosition</key>
+	<string>specifyBase</string>
+	<key>poplayer</key>
+	<string>defaultusage</string>
+	<key>prevStrength</key>
+	<string>reliabilityResponse</string>
+	<key>shouldFormatThread</key>
+	<string>controllerVisible</string>
+</dict>
+</plist>

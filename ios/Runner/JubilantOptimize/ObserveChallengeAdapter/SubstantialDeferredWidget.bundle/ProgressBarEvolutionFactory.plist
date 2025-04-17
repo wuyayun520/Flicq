@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleSearcher</key>
+	<string>canDetachProvider</string>
+	<key>menuresponse</key>
+	<string>subscribeMargin</string>
+	<key>permissivePolyfill</key>
+	<string>embedController</string>
+	<key>searcherOffset</key>
+	<string>binaryvisible</string>
+	<key>servicelistener</key>
+	<string>materialZone</string>
+	<key>statefulnotifierstate</key>
+	<string>symmetricController</string>
+	<key>subsequentpreviewtint</key>
+	<string>responderCoord</string>
+	<key>toolspacing</key>
+	<string>architectureVisibility</string>
+	<key>unmountedframe</key>
+	<string>subsequentProvider</string>
+</dict>
+</plist>

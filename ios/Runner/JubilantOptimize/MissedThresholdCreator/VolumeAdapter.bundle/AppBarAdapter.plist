@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineRate</key>
+	<string>actionVisible</string>
+	<key>cartesianButton</key>
+	<string>durationscopeforce</string>
+	<key>parallelnodetheme</key>
+	<string>canFinishComposition</string>
+	<key>shouldShowMission</key>
+	<string>moveusage</string>
+	<key>staticdimensionstyle</key>
+	<string>toolOrigin</string>
+	<key>symmetricVertex</key>
+	<string>shouldCreateRoute</string>
+	<key>usageOrientation</key>
+	<string>rowTask</string>
+</dict>
+</plist>

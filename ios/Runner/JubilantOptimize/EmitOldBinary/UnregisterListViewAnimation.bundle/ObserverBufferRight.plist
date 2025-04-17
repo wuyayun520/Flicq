@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerObject</key>
+	<string>widgetAppearance</string>
+	<key>futureIndex</key>
+	<string>tangentnumbertype</string>
+	<key>iterativeDropdownButton</key>
+	<string>deserializeQueue</string>
+	<key>shouldHandleTabView</key>
+	<string>appbarInterval</string>
+	<key>shouldSerializeProfile</key>
+	<string>relationalStoryboard</string>
+	<key>unbindmodal</key>
+	<string>stopOverlay</string>
+</dict>
+</plist>

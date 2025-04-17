@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitycontrast</key>
+	<string>pendingInterpolation</string>
+	<key>persistentRemainder</key>
+	<string>coordinatorright</string>
+	<key>pushcustompaint</key>
+	<string>radiusFeedback</string>
+	<key>shouldPaintBloc</key>
+	<string>cacheNorm</string>
+	<key>ternaryShape</key>
+	<string>shouldCancelAlpha</string>
+</dict>
+</plist>

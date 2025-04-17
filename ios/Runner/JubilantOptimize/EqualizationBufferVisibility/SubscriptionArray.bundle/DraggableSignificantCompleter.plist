@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerShape</key>
+	<string>mountCycle</string>
+	<key>completerdespitestrategy</key>
+	<string>tweenSingleton</string>
+	<key>greatgraphic</key>
+	<string>semanticTentative</string>
+	<key>masterrow</key>
+	<string>taskrotation</string>
+	<key>radiobehavior</key>
+	<string>rendererForce</string>
+	<key>sequentialWidget</key>
+	<string>statefulposition</string>
+</dict>
+</plist>

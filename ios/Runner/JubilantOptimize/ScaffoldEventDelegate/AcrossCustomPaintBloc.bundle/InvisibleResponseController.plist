@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonMatrix</key>
+	<string>visibleSprite</string>
+	<key>functionalPopup</key>
+	<string>dropdownbuttonofobserver</string>
+	<key>layeractivitybrightness</key>
+	<string>firstPopup</string>
+	<key>layoutmomentum</key>
+	<string>initiatorsTag</string>
+	<key>missedTexture</key>
+	<string>listenerMethod</string>
+	<key>shouldBindTouch</key>
+	<string>requiredCompletion</string>
+	<key>shouldPauseHistogram</key>
+	<string>shouldMountedExponent</string>
+	<key>shouldRouteOverlay</key>
+	<string>imperativeBloc</string>
+	<key>visiblePicker</key>
+	<string>shouldNavigatePromise</string>
+</dict>
+</plist>

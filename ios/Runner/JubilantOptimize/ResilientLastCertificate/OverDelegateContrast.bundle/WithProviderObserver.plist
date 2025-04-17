@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardlevelalignment</key>
+	<string>anchorTier</string>
+	<key>consultativeDimension</key>
+	<string>canDismissCheckbox</string>
+	<key>criticalTicker</key>
+	<string>notifyconfiguration</string>
+	<key>draggableDropdownButton</key>
+	<string>usedBinary</string>
+	<key>isInkWell</key>
+	<string>bitrateloop</string>
+	<key>permanentRequest</key>
+	<string>agileMission</string>
+	<key>priorityBrightness</key>
+	<string>liteGestureDetector</string>
+	<key>resilientdelegatedensity</key>
+	<string>trajectoryCoord</string>
+	<key>singleReference</key>
+	<string>displayabletweenvisible</string>
+	<key>webScaffold</key>
+	<string>interactiveMaterial</string>
+</dict>
+</plist>

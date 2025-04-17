@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gemName</key>
+	<string>canEndFuture</string>
+	<key>groupBehavior</key>
+	<string>spinSingleton</string>
+	<key>lockrepository</key>
+	<string>binaryradius</string>
+	<key>mediumSound</key>
+	<string>descriptionLevel</string>
+	<key>newestCache</key>
+	<string>subscriptionInset</string>
+	<key>processorAppearance</key>
+	<string>asyncInset</string>
+	<key>reactiveInteraction</key>
+	<string>registerMethod</string>
+	<key>robustresourceleft</key>
+	<string>canStopDelegate</string>
+	<key>storageedge</key>
+	<string>onsampletap</string>
+</dict>
+</plist>

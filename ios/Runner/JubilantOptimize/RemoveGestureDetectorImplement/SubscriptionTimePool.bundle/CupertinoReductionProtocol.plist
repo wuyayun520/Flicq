@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeSorter</key>
+	<string>subtleDialogs</string>
+	<key>cubeatstyle</key>
+	<string>interpolateSprite</string>
+	<key>mediocrePreview</key>
+	<string>subtleelasticity</string>
+	<key>particleVelocity</key>
+	<string>replacepainter</string>
+	<key>presentmission</key>
+	<string>deserializeInjection</string>
+	<key>prevEfficiency</key>
+	<string>difficultTool</string>
+	<key>timelineSize</key>
+	<string>localizationproxyopacity</string>
+</dict>
+</plist>

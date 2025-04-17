@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bloclikestyle</key>
+	<string>documentObserver</string>
+	<key>consumeraroundaction</key>
+	<string>refreshService</string>
+	<key>multiplicationinsideenvironment</key>
+	<string>multiplicationVelocity</string>
+	<key>sessionhead</key>
+	<string>shouldSaveCaption</string>
+	<key>textcompositestyle</key>
+	<string>firstZone</string>
+	<key>utiltaskcount</key>
+	<string>cardShape</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRemainder</key>
+	<string>grayscaleProcess</string>
+	<key>fixedgesturedetector</key>
+	<string>aspectratioMode</string>
+	<key>ongraphicchanged</key>
+	<string>accessoryPosition</string>
+	<key>seamlessProcessor</key>
+	<string>sanitizeReducer</string>
+	<key>significantResult</key>
+	<string>graphicCommand</string>
+	<key>typicalState</key>
+	<string>entropyLeft</string>
+</dict>
+</plist>

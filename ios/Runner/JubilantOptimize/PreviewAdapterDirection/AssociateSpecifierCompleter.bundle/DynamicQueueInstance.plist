@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alertdelay</key>
+	<string>rectangleduration</string>
+	<key>chartcolor</key>
+	<string>awaitRight</string>
+	<key>compositionalBatch</key>
+	<string>standaloneResilience</string>
+	<key>currentDependency</key>
+	<string>explicitData</string>
+	<key>functionalDecoration</key>
+	<string>modelstyle</string>
+	<key>liteBox</key>
+	<string>smartError</string>
+	<key>provisionHue</key>
+	<string>actionsound</string>
+	<key>sorterstatus</key>
+	<string>marginCount</string>
+</dict>
+</plist>

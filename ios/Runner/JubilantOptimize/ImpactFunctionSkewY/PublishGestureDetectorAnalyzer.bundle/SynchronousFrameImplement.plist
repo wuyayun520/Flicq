@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cacheFlags</key>
+	<string>normTop</string>
+	<key>cubitorientation</key>
+	<string>annotateTween</string>
+	<key>ephemeralConstraint</key>
+	<string>onprojectionchanged</string>
+	<key>explicitwidgetleft</key>
+	<string>animateBorder</string>
+	<key>layerVisibility</key>
+	<string>resilientAlert</string>
+	<key>similarTimer</key>
+	<string>shouldDismissNorm</string>
+	<key>sophisticatedOperation</key>
+	<string>shouldStreamPainter</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonUseCase</key>
+	<string>activeGesture</string>
+	<key>crucialResult</key>
+	<string>buttonspeed</string>
+	<key>disablednotation</key>
+	<string>intuitiveSubscriber</string>
+	<key>featureMomentum</key>
+	<string>endCollection</string>
+	<key>prevChannels</key>
+	<string>navigateMember</string>
+	<key>selectedinstruction</key>
+	<string>localCallback</string>
+	<key>startscene</key>
+	<string>canLoadAnimation</string>
+	<key>subscriberacceleration</key>
+	<string>progressbarforce</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>originalTweak</key>
+	<string>shouldDisconnectModulus</string>
+	<key>shouldEmitCapsule</key>
+	<string>sequentialPresenter</string>
+	<key>shouldresumeaspect</key>
+	<string>deferredindicatoralignment</string>
+	<key>synchronousModulus</key>
+	<string>anchorSystem</string>
+	<key>toleranceBehavior</key>
+	<string>characterShape</string>
+</dict>
+</plist>

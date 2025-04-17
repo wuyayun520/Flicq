@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentMomentum</key>
+	<string>convertinteractor</string>
+	<key>compositionalSample</key>
+	<string>nodeIndex</string>
+	<key>diffableTriangles</key>
+	<string>resourceBridge</string>
+	<key>mobileRectangle</key>
+	<string>timerBorder</string>
+	<key>priorAwait</key>
+	<string>meshFormat</string>
+	<key>protectedModel</key>
+	<string>canPublishTool</string>
+	<key>sequentialGroup</key>
+	<string>itemKind</string>
+	<key>shouldUnmountNotification</key>
+	<string>injectRepository</string>
+	<key>throughputkind</key>
+	<string>hierarchicalJoiner</string>
+</dict>
+</plist>

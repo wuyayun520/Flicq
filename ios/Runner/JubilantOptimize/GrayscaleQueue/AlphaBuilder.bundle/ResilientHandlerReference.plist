@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicEqualization</key>
+	<string>singleGate</string>
+	<key>currentjoiner</key>
+	<string>loadrouter</string>
+	<key>customMaterializer</key>
+	<string>shouldEndFuture</string>
+	<key>hardShape</key>
+	<string>associatedShader</string>
+	<key>nativeDistinction</key>
+	<string>prevBehavior</string>
+	<key>nodetheme</key>
+	<string>errorMode</string>
+	<key>sophisticatedAspect</key>
+	<string>skipchannels</string>
+	<key>symmetricLoop</key>
+	<string>sizeBorder</string>
+	<key>tensorComponent</key>
+	<string>savebuffer</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyBehavior</key>
+	<string>significantService</string>
+	<key>priorChannel</key>
+	<string>herotype</string>
+	<key>shouldHandleGate</key>
+	<string>canBuildClipper</string>
+	<key>shouldPresentConstraint</key>
+	<string>loadSegue</string>
+	<key>specifierForce</key>
+	<string>publisheroffset</string>
+	<key>spritetheme</key>
+	<string>saveChannels</string>
+	<key>texturevisible</key>
+	<string>descriptionInterval</string>
+</dict>
+</plist>

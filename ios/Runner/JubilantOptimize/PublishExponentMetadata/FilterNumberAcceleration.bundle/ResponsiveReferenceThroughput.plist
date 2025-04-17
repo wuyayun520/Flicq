@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customBuilder</key>
+	<string>escalateBuffer</string>
+	<key>descriptorFormat</key>
+	<string>shouldHandleRemainder</string>
+	<key>firstdisclaimer</key>
+	<string>geometricReplica</string>
+	<key>mediumDetector</key>
+	<string>singletonVelocity</string>
+	<key>segueLeft</key>
+	<string>brushPlatform</string>
+	<key>shouldAttachInstruction</key>
+	<string>difficultoffsetformat</string>
+</dict>
+</plist>

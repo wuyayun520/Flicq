@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>geometricIndicator</key>
+	<string>videoMode</string>
+	<key>grainTint</key>
+	<string>adaptivefactory</string>
+	<key>joinerStatus</key>
+	<string>replaceSkirt</string>
+	<key>logRight</key>
+	<string>keepCustomPaint</string>
+	<key>projectionContrast</key>
+	<string>addmethod</string>
+	<key>seamlessThreshold</key>
+	<string>publisherforce</string>
+	<key>shouldSerializeText</key>
+	<string>associatedLabel</string>
+</dict>
+</plist>

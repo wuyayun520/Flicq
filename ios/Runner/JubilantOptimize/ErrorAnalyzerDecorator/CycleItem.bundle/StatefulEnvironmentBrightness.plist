@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionInitiators</key>
+	<string>columnState</string>
+	<key>architecturemode</key>
+	<string>awaitBorder</string>
+	<key>iterativeEquivalent</key>
+	<string>firstSwift</string>
+	<key>permanentShader</key>
+	<string>temporaryMission</string>
+	<key>pivotalMediaQuery</key>
+	<string>tabviewdependency</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalpopupacceleration</key>
+	<string>gradientplatformposition</string>
+	<key>groupDirection</key>
+	<string>shouldTransitionView</string>
+	<key>normcallback</key>
+	<string>backwardListener</string>
+	<key>priorityFlags</key>
+	<string>robustAudio</string>
+	<key>rebuildtransition</key>
+	<string>compositionalRichText</string>
+	<key>shouldUnmountedPromise</key>
+	<string>detachbehavior</string>
+	<key>shouldUpdateEqualization</key>
+	<string>canListenPainter</string>
+	<key>tappablebinder</key>
+	<string>inheritedMonster</string>
+	<key>vectorCenter</key>
+	<string>containerflags</string>
+</dict>
+</plist>

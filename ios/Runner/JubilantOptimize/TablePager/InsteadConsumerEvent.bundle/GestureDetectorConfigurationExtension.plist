@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customRichText</key>
+	<string>aggregateTransition</string>
+	<key>fetchgesture</key>
+	<string>beginnerListView</string>
+	<key>mediaDuration</key>
+	<string>diffableInformation</string>
+	<key>prevFilter</key>
+	<string>shouldFinishSign</string>
+	<key>shouldObservePromise</key>
+	<string>framedecoratorspeed</string>
+	<key>switchFormat</key>
+	<string>priorityDecorator</string>
+</dict>
+</plist>

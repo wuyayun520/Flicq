@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleElement</key>
+	<string>catalystActivity</string>
+	<key>lastDialogs</key>
+	<string>thresholdKind</string>
+	<key>prevSegue</key>
+	<string>unsortedDispatcher</string>
+	<key>slidermethodtype</key>
+	<string>modalValidation</string>
+	<key>techniqueState</key>
+	<string>multiplyMetadata</string>
+</dict>
+</plist>

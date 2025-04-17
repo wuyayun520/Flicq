@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedManager</key>
+	<string>robustNavigator</string>
+	<key>injectionstagetop</key>
+	<string>canProcessOperation</string>
+	<key>mobileBaseline</key>
+	<string>inactiveCubit</string>
+	<key>previewValidation</key>
+	<string>durationthannumber</string>
+	<key>previewstatus</key>
+	<string>shouldEndOperation</string>
+	<key>reusableInfo</key>
+	<string>drawSubscription</string>
+	<key>shouldRouteKernel</key>
+	<string>slashTint</string>
+	<key>substantialException</key>
+	<string>composableFilter</string>
+	<key>transformerDuration</key>
+	<string>uniformcupertinoinset</string>
+</dict>
+</plist>

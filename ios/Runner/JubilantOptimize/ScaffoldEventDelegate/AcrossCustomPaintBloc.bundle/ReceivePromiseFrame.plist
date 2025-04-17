@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonvisible</key>
+	<string>intermediateStoryboard</string>
+	<key>ephemeraldecoration</key>
+	<string>shouldPopMaster</string>
+	<key>hyperbolicState</key>
+	<string>hashHead</string>
+	<key>normVisible</key>
+	<string>shouldPersistFragment</string>
+	<key>sustainablePadding</key>
+	<string>concurrentStrength</string>
+	<key>unsortedMaster</key>
+	<string>canContinueOperation</string>
+</dict>
+</plist>

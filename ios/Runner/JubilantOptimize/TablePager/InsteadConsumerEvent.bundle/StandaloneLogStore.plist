@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentcapacity</key>
+	<string>invisibleTable</string>
+	<key>boxagainstfunction</key>
+	<string>adjustNavigator</string>
+	<key>granularThread</key>
+	<string>emitmatrix</string>
+	<key>gridInteraction</key>
+	<string>activeChecklist</string>
+	<key>intermediateRadius</key>
+	<string>selectedPromise</string>
+	<key>keyHero</key>
+	<string>nibParameter</string>
+	<key>protectedGraph</key>
+	<string>animationresponse</string>
+	<key>subtleConverter</key>
+	<string>processTabView</string>
+	<key>temporaryradius</key>
+	<string>cacheMediaQuery</string>
+</dict>
+</plist>

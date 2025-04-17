@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionBottom</key>
+	<string>canYieldCaption</string>
+	<key>animatorMode</key>
+	<string>symmetricAlpha</string>
+	<key>concurrentTabView</key>
+	<string>sortedLoader</string>
+	<key>currentRestriction</key>
+	<string>iconMemento</string>
+	<key>explicitStack</key>
+	<string>inheritedboxshadow</string>
+	<key>streamstroke</key>
+	<string>eventdirection</string>
+	<key>textamortization</key>
+	<string>movementOrientation</string>
+	<key>textfieldTail</key>
+	<string>chartState</string>
+	<key>tweenofcycle</key>
+	<string>usedObserver</string>
+</dict>
+</plist>

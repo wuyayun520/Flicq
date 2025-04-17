@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>routerdespitevisitor</key>
+	<string>controlleroffset</string>
+	<key>shouldListenExtension</key>
+	<string>intermediateListView</string>
+	<key>stampTransparency</key>
+	<string>trainview</string>
+</dict>
+</plist>

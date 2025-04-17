@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativePoint</key>
+	<string>routerrotation</string>
+	<key>grainAppearance</key>
+	<string>robustCurve</string>
+	<key>intuitiveFilter</key>
+	<string>canConnectMonster</string>
+	<key>multiSizedBox</key>
+	<string>exceptionScale</string>
+	<key>shouldInitializeProject</key>
+	<string>beginnerInformation</string>
+</dict>
+</plist>

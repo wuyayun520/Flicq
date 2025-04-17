@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>featureMode</key>
+	<string>detachCapsule</string>
+	<key>imperativeeventorientation</key>
+	<string>crudeOffset</string>
+	<key>listenerAppearance</key>
+	<string>characterDistance</string>
+	<key>permanentFragments</key>
+	<string>dropoutLayer</string>
+	<key>primaryIntensity</key>
+	<string>euclideanRestriction</string>
+	<key>responsiveEquipment</key>
+	<string>mountedTechnique</string>
+</dict>
+</plist>

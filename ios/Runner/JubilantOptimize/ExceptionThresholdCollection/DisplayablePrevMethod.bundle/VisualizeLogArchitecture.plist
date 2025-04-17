@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveuntilmemento</key>
+	<string>crudeController</string>
+	<key>firstPlayback</key>
+	<string>apertureCoord</string>
+	<key>graphnumbermode</key>
+	<string>denseEfficiency</string>
+	<key>newestallocator</key>
+	<string>enabledSizedBox</string>
+</dict>
+</plist>

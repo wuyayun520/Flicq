@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeSink</key>
+	<string>canProcessView</string>
+	<key>adaptiveChart</key>
+	<string>cellaroundproxy</string>
+	<key>directlyText</key>
+	<string>unsortedIsolate</string>
+	<key>pivotaltransformer</key>
+	<string>graphictierpadding</string>
+	<key>shouldEmitGradient</key>
+	<string>elasticAlignment</string>
+	<key>shouldHandleScreen</key>
+	<string>shouldserializeshader</string>
+	<key>usedEntropy</key>
+	<string>shouldHandleFragment</string>
+</dict>
+</plist>

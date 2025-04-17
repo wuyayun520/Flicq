@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPoint</key>
+	<string>remainderRight</string>
+	<key>dispatcherName</key>
+	<string>endDocument</string>
+	<key>equivalentFrequency</key>
+	<string>popupBottom</string>
+	<key>gradientIndex</key>
+	<string>listenerKind</string>
+	<key>keepcapacities</key>
+	<string>canInitializeCycle</string>
+	<key>pushmethod</key>
+	<string>signatureColor</string>
+</dict>
+</plist>

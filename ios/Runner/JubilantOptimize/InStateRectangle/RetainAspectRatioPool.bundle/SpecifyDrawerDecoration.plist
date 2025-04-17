@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarreceiver</key>
+	<string>publishnib</string>
+	<key>permissiveContrast</key>
+	<string>tabbarBridge</string>
+	<key>shouldResumeCell</key>
+	<string>navigationCount</string>
+	<key>significantintegration</key>
+	<string>animatorright</string>
+	<key>sophisticatedtransition</key>
+	<string>restoreMenu</string>
+	<key>tabbardespiteprototype</key>
+	<string>combinefeature</string>
+</dict>
+</plist>

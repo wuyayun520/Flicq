@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>iterativeKernel</key>
+	<string>constantTop</string>
+	<key>missedAudio</key>
+	<string>bandwidthCoord</string>
+	<key>missedSpine</key>
+	<string>logarithmBorder</string>
+	<key>remaindervisible</key>
+	<string>spinError</string>
+	<key>resizableDropdownButton</key>
+	<string>canEncodeNavigation</string>
+	<key>selectedmedia</key>
+	<string>permanentChapter</string>
+	<key>shouldDismissGradient</key>
+	<string>specifyLabel</string>
+</dict>
+</plist>

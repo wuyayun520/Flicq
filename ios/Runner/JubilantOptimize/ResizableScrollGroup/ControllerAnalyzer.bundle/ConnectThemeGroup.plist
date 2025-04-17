@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAppearance</key>
+	<string>resiliencePressure</string>
+	<key>desktopCallback</key>
+	<string>smallGraphic</string>
+	<key>lazyTrigger</key>
+	<string>completedRadio</string>
+	<key>permanentslidervisible</key>
+	<string>rectifyMenu</string>
+	<key>responseBorder</key>
+	<string>diversifiedTask</string>
+	<key>statelessGridView</key>
+	<string>binaryCenter</string>
+</dict>
+</plist>

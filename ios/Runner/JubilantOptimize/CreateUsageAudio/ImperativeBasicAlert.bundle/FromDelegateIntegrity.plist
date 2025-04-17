@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dropdownbuttonfromparameter</key>
+	<string>factoryLayer</string>
+	<key>dynamicFilter</key>
+	<string>checkboxstyle</string>
+	<key>exceptioninstrategy</key>
+	<string>prevCallback</string>
+	<key>permanentallocator</key>
+	<string>concurrentScope</string>
+	<key>resilientInformation</key>
+	<string>labelAdapter</string>
+	<key>shouldNavigateObserver</key>
+	<string>impactdepth</string>
+	<key>shouldStartLog</key>
+	<string>protocolsorter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>graphtype</key>
+	<string>shouldnavigateexpanded</string>
+	<key>greatInteractor</key>
+	<string>canEmitEntropy</string>
+	<key>integerScale</key>
+	<string>activatedDropdownButton</string>
+	<key>shouldHandlePageView</key>
+	<string>shouldRenderMusic</string>
+	<key>singleVolume</key>
+	<string>sharedternarykind</string>
+	<key>tasktrigger</key>
+	<string>greatPlate</string>
+	<key>uniqueModal</key>
+	<string>shouldFinishExpanded</string>
+</dict>
+</plist>

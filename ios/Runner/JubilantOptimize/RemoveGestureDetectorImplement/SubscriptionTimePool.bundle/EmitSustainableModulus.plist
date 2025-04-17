@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedStorage</key>
+	<string>canListenSwitch</string>
+	<key>asynchronousStroke</key>
+	<string>layoutUsage</string>
+	<key>initializemedia</key>
+	<string>localanimatedcontainer</string>
+	<key>integrationState</key>
+	<string>dispatchstore</string>
+	<key>liteCapacities</key>
+	<string>canUnmountedChannels</string>
+	<key>shouldInitializeAppBar</key>
+	<string>metadataBehavior</string>
+	<key>tappableTitle</key>
+	<string>drawDelegate</string>
+	<key>unactivatedgiftopacity</key>
+	<string>floatEntity</string>
+</dict>
+</plist>

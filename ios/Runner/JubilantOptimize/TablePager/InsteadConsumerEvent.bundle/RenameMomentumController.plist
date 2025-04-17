@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisborder</key>
+	<string>showLocalization</string>
+	<key>firstAsync</key>
+	<string>cartesianLifecycle</string>
+	<key>mobileBrush</key>
+	<string>activateProgressBar</string>
+	<key>niboffset</key>
+	<string>syncView</string>
+	<key>otherInterface</key>
+	<string>deployindicator</string>
+	<key>sinePadding</key>
+	<string>diversifiedBullet</string>
+	<key>taskawaycycle</key>
+	<string>euclideanVolume</string>
+	<key>widgetawaycycle</key>
+	<string>textureFacade</string>
+</dict>
+</plist>

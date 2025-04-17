@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnersensormargin</key>
+	<string>rowKind</string>
+	<key>buttonconfiguration</key>
+	<string>showslash</string>
+	<key>channelspublisher</key>
+	<string>directUseCase</string>
+	<key>declarativeVertex</key>
+	<string>canFinishSkirt</string>
+	<key>mediaName</key>
+	<string>requiredAnimator</string>
+	<key>polyfillBrightness</key>
+	<string>canLoadModulus</string>
+	<key>sequentialException</key>
+	<string>shouldSerializeSpot</string>
+	<key>shouldTrainPainter</key>
+	<string>concreteAnimator</string>
+	<key>tappableUseCase</key>
+	<string>hasSegment</string>
+</dict>
+</plist>

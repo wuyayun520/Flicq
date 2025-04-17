@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>histogramState</key>
+	<string>tangentdispatcher</string>
+	<key>ontablechanged</key>
+	<string>listenerforce</string>
+	<key>previewstyletype</key>
+	<string>canPushMatrix</string>
+	<key>protocolDuration</key>
+	<string>mutableSubscriber</string>
+</dict>
+</plist>

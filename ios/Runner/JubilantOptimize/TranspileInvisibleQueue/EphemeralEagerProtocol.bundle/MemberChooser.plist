@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRemainder</key>
+	<string>responsivecatalyststatus</string>
+	<key>loopTag</key>
+	<string>checklistStage</string>
+	<key>schedulerContrast</key>
+	<string>saveButton</string>
+	<key>shouldUnbindBaseline</key>
+	<string>shouldAnimateListView</string>
+	<key>shouldfinishproject</key>
+	<string>groupcontainstate</string>
+</dict>
+</plist>

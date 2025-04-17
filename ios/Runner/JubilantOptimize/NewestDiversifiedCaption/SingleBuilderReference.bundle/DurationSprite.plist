@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>opaqueConvolution</key>
+	<string>sceneTheme</string>
+	<key>parallelBrush</key>
+	<string>aspectOrientation</string>
+	<key>playhero</key>
+	<string>similarroutermode</string>
+	<key>shouldStartProfile</key>
+	<string>shouldYieldHistogram</string>
+	<key>smartroutersize</key>
+	<string>cosineFunction</string>
+	<key>symbolascent</key>
+	<string>transitionConvolution</string>
+	<key>timelineInteraction</key>
+	<string>vertexFlags</string>
+</dict>
+</plist>

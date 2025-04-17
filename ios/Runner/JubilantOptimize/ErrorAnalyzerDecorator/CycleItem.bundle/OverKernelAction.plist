@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchororientation</key>
+	<string>startcompleter</string>
+	<key>layoutsprite</key>
+	<string>pointTag</string>
+	<key>offsetactivitytransparency</key>
+	<string>usedResource</string>
+	<key>otherRepository</key>
+	<string>globalpresenterborder</string>
+	<key>shouldCacheUnary</key>
+	<string>desktopAscent</string>
+	<key>shouldCreateCoordinator</key>
+	<string>shouldunmountgesture</string>
+	<key>shouldSaveColumn</key>
+	<string>implementstamp</string>
+	<key>synchronousSlash</key>
+	<string>publishBrush</string>
+</dict>
+</plist>

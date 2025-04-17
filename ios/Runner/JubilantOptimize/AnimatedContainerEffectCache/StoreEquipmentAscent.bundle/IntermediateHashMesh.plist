@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptiondespitefunction</key>
+	<string>gifttail</string>
+	<key>ephemeraldescription</key>
+	<string>intermediateProvision</string>
+	<key>gradientShape</key>
+	<string>selectedDimension</string>
+	<key>materializerFeedback</key>
+	<string>consumerFormat</string>
+	<key>resizableRadio</key>
+	<string>replicateService</string>
+	<key>shouldCreateCell</key>
+	<string>usedLoader</string>
+	<key>shouldDeserializeMap</key>
+	<string>sinkKind</string>
+	<key>topicinteraction</key>
+	<string>integrationFormat</string>
+</dict>
+</plist>

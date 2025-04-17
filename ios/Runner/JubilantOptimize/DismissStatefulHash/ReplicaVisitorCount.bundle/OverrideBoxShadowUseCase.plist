@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedDependency</key>
+	<string>partitionButton</string>
+	<key>directInterface</key>
+	<string>augmentGrain</string>
+	<key>explicitEvolution</key>
+	<string>canStopProvider</string>
+	<key>formatchart</key>
+	<string>priorController</string>
+	<key>observertag</key>
+	<string>shearGrid</string>
+	<key>priorExponent</key>
+	<string>memberCenter</string>
+	<key>relationalEvaluation</key>
+	<string>responsiveIcon</string>
+	<key>routerforframework</key>
+	<string>animationacceleration</string>
+	<key>shouldPersistPageView</key>
+	<string>ephemeralTween</string>
+	<key>uniformBehavior</key>
+	<string>utiltension</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEvolution</key>
+	<string>robustTitle</string>
+	<key>controllerType</key>
+	<string>denseEvent</string>
+	<key>disabledEqualization</key>
+	<string>displayableLifecycle</string>
+	<key>metricsTag</key>
+	<string>shouldPopInkWell</string>
+	<key>multiResponder</key>
+	<string>criticalpositiontheme</string>
+	<key>shouldBindNorm</key>
+	<string>brushComposite</string>
+	<key>visibleParticle</key>
+	<string>liteScope</string>
+</dict>
+</plist>

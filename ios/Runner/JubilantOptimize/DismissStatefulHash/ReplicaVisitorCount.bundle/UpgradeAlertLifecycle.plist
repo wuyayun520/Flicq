@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedContrast</key>
+	<string>easytexture</string>
+	<key>currentUseCase</key>
+	<string>buttonfromshape</string>
+	<key>liteUnary</key>
+	<string>shouldRenderInitiators</string>
+	<key>resilientProfile</key>
+	<string>detailDuration</string>
+	<key>sequentialTabView</key>
+	<string>animatedNavigator</string>
+	<key>widgetSkewX</key>
+	<string>containernotation</string>
+</dict>
+</plist>

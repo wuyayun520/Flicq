@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialPoint</key>
+	<string>shouldPresentGesture</string>
+	<key>primarycontrast</key>
+	<string>futuretheme</string>
+	<key>shouldCacheAperture</key>
+	<string>resourceatwork</string>
+	<key>shouldPersistSwitch</key>
+	<string>usedstroke</string>
+</dict>
+</plist>

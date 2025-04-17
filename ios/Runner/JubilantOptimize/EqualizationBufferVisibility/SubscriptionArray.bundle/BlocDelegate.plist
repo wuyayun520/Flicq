@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicHandler</key>
+	<string>statefulTechnique</string>
+	<key>currentWrapper</key>
+	<string>webDelivery</string>
+	<key>marshalconstraint</key>
+	<string>displayableSingleton</string>
+	<key>rapidSemantics</key>
+	<string>unaryResponse</string>
+	<key>shouldencodesymbol</key>
+	<string>stampAdapter</string>
+	<key>sizetype</key>
+	<string>canInflateSizedBox</string>
+	<key>starttabbar</key>
+	<string>canSubscribeNavigation</string>
+	<key>transitionmediaquery</key>
+	<string>shouldUpdateNotifier</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationright</key>
+	<string>restoreZone</string>
+	<key>easyImpact</key>
+	<string>servicetension</string>
+	<key>keepconstraint</key>
+	<string>bufferSingleton</string>
+	<key>orchestratepresenter</key>
+	<string>interpolateentity</string>
+	<key>queueTop</key>
+	<string>primaryAction</string>
+	<key>shouldPublishScreen</key>
+	<string>shouldDisconnectCatalyst</string>
+	<key>soundInterval</key>
+	<string>shouldDisconnectActivity</string>
+	<key>tappableMenu</key>
+	<string>tensorClipper</string>
+</dict>
+</plist>

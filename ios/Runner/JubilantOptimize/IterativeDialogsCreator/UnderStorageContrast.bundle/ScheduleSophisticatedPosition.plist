@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedQueue</key>
+	<string>configurationScale</string>
+	<key>directAspect</key>
+	<string>widgetnearstate</string>
+	<key>mainQuaternion</key>
+	<string>robustDispatcher</string>
+	<key>selectortail</key>
+	<string>filterleft</string>
+	<key>shouldSetStateNavigation</key>
+	<string>shouldEndClipper</string>
+	<key>shouldTransitionFuture</key>
+	<string>intermediateIntensity</string>
+</dict>
+</plist>

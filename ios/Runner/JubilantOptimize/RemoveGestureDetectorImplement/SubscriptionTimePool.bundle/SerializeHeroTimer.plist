@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentVelocity</key>
+	<string>canPaintBullet</string>
+	<key>disabledPreview</key>
+	<string>recursionOrientation</string>
+	<key>durationbeyondtier</key>
+	<string>animateCupertino</string>
+	<key>notificationcluster</key>
+	<string>explicitSubscriber</string>
+	<key>parallelpositionvalidation</key>
+	<string>zonecyclestyle</string>
+	<key>respectiveAnimatedContainer</key>
+	<string>deliveryEdge</string>
+	<key>shouldpresentswitch</key>
+	<string>shouldDecodeRoute</string>
+	<key>sortedTitle</key>
+	<string>listenDrawer</string>
+	<key>unactivatedScope</key>
+	<string>secondResponder</string>
+</dict>
+</plist>

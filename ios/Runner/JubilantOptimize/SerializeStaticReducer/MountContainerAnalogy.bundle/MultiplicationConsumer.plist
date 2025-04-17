@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>continuequeue</key>
+	<string>skirtCenter</string>
+	<key>granularCompletion</key>
+	<string>shouldrebuildroute</string>
+	<key>gridIndex</key>
+	<string>fixedDescent</string>
+	<key>newestAwait</key>
+	<string>adaptivelayer</string>
+	<key>primaryresilience</key>
+	<string>dispatchPoint</string>
+	<key>shouldPaintCursor</key>
+	<string>localpermutation</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directLoss</key>
+	<string>sensorBottom</string>
+	<key>dynamicPosition</key>
+	<string>statefulPhase</string>
+	<key>interfaceadaptermomentum</key>
+	<string>shouldReplaceNotification</string>
+	<key>previeworientation</key>
+	<string>directlyCatalyst</string>
+	<key>requestShape</key>
+	<string>resultPressure</string>
+	<key>scalabilityTag</key>
+	<string>progressbarorvar</string>
+	<key>shouldTrainMovement</key>
+	<string>criticalRemediation</string>
+	<key>streamvalidation</key>
+	<string>allocatorforscope</string>
+	<key>subtleTrigger</key>
+	<string>asynchronousScope</string>
+</dict>
+</plist>

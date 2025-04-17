@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>evaluationKind</key>
+	<string>deflateInteractor</string>
+	<key>hierarchicalBaseline</key>
+	<string>pagerCount</string>
+	<key>profilelikeenvironment</key>
+	<string>scalepatternshape</string>
+	<key>spriteconverter</key>
+	<string>integerLeft</string>
+	<key>subscriberShape</key>
+	<string>skinStage</string>
+	<key>typicalCompleter</key>
+	<string>flexibleInteraction</string>
+</dict>
+</plist>

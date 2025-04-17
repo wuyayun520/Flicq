@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completeramongframework</key>
+	<string>storyboardLeft</string>
+	<key>desktopBuilder</key>
+	<string>shouldResumeMember</string>
+	<key>dimensionfrequency</key>
+	<string>shouldDeserializeScale</string>
+	<key>robustInteraction</key>
+	<string>canYieldReduction</string>
+	<key>signaturecenter</key>
+	<string>usedLoop</string>
+	<key>singleTimer</key>
+	<string>curveAppearance</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityname</key>
+	<string>mediocreFeature</string>
+	<key>encodebase</key>
+	<string>futureMargin</string>
+	<key>hierarchicalIcon</key>
+	<string>autoScene</string>
+	<key>lastInterpolation</key>
+	<string>canConnectCupertino</string>
+	<key>localizationcharacteristic</key>
+	<string>canRestartFragment</string>
+	<key>originalInitiators</key>
+	<string>minChallenge</string>
+	<key>repositoryfromcomposite</key>
+	<string>canParseBatch</string>
+	<key>shouldSerializePageView</key>
+	<string>semanticScale</string>
+	<key>stopeffect</key>
+	<string>appendNavigator</string>
+</dict>
+</plist>

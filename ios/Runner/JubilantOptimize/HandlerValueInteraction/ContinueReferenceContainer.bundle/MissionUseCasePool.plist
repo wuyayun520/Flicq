@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocTension</key>
+	<string>spriteComposite</string>
+	<key>compositionalFragments</key>
+	<string>propagateAsset</string>
+	<key>declarativeEfficiency</key>
+	<string>anchorhue</string>
+	<key>imagedelay</key>
+	<string>shouldCancelController</string>
+	<key>immutableHash</key>
+	<string>observerlabel</string>
+	<key>offsetvariabledepth</key>
+	<string>movementVisibility</string>
+	<key>shouldDisposeEntropy</key>
+	<string>canAttachPet</string>
+</dict>
+</plist>

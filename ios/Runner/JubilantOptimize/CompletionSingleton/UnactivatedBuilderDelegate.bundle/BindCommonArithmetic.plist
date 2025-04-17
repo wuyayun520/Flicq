@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionmatrix</key>
+	<string>widgetLocation</string>
+	<key>euclideanInteraction</key>
+	<string>encapsulateDescription</string>
+	<key>exceptionvisitorborder</key>
+	<string>shouldCancelDecoration</string>
+	<key>functionalcardcenter</key>
+	<string>sharedPresenter</string>
+	<key>integerforscope</key>
+	<string>controllerAcceleration</string>
+	<key>interactiveIndicator</key>
+	<string>flexibleQueue</string>
+	<key>routerincludenumber</key>
+	<string>cacheGem</string>
+	<key>shouldDisposeRoute</key>
+	<string>referenceContext</string>
+	<key>shouldStopComposition</key>
+	<string>mountProjection</string>
+	<key>transposeframe</key>
+	<string>granularresolverstate</string>
+</dict>
+</plist>

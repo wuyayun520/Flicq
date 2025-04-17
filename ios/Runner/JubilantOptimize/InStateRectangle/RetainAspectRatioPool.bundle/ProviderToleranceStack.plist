@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryOpacity</key>
+	<string>responsivemovement</string>
+	<key>loaderCoord</key>
+	<string>introspectasset</string>
+	<key>publicLoss</key>
+	<string>permanentPager</string>
+	<key>resilienceVisibility</key>
+	<string>granularQueue</string>
+</dict>
+</plist>

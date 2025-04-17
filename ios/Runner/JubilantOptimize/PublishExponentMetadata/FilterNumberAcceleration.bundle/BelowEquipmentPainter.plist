@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableImpression</key>
+	<string>iterativeAction</string>
+	<key>handlerRotation</key>
+	<string>volumeScale</string>
+	<key>reusablePolygon</key>
+	<string>defaultListView</string>
+	<key>widgetacceleration</key>
+	<string>kernelviacomposite</string>
+</dict>
+</plist>

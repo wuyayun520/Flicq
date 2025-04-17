@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledCubit</key>
+	<string>visibleRow</string>
+	<key>futureState</key>
+	<string>webSorter</string>
+	<key>globalprogressbar</key>
+	<string>immediateBaseline</string>
+	<key>inheritedBuffer</key>
+	<string>enabledRoute</string>
+	<key>mediaTail</key>
+	<string>lostDocument</string>
+	<key>otherDetector</key>
+	<string>meshOpacity</string>
+	<key>shouldEmitAnimation</key>
+	<string>backwardDispatcher</string>
+	<key>shouldStartRemainder</key>
+	<string>mergerDistance</string>
+	<key>unsortedService</key>
+	<string>dynamicStream</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticfilter</key>
+	<string>composableDialogs</string>
+	<key>cosineInteraction</key>
+	<string>bundleZone</string>
+	<key>isolateCoord</key>
+	<string>scaleComposite</string>
+	<key>resilientDetail</key>
+	<string>fixedPageView</string>
+	<key>scrollableInteger</key>
+	<string>shouldEndModal</string>
+	<key>sophisticatedStateless</key>
+	<string>canLayoutOverlay</string>
+</dict>
+</plist>

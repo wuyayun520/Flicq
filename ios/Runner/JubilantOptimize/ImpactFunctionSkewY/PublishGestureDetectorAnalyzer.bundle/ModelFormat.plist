@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectBorder</key>
+	<string>consumeReducer</string>
+	<key>dedicatedAction</key>
+	<string>disconnectEntity</string>
+	<key>framematrix</key>
+	<string>intensityskewx</string>
+	<key>mapperBehavior</key>
+	<string>canAttachContainer</string>
+	<key>missedException</key>
+	<string>reusableReducer</string>
+	<key>missedSchema</key>
+	<string>restartInitiators</string>
+	<key>revisitsprite</key>
+	<string>ignoredChapter</string>
+	<key>shouldContinueSlash</key>
+	<string>vectorizestateful</string>
+	<key>tableTransparency</key>
+	<string>parallelScalability</string>
+	<key>themeobserveralignment</key>
+	<string>shouldCreateListView</string>
+</dict>
+</plist>

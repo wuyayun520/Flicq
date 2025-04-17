@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bundleprecision</key>
+	<string>validateShader</string>
+	<key>cartesianAnalogy</key>
+	<string>concreteAudio</string>
+	<key>discardedConstraint</key>
+	<string>initiatorsPrototype</string>
+	<key>modalVelocity</key>
+	<string>initializeMap</string>
+	<key>shouldDisconnectCustomPaint</key>
+	<string>rectorigin</string>
+	<key>shouldFetchEqualization</key>
+	<string>permutationOrigin</string>
+	<key>shouldloadstateless</key>
+	<string>layoutcubit</string>
+	<key>singletonthroughvalue</key>
+	<string>previewInteraction</string>
+	<key>staticVertex</key>
+	<string>canStreamRoute</string>
+	<key>ternarylocalization</key>
+	<string>canKeepSession</string>
+</dict>
+</plist>

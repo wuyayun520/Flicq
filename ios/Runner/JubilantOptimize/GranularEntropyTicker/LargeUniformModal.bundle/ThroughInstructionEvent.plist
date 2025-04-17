@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>benchmarkpreview</key>
+	<string>commonMaterial</string>
+	<key>cancelevent</key>
+	<string>easyMerger</string>
+	<key>gridMomentum</key>
+	<string>optimizeBloc</string>
+	<key>interactiveRequest</key>
+	<string>switchaction</string>
+	<key>mountbloc</key>
+	<string>dimensionatmemento</string>
+	<key>opaquePreview</key>
+	<string>drawSink</string>
+	<key>pagerTheme</key>
+	<string>movePresenter</string>
+	<key>reliabilityCenter</key>
+	<string>futureState</string>
+	<key>searcherDistance</key>
+	<string>arithmeticInkWell</string>
+	<key>tangentcount</key>
+	<string>plateBottom</string>
+</dict>
+</plist>

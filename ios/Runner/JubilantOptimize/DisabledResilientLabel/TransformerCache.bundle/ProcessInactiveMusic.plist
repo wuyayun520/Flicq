@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTimeline</key>
+	<string>graphshader</string>
+	<key>dropdownbuttonResponse</key>
+	<string>unsortedcustompaintstate</string>
+	<key>immediatePageView</key>
+	<string>functionalSlider</string>
+	<key>impressionBound</key>
+	<string>persistanchor</string>
+	<key>largeColor</key>
+	<string>convolutionShade</string>
+	<key>navigatorstatetension</key>
+	<string>singleLifecycle</string>
+	<key>pickerBrightness</key>
+	<string>labelthanoperation</string>
+	<key>reactiveVariant</key>
+	<string>convertInjection</string>
+	<key>unactivatedcosine</key>
+	<string>canPersistMultiplication</string>
+</dict>
+</plist>

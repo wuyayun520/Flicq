@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSample</key>
+	<string>statelessRequest</string>
+	<key>inheritedInitiators</key>
+	<string>reusableStack</string>
+	<key>initializeactivity</key>
+	<string>remediationContrast</string>
+	<key>notificationinsidecontext</key>
+	<string>interactiveAlignment</string>
+	<key>prismaticLoop</key>
+	<string>canNotifyProtocol</string>
+	<key>rendererOrientation</key>
+	<string>specifyCluster</string>
+	<key>responsiveInteraction</key>
+	<string>shouldDecodeConstraint</string>
+	<key>shouldSetStateHeap</key>
+	<string>dismissDecoration</string>
+	<key>shouldUnbindMobile</key>
+	<string>workflowFacade</string>
+</dict>
+</plist>

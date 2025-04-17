@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalRange</key>
+	<string>aspectPrototype</string>
+	<key>customizedinformation</key>
+	<string>gestureDuration</string>
+	<key>euclideanHandler</key>
+	<string>parseTool</string>
+	<key>opaqueAspectRatio</key>
+	<string>canDismissSine</string>
+	<key>overlayEdge</key>
+	<string>buttonconsumer</string>
+	<key>resizabletimeracceleration</key>
+	<string>widgetfactory</string>
+	<key>savelocalization</key>
+	<string>vertextransparency</string>
+	<key>shouldCreateDimension</key>
+	<string>hierarchicalIcon</string>
+	<key>symbolFrequency</key>
+	<string>shouldSkipBinary</string>
+	<key>wraprequest</key>
+	<string>binaryspeed</string>
+</dict>
+</plist>

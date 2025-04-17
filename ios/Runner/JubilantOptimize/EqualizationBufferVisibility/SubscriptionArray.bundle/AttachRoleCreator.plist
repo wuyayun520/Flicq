@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMechanism</key>
+	<string>trainScaffold</string>
+	<key>layoutplate</key>
+	<string>animateAnchor</string>
+	<key>precisioninset</key>
+	<string>localRecursion</string>
+	<key>rowbeyondflyweight</key>
+	<string>numericalCatalyst</string>
+	<key>stackbound</key>
+	<string>eraseQueue</string>
+	<key>tensorRemainder</key>
+	<string>segueSkewY</string>
+</dict>
+</plist>

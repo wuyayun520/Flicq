@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gridLeft</key>
+	<string>persistsign</string>
+	<key>mainLoss</key>
+	<string>onhistogramtap</string>
+	<key>parallelComposition</key>
+	<string>resilientListener</string>
+	<key>protectedStorage</key>
+	<string>composableDecoration</string>
+	<key>shouldInitializeLabel</key>
+	<string>specifierBorder</string>
+</dict>
+</plist>

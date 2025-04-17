@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>shouldEncodeBinary</key>
+	<string>currentGroup</string>
+	<key>shouldTransformDialogs</key>
+	<string>firstHash</string>
+	<key>shouldTransformOption</key>
+	<string>stepkindfeedback</string>
+	<key>symmetricEfficiency</key>
+	<string>customizedTopic</string>
+</dict>
+</plist>

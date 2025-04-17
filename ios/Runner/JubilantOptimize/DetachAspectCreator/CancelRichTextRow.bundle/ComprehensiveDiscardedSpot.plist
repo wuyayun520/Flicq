@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableRestriction</key>
+	<string>sizeMode</string>
+	<key>geometricbuilderacceleration</key>
+	<string>singleTentative</string>
+	<key>gesturedetectorgrain</key>
+	<string>accessorydelay</string>
+	<key>webSign</key>
+	<string>newestRecursion</string>
+</dict>
+</plist>

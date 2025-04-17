@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledAllocator</key>
+	<string>canNavigateBitrate</string>
+	<key>inflatecycle</key>
+	<string>statecontainsingleton</string>
+	<key>pinchableAnalogy</key>
+	<string>notifyColumn</string>
+	<key>priorityisolate</key>
+	<string>compilepoint</string>
+	<key>shouldPushBase</key>
+	<string>shouldTransitionTextField</string>
+</dict>
+</plist>

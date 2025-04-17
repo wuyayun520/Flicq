@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerAllocator</key>
+	<string>presentGradient</string>
+	<key>geometricConsumption</key>
+	<string>inactiveVariant</string>
+	<key>gridviewdetector</key>
+	<string>canKeepAperture</string>
+	<key>inheritedflex</key>
+	<string>delegateCenter</string>
+	<key>mainAspect</key>
+	<string>shouldEncodeStamp</string>
+	<key>multiplicationfrequency</key>
+	<string>optimizecursor</string>
+	<key>selectedClipper</key>
+	<string>shouldPauseLabel</string>
+	<key>shouldDisposeNavigation</key>
+	<string>viewanimator</string>
+	<key>thresholdPadding</key>
+	<string>canStartMedia</string>
+</dict>
+</plist>

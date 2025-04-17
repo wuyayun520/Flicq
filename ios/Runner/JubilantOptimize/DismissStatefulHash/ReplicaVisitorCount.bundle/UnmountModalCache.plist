@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorSkewY</key>
+	<string>shoulddisposeskirt</string>
+	<key>composableSegue</key>
+	<string>sizesaturation</string>
+	<key>contractionreducer</key>
+	<string>globalPosition</string>
+	<key>deferredSink</key>
+	<string>selectedgesturedetector</string>
+	<key>paddingPressure</key>
+	<string>documentFunction</string>
+	<key>significantLoader</key>
+	<string>embraceTicker</string>
+</dict>
+</plist>

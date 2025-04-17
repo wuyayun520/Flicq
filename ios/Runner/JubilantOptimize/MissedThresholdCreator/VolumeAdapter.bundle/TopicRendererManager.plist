@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonmusic</key>
+	<string>disabledradiustransparency</string>
+	<key>currentAsync</key>
+	<string>shouldPersistMaster</string>
+	<key>icontop</key>
+	<string>shouldFinishModal</string>
+	<key>mapperCoord</key>
+	<string>keepSkirt</string>
+	<key>primaryIntegrity</key>
+	<string>capacitiestypeposition</string>
+	<key>providerduringactivity</key>
+	<string>disposeRichText</string>
+</dict>
+</plist>

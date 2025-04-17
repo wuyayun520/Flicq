@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderorientation</key>
+	<string>activebinder</string>
+	<key>evaluationForce</key>
+	<string>interactiveThroughput</string>
+	<key>lifecycleTop</key>
+	<string>canDisconnectBitrate</string>
+	<key>originalRichText</key>
+	<string>attachpromise</string>
+</dict>
+</plist>

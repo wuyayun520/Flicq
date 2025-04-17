@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianloopedge</key>
+	<string>canEmitArithmetic</string>
+	<key>compositionvisibility</key>
+	<string>canInitializeMonster</string>
+	<key>iterativetolerance</key>
+	<string>mediocreGrayscale</string>
+	<key>lastIntensity</key>
+	<string>shouldDisposeIcon</string>
+	<key>rectangleHead</key>
+	<string>resultAcceleration</string>
+	<key>resolverstatekind</key>
+	<string>stampJob</string>
+	<key>secondTable</key>
+	<string>functionalDuration</string>
+</dict>
+</plist>

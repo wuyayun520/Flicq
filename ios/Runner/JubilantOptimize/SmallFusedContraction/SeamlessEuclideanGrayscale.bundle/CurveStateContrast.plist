@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiondelivery</key>
+	<string>canEmitDuration</string>
+	<key>observechart</key>
+	<string>canBuildInitiators</string>
+	<key>sampleacceleration</key>
+	<string>promiseObserver</string>
+	<key>shouldRouteProject</key>
+	<string>plateDecorator</string>
+	<key>tweenHue</key>
+	<string>localprofile</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialmobile</key>
+	<string>imperativeStroke</string>
+	<key>localizationinsidemethod</key>
+	<string>movementDistance</string>
+	<key>lossTheme</key>
+	<string>draggableObserver</string>
+	<key>publicMaterial</key>
+	<string>canDisposeCollection</string>
+	<key>shouldConnectController</key>
+	<string>subscriberFrequency</string>
+	<key>shouldDispatchVariant</key>
+	<string>imageBorder</string>
+	<key>shouldListenGraphic</key>
+	<string>interpolateLocalization</string>
+	<key>statefulcoordinator</key>
+	<string>advancedTween</string>
+	<key>subtleGate</key>
+	<string>texthead</string>
+</dict>
+</plist>

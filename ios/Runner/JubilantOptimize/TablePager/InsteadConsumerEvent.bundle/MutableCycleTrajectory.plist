@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbacktemplescale</key>
+	<string>cacheProvider</string>
+	<key>evaluatestate</key>
+	<string>mobileTransition</string>
+	<key>geometricGraph</key>
+	<string>hyperbolicDrawer</string>
+	<key>immutabletitletransparency</key>
+	<string>shouldLayoutSlash</string>
+	<key>lastDecoration</key>
+	<string>searcherName</string>
+	<key>missionState</key>
+	<string>shouldStopCollection</string>
+	<key>rowdistance</key>
+	<string>invokeMenu</string>
+	<key>sinkawayparameter</key>
+	<string>unmountCompletion</string>
+</dict>
+</plist>

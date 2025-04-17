@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMethod</key>
+	<string>pinchablestream</string>
+	<key>delicatebufferorigin</key>
+	<string>fetchAnimation</string>
+	<key>eagerSchema</key>
+	<string>originalFrame</string>
+	<key>elasticAlert</key>
+	<string>resolveException</string>
+	<key>matrixState</key>
+	<string>normMediator</string>
+	<key>resizableLinker</key>
+	<string>canPushIcon</string>
+	<key>shouldFinishFuture</key>
+	<string>localScene</string>
+	<key>shouldStopSizedBox</key>
+	<string>backwardRepository</string>
+	<key>streamlinenavigator</key>
+	<string>shouldSaveObserver</string>
+</dict>
+</plist>

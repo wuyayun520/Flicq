@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllertaskinterval</key>
+	<string>audioVisibility</string>
+	<key>disabledFragments</key>
+	<string>behaviorSpeed</string>
+	<key>displayableFrame</key>
+	<string>inactiveVideo</string>
+	<key>functionalrouterlocation</key>
+	<string>canListenMusic</string>
+	<key>scrollablePermutation</key>
+	<string>mobileChannel</string>
+	<key>secondSingleton</key>
+	<string>formatTernary</string>
+	<key>substantialInteractor</key>
+	<string>rowpermutation</string>
+	<key>substantialThreshold</key>
+	<string>registerGrain</string>
+	<key>typicalStateful</key>
+	<string>sequentialAnimation</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardTextField</key>
+	<string>richtextOrientation</string>
+	<key>challengescene</key>
+	<string>detachTouch</string>
+	<key>customizedStroke</key>
+	<string>canSavePositioned</string>
+	<key>integerShade</key>
+	<string>concurrentSine</string>
+	<key>interactiveInformation</key>
+	<string>canPresentGate</string>
+	<key>lazyReliability</key>
+	<string>rebuildlabel</string>
+	<key>mainSwitch</key>
+	<string>columnprovider</string>
+	<key>permissiveMapper</key>
+	<string>nextAsset</string>
+	<key>shouldRebuildRoute</key>
+	<string>criticalTime</string>
+	<key>shouldShowLayout</key>
+	<string>reactiveAnalogy</string>
+</dict>
+</plist>

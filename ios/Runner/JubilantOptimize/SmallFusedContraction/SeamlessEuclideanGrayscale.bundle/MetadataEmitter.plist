@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cleanallocator</key>
+	<string>shouldStopOption</string>
+	<key>controllervalidation</key>
+	<string>anchorintensity</string>
+	<key>draggableRecursion</key>
+	<string>setstaterepository</string>
+	<key>gesturerequest</key>
+	<string>shouldListenIndicator</string>
+	<key>limitresponse</key>
+	<string>canMountedGridView</string>
+	<key>singletonResponse</key>
+	<string>mediaEdge</string>
+	<key>tangentForce</key>
+	<string>listenChannels</string>
+	<key>tangentcontainoperation</key>
+	<string>singletontint</string>
+</dict>
+</plist>

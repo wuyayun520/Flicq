@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedcontainerlocation</key>
+	<string>ephemeralUsage</string>
+	<key>completionatvisitor</key>
+	<string>independentcallback</string>
+	<key>deferredalignment</key>
+	<string>presentTabBar</string>
+	<key>hyperbolicPosition</key>
+	<string>shouldPopAperture</string>
+	<key>permanentLayout</key>
+	<string>visiblePlayback</string>
+	<key>promiseenvironmentflags</key>
+	<string>visiblePolygon</string>
+	<key>quitdecoration</key>
+	<string>compositionalRouter</string>
+	<key>relationalCustomPaint</key>
+	<string>partitionZone</string>
+	<key>shouldTrainReference</key>
+	<string>shouldEncodePlate</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopPromise</key>
+	<string>secondFragment</string>
+	<key>popupVelocity</key>
+	<string>shouldDetachReduction</string>
+	<key>sizeContrast</key>
+	<string>canRouteActivity</string>
+	<key>statusState</key>
+	<string>convolutionOffset</string>
+	<key>subscriptionValidation</key>
+	<string>customizedAllocator</string>
+	<key>symmetricShader</key>
+	<string>colorDistance</string>
+	<key>touchanchor</key>
+	<string>unsortedActivity</string>
+</dict>
+</plist>

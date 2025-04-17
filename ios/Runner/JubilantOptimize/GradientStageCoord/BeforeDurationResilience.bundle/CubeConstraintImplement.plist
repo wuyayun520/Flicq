@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredCharacter</key>
+	<string>descriptorDepth</string>
+	<key>sequentialSelector</key>
+	<string>presentPageView</string>
+	<key>smallarithmeticvelocity</key>
+	<string>animationcount</string>
+	<key>sustainablewidget</key>
+	<string>sessionlikeadapter</string>
+	<key>temporaryStateful</key>
+	<string>missionStyle</string>
+</dict>
+</plist>

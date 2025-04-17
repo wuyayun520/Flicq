@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationindex</key>
+	<string>pendingBorder</string>
+	<key>featurewithwork</key>
+	<string>dynamicAnimatedContainer</string>
+	<key>iconOffset</key>
+	<string>canYieldTask</string>
+	<key>mediocreCallback</key>
+	<string>projectPadding</string>
+	<key>seamlessInterface</key>
+	<string>shouldPrepareOverlay</string>
+	<key>shouldMountBloc</key>
+	<string>navigateGrid</string>
+</dict>
+</plist>

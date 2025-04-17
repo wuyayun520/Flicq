@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedTouch</key>
+	<string>statefulIcon</string>
+	<key>bufferscopedelay</key>
+	<string>hasmaterial</string>
+	<key>comprehensiveSubpixel</key>
+	<string>tweenoutsideprocess</string>
+	<key>delegateForce</key>
+	<string>fusedInfrastructure</string>
+	<key>enabledMusic</key>
+	<string>boxVelocity</string>
+	<key>missedListener</key>
+	<string>adaptiveMetrics</string>
+	<key>normalPlayback</key>
+	<string>evaluateView</string>
+	<key>shouldRouteAnimatedContainer</key>
+	<string>shouldSaveProject</string>
+	<key>unmountedextension</key>
+	<string>unsortedGesture</string>
+</dict>
+</plist>

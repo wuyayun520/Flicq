@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectratioTail</key>
+	<string>cursorTop</string>
+	<key>assetduringstyle</key>
+	<string>gridviewright</string>
+	<key>customConfiguration</key>
+	<string>initiatorsPressure</string>
+	<key>meshShade</key>
+	<string>bitratemesh</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>binaryduringprototype</key>
+	<string>permissiveFrame</string>
+	<key>combinerVisible</key>
+	<string>canUpdateUnary</string>
+	<key>heaplayout</key>
+	<string>requiredCreator</string>
+	<key>paddingformat</key>
+	<string>temporaryInformation</string>
+	<key>shouldUpdateView</key>
+	<string>completedCapsule</string>
+	<key>tweenInset</key>
+	<string>largeInterface</string>
+	<key>utilmargin</key>
+	<string>canObserveBloc</string>
+</dict>
+</plist>

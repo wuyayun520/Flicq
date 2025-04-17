@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalMovement</key>
+	<string>inactiveLoss</string>
+	<key>denseequipmentskewy</key>
+	<string>spineSkewY</string>
+	<key>giftScale</key>
+	<string>shouldMountedTouch</string>
+	<key>restrictionorigin</key>
+	<string>canCreateConvolution</string>
+	<key>semanticStroke</key>
+	<string>reusableTernary</string>
+	<key>shouldStreamHero</key>
+	<string>canCancelChecklist</string>
+</dict>
+</plist>

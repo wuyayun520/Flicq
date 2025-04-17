@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableHandler</key>
+	<string>metricsMomentum</string>
+	<key>enabledAspect</key>
+	<string>finishTernary</string>
+	<key>occasionOffset</key>
+	<string>drawerSpeed</string>
+	<key>respectiveStateful</key>
+	<string>extensionWork</string>
+	<key>shaderPosition</key>
+	<string>framealignment</string>
+	<key>shouldPaintMember</key>
+	<string>shouldInitializeProject</string>
+</dict>
+</plist>

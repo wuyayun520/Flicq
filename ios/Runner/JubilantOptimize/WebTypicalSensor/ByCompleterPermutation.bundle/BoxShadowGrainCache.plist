@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directlyScalability</key>
+	<string>uniqueGem</string>
+	<key>interactiveChecklist</key>
+	<string>visualizeLocalization</string>
+	<key>mediumSegment</key>
+	<string>skipPositioned</string>
+	<key>projectionLeft</key>
+	<string>startTask</string>
+	<key>shouldDismissTernary</key>
+	<string>renderMission</string>
+	<key>unactivatedRemediation</key>
+	<string>configurePreview</string>
+</dict>
+</plist>

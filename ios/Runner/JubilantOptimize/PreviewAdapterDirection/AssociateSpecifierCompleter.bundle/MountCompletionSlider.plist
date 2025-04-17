@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredChooser</key>
+	<string>otherIsolate</string>
+	<key>impressionoffset</key>
+	<string>denseThroughput</string>
+	<key>invisibleAperture</key>
+	<string>persistGem</string>
+	<key>mediocrePresenter</key>
+	<string>interpolationValue</string>
+	<key>reactiveGesture</key>
+	<string>fragmentsInteraction</string>
+</dict>
+</plist>

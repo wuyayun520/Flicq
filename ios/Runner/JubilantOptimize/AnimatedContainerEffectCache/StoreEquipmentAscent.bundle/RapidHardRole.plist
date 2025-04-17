@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>listeneraspect</key>
+	<string>equipmentVisibility</string>
+	<key>radioDepth</key>
+	<string>oncontrollerchanged</string>
+	<key>sequentialProvision</key>
+	<string>signatureStyle</string>
+	<key>sharedAsset</key>
+	<string>hardColor</string>
+	<key>singleListView</key>
+	<string>resolverInteraction</string>
+	<key>usedChapter</key>
+	<string>calculatetitle</string>
+</dict>
+</plist>

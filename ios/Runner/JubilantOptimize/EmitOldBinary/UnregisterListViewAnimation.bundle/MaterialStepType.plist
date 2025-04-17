@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateMethod</key>
+	<string>advancedFinder</string>
+	<key>labelcoord</key>
+	<string>shouldDismissMobile</string>
+	<key>resizableBoxShadow</key>
+	<string>transpileTween</string>
+	<key>streamimage</key>
+	<string>permissiveTabView</string>
+</dict>
+</plist>

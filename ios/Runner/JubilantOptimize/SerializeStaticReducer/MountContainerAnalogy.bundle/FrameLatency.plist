@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorbound</key>
+	<string>permissiveDispatcher</string>
+	<key>easyGrain</key>
+	<string>ignoredcomponent</string>
+	<key>enabledOffset</key>
+	<string>shouldDeserializeWidget</string>
+	<key>erroralongdecorator</key>
+	<string>consumeIntensity</string>
+	<key>hardBullet</key>
+	<string>toleranceForce</string>
+	<key>navigatelayer</key>
+	<string>newestMultiplication</string>
+	<key>notifycubit</key>
+	<string>shouldUpdateProtocol</string>
+	<key>shouldCreateSymbol</key>
+	<string>invisibleSession</string>
+	<key>symmetricStateful</key>
+	<string>numericalScope</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalDropdownButton</key>
+	<string>firstAction</string>
+	<key>resizableManager</key>
+	<string>deferredTouch</string>
+	<key>shouldAttachBrush</key>
+	<string>publishGem</string>
+	<key>sophisticatedSound</key>
+	<string>statefulReference</string>
+</dict>
+</plist>

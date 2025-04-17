@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>newestRequest</key>
+	<string>animatelabel</string>
+	<key>polygontail</key>
+	<string>oldMission</string>
+	<key>publicScale</key>
+	<string>shouldDeserializeAnchor</string>
+	<key>responseKind</key>
+	<string>reactiveusage</string>
+	<key>shouldDetachInteger</key>
+	<string>releaseStream</string>
+	<key>zoneviaflyweight</key>
+	<string>themeAction</string>
+</dict>
+</plist>

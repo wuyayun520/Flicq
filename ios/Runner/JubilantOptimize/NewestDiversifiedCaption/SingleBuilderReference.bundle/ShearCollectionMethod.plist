@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedBaseline</key>
+	<string>delegateLocalization</string>
+	<key>providewidget</key>
+	<string>unmountAlert</string>
+	<key>scrollableOptimizer</key>
+	<string>criticalNotifier</string>
+	<key>shouldPaintTable</key>
+	<string>threadenvironmentskewy</string>
+</dict>
+</plist>

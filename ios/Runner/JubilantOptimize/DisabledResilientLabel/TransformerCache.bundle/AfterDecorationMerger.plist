@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checklistleft</key>
+	<string>shouldInflateProvider</string>
+	<key>customizedMedia</key>
+	<string>curveshape</string>
+	<key>flexibleTraversal</key>
+	<string>animategift</string>
+	<key>greatchecklistshape</key>
+	<string>commonPopup</string>
+	<key>observerbinder</key>
+	<string>tappableTransformer</string>
+</dict>
+</plist>

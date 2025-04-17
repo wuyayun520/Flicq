@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentspot</key>
+	<string>allocateChapter</string>
+	<key>respectiveButton</key>
+	<string>visibleTicker</string>
+	<key>shouldCreateHero</key>
+	<string>requiredRow</string>
+	<key>statefulcontractionopacity</key>
+	<string>connectDescriptor</string>
+</dict>
+</plist>

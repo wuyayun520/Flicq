@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>independentBuffer</key>
+	<string>otherCallback</string>
+	<key>mainObserver</key>
+	<string>canStreamCanvas</string>
+	<key>prismaticTimer</key>
+	<string>fixedElasticity</string>
+	<key>radioHead</key>
+	<string>tentativeResponse</string>
+	<key>sequentialSine</key>
+	<string>reactivePresenter</string>
+	<key>shouldSetStatePlayback</key>
+	<string>prioraxis</string>
+	<key>sophisticatedConsumer</key>
+	<string>pageviewinsideparam</string>
+	<key>uniformConnector</key>
+	<string>tickeritem</string>
+</dict>
+</plist>

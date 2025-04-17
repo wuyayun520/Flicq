@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCapacities</key>
+	<string>canPopBatch</string>
+	<key>descriptorContrast</key>
+	<string>significantLoop</string>
+	<key>disconnectanimation</key>
+	<string>shouldRebuildMap</string>
+	<key>inactiveRoute</key>
+	<string>vectorTail</string>
+	<key>permissiveGrayscale</key>
+	<string>anchorAcceleration</string>
+	<key>rowfunctionbrightness</key>
+	<string>arithmetictexture</string>
+	<key>screenpressure</key>
+	<string>ephemeralAnimator</string>
+	<key>smallScale</key>
+	<string>upgradebutton</string>
+	<key>smartblocresponse</key>
+	<string>canPauseRemainder</string>
+	<key>statelessVolume</key>
+	<string>canAnimateScroll</string>
+</dict>
+</plist>

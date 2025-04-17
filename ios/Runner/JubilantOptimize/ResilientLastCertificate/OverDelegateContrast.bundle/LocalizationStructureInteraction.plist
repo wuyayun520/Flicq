@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>convolutionAcceleration</key>
+	<string>specifierAcceleration</string>
+	<key>cursorBrightness</key>
+	<string>shouldEncodeAnimation</string>
+	<key>detailTheme</key>
+	<string>lostAnalyzer</string>
+	<key>hyperbolicrichtextforce</key>
+	<string>dedicatedImage</string>
+	<key>imperativeAction</key>
+	<string>constantKind</string>
+	<key>resilientAnchor</key>
+	<string>canConnectVariant</string>
+	<key>smallStep</key>
+	<string>consumerResponse</string>
+	<key>synchronousAwait</key>
+	<string>shouldLoadCollection</string>
+</dict>
+</plist>

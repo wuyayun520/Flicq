@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cancelgrid</key>
+	<string>mitigateOffset</string>
+	<key>gateLeft</key>
+	<string>priorityDepth</string>
+	<key>ignoredPrecision</key>
+	<string>optimizerDensity</string>
+	<key>localAnimator</key>
+	<string>taskBottom</string>
+	<key>momentumexception</key>
+	<string>signaturecontroller</string>
+	<key>normallayer</key>
+	<string>routerPadding</string>
+	<key>resultthanprocess</key>
+	<string>layerCycle</string>
+	<key>specifyMesh</key>
+	<string>ascentState</string>
+</dict>
+</plist>

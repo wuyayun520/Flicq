@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentForce</key>
+	<string>beginnerPolygon</string>
+	<key>allocatorMode</key>
+	<string>concatenateTicker</string>
+	<key>appbarlocation</key>
+	<string>cleaninjection</string>
+	<key>dispatchlayout</key>
+	<string>anchorScope</string>
+	<key>iterativeRestriction</key>
+	<string>anchorFunction</string>
+	<key>largeListener</key>
+	<string>vectorFlags</string>
+	<key>mutableChannels</key>
+	<string>localizationEnvironment</string>
+	<key>reducerquaternion</key>
+	<string>visibleTolerance</string>
+	<key>tentativespacing</key>
+	<string>shouldupdateaxis</string>
+	<key>unactivatedOverlay</key>
+	<string>crudeRectangle</string>
+</dict>
+</plist>

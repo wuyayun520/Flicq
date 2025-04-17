@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianLayout</key>
+	<string>scrollableView</string>
+	<key>contractionthroughtier</key>
+	<string>progressbarFacade</string>
+	<key>deferredRoute</key>
+	<string>dynamicGrain</string>
+	<key>largeSound</key>
+	<string>transitionmodel</string>
+	<key>pausetransformer</key>
+	<string>unsortedGroup</string>
+	<key>rangeDensity</key>
+	<string>shouldMountBuilder</string>
+	<key>replicaRate</key>
+	<string>ephemeralpolyfill</string>
+	<key>shouldStreamCompletion</key>
+	<string>featurerate</string>
+	<key>subsequentAmortization</key>
+	<string>dynamicCell</string>
+	<key>sustainableProject</key>
+	<string>numericalBrush</string>
+</dict>
+</plist>

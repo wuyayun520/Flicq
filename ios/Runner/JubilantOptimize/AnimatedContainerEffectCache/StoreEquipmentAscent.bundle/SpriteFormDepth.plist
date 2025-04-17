@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardIcon</key>
+	<string>mediumsingleton</string>
+	<key>concreteBorder</key>
+	<string>cellopacity</string>
+	<key>scrollableObject</key>
+	<string>holdasset</string>
+	<key>shouldObserveSensor</key>
+	<string>continueticker</string>
+	<key>titleStatus</key>
+	<string>inheritedEffect</string>
+</dict>
+</plist>

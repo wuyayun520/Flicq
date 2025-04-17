@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedColumn</key>
+	<string>exceptionacceleration</string>
+	<key>configurationalignment</key>
+	<string>shouldserializetable</string>
+	<key>delicateTabView</key>
+	<string>autofragments</string>
+	<key>formatcontainer</key>
+	<string>pendingUsage</string>
+	<key>hasnavigation</key>
+	<string>overlayValidation</string>
+	<key>repositoryaroundlevel</key>
+	<string>brushMargin</string>
+	<key>restarttask</key>
+	<string>canNavigateInitiators</string>
+	<key>shouldRebuildPlayback</key>
+	<string>repositoryphasetransparency</string>
+	<key>tweakFormat</key>
+	<string>bundleReducer</string>
+</dict>
+</plist>

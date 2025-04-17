@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatecenter</key>
+	<string>canYieldModal</string>
+	<key>lazyReliability</key>
+	<string>stringifyAsset</string>
+	<key>nextReliability</key>
+	<string>seekEvent</string>
+	<key>routebehavior</key>
+	<string>symmetricSink</string>
+	<key>shouldDismissLoss</key>
+	<string>canTransitionSwift</string>
+	<key>smallStamp</key>
+	<string>makeSubscription</string>
+	<key>triggerAppearance</key>
+	<string>paintSegment</string>
+</dict>
+</plist>

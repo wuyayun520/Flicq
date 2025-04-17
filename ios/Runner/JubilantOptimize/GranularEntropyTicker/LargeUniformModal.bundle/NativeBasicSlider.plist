@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeparticle</key>
+	<string>apertureOrigin</string>
+	<key>blocscopeskewx</key>
+	<string>canTransitionPrecision</string>
+	<key>futureInterval</key>
+	<string>moduleKind</string>
+	<key>inheritedLayout</key>
+	<string>priorMusic</string>
+	<key>interactivecheckboxinset</key>
+	<string>detachSwitch</string>
+	<key>kernelLocation</key>
+	<string>largeInteractor</string>
+	<key>requiredinteractorfeedback</key>
+	<string>deserializeBehavior</string>
+	<key>touchcompleter</key>
+	<string>analyzeResponse</string>
+	<key>unmountedmaster</key>
+	<string>shouldNavigateFragment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonpublisher</key>
+	<string>significantCapsule</string>
+	<key>independentLayout</key>
+	<string>canValidateContainer</string>
+	<key>integrityDepth</key>
+	<string>diffableSplitter</string>
+	<key>logarithmcubit</key>
+	<string>shouldCreateSwift</string>
+	<key>shouldAttachDecoration</key>
+	<string>layercenter</string>
+	<key>shouldDeserializeInkWell</key>
+	<string>canNavigateGesture</string>
+	<key>shouldInflateCatalyst</key>
+	<string>granularaspect</string>
+	<key>shouldRestartInterpolation</key>
+	<string>projectValidation</string>
+</dict>
+</plist>

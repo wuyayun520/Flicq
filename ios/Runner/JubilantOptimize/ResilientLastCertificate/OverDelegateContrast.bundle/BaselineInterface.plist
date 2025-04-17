@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ascentStyle</key>
+	<string>pivotalSample</string>
+	<key>autoMend</key>
+	<string>popGram</string>
+	<key>defaultStoryboard</key>
+	<string>shouldemitalpha</string>
+	<key>formatlayer</key>
+	<string>widgetRotation</string>
+	<key>hardStateful</key>
+	<string>mobileobserver</string>
+	<key>inactivecurve</key>
+	<string>textfieldProcess</string>
+	<key>independentpresenterappearance</key>
+	<string>transformerLevel</string>
+	<key>modalactivityopacity</key>
+	<string>comprehensivealignment</string>
+	<key>resultDuration</key>
+	<string>locateHandler</string>
+</dict>
+</plist>

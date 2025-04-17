@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorMode</key>
+	<string>invisibleChannels</string>
+	<key>boxshadowpressure</key>
+	<string>channelsloader</string>
+	<key>ignoredPadding</key>
+	<string>positionedAcceleration</string>
+	<key>mediumTechnique</key>
+	<string>cosineMode</string>
+	<key>nativegraphicfeedback</key>
+	<string>responseCycle</string>
+	<key>switchorscope</key>
+	<string>canFormatCertificate</string>
+</dict>
+</plist>

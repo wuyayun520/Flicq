@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerPreview</key>
+	<string>materializerTheme</string>
+	<key>composableStack</key>
+	<string>visiblelocalization</string>
+	<key>customSubscription</key>
+	<string>nibMediator</string>
+	<key>directlythread</key>
+	<string>continuePadding</string>
+	<key>originalOptimizer</key>
+	<string>graphName</string>
+	<key>transitionphasemomentum</key>
+	<string>canLoadTask</string>
+</dict>
+</plist>

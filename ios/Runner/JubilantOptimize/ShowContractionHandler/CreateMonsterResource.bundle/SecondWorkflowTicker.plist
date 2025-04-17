@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentcycle</key>
+	<string>unscheduleCubit</string>
+	<key>sliderlevelhue</key>
+	<string>hierarchicalBitrate</string>
+	<key>smallstate</key>
+	<string>resolverstyle</string>
+	<key>smartStep</key>
+	<string>setstateText</string>
+	<key>storeInteraction</key>
+	<string>pivotalgesturedetector</string>
+	<key>streamaction</key>
+	<string>shouldencodebatch</string>
+</dict>
+</plist>

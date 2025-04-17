@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>constrainttaxonomy</key>
+	<string>appbarJob</string>
+	<key>directTask</key>
+	<string>dimensioncommandcount</string>
+	<key>ephemeralNib</key>
+	<string>streamborder</string>
+	<key>lifecycleScale</key>
+	<string>deflateChapter</string>
+	<key>missedChallenge</key>
+	<string>activeTopic</string>
+	<key>nextReference</key>
+	<string>canCreatePlate</string>
+	<key>responderVisible</key>
+	<string>transformConfiguration</string>
+	<key>sliderAcceleration</key>
+	<string>topicShape</string>
+	<key>standaloneAnimation</key>
+	<string>multiplicationShade</string>
+</dict>
+</plist>

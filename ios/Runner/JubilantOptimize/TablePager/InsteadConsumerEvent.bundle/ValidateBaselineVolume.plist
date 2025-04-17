@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateTop</key>
+	<string>resolverFrequency</string>
+	<key>converterPosition</key>
+	<string>evaluationOpacity</string>
+	<key>oldError</key>
+	<string>pinchablePageView</string>
+	<key>reusabledurationbehavior</key>
+	<string>hierarchicalTopic</string>
+	<key>semanticSegue</key>
+	<string>canPauseSpecifier</string>
+	<key>sustainableParticle</key>
+	<string>symboltint</string>
+	<key>tappablePadding</key>
+	<string>borderEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentCursor</key>
+	<string>functionalLayer</string>
+	<key>lazyAudio</key>
+	<string>displayLocalization</string>
+	<key>materializerOpacity</key>
+	<string>serviceshapetype</string>
+	<key>mobileReliability</key>
+	<string>drawerInteraction</string>
+	<key>moduleedge</key>
+	<string>animatedMenu</string>
+	<key>reductionHead</key>
+	<string>pinchableSkin</string>
+	<key>resizableScroller</key>
+	<string>discardedDispatcher</string>
+	<key>staticTabView</key>
+	<string>fixedKernel</string>
+	<key>typicalconsumer</key>
+	<string>presenterMargin</string>
+</dict>
+</plist>

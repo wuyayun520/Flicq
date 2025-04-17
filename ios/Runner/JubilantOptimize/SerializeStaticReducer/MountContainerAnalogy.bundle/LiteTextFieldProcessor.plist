@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleAmortization</key>
+	<string>cacheCoordinator</string>
+	<key>denseProvider</key>
+	<string>shouldTransitionAnimation</string>
+	<key>fusedmultiplication</key>
+	<string>opaqueShape</string>
+	<key>optiontheme</key>
+	<string>techniquejobpressure</string>
+	<key>positionedDuration</key>
+	<string>localizationSpacing</string>
+	<key>shouldDispatchActivity</key>
+	<string>delegateOffset</string>
+	<key>shouldListenSpecifier</key>
+	<string>shouldPopAppBar</string>
+	<key>ternaryHue</key>
+	<string>selectednotification</string>
+	<key>unaryDepth</key>
+	<string>storageVisible</string>
+</dict>
+</plist>

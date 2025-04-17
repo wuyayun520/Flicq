@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureFlags</key>
+	<string>shouldProcessArithmetic</string>
+	<key>connectcontainer</key>
+	<string>connectorDepth</string>
+	<key>easyModel</key>
+	<string>bundleSubscription</string>
+	<key>easyResolver</key>
+	<string>columnShape</string>
+	<key>geometricTrajectory</key>
+	<string>lostKernel</string>
+	<key>opaqueintensity</key>
+	<string>iterativeinterpolationtype</string>
+	<key>shouldEmitScroll</key>
+	<string>arithmeticTransition</string>
+	<key>shouldInitializeSignature</key>
+	<string>deferredSink</string>
+</dict>
+</plist>

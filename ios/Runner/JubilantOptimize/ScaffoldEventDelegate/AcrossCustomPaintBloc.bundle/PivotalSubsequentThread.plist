@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoraroundstructure</key>
+	<string>criticalObject</string>
+	<key>occasionbehavior</key>
+	<string>streambyproxy</string>
+	<key>oldInteraction</key>
+	<string>switchpreview</string>
+	<key>parallelTangent</key>
+	<string>canTransformOverlay</string>
+	<key>requiredmend</key>
+	<string>slashRotation</string>
+	<key>techniqueinteraction</key>
+	<string>fixedGraph</string>
+	<key>uniqueTernary</key>
+	<string>shouldRouteCursor</string>
+</dict>
+</plist>

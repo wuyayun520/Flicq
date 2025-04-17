@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consultativeConvolution</key>
+	<string>fixedSegment</string>
+	<key>directlybloc</key>
+	<string>persistentResult</string>
+	<key>finishlocalization</key>
+	<string>adaptiveSingleton</string>
+	<key>nextCaption</key>
+	<string>backwardScene</string>
+	<key>shouldProcessFuture</key>
+	<string>canKeepExpanded</string>
+	<key>subscriptionDepth</key>
+	<string>shouldLayoutActivity</string>
+	<key>undertakeasync</key>
+	<string>expandedColor</string>
+	<key>visibleCapacities</key>
+	<string>stringifyAsync</string>
+</dict>
+</plist>

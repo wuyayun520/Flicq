@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionascent</key>
+	<string>shouldUnmountedRadio</string>
+	<key>concurrentModule</key>
+	<string>profileDescription</string>
+	<key>draggableDuration</key>
+	<string>graphBound</string>
+	<key>dynamicAnimatedContainer</key>
+	<string>mountedRemainder</string>
+	<key>mutableSemantics</key>
+	<string>sortedGift</string>
+	<key>overlayaboutvar</key>
+	<string>animateProgressBar</string>
+	<key>shouldHandleOptimizer</key>
+	<string>respondUtil</string>
+	<key>shouldRebuildSwift</key>
+	<string>subsequentOperation</string>
+	<key>statelessResource</key>
+	<string>reusableGesture</string>
+	<key>tweenhue</key>
+	<string>emitScroll</string>
+</dict>
+</plist>

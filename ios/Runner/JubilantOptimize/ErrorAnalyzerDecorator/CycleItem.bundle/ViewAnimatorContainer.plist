@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedDialogs</key>
+	<string>lostTimeline</string>
+	<key>compositionalRemainder</key>
+	<string>parseState</string>
+	<key>immutableMission</key>
+	<string>sharedModule</string>
+	<key>imperativeConsumption</key>
+	<string>shouldPaintGrayscale</string>
+	<key>newestRecursion</key>
+	<string>shaderFlyweight</string>
+	<key>sustainablescenepadding</key>
+	<string>tangentFramework</string>
+	<key>volumeAcceleration</key>
+	<string>canParseGestureDetector</string>
+</dict>
+</plist>

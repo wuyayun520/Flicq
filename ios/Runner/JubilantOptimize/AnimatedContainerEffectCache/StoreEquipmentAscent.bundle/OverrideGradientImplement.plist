@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>createnode</key>
+	<string>localFilter</string>
+	<key>declarativeSpot</key>
+	<string>shouldDeserializeConsumer</string>
+	<key>easyConsumption</key>
+	<string>integerFeedback</string>
+	<key>lastHistogram</key>
+	<string>interactiveStrength</string>
+	<key>nodeContrast</key>
+	<string>dialogsmomentum</string>
+	<key>rebuildfeature</key>
+	<string>newestEntropy</string>
+	<key>scopeState</key>
+	<string>mobileLabel</string>
+	<key>shouldValidateLog</key>
+	<string>subscribeText</string>
+	<key>workflowTension</key>
+	<string>offsettaskbehavior</string>
+</dict>
+</plist>

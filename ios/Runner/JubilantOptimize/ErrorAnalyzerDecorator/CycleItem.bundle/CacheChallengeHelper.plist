@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>catalystinset</key>
+	<string>draggableTween</string>
+	<key>dynamicDescriptor</key>
+	<string>specifyActivity</string>
+	<key>hardMetadata</key>
+	<string>publicMerger</string>
+	<key>mediumSubscriber</key>
+	<string>connectEqualization</string>
+	<key>priorgrayscalestyle</key>
+	<string>resizableTrigger</string>
+	<key>shouldPublishFragment</key>
+	<string>materialProgressBar</string>
+</dict>
+</plist>

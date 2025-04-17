@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatoralignment</key>
+	<string>pointadapterpressure</string>
+	<key>customizedinteraction</key>
+	<string>loadBrush</string>
+	<key>menuSkewX</key>
+	<string>lazyDetector</string>
+	<key>performgram</key>
+	<string>specifierAlignment</string>
+	<key>relationalChooser</key>
+	<string>persistentLog</string>
+	<key>stackTint</key>
+	<string>visibleWidget</string>
+</dict>
+</plist>

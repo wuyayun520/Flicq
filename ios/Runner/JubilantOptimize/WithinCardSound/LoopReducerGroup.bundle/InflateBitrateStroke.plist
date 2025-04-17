@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalStack</key>
+	<string>markResult</string>
+	<key>immediateResilience</key>
+	<string>containerAcceleration</string>
+	<key>impressionOrientation</key>
+	<string>shouldBuildSwitch</string>
+	<key>nativeStoryboard</key>
+	<string>directlyVertex</string>
+	<key>resilientrole</key>
+	<string>alertbloc</string>
+	<key>timerparambehavior</key>
+	<string>receivePosition</string>
+	<key>wrapperName</key>
+	<string>canNavigateMaterial</string>
+</dict>
+</plist>

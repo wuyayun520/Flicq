@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumetransformer</key>
+	<string>ephemeralOffset</string>
+	<key>dependencyprocessor</key>
+	<string>parallelloopkind</string>
+	<key>ignoredConvolution</key>
+	<string>rebuildternary</string>
+	<key>labeltriangles</key>
+	<string>challengeisolate</string>
+	<key>locatesymbol</key>
+	<string>serializeGrayscale</string>
+	<key>nativePainter</key>
+	<string>permanentHistogram</string>
+	<key>overlayDirection</key>
+	<string>tweakSaturation</string>
+	<key>prismaticConnector</key>
+	<string>continueMatrix</string>
+	<key>selectedscale</key>
+	<string>shouldStreamPadding</string>
+</dict>
+</plist>

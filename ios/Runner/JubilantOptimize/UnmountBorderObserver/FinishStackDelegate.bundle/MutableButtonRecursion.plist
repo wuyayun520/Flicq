@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoManager</key>
+	<string>uniqueTrigger</string>
+	<key>customAnchor</key>
+	<string>scopeHead</string>
+	<key>layoutBound</key>
+	<string>inheritedtransition</string>
+	<key>playbackchainrate</key>
+	<string>shouldSetStateContainer</string>
+	<key>responsiveResult</key>
+	<string>seamlessExpanded</string>
+	<key>retainedCycle</key>
+	<string>shouldInitializePageView</string>
+	<key>tensorPromise</key>
+	<string>emitTool</string>
+</dict>
+</plist>

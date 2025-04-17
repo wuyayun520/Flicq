@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteDescriptor</key>
+	<string>ismaterial</string>
+	<key>disparateMobile</key>
+	<string>activatedTweak</string>
+	<key>pointVisible</key>
+	<string>positionAction</string>
+	<key>precisionrouter</key>
+	<string>processGradient</string>
+	<key>publishalpha</key>
+	<string>invokeHash</string>
+	<key>retainedAlignment</key>
+	<string>prevInterface</string>
+	<key>shouldDeserializeBehavior</key>
+	<string>opaqueError</string>
+	<key>shouldDetachSwitch</key>
+	<string>stepthanmode</string>
+	<key>unsortedProtocol</key>
+	<string>shouldcontinuemultiplication</string>
+</dict>
+</plist>

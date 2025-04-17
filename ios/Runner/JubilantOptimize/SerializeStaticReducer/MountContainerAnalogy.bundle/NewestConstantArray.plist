@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customAnimatedContainer</key>
+	<string>usedModulus</string>
+	<key>decorationPosition</key>
+	<string>timerexceptcontext</string>
+	<key>immediateSize</key>
+	<string>ephemeralTween</string>
+	<key>intuitiveTabBar</key>
+	<string>mapperContrast</string>
+	<key>listenernotation</key>
+	<string>singleMobile</string>
+	<key>loopconstant</key>
+	<string>shouldPauseAppBar</string>
+	<key>scrollincludevalue</key>
+	<string>typicalframe</string>
+	<key>singleTrajectory</key>
+	<string>popupJob</string>
+</dict>
+</plist>

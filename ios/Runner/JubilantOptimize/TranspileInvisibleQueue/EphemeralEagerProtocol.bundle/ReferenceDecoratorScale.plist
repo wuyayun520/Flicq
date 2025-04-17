@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clustercoord</key>
+	<string>captionasmode</string>
+	<key>consultativeDescription</key>
+	<string>missedselector</string>
+	<key>infoDelay</key>
+	<string>priorProgressBar</string>
+	<key>persistentpreview</key>
+	<string>pushModulus</string>
+	<key>precisionFeedback</key>
+	<string>stringifyaperture</string>
+	<key>priorListView</key>
+	<string>mountedlayout</string>
+	<key>smallRecursion</key>
+	<string>visibleThread</string>
+</dict>
+</plist>

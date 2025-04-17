@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushFrequency</key>
+	<string>reusableCache</string>
+	<key>builderTension</key>
+	<string>handleMission</string>
+	<key>consumerBrightness</key>
+	<string>detachListener</string>
+	<key>draggableConstant</key>
+	<string>characterTint</string>
+	<key>lossBound</key>
+	<string>painterMediator</string>
+	<key>shouldBindBinary</key>
+	<string>showSink</string>
+	<key>shouldResumeTangent</key>
+	<string>painterdensity</string>
+	<key>shouldTrainTool</key>
+	<string>canHandleUnary</string>
+</dict>
+</plist>

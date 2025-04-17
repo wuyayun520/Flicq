@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>greatPageView</key>
+	<string>grayscalerate</string>
+	<key>responsiveListener</key>
+	<string>delegatelikephase</string>
+	<key>tabviewFormat</key>
+	<string>hierarchicalNotification</string>
+</dict>
+</plist>

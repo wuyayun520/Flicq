@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerJoiner</key>
+	<string>readQueue</string>
+	<key>channelCenter</key>
+	<string>immediatePet</string>
+	<key>cupertinoMapper</key>
+	<string>canResumeCollection</string>
+	<key>grainreceiver</key>
+	<string>currentBaseline</string>
+	<key>lostStream</key>
+	<string>skirtForce</string>
+	<key>onmaptap</key>
+	<string>shouldNavigateMomentum</string>
+	<key>scaletop</key>
+	<string>staticLifecycle</string>
+	<key>shouldLayoutCache</key>
+	<string>shouldpersisttable</string>
+</dict>
+</plist>

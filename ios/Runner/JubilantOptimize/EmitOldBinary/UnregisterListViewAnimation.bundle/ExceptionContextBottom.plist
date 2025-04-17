@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerdensity</key>
+	<string>checkboxSingleton</string>
+	<key>emitcycle</key>
+	<string>vectorTag</string>
+	<key>equivalentTheme</key>
+	<string>beginnerTextField</string>
+	<key>priorReliability</key>
+	<string>checkboxmediatormode</string>
+	<key>visiblelinker</key>
+	<string>unmountedSkin</string>
+</dict>
+</plist>

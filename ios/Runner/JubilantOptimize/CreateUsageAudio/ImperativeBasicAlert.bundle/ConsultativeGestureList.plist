@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>nextScope</key>
+	<string>clipSize</string>
+	<key>routeOrigin</key>
+	<string>discardedEmitter</string>
+	<key>rowright</key>
+	<string>disconnectsprite</string>
+	<key>smallGrain</key>
+	<string>robustSlider</string>
+</dict>
+</plist>

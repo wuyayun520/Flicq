@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionactivitybehavior</key>
+	<string>detachIntensity</string>
+	<key>disparateGate</key>
+	<string>hasAspectRatio</string>
+	<key>shouldNavigateSession</key>
+	<string>annotateChart</string>
+	<key>shouldSerializeDuration</key>
+	<string>composableResolver</string>
+	<key>sinkMomentum</key>
+	<string>concurrentTime</string>
+	<key>storageFeedback</key>
+	<string>renderCoordinator</string>
+	<key>textShape</key>
+	<string>showLayer</string>
+	<key>visibleCoordinator</key>
+	<string>presentInkWell</string>
+</dict>
+</plist>

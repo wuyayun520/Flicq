@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autopreviewfrequency</key>
+	<string>markutil</string>
+	<key>explicitVariant</key>
+	<string>writeStorage</string>
+	<key>setuprepository</key>
+	<string>ignoredStorage</string>
+	<key>shouldpresentcycle</key>
+	<string>tappableScenario</string>
+	<key>singleMovement</key>
+	<string>crucialReduction</string>
+	<key>threadSize</key>
+	<string>primaryCycle</string>
+</dict>
+</plist>

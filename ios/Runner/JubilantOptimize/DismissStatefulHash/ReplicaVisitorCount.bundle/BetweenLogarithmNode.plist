@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardFilter</key>
+	<string>keydescription</string>
+	<key>ignoredScheduler</key>
+	<string>lostposition</string>
+	<key>spotTail</key>
+	<string>eventbufferright</string>
+	<key>subtleMend</key>
+	<string>shouldLayoutSpot</string>
+	<key>tensorStateful</key>
+	<string>canTransitionController</string>
+</dict>
+</plist>

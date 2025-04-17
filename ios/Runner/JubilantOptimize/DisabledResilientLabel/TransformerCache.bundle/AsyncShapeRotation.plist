@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxValidation</key>
+	<string>functionalScheduler</string>
+	<key>constraintmesh</key>
+	<string>inactiveConfidentiality</string>
+	<key>greatboxfeedback</key>
+	<string>materialreductionduration</string>
+	<key>hasScale</key>
+	<string>pushExpanded</string>
+	<key>localizationformmargin</key>
+	<string>reactiveTool</string>
+	<key>petEdge</key>
+	<string>matrixVisibility</string>
+	<key>shouldUnmountedDimension</key>
+	<string>disposeCheckbox</string>
+</dict>
+</plist>

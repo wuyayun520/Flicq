@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentobserver</key>
+	<string>blocstatus</string>
+	<key>entityexceptmemento</key>
+	<string>interactiveTheme</string>
+	<key>keyequivalent</key>
+	<string>configureGroup</string>
+	<key>processsession</key>
+	<string>mediaqueryFrequency</string>
+	<key>shoulddecodestep</key>
+	<string>threadmodule</string>
+	<key>sliderRotation</key>
+	<string>canDispatchTask</string>
+</dict>
+</plist>

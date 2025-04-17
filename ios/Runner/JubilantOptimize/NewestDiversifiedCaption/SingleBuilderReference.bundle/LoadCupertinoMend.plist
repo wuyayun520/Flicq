@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedTicker</key>
+	<string>canConnectExtension</string>
+	<key>disparateConsumer</key>
+	<string>scrollerfeedback</string>
+	<key>immediateCreator</key>
+	<string>cupertinoShape</string>
+	<key>missedStoryboard</key>
+	<string>viewmodel</string>
+	<key>secondQuaternion</key>
+	<string>shouldListenTabBar</string>
+	<key>subsequentEvaluation</key>
+	<string>originalTrigger</string>
+	<key>synchronousStrength</key>
+	<string>nextGem</string>
+</dict>
+</plist>

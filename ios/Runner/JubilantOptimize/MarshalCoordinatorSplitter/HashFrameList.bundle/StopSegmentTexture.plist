@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cardleft</key>
+	<string>emitBoxShadow</string>
+	<key>compositionalData</key>
+	<string>handleBuilder</string>
+	<key>directlySink</key>
+	<string>detachresolver</string>
+	<key>euclideanLayer</key>
+	<string>spinPresenter</string>
+	<key>flexibleData</key>
+	<string>shouldFetchNib</string>
+	<key>pinchableutil</key>
+	<string>modalFeedback</string>
+	<key>sharedCharacteristic</key>
+	<string>euclideanlabel</string>
+	<key>shouldTransformWidget</key>
+	<string>shouldSerializeNavigation</string>
+	<key>smallSprite</key>
+	<string>immediateDependency</string>
+	<key>traversalCenter</key>
+	<string>operationBorder</string>
+</dict>
+</plist>

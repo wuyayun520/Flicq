@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoSearcher</key>
+	<string>hasRole</string>
+	<key>directlyLabel</key>
+	<string>liteInformation</string>
+	<key>manageramortization</key>
+	<string>shouldSubscribeBase</string>
+	<key>sequentialRepository</key>
+	<string>secondTangent</string>
+	<key>shearcompleter</key>
+	<string>dissociateText</string>
+	<key>shouldFinishBaseline</key>
+	<string>textfieldTop</string>
+	<key>unsortedreferencealignment</key>
+	<string>initializeRemainder</string>
+</dict>
+</plist>

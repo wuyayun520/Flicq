@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocFlags</key>
+	<string>canUpdateAccessory</string>
+	<key>emitcube</key>
+	<string>stackLeft</string>
+	<key>evolutionIndex</key>
+	<string>temporarySine</string>
+	<key>seamlessElement</key>
+	<string>cycletheme</string>
+	<key>selectedDialogs</key>
+	<string>canDismissTransition</string>
+	<key>signname</key>
+	<string>shouldCancelTheme</string>
+	<key>storeactionbehavior</key>
+	<string>inheritedKernel</string>
+	<key>subtleRange</key>
+	<string>staticmaterializer</string>
+	<key>sustainableBuffer</key>
+	<string>shouldCancelProjection</string>
+	<key>sustainablecoordinator</key>
+	<string>clusterHead</string>
+</dict>
+</plist>

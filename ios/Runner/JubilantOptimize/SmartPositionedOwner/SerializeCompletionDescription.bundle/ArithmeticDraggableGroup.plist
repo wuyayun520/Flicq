@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledEffect</key>
+	<string>controllerDuration</string>
+	<key>errorTail</key>
+	<string>seamlessChart</string>
+	<key>materialternary</key>
+	<string>desktopResponse</string>
+	<key>mediaqueryInteraction</key>
+	<string>textmomentum</string>
+	<key>precisionflags</key>
+	<string>initiatorsInteraction</string>
+	<key>smallScreen</key>
+	<string>binderName</string>
+	<key>uniqueFragment</key>
+	<string>shouldResumePageView</string>
+	<key>usedRouter</key>
+	<string>temporaryVariant</string>
+</dict>
+</plist>

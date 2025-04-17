@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitRate</key>
+	<string>pivotalplayback</string>
+	<key>converterInset</key>
+	<string>basicsizesize</string>
+	<key>elasticGroup</key>
+	<string>endSpot</string>
+	<key>mainBloc</key>
+	<string>unmountedOptimizer</string>
+	<key>pinchableCallback</key>
+	<string>accordionNorm</string>
+	<key>restartdialogs</key>
+	<string>shouldDisposeMember</string>
+	<key>robustTransformer</key>
+	<string>opaquegradientfrequency</string>
+	<key>shouldRebuildMember</key>
+	<string>yieldSignature</string>
+	<key>visibleMapper</key>
+	<string>saveShader</string>
+</dict>
+</plist>

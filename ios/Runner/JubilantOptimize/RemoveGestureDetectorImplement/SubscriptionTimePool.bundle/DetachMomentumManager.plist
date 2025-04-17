@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTriangles</key>
+	<string>smartReplica</string>
+	<key>columnstructuredepth</key>
+	<string>gemTag</string>
+	<key>localizationcolor</key>
+	<string>flexibleBitrate</string>
+	<key>resourceactionstyle</key>
+	<string>widgetHead</string>
+	<key>symmetricCompleter</key>
+	<string>imperativeAction</string>
+</dict>
+</plist>

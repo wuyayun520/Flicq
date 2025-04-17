@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>errortop</key>
+	<string>persistCosine</string>
+	<key>scrollableParticle</key>
+	<string>localQuaternion</string>
+	<key>serviceacceleration</key>
+	<string>canDismissSymbol</string>
+	<key>topicstate</key>
+	<string>playbackmethodright</string>
+</dict>
+</plist>

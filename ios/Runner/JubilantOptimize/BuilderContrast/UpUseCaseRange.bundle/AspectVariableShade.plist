@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedComponent</key>
+	<string>protectedFactory</string>
+	<key>currentscale</key>
+	<string>positionedforstage</string>
+	<key>directRemainder</key>
+	<string>behaviordelay</string>
+	<key>elementSpacing</key>
+	<string>canTransformCharacter</string>
+	<key>missedRect</key>
+	<string>stampsorter</string>
+	<key>processorIndex</key>
+	<string>shouldKeepIcon</string>
+	<key>synchronousExponent</key>
+	<string>customizedLabel</string>
+	<key>trajectoryState</key>
+	<string>multiMovement</string>
+</dict>
+</plist>

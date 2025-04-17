@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspecttheme</key>
+	<string>transitionCupertino</string>
+	<key>boxshadowName</key>
+	<string>semanticColor</string>
+	<key>hasskin</key>
+	<string>diffableQueue</string>
+	<key>menustatus</key>
+	<string>particleBridge</string>
+</dict>
+</plist>

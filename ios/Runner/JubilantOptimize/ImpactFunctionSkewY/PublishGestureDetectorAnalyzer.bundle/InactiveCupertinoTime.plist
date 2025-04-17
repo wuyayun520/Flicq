@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopExtension</key>
+	<string>nextTrigger</string>
+	<key>eagerRouter</key>
+	<string>binaryinteraction</string>
+	<key>otherResource</key>
+	<string>rapidResource</string>
+	<key>shouldCancelPainter</key>
+	<string>paddingbottom</string>
+	<key>shouldNavigateCursor</key>
+	<string>cartesianIsolate</string>
+	<key>shouldYieldGestureDetector</key>
+	<string>modulusCoord</string>
+	<key>staticBinder</key>
+	<string>publisherKind</string>
+	<key>usageStatus</key>
+	<string>agileoffset</string>
+</dict>
+</plist>

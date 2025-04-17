@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedNotification</key>
+	<string>discoverBloc</string>
+	<key>colorSaturation</key>
+	<string>activitydelegate</string>
+	<key>elementValidation</key>
+	<string>movementSpacing</string>
+	<key>looptypeappearance</key>
+	<string>canDetachContainer</string>
+	<key>replicaTension</key>
+	<string>previewsubscriber</string>
+	<key>responderVisibility</key>
+	<string>rowscalability</string>
+	<key>statichandlertop</key>
+	<string>hierarchicalgridvalidation</string>
+	<key>tensorRectangle</key>
+	<string>denseAnalogy</string>
+</dict>
+</plist>

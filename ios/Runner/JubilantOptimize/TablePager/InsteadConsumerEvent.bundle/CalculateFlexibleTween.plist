@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedcurve</key>
+	<string>durationmodule</string>
+	<key>embedawait</key>
+	<string>unactivatedPoint</string>
+	<key>optimizeinterface</key>
+	<string>desktopScheduler</string>
+	<key>shouldUnmountedProject</key>
+	<string>newestConstant</string>
+	<key>unmountmodel</key>
+	<string>independentHash</string>
+</dict>
+</plist>

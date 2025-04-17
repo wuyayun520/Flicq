@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnDirection</key>
+	<string>splitterCenter</string>
+	<key>compositionalpresenterlocation</key>
+	<string>visitInterface</string>
+	<key>difficultAscent</key>
+	<string>shouldRouteScroll</string>
+	<key>rapidTabBar</key>
+	<string>methodFacade</string>
+	<key>reactiveTweak</key>
+	<string>sortedAperture</string>
+	<key>requestName</key>
+	<string>provideProvider</string>
+	<key>shouldUpdateResource</key>
+	<string>hasPainter</string>
+	<key>singleSound</key>
+	<string>routerValue</string>
+	<key>ternaryShade</key>
+	<string>readMethod</string>
+</dict>
+</plist>

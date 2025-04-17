@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSaturation</key>
+	<string>menuoffset</string>
+	<key>difficultGridView</key>
+	<string>cubeCycle</string>
+	<key>switchobserverstate</key>
+	<string>lostOccasion</string>
+	<key>uniqueHistogram</key>
+	<string>impactDelay</string>
+	<key>visibleStore</key>
+	<string>explicitAnimator</string>
+</dict>
+</plist>

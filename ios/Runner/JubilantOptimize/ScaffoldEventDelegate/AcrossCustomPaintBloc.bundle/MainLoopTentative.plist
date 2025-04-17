@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardMethod</key>
+	<string>shouldBuildRow</string>
+	<key>converterinterval</key>
+	<string>referenceDepth</string>
+	<key>elasticService</key>
+	<string>shouldEmitTask</string>
+	<key>hasdescriptor</key>
+	<string>criticalmesh</string>
+	<key>intensityversusvariable</key>
+	<string>vertexSkewX</string>
+	<key>resizablemapper</key>
+	<string>pauseBloc</string>
+	<key>reusablegraphicbound</key>
+	<string>shouldNotifyBitrate</string>
+	<key>scrollerDirection</key>
+	<string>hasTask</string>
+	<key>sharedFlex</key>
+	<string>insteadAlignment</string>
+</dict>
+</plist>

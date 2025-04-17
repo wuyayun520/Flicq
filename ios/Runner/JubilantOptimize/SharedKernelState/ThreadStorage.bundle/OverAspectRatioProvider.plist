@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableReduction</key>
+	<string>profilebinder</string>
+	<key>disabledColumn</key>
+	<string>canUpdateCell</string>
+	<key>emitspot</key>
+	<string>publicKernel</string>
+	<key>scrollableOverlay</key>
+	<string>subtleMission</string>
+	<key>semanticslocalization</key>
+	<string>shouldPauseFragment</string>
+	<key>sequentialTransformer</key>
+	<string>beginnerRestriction</string>
+	<key>shouldBindTouch</key>
+	<string>shouldUpdateGram</string>
+	<key>shouldUnmountedCollection</key>
+	<string>enhanceFuture</string>
+</dict>
+</plist>

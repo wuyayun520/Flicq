@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphalatency</key>
+	<string>standalonecatalystsaturation</string>
+	<key>channelBound</key>
+	<string>screenAlignment</string>
+	<key>dropdownbuttonScale</key>
+	<string>advancedBoxShadow</string>
+	<key>gradientcenter</key>
+	<string>interactorinsidedecorator</string>
+	<key>immutableChannels</key>
+	<string>usecasesaturation</string>
+	<key>shouldDetachAnimation</key>
+	<string>relationalConnector</string>
+	<key>shoulddispatchsign</key>
+	<string>storeOffset</string>
+</dict>
+</plist>

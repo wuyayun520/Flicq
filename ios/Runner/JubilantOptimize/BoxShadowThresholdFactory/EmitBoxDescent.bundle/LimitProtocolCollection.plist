@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eventLocation</key>
+	<string>globalSession</string>
+	<key>layerfunctioninteraction</key>
+	<string>prevEntity</string>
+	<key>rebuildhandler</key>
+	<string>materialStoryboard</string>
+	<key>shouldReplaceSpecifier</key>
+	<string>particleAcceleration</string>
+	<key>widgetaboutvariable</key>
+	<string>multiplicationTier</string>
+</dict>
+</plist>

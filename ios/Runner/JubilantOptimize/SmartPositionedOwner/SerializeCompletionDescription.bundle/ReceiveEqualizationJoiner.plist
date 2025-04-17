@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerFlags</key>
+	<string>tappableDecoration</string>
+	<key>attachlayout</key>
+	<string>switchSaturation</string>
+	<key>cleanlocalization</key>
+	<string>canResumeReduction</string>
+	<key>otherSkin</key>
+	<string>curvelayercontrast</string>
+	<key>shoulddetachdimension</key>
+	<string>responderOpacity</string>
+	<key>subtleLabel</key>
+	<string>cancelhandler</string>
+	<key>sustainableExtension</key>
+	<string>apertureNumber</string>
+	<key>unactivatedLayer</key>
+	<string>respectiveIsolate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticCurve</key>
+	<string>clipperTag</string>
+	<key>beginnerDistinction</key>
+	<string>multiplyGroup</string>
+	<key>concurrentloop</key>
+	<string>loopWork</string>
+	<key>gridOrientation</key>
+	<string>mountedNotification</string>
+	<key>hasCustomPaint</key>
+	<string>priorUnary</string>
+	<key>shouldendmusic</key>
+	<string>checkboxParam</string>
+	<key>singleUsage</key>
+	<string>notifierTransparency</string>
+	<key>stepinsidejob</key>
+	<string>disclaimerKind</string>
+	<key>symbolduringchain</key>
+	<string>richtextTag</string>
+	<key>unsortedBitrate</key>
+	<string>densemethod</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipbloc</key>
+	<string>precisionsinceactivity</string>
+	<key>coordinatorRight</key>
+	<string>activeTransformer</string>
+	<key>eagerCoordinator</key>
+	<string>efficiencyCount</string>
+	<key>errorName</key>
+	<string>gramMargin</string>
+	<key>factoryscenario</key>
+	<string>shouldUpdateBehavior</string>
+	<key>shouldReplaceChannels</key>
+	<string>synchronizeController</string>
+	<key>singletonactionpadding</key>
+	<string>spriteVar</string>
+</dict>
+</plist>

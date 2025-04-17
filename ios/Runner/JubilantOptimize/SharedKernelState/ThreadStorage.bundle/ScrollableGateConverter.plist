@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyAppearance</key>
+	<string>semanticsCount</string>
+	<key>lazyMedia</key>
+	<string>shouldAttachPoint</string>
+	<key>singlePainter</key>
+	<string>borderContrast</string>
+	<key>stampOpacity</key>
+	<string>largeContrast</string>
+	<key>storechallenge</key>
+	<string>shouldPresentEqualization</string>
+	<key>typicaldecoration</key>
+	<string>shouldFetchPriority</string>
+</dict>
+</plist>

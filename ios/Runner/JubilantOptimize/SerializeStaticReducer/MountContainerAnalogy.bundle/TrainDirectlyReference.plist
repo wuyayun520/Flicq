@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>aspectalignment</key>
+	<string>variantSystem</string>
+	<key>durationpressure</key>
+	<string>inheritedInterface</string>
+	<key>mapDepth</key>
+	<string>curveorlayer</string>
+	<key>semanticsPadding</key>
+	<string>handleCurve</string>
+	<key>shouldobserveicon</key>
+	<string>sizedetail</string>
+</dict>
+</plist>

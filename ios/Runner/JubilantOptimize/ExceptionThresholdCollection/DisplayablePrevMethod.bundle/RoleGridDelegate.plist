@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionhue</key>
+	<string>canFetchNavigator</string>
+	<key>assetcount</key>
+	<string>poolqueue</string>
+	<key>continuescene</key>
+	<string>shouldEndOperation</string>
+	<key>delicatecontroller</key>
+	<string>shouldAnimateMap</string>
+	<key>listviewframe</key>
+	<string>canNotifyImage</string>
+	<key>responsiveCluster</key>
+	<string>transformArithmetic</string>
+	<key>shouldNavigateProjection</key>
+	<string>canPaintScreen</string>
+	<key>uniformMomentum</key>
+	<string>canEndTransition</string>
+</dict>
+</plist>

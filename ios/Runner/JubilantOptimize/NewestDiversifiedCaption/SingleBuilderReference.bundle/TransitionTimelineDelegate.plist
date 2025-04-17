@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticbuttonorigin</key>
+	<string>respondPopup</string>
+	<key>loophue</key>
+	<string>swiftNumber</string>
+	<key>reducerMargin</key>
+	<string>inkwellChain</string>
+	<key>relationalRecursion</key>
+	<string>independentScene</string>
+	<key>shouldPersistMultiplication</key>
+	<string>dispatchresource</string>
+	<key>synchronousPrecision</key>
+	<string>updateInjection</string>
+	<key>viewlocation</key>
+	<string>composableVector</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticActivity</key>
+	<string>evaluationInset</string>
+	<key>customizedCursor</key>
+	<string>buffertweak</string>
+	<key>explicitSprite</key>
+	<string>statelessBoxShadow</string>
+	<key>modelBorder</key>
+	<string>draggableSelector</string>
+	<key>similarObserver</key>
+	<string>deprecateManager</string>
+	<key>subtleInfo</key>
+	<string>integrityFormat</string>
+</dict>
+</plist>

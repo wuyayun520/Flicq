@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lossInteraction</key>
+	<string>removePosition</string>
+	<key>rowValidation</key>
+	<string>futureForce</string>
+	<key>standaloneUsage</key>
+	<string>resumetheme</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedCurve</key>
+	<string>catalystCycle</string>
+	<key>granularResilience</key>
+	<string>convertLayout</string>
+	<key>gridviewPosition</key>
+	<string>spinenode</string>
+	<key>ignoredFrame</key>
+	<string>inheritedtexttint</string>
+	<key>immediateFuture</key>
+	<string>concretePromise</string>
+	<key>immutableGrain</key>
+	<string>reductionRate</string>
+	<key>metadataspacing</key>
+	<string>painterdelay</string>
+	<key>stateduringbridge</key>
+	<string>shouldsubscribeshader</string>
+	<key>tabviewInterval</key>
+	<string>reflectQueue</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animateddisclaimer</key>
+	<string>activatedEmitter</string>
+	<key>completionloop</key>
+	<string>futureFrequency</string>
+	<key>intensitycreator</key>
+	<string>mediumBitrate</string>
+	<key>isbox</key>
+	<string>shouldContinueSignature</string>
+	<key>shouldsavenib</key>
+	<string>appbarBrightness</string>
+	<key>synchronousprogressbarinset</key>
+	<string>permutationHead</string>
+	<key>ternaryDepth</key>
+	<string>resizableAlert</string>
+</dict>
+</plist>

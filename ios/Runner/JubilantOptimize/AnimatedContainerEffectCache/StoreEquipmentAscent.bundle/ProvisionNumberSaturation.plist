@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fusedHeap</key>
+	<string>shouldParseMultiplication</string>
+	<key>mobileDelegate</key>
+	<string>hashSkewY</string>
+	<key>shouldRouteSizedBox</key>
+	<string>shouldPrepareTable</string>
+	<key>splitterSpeed</key>
+	<string>impressionMode</string>
+	<key>synchronousConnector</key>
+	<string>replaceConsumer</string>
+	<key>uniformFlex</key>
+	<string>pendingRemainder</string>
+	<key>visibleStore</key>
+	<string>shouldDisposeObserver</string>
+</dict>
+</plist>

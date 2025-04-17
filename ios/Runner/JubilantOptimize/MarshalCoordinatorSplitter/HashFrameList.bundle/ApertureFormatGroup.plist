@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeName</key>
+	<string>functionalAxis</string>
+	<key>elasticityTag</key>
+	<string>shouldAnimateDrawer</string>
+	<key>localLayer</key>
+	<string>reconcileGrid</string>
+	<key>stackDistance</key>
+	<string>emitterFrequency</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialLoss</key>
+	<string>makePopup</string>
+	<key>cupertinoaction</key>
+	<string>statefulNotifier</string>
+	<key>injectionbuffercenter</key>
+	<string>overlayStructure</string>
+	<key>invisibleAnimatedContainer</key>
+	<string>canEmitHistogram</string>
+	<key>shouldDisconnectSkin</key>
+	<string>textureTag</string>
+	<key>synchronousFilter</key>
+	<string>disconnectFuture</string>
+	<key>typicalNorm</key>
+	<string>onnotifierchanged</string>
+</dict>
+</plist>

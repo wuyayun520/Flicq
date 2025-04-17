@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>attachbehavior</key>
+	<string>protectedDisclaimer</string>
+	<key>instructionMomentum</key>
+	<string>shouldfinishmediaquery</string>
+	<key>intermediateProject</key>
+	<string>blocSkewY</string>
+	<key>resilientMaster</key>
+	<string>observerLocation</string>
+	<key>selectedCursor</key>
+	<string>viewSkewY</string>
+	<key>serviceadapterforce</key>
+	<string>persistentAsync</string>
+	<key>workflowgrid</key>
+	<string>replicaHue</string>
+</dict>
+</plist>

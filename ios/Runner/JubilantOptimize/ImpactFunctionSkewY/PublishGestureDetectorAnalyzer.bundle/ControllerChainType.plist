@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleanimator</key>
+	<string>showEqualization</string>
+	<key>combinerstyle</key>
+	<string>custompaintStrategy</string>
+	<key>deferredPager</key>
+	<string>batchInset</string>
+	<key>shouldMountAspect</key>
+	<string>iconName</string>
+	<key>sortedRenderer</key>
+	<string>shouldInitializeGate</string>
+	<key>tasklikefunction</key>
+	<string>globalSample</string>
+</dict>
+</plist>

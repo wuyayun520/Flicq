@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>componentorigin</key>
+	<string>nativeMusic</string>
+	<key>mediumVariant</key>
+	<string>repositoryHead</string>
+	<key>persistentSensor</key>
+	<string>rapidLayout</string>
+	<key>poolthread</key>
+	<string>canConnectMusic</string>
+	<key>semanticMechanism</key>
+	<string>elasticMusic</string>
+	<key>unsortedPageView</key>
+	<string>visibleSpine</string>
+</dict>
+</plist>

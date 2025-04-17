@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitatstrategy</key>
+	<string>canDispatchScreen</string>
+	<key>explicitSlash</key>
+	<string>shouldKeepTool</string>
+	<key>indicatoractiontag</key>
+	<string>canPaintTabView</string>
+	<key>mediocrecapacitiesvelocity</key>
+	<string>sustainableKernel</string>
+	<key>protocolpressure</key>
+	<string>dependencyInteraction</string>
+</dict>
+</plist>

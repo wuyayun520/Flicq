@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderRotation</key>
+	<string>captureLoop</string>
+	<key>commonrect</key>
+	<string>storeLoop</string>
+	<key>interactiveScroll</key>
+	<string>creatoropacity</string>
+	<key>keyrow</key>
+	<string>animatedSpot</string>
+	<key>normColor</key>
+	<string>pivotalCoordinator</string>
+	<key>overlayIndex</key>
+	<string>delicateGestureDetector</string>
+	<key>statestylevisible</key>
+	<string>completedSensor</string>
+</dict>
+</plist>

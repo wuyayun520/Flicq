@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dimensionRotation</key>
+	<string>clipChart</string>
+	<key>monstersensor</key>
+	<string>priorDescriptor</string>
+	<key>obtainobserver</key>
+	<string>restrictionStyle</string>
+	<key>semanticRecursion</key>
+	<string>consumerKind</string>
+	<key>shouldStartChannels</key>
+	<string>currentCursor</string>
+</dict>
+</plist>

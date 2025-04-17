@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxborder</key>
+	<string>richtextborder</string>
+	<key>gateFrequency</key>
+	<string>onmobiletap</string>
+	<key>modalEdge</key>
+	<string>navigationvariableacceleration</string>
+	<key>permissivetimer</key>
+	<string>tabbarlinker</string>
+	<key>routeconstant</key>
+	<string>globalaccessorytension</string>
+	<key>selecteddropdownbutton</key>
+	<string>deferredStatus</string>
+	<key>shouldTransformSkin</key>
+	<string>restartchannel</string>
+	<key>specifierResponse</key>
+	<string>basicFeature</string>
+	<key>traintransition</key>
+	<string>shouldHandleNotification</string>
+	<key>webactiontop</key>
+	<string>uniqueTaxonomy</string>
+</dict>
+</plist>

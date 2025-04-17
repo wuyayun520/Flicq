@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedResilience</key>
+	<string>autoscenebound</string>
+	<key>easyAwait</key>
+	<string>shouldConnectAccessory</string>
+	<key>enabledCapacity</key>
+	<string>canDispatchView</string>
+	<key>exceptionsincelevel</key>
+	<string>canPaintPositioned</string>
+	<key>featureCenter</key>
+	<string>shouldSetStateNotification</string>
+	<key>routedistinction</key>
+	<string>methodHue</string>
+	<key>semanticProject</key>
+	<string>asyncshape</string>
+</dict>
+</plist>

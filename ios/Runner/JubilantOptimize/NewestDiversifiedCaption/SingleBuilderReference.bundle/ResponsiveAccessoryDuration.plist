@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineDuration</key>
+	<string>chapterPhase</string>
+	<key>graphicTint</key>
+	<string>symmetricMobile</string>
+	<key>intermediateCharacter</key>
+	<string>completedTool</string>
+	<key>robustPriority</key>
+	<string>asynchronousFeature</string>
+	<key>shouldPauseStoryboard</key>
+	<string>usedRemediation</string>
+	<key>webSize</key>
+	<string>rebuildTheme</string>
+</dict>
+</plist>

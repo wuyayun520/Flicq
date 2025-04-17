@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="UpwardlyView">
+            <connections>
+                <outlet property="downImageView" destination="GbK-vA-FHm" id="jMd-AE-Qnh"/>
+                <outlet property="listButton" destination="I1J-Nf-i6M" id="ZTE-mZ-tBU"/>
+                <outlet property="constituentImageView" destination="vmG-Q1-4gy" id="pYR-RM-iIP"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="Ffk-D5-0eK" hidden="YES">
+            <rect key="frame" x="0.0" y="0.0" width="75.5" height="509.7"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="bottomLeft" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2208" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="GbK-vA-FHm" autoresizesSubviews="NO">
+                    <rect key="frame" x="133" y="6" width="131.3" height="69.0"/>
+                </imageView>
+                <button contentMode="right" horizontalHuggingPriority="100" verticalHuggingPriority="100" horizontalCompressionResistancePriority="100" verticalCompressionResistancePriority="100" contentHorizontalAlignment="center" contentVerticalAlignment="fill" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="I1J-Nf-i6M">
+                    <rect key="frame" x="247" y="-5" width="223.6" height="69.0"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="status" image="1242-2208">
+                        <color key="titleColor" red="0.10777134827627817" green="0.91983682671837665" blue="0.39786267525877167" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="data mode open number" image="1242-2688">
+                        <color key="titleColor" red="0.22797912834376119" green="0.91627760005493558" blue="0.71920188947219935" alpha="0.95944665864673148" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="price range table" image="1242-2208">
+                        <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+                <imageView userInteractionEnabled="NO" contentMode="top" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2688" highlightedImage="1242-2688" translatesAutoresizingMaskIntoConstraints="NO" id="vmG-Q1-4gy">
+                    <rect key="frame" x="8" y="-5" width="131.3" height="69.0"/>
+                </imageView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="CbJ-Nb-JxZ"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="GbK-vA-FHm" firstAttribute="leading" secondItem="I1J-Nf-i6M" secondAttribute="trailing" constant="1" id="Hrt-W2-5nZ"/>
+                <constraint firstAttribute="bottom" secondItem="GbK-vA-FHm" secondAttribute="bottom" constant="7" id="vMq-C7-0S5"/>
+                <constraint firstAttribute="bottom" secondItem="vmG-Q1-4gy" secondAttribute="bottom" constant="2" id="gCe-4X-8s6"/>
+                <constraint firstAttribute="bottom" secondItem="I1J-Nf-i6M" secondAttribute="bottom" constant="6" id="FhA-oc-3HF"/>
+                <constraint firstItem="I1J-Nf-i6M" firstAttribute="top" secondItem="Ffk-D5-0eK" secondAttribute="top" constant="6" id="jlA-am-WRj"/>
+                <constraint firstItem="CbJ-Nb-JxZ" firstAttribute="trailing" secondItem="vmG-Q1-4gy" secondAttribute="trailing" id="iXe-cG-Xeu"/>
+                <constraint firstItem="vmG-Q1-4gy" firstAttribute="top" secondItem="Ffk-D5-0eK" secondAttribute="top" constant="5" id="OeY-C0-fL0"/>
+                <constraint firstItem="GbK-vA-FHm" firstAttribute="top" secondItem="Ffk-D5-0eK" secondAttribute="top" constant="6" id="f67-Sr-JGK"/>
+                <constraint firstItem="I1J-Nf-i6M" firstAttribute="leading" secondItem="CbJ-Nb-JxZ" secondAttribute="leading" constant="5" id="f6u-8b-Vvs"/>
+                <constraint firstItem="vmG-Q1-4gy" firstAttribute="leading" secondItem="GbK-vA-FHm" secondAttribute="trailing" constant="2" id="RpS-km-urG"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="188.64398570190659" y="-194.74563450844507"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2688" width="110.4" height="121.0"/>
+        <image name="1242-2208" width="110.4" height="121.0"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

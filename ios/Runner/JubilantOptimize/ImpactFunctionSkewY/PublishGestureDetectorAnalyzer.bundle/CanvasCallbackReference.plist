@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dispatcherformat</key>
+	<string>autoBaseline</string>
+	<key>embraceusecase</key>
+	<string>sortedshadertension</string>
+	<key>ignoredBinder</key>
+	<string>canNotifyOverlay</string>
+	<key>mobileConvolution</key>
+	<string>canInflateTernary</string>
+	<key>shouldsaveprotocol</key>
+	<string>clipResponse</string>
+	<key>smallModule</key>
+	<string>canStartBinary</string>
+</dict>
+</plist>

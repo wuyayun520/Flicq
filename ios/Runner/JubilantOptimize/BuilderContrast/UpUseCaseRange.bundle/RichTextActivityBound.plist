@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConfiguration</key>
+	<string>smallLayer</string>
+	<key>apertureedge</key>
+	<string>capacitiesProcess</string>
+	<key>limittext</key>
+	<string>currentpet</string>
+	<key>shouldInflateCapsule</key>
+	<string>usedBullet</string>
+	<key>tabledirection</key>
+	<string>associatedAlert</string>
+</dict>
+</plist>

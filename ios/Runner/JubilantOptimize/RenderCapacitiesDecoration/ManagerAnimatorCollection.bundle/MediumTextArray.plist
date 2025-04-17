@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnType</key>
+	<string>canObserveGrayscale</string>
+	<key>descriptorDuration</key>
+	<string>shouldUnmountedBox</string>
+	<key>euclideanVolume</key>
+	<string>skinCoord</string>
+	<key>featureAlignment</key>
+	<string>pinchableResource</string>
+	<key>granularTask</key>
+	<string>canShowUsage</string>
+	<key>metadataState</key>
+	<string>maxInkWell</string>
+	<key>newestMomentum</key>
+	<string>compositiontype</string>
+</dict>
+</plist>

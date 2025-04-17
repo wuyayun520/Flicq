@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>brushversusbridge</key>
+	<string>specifierVariable</string>
+	<key>channelFlags</key>
+	<string>subpixelPhase</string>
+	<key>cupertinovisibility</key>
+	<string>disabledStateful</string>
+	<key>floatnotifier</key>
+	<string>consultativeOverlay</string>
+	<key>selectedMaster</key>
+	<string>shouldSerializeCaption</string>
+	<key>sustainableCoordinator</key>
+	<string>explicitLoss</string>
+</dict>
+</plist>

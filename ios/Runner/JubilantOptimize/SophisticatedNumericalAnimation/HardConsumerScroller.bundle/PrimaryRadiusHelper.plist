@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionCard</key>
+	<string>mapinterval</string>
+	<key>materialcluster</key>
+	<string>spinepadding</string>
+	<key>pinchableVariant</key>
+	<string>permissiveCompleter</string>
+	<key>quitpositioned</key>
+	<string>shouldShowReference</string>
+	<key>shouldProcessScale</key>
+	<string>elastictask</string>
+	<key>titlenumbertag</key>
+	<string>interceptWidget</string>
+	<key>typicalNavigation</key>
+	<string>concurrentCombiner</string>
+</dict>
+</plist>

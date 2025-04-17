@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chapterType</key>
+	<string>gestureviabridge</string>
+	<key>customDistinction</key>
+	<string>canBindClipper</string>
+	<key>eagerMonster</key>
+	<string>canStartSizedBox</string>
+	<key>histogramColor</key>
+	<string>streamhead</string>
+	<key>scrollablemusic</key>
+	<string>shouldHandleReduction</string>
+	<key>seamlessInteraction</key>
+	<string>groupColor</string>
+	<key>subscribeview</key>
+	<string>inactiveEntity</string>
+</dict>
+</plist>

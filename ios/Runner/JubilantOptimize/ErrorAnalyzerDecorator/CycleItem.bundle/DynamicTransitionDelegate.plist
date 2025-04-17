@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurecoordinator</key>
+	<string>symmetricStatus</string>
+	<key>grainInset</key>
+	<string>featureForm</string>
+	<key>largeKernel</key>
+	<string>isbitrate</string>
+	<key>shouldObserveObserver</key>
+	<string>skipgroup</string>
+	<key>variantevaluation</key>
+	<string>canCachePainter</string>
+</dict>
+</plist>

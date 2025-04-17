@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentTransition</key>
+	<string>provisionEdge</string>
+	<key>disparateFilter</key>
+	<string>interfaceProcess</string>
+	<key>popupsinceprocess</key>
+	<string>catalystmesh</string>
+</dict>
+</plist>

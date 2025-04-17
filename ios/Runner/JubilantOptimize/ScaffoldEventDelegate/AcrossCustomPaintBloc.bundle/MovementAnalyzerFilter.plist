@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composablebuildervalidation</key>
+	<string>canPersistNotifier</string>
+	<key>consumerStatus</key>
+	<string>sanitizeLoop</string>
+	<key>expandedinterpreterpadding</key>
+	<string>greatstream</string>
+	<key>independentconverter</key>
+	<string>itemLeft</string>
+	<key>intensityStatus</key>
+	<string>pinchableSelector</string>
+	<key>resizableAnimation</key>
+	<string>compositionalAmortization</string>
+	<key>shouldPaintAspect</key>
+	<string>shouldAttachStack</string>
+</dict>
+</plist>

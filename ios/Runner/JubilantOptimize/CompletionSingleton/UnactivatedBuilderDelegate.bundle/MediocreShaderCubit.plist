@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderPressure</key>
+	<string>visibleFlex</string>
+	<key>declarativeStack</key>
+	<string>canEmitCaption</string>
+	<key>largeGridView</key>
+	<string>debugTitle</string>
+	<key>relationaltweeninterval</key>
+	<string>aspectSystem</string>
+	<key>schemarate</key>
+	<string>profileRight</string>
+	<key>shouldLoadCharacter</key>
+	<string>initializeMenu</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentInjection</key>
+	<string>modalhead</string>
+	<key>ignoredGraph</key>
+	<string>detachticker</string>
+	<key>immutableAspectRatio</key>
+	<string>trainMission</string>
+	<key>semanticsHead</key>
+	<string>consumerOperation</string>
+	<key>shouldPaintAperture</key>
+	<string>tangentPhase</string>
+	<key>titleInteraction</key>
+	<string>dedicatedAnimation</string>
+	<key>titleInterval</key>
+	<string>shouldValidateSignature</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentQuaternion</key>
+	<string>swiftdependency</string>
+	<key>dimensionsingletonrotation</key>
+	<string>reactiveChecklist</string>
+	<key>efficiencyStyle</key>
+	<string>transitionStyle</string>
+	<key>integrationOffset</key>
+	<string>concurrentData</string>
+	<key>popcell</key>
+	<string>canSerializePromise</string>
+	<key>statefulconnector</key>
+	<string>navigateObserver</string>
+	<key>unactivatedStorage</key>
+	<string>granularMobile</string>
+</dict>
+</plist>

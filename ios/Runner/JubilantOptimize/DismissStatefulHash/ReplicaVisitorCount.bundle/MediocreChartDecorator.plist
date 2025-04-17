@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCursor</key>
+	<string>checkboxActivity</string>
+	<key>commonanimation</key>
+	<string>objectCoord</string>
+	<key>cubitContrast</key>
+	<string>nativeExtension</string>
+	<key>flexibleDetector</key>
+	<string>provisionValidation</string>
+	<key>groupacceleration</key>
+	<string>navigatorformhue</string>
+	<key>meshDuration</key>
+	<string>shouldrestartchannels</string>
+	<key>shouldLayoutTouch</key>
+	<string>gradientTier</string>
+</dict>
+</plist>

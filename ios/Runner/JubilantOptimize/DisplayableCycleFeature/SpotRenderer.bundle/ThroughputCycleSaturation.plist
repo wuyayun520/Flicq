@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalImpression</key>
+	<string>subscribeLayout</string>
+	<key>confidentialityInteraction</key>
+	<string>writeDelegate</string>
+	<key>deliveryColor</key>
+	<string>accessibleHash</string>
+	<key>euclideanError</key>
+	<string>unmarshalBuffer</string>
+	<key>gemVisibility</key>
+	<string>symmetricCompletion</string>
+	<key>responsiveInitiators</key>
+	<string>accelerateAction</string>
+	<key>shouldUnmountedProtocol</key>
+	<string>isolateInteraction</string>
+	<key>statefulFlags</key>
+	<string>deserializecollection</string>
+	<key>taskValidation</key>
+	<string>localizationoperationtransparency</string>
+	<key>usecasecontextright</key>
+	<string>canStreamOperation</string>
+</dict>
+</plist>

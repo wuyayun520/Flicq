@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicRectangle</key>
+	<string>singleAnalyzer</string>
+	<key>elementformat</key>
+	<string>ephemeralNavigation</string>
+	<key>hardInkWell</key>
+	<string>primarySession</string>
+	<key>ignoredVolume</key>
+	<string>pinchablepositionedforce</string>
+	<key>momentumAlignment</key>
+	<string>publicConstraint</string>
+	<key>resolverTail</key>
+	<string>retainedArchitecture</string>
+	<key>semanticGram</key>
+	<string>threadAppearance</string>
+	<key>usedradius</key>
+	<string>inkwellTheme</string>
+</dict>
+</plist>

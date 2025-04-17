@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveExponent</key>
+	<string>canProcessSegment</string>
+	<key>lostGraphic</key>
+	<string>meshDuration</string>
+	<key>missedDrawer</key>
+	<string>heapDecorator</string>
+	<key>shouldStreamMediaQuery</key>
+	<string>shouldAttachSkirt</string>
+	<key>shouldvalidatetechnique</key>
+	<string>hasPet</string>
+	<key>strengthInset</key>
+	<string>shouldPersistCursor</string>
+</dict>
+</plist>

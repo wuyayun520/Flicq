@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedCharacter</key>
+	<string>globalAsync</string>
+	<key>builderDirection</key>
+	<string>canDeserializeOverlay</string>
+	<key>dialogsShape</key>
+	<string>statelessStamp</string>
+	<key>resizableSegue</key>
+	<string>explicitcontrast</string>
+	<key>sortedLabel</key>
+	<string>transformerShape</string>
+	<key>specifyInjection</key>
+	<string>robustQueue</string>
+</dict>
+</plist>

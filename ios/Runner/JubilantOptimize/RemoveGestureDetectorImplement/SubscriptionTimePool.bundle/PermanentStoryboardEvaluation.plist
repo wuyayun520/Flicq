@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaOffset</key>
+	<string>baselineedge</string>
+	<key>normagainsttype</key>
+	<string>canPrepareCaption</string>
+	<key>publishervelocity</key>
+	<string>resultOpacity</string>
+	<key>responsiveScene</key>
+	<string>canInflateView</string>
+	<key>sequentialRepository</key>
+	<string>chaptername</string>
+	<key>sequentialShader</key>
+	<string>inactiveFlex</string>
+	<key>shouldNavigateMultiplication</key>
+	<string>shouldProcessTabBar</string>
+	<key>sophisticatedtentative</key>
+	<string>showTimer</string>
+</dict>
+</plist>

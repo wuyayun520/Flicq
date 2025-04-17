@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleInformation</key>
+	<string>shouldUpdateRow</string>
+	<key>backwardcontrast</key>
+	<string>shouldFormatMargin</string>
+	<key>bulletTint</key>
+	<string>measureLabel</string>
+	<key>lastCharacteristic</key>
+	<string>dimensiontitle</string>
+	<key>protectedTweak</key>
+	<string>createSign</string>
+	<key>standaloneComponent</key>
+	<string>directCollection</string>
+	<key>staticColumn</key>
+	<string>convolutionAcceleration</string>
+	<key>textureFormat</key>
+	<string>hyperbolicIntegrity</string>
+	<key>uniformtransformer</key>
+	<string>unmountUsage</string>
+</dict>
+</plist>

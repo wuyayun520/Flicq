@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disclaimerskewx</key>
+	<string>futureVisibility</string>
+	<key>overlaytransformer</key>
+	<string>endEquipment</string>
+	<key>permissivePosition</key>
+	<string>shouldPresentProtocol</string>
+	<key>shouldLayoutDocument</key>
+	<string>canNavigateTextField</string>
+	<key>statefulRole</key>
+	<string>sizeStage</string>
+</dict>
+</plist>

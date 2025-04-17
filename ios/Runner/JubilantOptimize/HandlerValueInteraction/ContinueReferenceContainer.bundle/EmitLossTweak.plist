@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedImpression</key>
+	<string>detachFrame</string>
+	<key>callbackScale</key>
+	<string>canDetachCharacter</string>
+	<key>hashhead</key>
+	<string>shouldBindNavigator</string>
+	<key>immediateInstruction</key>
+	<string>seamlessCubit</string>
+	<key>retainedFeature</key>
+	<string>referenceFramework</string>
+	<key>shouldUpdateDimension</key>
+	<string>cursorshape</string>
+	<key>textPressure</key>
+	<string>greatBox</string>
+</dict>
+</plist>

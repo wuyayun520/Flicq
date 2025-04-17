@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseObserver</key>
+	<string>setstateexception</string>
+	<key>difficultEmitter</key>
+	<string>dedicatedOptimizer</string>
+	<key>iterativeTopic</key>
+	<string>alphaValue</string>
+	<key>shouldReplaceNib</key>
+	<string>shouldPauseCursor</string>
+	<key>shouldSubscribeBullet</key>
+	<string>revisitCurve</string>
+	<key>subscriberPressure</key>
+	<string>quantizationGrain</string>
+</dict>
+</plist>

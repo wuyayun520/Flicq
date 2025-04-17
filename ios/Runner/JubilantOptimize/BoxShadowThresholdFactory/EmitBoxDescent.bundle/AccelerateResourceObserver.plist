@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerMap</key>
+	<string>displayTransition</string>
+	<key>easyMap</key>
+	<string>denseCombiner</string>
+	<key>equalizationSpeed</key>
+	<string>calculateProgressBar</string>
+	<key>evaluationBottom</key>
+	<string>processmatrix</string>
+	<key>hierarchicalData</key>
+	<string>canDisconnectTool</string>
+	<key>shouldResumeBase</key>
+	<string>canInitializeModal</string>
+	<key>stampHead</key>
+	<string>aspectBound</string>
+	<key>statelessAcceleration</key>
+	<string>semanticsobserversaturation</string>
+</dict>
+</plist>

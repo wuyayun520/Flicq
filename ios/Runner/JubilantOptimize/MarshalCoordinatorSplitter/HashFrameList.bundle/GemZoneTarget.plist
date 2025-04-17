@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonResource</key>
+	<string>flexibleRadius</string>
+	<key>gestureshade</key>
+	<string>crudePromise</string>
+	<key>localizationposition</key>
+	<string>canDetachGestureDetector</string>
+	<key>permissiveAlert</key>
+	<string>canSaveGram</string>
+	<key>petdata</key>
+	<string>checklistPressure</string>
+	<key>reactiveGram</key>
+	<string>shouldcanceldecoration</string>
+	<key>shouldReplaceStoryboard</key>
+	<string>movementelement</string>
+	<key>sophisticatedscale</key>
+	<string>canMountedCapacities</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityBorder</key>
+	<string>shouldPresentNib</string>
+	<key>painterMargin</key>
+	<string>charactershape</string>
+	<key>shouldSkipBase</key>
+	<string>sliderJob</string>
+	<key>webSubscriber</key>
+	<string>crudeChannels</string>
+</dict>
+</plist>

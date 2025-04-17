@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>certificateAppearance</key>
+	<string>canConnectMission</string>
+	<key>isTask</key>
+	<string>intermediateIndicator</string>
+	<key>nibInset</key>
+	<string>prevscenario</string>
+	<key>scrollmargin</key>
+	<string>deserializeMaster</string>
+	<key>shouldEncodeCursor</key>
+	<string>pinchableclipperbottom</string>
+	<key>shouldLayoutPadding</key>
+	<string>streamqueue</string>
+	<key>shouldShowSession</key>
+	<string>dispatchPlate</string>
+	<key>taskbesidepattern</key>
+	<string>reducescreen</string>
+</dict>
+</plist>

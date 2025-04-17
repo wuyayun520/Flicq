@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descriptiontasktype</key>
+	<string>canSaveNib</string>
+	<key>gramcontaincomposite</key>
+	<string>configurationvalidation</string>
+	<key>layoutdisclaimer</key>
+	<string>quitoption</string>
+	<key>mediocreConsumer</key>
+	<string>errorMomentum</string>
+	<key>robustAnimatedContainer</key>
+	<string>globalSwift</string>
+	<key>seamlesssubpixel</key>
+	<string>gridjoborigin</string>
+	<key>shouldUnbindPositioned</key>
+	<string>hasCell</string>
+	<key>symmetricHistogram</key>
+	<string>shouldPausePromise</string>
+	<key>unaryAppearance</key>
+	<string>oldresult</string>
+</dict>
+</plist>

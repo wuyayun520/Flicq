@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatepainter</key>
+	<string>newestEvent</string>
+	<key>declarativeResult</key>
+	<string>keepSwitch</string>
+	<key>geometricrow</key>
+	<string>dismissEntity</string>
+	<key>imageconfidentiality</key>
+	<string>interactiveTheme</string>
+	<key>interactiveCosine</key>
+	<string>canPublishSwitch</string>
+	<key>sceneVisibility</key>
+	<string>yieldCompletion</string>
+	<key>sizeHue</key>
+	<string>errorStrategy</string>
+</dict>
+</plist>

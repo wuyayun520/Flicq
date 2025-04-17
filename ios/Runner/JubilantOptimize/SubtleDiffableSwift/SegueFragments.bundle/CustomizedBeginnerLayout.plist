@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeinjectionorigin</key>
+	<string>resizableQuaternion</string>
+	<key>lazyTool</key>
+	<string>holdSprite</string>
+	<key>prismaticSubpixel</key>
+	<string>currentmodal</string>
+	<key>shouldObservePet</key>
+	<string>temporaryModal</string>
+	<key>shouldUnmountedTask</key>
+	<string>priorMaterial</string>
+	<key>smartPoint</key>
+	<string>canDetachCard</string>
+	<key>symmetricNavigator</key>
+	<string>minReduction</string>
+	<key>tabbarBehavior</key>
+	<string>normDelay</string>
+	<key>typicalOptimizer</key>
+	<string>uniformRouter</string>
+</dict>
+</plist>

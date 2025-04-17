@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteFragments</key>
+	<string>subpixelshade</string>
+	<key>hierarchicalListView</key>
+	<string>consumptiondelay</string>
+	<key>movementinsidekind</key>
+	<string>canStreamProvider</string>
+	<key>queueleft</key>
+	<string>primaryScenario</string>
+	<key>resourcechooser</key>
+	<string>priorvector</string>
+	<key>textureconfidentiality</key>
+	<string>independentslash</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseMaterializer</key>
+	<string>listenwidget</string>
+	<key>geometricascent</key>
+	<string>containerLeft</string>
+	<key>graphicprovider</key>
+	<string>elasticEntropy</string>
+	<key>greatProfile</key>
+	<string>fusedPreview</string>
+	<key>interactiveScheduler</key>
+	<string>shearBloc</string>
+	<key>publicbase</key>
+	<string>shouldInitializeDrawer</string>
+	<key>sharedDuration</key>
+	<string>shouldRebuildConstraint</string>
+	<key>similarProvision</key>
+	<string>shouldSerializeNotifier</string>
+</dict>
+</plist>

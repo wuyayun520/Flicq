@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackSaturation</key>
+	<string>animatedcontainerstateleft</string>
+	<key>captionlikenumber</key>
+	<string>groupJob</string>
+	<key>explicitconstraint</key>
+	<string>queueevolution</string>
+	<key>interfaceequivalent</key>
+	<string>loadMovement</string>
+	<key>litePresenter</key>
+	<string>canEncodeRoute</string>
+	<key>responsiveExpanded</key>
+	<string>shouldSkipScreen</string>
+	<key>shouldshowmember</key>
+	<string>renameView</string>
+	<key>sizeanalyzer</key>
+	<string>margincoord</string>
+</dict>
+</plist>

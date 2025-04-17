@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsegue</key>
+	<string>accessoryTier</string>
+	<key>imperativeBrush</key>
+	<string>assetColor</string>
+	<key>isSegment</key>
+	<string>formatScale</string>
+	<key>materialElasticity</key>
+	<string>cosineEdge</string>
+	<key>shouldrestartplate</key>
+	<string>otherFragments</string>
+	<key>statelessRect</key>
+	<string>keyMobile</string>
+	<key>subsequentBehavior</key>
+	<string>paintDialogs</string>
+	<key>webScope</key>
+	<string>scrollerposition</string>
+</dict>
+</plist>

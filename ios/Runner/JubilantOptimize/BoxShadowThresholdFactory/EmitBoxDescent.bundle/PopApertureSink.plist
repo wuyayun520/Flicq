@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorPadding</key>
+	<string>constraintdata</string>
+	<key>binarystagedelay</key>
+	<string>shouldBuildAnimatedContainer</string>
+	<key>nativeWorkflow</key>
+	<string>extendLocalization</string>
+	<key>resizableAllocator</key>
+	<string>resultDepth</string>
+	<key>scenarioTag</key>
+	<string>noderotation</string>
+	<key>seamlessScroller</key>
+	<string>sequentialScroller</string>
+	<key>shouldEncodeTechnique</key>
+	<string>comprehensiveHash</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalExpanded</key>
+	<string>amortizationResponse</string>
+	<key>nextCapsule</key>
+	<string>inheritedVolume</string>
+	<key>observerstyle</key>
+	<string>selectedresource</string>
+	<key>sharedAperture</key>
+	<string>exponentTheme</string>
+	<key>sinkVisibility</key>
+	<string>shouldAnimateIndicator</string>
+	<key>tappableEvolution</key>
+	<string>cancelObserver</string>
+	<key>tweenPosition</key>
+	<string>deferredRichText</string>
+	<key>webpager</key>
+	<string>permissiveTime</string>
+</dict>
+</plist>

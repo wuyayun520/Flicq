@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerRoute</key>
+	<string>tensorGrid</string>
+	<key>euclideanAnimator</key>
+	<string>notificationIndex</string>
+	<key>immutableThread</key>
+	<string>statusRate</string>
+	<key>isskin</key>
+	<string>attachCollection</string>
+	<key>localConstraint</key>
+	<string>adaptiveDescent</string>
+	<key>persistentstream</key>
+	<string>invisibleBorder</string>
+	<key>remediationinset</key>
+	<string>elasticRow</string>
+	<key>sophisticatedcapacitieshue</key>
+	<string>scheduleFrame</string>
+	<key>tappableAperture</key>
+	<string>shouldpersistequipment</string>
+</dict>
+</plist>

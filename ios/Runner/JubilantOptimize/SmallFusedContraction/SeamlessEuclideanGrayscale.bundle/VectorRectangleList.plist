@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsTension</key>
+	<string>setstateBullet</string>
+	<key>characterposition</key>
+	<string>canCacheComposition</string>
+	<key>lazyOptimizer</key>
+	<string>canTransitionBehavior</string>
+	<key>reusableInjection</key>
+	<string>sharedContraction</string>
+	<key>scrollableOptimizer</key>
+	<string>actionflags</string>
+	<key>sortedAllocator</key>
+	<string>maintainMetadata</string>
+	<key>subsequentimagevalidation</key>
+	<string>canEncodeTool</string>
+</dict>
+</plist>

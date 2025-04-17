@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedEquipment</key>
+	<string>errorTier</string>
+	<key>diversifiedConstant</key>
+	<string>usedtimerhead</string>
+	<key>localProgressBar</key>
+	<string>logarithmValue</string>
+	<key>numericalQueue</key>
+	<string>completionResponse</string>
+	<key>rapidShader</key>
+	<string>alertedge</string>
+	<key>resolverbinder</key>
+	<string>canConnectSlash</string>
+	<key>shouldFinishListView</key>
+	<string>associatedwidgetdensity</string>
+	<key>shouldLayoutBorder</key>
+	<string>dismissprogressbar</string>
+	<key>smallIsolate</key>
+	<string>capsuleBehavior</string>
+	<key>ternaryshape</key>
+	<string>constantStatus</string>
+</dict>
+</plist>

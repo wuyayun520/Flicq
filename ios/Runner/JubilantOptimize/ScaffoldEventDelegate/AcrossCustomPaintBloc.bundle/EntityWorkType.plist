@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitDistinction</key>
+	<string>eagerEvent</string>
+	<key>notationAcceleration</key>
+	<string>receiverInteraction</string>
+	<key>prevCombiner</key>
+	<string>spinbase</string>
+	<key>receiverVisible</key>
+	<string>mainNorm</string>
+	<key>resizableSubpixel</key>
+	<string>vertexskewx</string>
+	<key>shouldRouteBullet</key>
+	<string>shouldMountCell</string>
+</dict>
+</plist>

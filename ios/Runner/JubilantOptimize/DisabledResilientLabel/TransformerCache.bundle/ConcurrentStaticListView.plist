@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionBase</key>
+	<string>hyperbolicFrame</string>
+	<key>elasticityHead</key>
+	<string>easyMargin</string>
+	<key>navigatorschema</key>
+	<string>canHandleMargin</string>
+	<key>parseframe</key>
+	<string>overrideTopic</string>
+	<key>resourcebyfacade</key>
+	<string>inheritedTransformer</string>
+	<key>setstateoptimizer</key>
+	<string>canShowSignature</string>
+	<key>shouldFetchCard</key>
+	<string>shouldstartmargin</string>
+	<key>shouldstopprojection</key>
+	<string>wrapperDistance</string>
+</dict>
+</plist>

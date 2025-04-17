@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedSelector</key>
+	<string>deserializeChart</string>
+	<key>combinerformat</key>
+	<string>captureusecase</string>
+	<key>positionedbehavior</key>
+	<string>animatedRange</string>
+	<key>seamlessSize</key>
+	<string>particleshader</string>
+	<key>shouldAnimateDecoration</key>
+	<string>resumeSensor</string>
+	<key>shouldBindStep</key>
+	<string>declarativeCertificate</string>
+	<key>symmetricJoiner</key>
+	<string>variantcontainer</string>
+</dict>
+</plist>

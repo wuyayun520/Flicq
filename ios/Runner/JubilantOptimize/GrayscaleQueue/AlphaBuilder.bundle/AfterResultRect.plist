@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentremainder</key>
+	<string>handleProjection</string>
+	<key>drawerMode</key>
+	<string>tappablePageView</string>
+	<key>futureSpeed</key>
+	<string>sophisticatedFrame</string>
+	<key>pinchableDrawer</key>
+	<string>shouldPublishFlex</string>
+	<key>shouldEndDrawer</key>
+	<string>alignmentLayer</string>
+	<key>shouldSubscribeOverlay</key>
+	<string>persistAccessory</string>
+	<key>specifyAscent</key>
+	<string>fusedScale</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticappbar</key>
+	<string>canDispatchTheme</string>
+	<key>crucialTweak</key>
+	<string>normalAspectRatio</string>
+	<key>custompaintState</key>
+	<string>spriteandphase</string>
+	<key>mediumFragment</key>
+	<string>canDetachTransition</string>
+	<key>methodfacadeleft</key>
+	<string>protectedIntegration</string>
+	<key>relationalskirt</key>
+	<string>dynamicCell</string>
+	<key>staticContraction</key>
+	<string>augmentUseCase</string>
+	<key>tableinteraction</key>
+	<string>shouldInitializeSegment</string>
+</dict>
+</plist>

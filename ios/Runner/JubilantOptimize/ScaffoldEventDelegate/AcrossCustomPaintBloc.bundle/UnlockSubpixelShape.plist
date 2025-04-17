@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalEvaluation</key>
+	<string>frameBuffer</string>
+	<key>eagerCreator</key>
+	<string>specifyEntity</string>
+	<key>missionDirection</key>
+	<string>pageviewoutsidememento</string>
+	<key>observerCenter</key>
+	<string>shouldEndChannels</string>
+	<key>provisionRate</key>
+	<string>adjustVector</string>
+	<key>uniformUseCase</key>
+	<string>capsuleSingleton</string>
+</dict>
+</plist>

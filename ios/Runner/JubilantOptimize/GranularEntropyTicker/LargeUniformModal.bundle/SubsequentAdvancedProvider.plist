@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousDescription</key>
+	<string>agileGesture</string>
+	<key>pinchableFrame</key>
+	<string>canTrainAlpha</string>
+	<key>shouldpaintsample</key>
+	<string>semanticsComposite</string>
+	<key>singleSymbol</key>
+	<string>allocateBuilder</string>
+	<key>timerInterval</key>
+	<string>requestAppearance</string>
+</dict>
+</plist>

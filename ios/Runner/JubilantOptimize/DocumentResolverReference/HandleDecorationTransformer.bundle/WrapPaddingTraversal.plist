@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileStamp</key>
+	<string>decodeGesture</string>
+	<key>fuseddelegate</key>
+	<string>sequentialLoader</string>
+	<key>gridStyle</key>
+	<string>canDismissDocument</string>
+	<key>localStroke</key>
+	<string>tweenAction</string>
+	<key>missedTicker</key>
+	<string>directDescription</string>
+	<key>polygonTag</key>
+	<string>semanticBinder</string>
+	<key>shoulddetachbrush</key>
+	<string>canUpdatePlayback</string>
+	<key>signFormat</key>
+	<string>musicDensity</string>
+</dict>
+</plist>

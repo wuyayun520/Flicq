@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalProvision</key>
+	<string>shouldInflateTool</string>
+	<key>deferredprocessor</key>
+	<string>publicCell</string>
+	<key>inkwellState</key>
+	<string>alphaPosition</string>
+	<key>materializerHead</key>
+	<string>setstateDescriptor</string>
+</dict>
+</plist>

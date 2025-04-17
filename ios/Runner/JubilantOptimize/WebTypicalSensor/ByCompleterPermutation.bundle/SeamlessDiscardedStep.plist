@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmetickinddistance</key>
+	<string>injectionAdapter</string>
+	<key>backwardSign</key>
+	<string>delegateoverlay</string>
+	<key>crudeGem</key>
+	<string>flexibleItem</string>
+	<key>logarithmSpacing</key>
+	<string>disabledDependency</string>
+	<key>mediocreIntensity</key>
+	<string>pinchableScroller</string>
+	<key>musicState</key>
+	<string>marginfromphase</string>
+	<key>persistentBinder</key>
+	<string>canShowCupertino</string>
+	<key>sharedShader</key>
+	<string>ephemeralExpanded</string>
+	<key>uniformItem</key>
+	<string>lazyPolyfill</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directAnchor</key>
+	<string>apertureLayer</string>
+	<key>euclideanGroup</key>
+	<string>firstConnector</string>
+	<key>resilientThroughput</key>
+	<string>shouldObserveMusic</string>
+	<key>sampleOrigin</key>
+	<string>canYieldBitrate</string>
+	<key>serviceStyle</key>
+	<string>difficultStore</string>
+</dict>
+</plist>

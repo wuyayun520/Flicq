@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedsemantics</key>
+	<string>canParseSession</string>
+	<key>chartshape</key>
+	<string>actionvalidation</string>
+	<key>firstInitiative</key>
+	<string>canContinueBox</string>
+	<key>fragmentsresponse</key>
+	<string>minSignature</string>
+	<key>independentTool</key>
+	<string>shouldPushPageView</string>
+	<key>nibTop</key>
+	<string>pickerCenter</string>
+	<key>onflexchanged</key>
+	<string>accessibleCube</string>
+	<key>painterInteraction</key>
+	<string>uniformblocvelocity</string>
+	<key>syncalignment</key>
+	<string>matrixAdapter</string>
+</dict>
+</plist>

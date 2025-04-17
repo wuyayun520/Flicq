@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiescharacteristic</key>
+	<string>workflowmethodtype</string>
+	<key>compilelog</key>
+	<string>symbolOperation</string>
+	<key>crucialPoint</key>
+	<string>shouldResumeCoordinator</string>
+	<key>eventValidation</key>
+	<string>evaluateMenu</string>
+	<key>firstReducer</key>
+	<string>gradientValue</string>
+	<key>shouldAnimateRichText</key>
+	<string>comprehensivedecorationspacing</string>
+	<key>shouldstoppainter</key>
+	<string>cancelDecoration</string>
+	<key>spotPosition</key>
+	<string>canShowDrawer</string>
+	<key>uniqueConsumption</key>
+	<string>mainAnimatedContainer</string>
+</dict>
+</plist>

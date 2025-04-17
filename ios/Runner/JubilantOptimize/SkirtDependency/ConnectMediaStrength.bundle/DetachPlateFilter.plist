@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentAspectRatio</key>
+	<string>deserializeCaption</string>
+	<key>diversifiedAnimatedContainer</key>
+	<string>oldfactoryopacity</string>
+	<key>globalLinker</key>
+	<string>sustainableQuaternion</string>
+	<key>paddingshapeinterval</key>
+	<string>responseSkewX</string>
+	<key>shouldLayoutCard</key>
+	<string>shouldPaintAppBar</string>
+</dict>
+</plist>

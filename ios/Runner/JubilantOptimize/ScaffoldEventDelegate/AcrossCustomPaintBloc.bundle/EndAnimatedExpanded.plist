@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnimatedContainer</key>
+	<string>canProcessCurve</string>
+	<key>dedicatedModel</key>
+	<string>introspectSink</string>
+	<key>enabledHero</key>
+	<string>wrapBuffer</string>
+	<key>firstCallback</key>
+	<string>typicalstate</string>
+	<key>infrastructureMomentum</key>
+	<string>updateTabBar</string>
+	<key>publicAction</key>
+	<string>lockBuffer</string>
+	<key>rolestore</key>
+	<string>scrollbehavior</string>
+</dict>
+</plist>

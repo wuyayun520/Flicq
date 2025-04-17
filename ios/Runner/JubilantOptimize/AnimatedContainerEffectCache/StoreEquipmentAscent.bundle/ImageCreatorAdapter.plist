@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disconnectstoryboard</key>
+	<string>readMethod</string>
+	<key>ignoredGrain</key>
+	<string>substantialRemainder</string>
+	<key>localNavigation</key>
+	<string>flexibleInteger</string>
+	<key>navigatorLeft</key>
+	<string>concreteintegrity</string>
+	<key>scrollableCycle</key>
+	<string>concurrentZone</string>
+	<key>shouldHandlePoint</key>
+	<string>modalcharacteristic</string>
+	<key>shouldRebuildProjection</key>
+	<string>disabledCompleter</string>
+</dict>
+</plist>

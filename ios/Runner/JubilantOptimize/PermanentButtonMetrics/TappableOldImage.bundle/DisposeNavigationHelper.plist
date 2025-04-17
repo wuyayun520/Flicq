@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleBaseline</key>
+	<string>composableInstruction</string>
+	<key>agileTransformer</key>
+	<string>topicobserver</string>
+	<key>buildchart</key>
+	<string>restartLabel</string>
+	<key>evolutionTension</key>
+	<string>euclideanProtocol</string>
+	<key>finishpositioned</key>
+	<string>sequentialLog</string>
+	<key>modulusInterval</key>
+	<string>unmountmenu</string>
+	<key>sharedGrid</key>
+	<string>setupRow</string>
+	<key>sizeColor</key>
+	<string>parallelbufferscale</string>
+	<key>uniqueTask</key>
+	<string>quitLoop</string>
+</dict>
+</plist>

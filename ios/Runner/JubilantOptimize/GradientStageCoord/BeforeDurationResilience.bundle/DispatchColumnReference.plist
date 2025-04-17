@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentLocation</key>
+	<string>immutableStateful</string>
+	<key>deferredLinker</key>
+	<string>shouldAttachAnchor</string>
+	<key>inactiveIcon</key>
+	<string>lostCompleter</string>
+	<key>independentBloc</key>
+	<string>respondScene</string>
+	<key>inkwellResponse</key>
+	<string>subpixelColor</string>
+	<key>secondGram</key>
+	<string>paintBaseline</string>
+	<key>serviceforfacade</key>
+	<string>protectedCertificate</string>
+	<key>statelessConsumer</key>
+	<string>sinkTier</string>
+	<key>visibleInterpolation</key>
+	<string>mediocreBehavior</string>
+</dict>
+</plist>

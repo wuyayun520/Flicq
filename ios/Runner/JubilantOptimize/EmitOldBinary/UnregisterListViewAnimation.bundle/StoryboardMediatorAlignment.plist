@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>coordinatorHue</key>
+	<string>shouldAnimateCollection</string>
+	<key>greatAsync</key>
+	<string>delegatetop</string>
+	<key>missedinfo</key>
+	<string>quitDuration</string>
+	<key>persistentStateful</key>
+	<string>concurrentscreentension</string>
+</dict>
+</plist>

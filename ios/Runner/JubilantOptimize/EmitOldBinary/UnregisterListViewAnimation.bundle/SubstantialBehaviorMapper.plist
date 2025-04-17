@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionThreshold</key>
+	<string>onmapchanged</string>
+	<key>fusedAppBar</key>
+	<string>robustChooser</string>
+	<key>grainMomentum</key>
+	<string>griddelay</string>
+	<key>greatBatch</key>
+	<string>priorityInterpreter</string>
+	<key>mastertopic</key>
+	<string>intuitiveSensor</string>
+	<key>playbackstagevisibility</key>
+	<string>linkerpadding</string>
+	<key>shouldobservemovement</key>
+	<string>mutablepet</string>
+	<key>unaryDistance</key>
+	<string>pagerRight</string>
+	<key>wraplistview</key>
+	<string>sustainableInkWell</string>
+</dict>
+</plist>

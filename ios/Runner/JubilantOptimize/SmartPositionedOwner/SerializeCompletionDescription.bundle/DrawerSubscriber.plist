@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopreplica</key>
+	<string>coordinatortypeflags</string>
+	<key>diversifiedPopup</key>
+	<string>inactivestack</string>
+	<key>hashistogram</key>
+	<string>keyConvolution</string>
+	<key>intermediateAnalyzer</key>
+	<string>endTernary</string>
+	<key>stackhue</key>
+	<string>rowfromscope</string>
+</dict>
+</plist>

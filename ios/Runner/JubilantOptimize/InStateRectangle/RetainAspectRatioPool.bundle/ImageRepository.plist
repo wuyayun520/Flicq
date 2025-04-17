@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxresponse</key>
+	<string>intuitivewidgetdirection</string>
+	<key>commonMultiplication</key>
+	<string>precisionTheme</string>
+	<key>directlyResource</key>
+	<string>immediateisolatestatus</string>
+	<key>discardedPadding</key>
+	<string>prepareMultiplication</string>
+	<key>graphScale</key>
+	<string>blocscenario</string>
+	<key>shouldDetachTool</key>
+	<string>parseDropdownButton</string>
+	<key>shouldParseLog</key>
+	<string>canStartMediaQuery</string>
+	<key>spriteduration</key>
+	<string>variantMediator</string>
+</dict>
+</plist>

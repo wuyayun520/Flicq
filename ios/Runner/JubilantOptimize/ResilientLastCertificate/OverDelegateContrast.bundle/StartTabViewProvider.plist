@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorpadding</key>
+	<string>cloneaperture</string>
+	<key>dependencyscale</key>
+	<string>curveDuration</string>
+	<key>otherspineedge</key>
+	<string>multiResolver</string>
+	<key>singleTime</key>
+	<string>parallelJoiner</string>
+	<key>smartinitiatorsdelay</key>
+	<string>radioDecorator</string>
+	<key>sophisticatedrowmomentum</key>
+	<string>addRadius</string>
+	<key>updateservice</key>
+	<string>tickerDirection</string>
+</dict>
+</plist>

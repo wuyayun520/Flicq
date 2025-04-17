@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedDelegate</key>
+	<string>retainedThread</string>
+	<key>difficultProjection</key>
+	<string>detachContainer</string>
+	<key>interactionShape</key>
+	<string>paddingInteraction</string>
+	<key>intermediateSingleton</key>
+	<string>profiledescription</string>
+	<key>materializerColor</key>
+	<string>flexibleplayback</string>
+	<key>shouldPresentAspectRatio</key>
+	<string>connectMap</string>
+</dict>
+</plist>

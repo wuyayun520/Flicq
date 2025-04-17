@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>materialmechanism</key>
+	<string>scrollStatus</string>
+	<key>newestAccessory</key>
+	<string>cursorposition</string>
+	<key>normalChannels</key>
+	<string>canYieldAnchor</string>
+	<key>respondview</key>
+	<string>basicComposition</string>
+	<key>shouldSkipGift</key>
+	<string>tickerComposite</string>
+</dict>
+</plist>

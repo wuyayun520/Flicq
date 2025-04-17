@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>containerasshape</key>
+	<string>reductionJob</string>
+	<key>customizedScaffold</key>
+	<string>compositionCycle</string>
+	<key>rapidLatency</key>
+	<string>hierarchicalEqualization</string>
+	<key>selectedsemantics</key>
+	<string>shouldPersistSpot</string>
+	<key>setstateprecision</key>
+	<string>flexibleAnchor</string>
+	<key>sophisticatedPriority</key>
+	<string>dynamicBatch</string>
+</dict>
+</plist>

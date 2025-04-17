@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedExtension</key>
+	<string>canNavigateBaseline</string>
+	<key>autoDispatcher</key>
+	<string>controllermetrics</string>
+	<key>equivalentForce</key>
+	<string>canBindRole</string>
+	<key>isolateForce</key>
+	<string>enabledEffect</string>
+	<key>primaryTimer</key>
+	<string>variantcoord</string>
+	<key>shouldPublishStoryboard</key>
+	<string>serializeprovider</string>
+	<key>smallscheduler</key>
+	<string>shouldPublishAnchor</string>
+	<key>topicMode</key>
+	<string>responsiveRoute</string>
+</dict>
+</plist>

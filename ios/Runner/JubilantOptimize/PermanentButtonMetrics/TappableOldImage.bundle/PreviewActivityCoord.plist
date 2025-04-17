@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>overridegradient</key>
+	<string>saveComposition</string>
+	<key>petMomentum</key>
+	<string>catalystSaturation</string>
+	<key>responderDelay</key>
+	<string>unregisteraperture</string>
+	<key>searcherTint</key>
+	<string>canShowScreen</string>
+	<key>shoulddispatchsizedbox</key>
+	<string>shouldBindMaster</string>
+	<key>threadsubscriber</key>
+	<string>resumeProvider</string>
+	<key>utilbrightness</key>
+	<string>singleDisclaimer</string>
+</dict>
+</plist>

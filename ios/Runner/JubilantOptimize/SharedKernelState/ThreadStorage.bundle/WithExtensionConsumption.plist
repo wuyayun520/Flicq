@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInteger</key>
+	<string>decorationVelocity</string>
+	<key>concurrentPainter</key>
+	<string>clipRadius</string>
+	<key>labelbuffer</key>
+	<string>curveBuffer</string>
+	<key>menufrequency</key>
+	<string>attachDrawer</string>
+	<key>relationalIcon</key>
+	<string>copyevent</string>
+	<key>secondRichText</key>
+	<string>dedicatedAnimation</string>
+	<key>statetaskinset</key>
+	<string>navigateAccessory</string>
+	<key>transformexponent</key>
+	<string>shouldPersistGate</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characteristicAcceleration</key>
+	<string>switchtail</string>
+	<key>curveevent</key>
+	<string>cupertinoBrightness</string>
+	<key>factoryAcceleration</key>
+	<string>findSingleton</string>
+	<key>immediateDescription</key>
+	<string>shouldEmitCertificate</string>
+	<key>inkwellTransparency</key>
+	<string>processorDepth</string>
+	<key>rectKind</key>
+	<string>delegatemethodopacity</string>
+	<key>scrollableMetrics</key>
+	<string>replaceNib</string>
+	<key>spriteskewy</key>
+	<string>canPaintProject</string>
+	<key>symmetricEqualization</key>
+	<string>oldReduction</string>
+	<key>toleranceHue</key>
+	<string>interfaceDecorator</string>
+</dict>
+</plist>

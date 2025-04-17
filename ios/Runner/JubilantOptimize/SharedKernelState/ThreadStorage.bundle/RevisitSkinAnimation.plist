@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeAnimatedContainer</key>
+	<string>asyncDuration</string>
+	<key>bufferacceleration</key>
+	<string>replicaValidation</string>
+	<key>characterContrast</key>
+	<string>draggableCell</string>
+	<key>constraintstyleformat</key>
+	<string>mapDirection</string>
+	<key>directlySkin</key>
+	<string>scaffoldPosition</string>
+	<key>richtextRight</key>
+	<string>canLayoutGestureDetector</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>lazySpot</key>
+	<string>dataSkewY</string>
+	<key>priorFuture</key>
+	<string>zoneOrientation</string>
+	<key>shouldBindBinary</key>
+	<string>normLevel</string>
+	<key>shouldserializecache</key>
+	<string>trainOptimizer</string>
+	<key>unsortedGram</key>
+	<string>shouldPresentOperation</string>
+</dict>
+</plist>

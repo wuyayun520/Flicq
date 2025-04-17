@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controlleredge</key>
+	<string>logSystem</string>
+	<key>initializegesturedetector</key>
+	<string>keyTexture</string>
+	<key>sessionForce</key>
+	<string>chartfeedback</string>
+	<key>statelessSwift</key>
+	<string>temporaryInjection</string>
+</dict>
+</plist>

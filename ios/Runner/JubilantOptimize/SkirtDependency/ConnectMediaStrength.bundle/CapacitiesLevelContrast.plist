@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticLocation</key>
+	<string>providerComposite</string>
+	<key>delicateCompleter</key>
+	<string>canDisposeInitiators</string>
+	<key>equipmentAlignment</key>
+	<string>intuitivealphacontrast</string>
+	<key>gridvisible</key>
+	<string>stampPosition</string>
+	<key>scrollableThread</key>
+	<string>yieldStamp</string>
+	<key>seamlessstoragescale</key>
+	<string>concreteSubpixel</string>
+	<key>shouldLoadSpecifier</key>
+	<string>formatNavigation</string>
+	<key>shouldPersistSwift</key>
+	<string>criticalScope</string>
+	<key>timerspeed</key>
+	<string>inheritedModel</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basepopup</key>
+	<string>spriterectangle</string>
+	<key>coordinatordelegate</key>
+	<string>scalabilityMode</string>
+	<key>deferredBase</key>
+	<string>shouldEncodeCaption</string>
+	<key>frameSkewX</key>
+	<string>shouldShowListView</string>
+	<key>initiatorsalongsingleton</key>
+	<string>resultduringbridge</string>
+	<key>mediuminterpolation</key>
+	<string>fusedcurve</string>
+	<key>requestsingletonoffset</key>
+	<string>animatedItem</string>
+	<key>subscriptionalongcomposite</key>
+	<string>canHandleExponent</string>
+</dict>
+</plist>

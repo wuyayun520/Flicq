@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeRestriction</key>
+	<string>materializerBottom</string>
+	<key>firstGroup</key>
+	<string>playbackLocation</string>
+	<key>invisiblecompleter</key>
+	<string>activatedContainer</string>
+	<key>oncursortap</key>
+	<string>shouldInflateCollection</string>
+	<key>sustainableAlpha</key>
+	<string>discoverDelegate</string>
+	<key>tableMomentum</key>
+	<string>canPrepareStep</string>
+</dict>
+</plist>

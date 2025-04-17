@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>layerSpacing</key>
+	<string>canReplaceOverlay</string>
+	<key>numericalNavigation</key>
+	<string>statelessBehavior</string>
+	<key>rolelevelopacity</key>
+	<string>canUnmountCustomPaint</string>
+	<key>shouldRouteMomentum</key>
+	<string>pinchableCompleter</string>
+	<key>standaloneAction</key>
+	<string>autoCupertino</string>
+	<key>statelessAnimator</key>
+	<string>firstmodaltail</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAmortization</key>
+	<string>oldCombiner</string>
+	<key>consultativeLayer</key>
+	<string>paddingBridge</string>
+	<key>disabledWidget</key>
+	<string>keepVariant</string>
+	<key>streamDepth</key>
+	<string>channelvelocity</string>
+</dict>
+</plist>

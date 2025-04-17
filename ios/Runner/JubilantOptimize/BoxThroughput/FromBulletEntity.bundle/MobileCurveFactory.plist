@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>easyPositioned</key>
+	<string>canTrainTechnique</string>
+	<key>formatposition</key>
+	<string>mainConvolution</string>
+	<key>originalSprite</key>
+	<string>retainedMonster</string>
+	<key>sampleShade</key>
+	<string>strengthType</string>
+	<key>shouldCancelStateful</key>
+	<string>currentDescriptor</string>
+	<key>shouldLayoutBrush</key>
+	<string>concurrentOperation</string>
+	<key>startoffset</key>
+	<string>builderparameterlocation</string>
+	<key>webBullet</key>
+	<string>consultativeSwitch</string>
+</dict>
+</plist>

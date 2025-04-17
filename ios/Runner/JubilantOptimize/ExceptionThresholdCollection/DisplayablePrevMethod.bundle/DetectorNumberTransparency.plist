@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedDistinction</key>
+	<string>observerBrightness</string>
+	<key>associatedDelegate</key>
+	<string>createProgressBar</string>
+	<key>cupertinoChart</key>
+	<string>immediateThreshold</string>
+	<key>delicatesensor</key>
+	<string>cubitbehavior</string>
+	<key>fragmentsContrast</key>
+	<string>bindStateless</string>
+	<key>independentAllocator</key>
+	<string>sequentialtextstyle</string>
+	<key>initializetechnique</key>
+	<string>routebottom</string>
+	<key>localPet</key>
+	<string>processStep</string>
+	<key>shouldRenderBoxShadow</key>
+	<string>canSerializeTabView</string>
+</dict>
+</plist>

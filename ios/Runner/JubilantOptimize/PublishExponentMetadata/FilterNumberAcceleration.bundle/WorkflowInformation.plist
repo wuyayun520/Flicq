@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynctexture</key>
+	<string>canPauseDialogs</string>
+	<key>converterSpacing</key>
+	<string>customizedTable</string>
+	<key>currentPriority</key>
+	<string>oldPopup</string>
+	<key>inheritedLayout</key>
+	<string>imperativeLoader</string>
+	<key>rangeVisibility</key>
+	<string>marginSize</string>
+	<key>responsiveTimer</key>
+	<string>petparamsaturation</string>
+	<key>smalldependency</key>
+	<string>visualizeRect</string>
+	<key>trajectoryTint</key>
+	<string>paddingMemento</string>
+	<key>unmountsubpixel</key>
+	<string>statelessParameter</string>
+</dict>
+</plist>

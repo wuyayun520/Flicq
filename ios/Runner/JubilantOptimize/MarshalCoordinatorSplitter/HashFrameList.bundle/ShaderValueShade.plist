@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardnavigatortint</key>
+	<string>processThread</string>
+	<key>brushmediatorinteraction</key>
+	<string>deactivateAsset</string>
+	<key>bufferscale</key>
+	<string>attachResult</string>
+	<key>scaffoldchannel</key>
+	<string>canFetchThread</string>
+	<key>shouldSerializeDialogs</key>
+	<string>denseExpanded</string>
+	<key>taskstroke</key>
+	<string>validateresponse</string>
+</dict>
+</plist>

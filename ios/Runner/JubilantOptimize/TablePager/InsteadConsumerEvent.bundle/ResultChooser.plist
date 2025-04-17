@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselineBound</key>
+	<string>explicitConsumption</string>
+	<key>compositionalExtension</key>
+	<string>desktopPresenter</string>
+	<key>criticalScheduler</key>
+	<string>draggableBandwidth</string>
+	<key>cursorInteraction</key>
+	<string>canDecodeMultiplication</string>
+	<key>globalroute</key>
+	<string>utilfromvisitor</string>
+	<key>projectionlikememento</key>
+	<string>radiusactivitydensity</string>
+</dict>
+</plist>

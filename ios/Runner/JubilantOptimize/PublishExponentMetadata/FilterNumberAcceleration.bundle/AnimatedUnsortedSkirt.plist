@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateComposition</key>
+	<string>canPrepareMaterial</string>
+	<key>explicitcompletershape</key>
+	<string>shouldBuildBullet</string>
+	<key>movementCount</key>
+	<string>shouldTransitionMusic</string>
+	<key>overrideasset</key>
+	<string>tappableCycle</string>
+	<key>requiredConfidentiality</key>
+	<string>inactiveStream</string>
+	<key>uniformresponseleft</key>
+	<string>accessoryValidation</string>
+</dict>
+</plist>

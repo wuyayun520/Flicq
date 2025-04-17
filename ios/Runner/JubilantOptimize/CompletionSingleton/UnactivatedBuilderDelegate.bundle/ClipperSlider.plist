@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableChannel</key>
+	<string>assetStructure</string>
+	<key>independentInkWell</key>
+	<string>shouldStopFuture</string>
+	<key>permanentsinkforce</key>
+	<string>priorSkirt</string>
+	<key>shouldAttachSine</key>
+	<string>polyfillSaturation</string>
+	<key>shouldYieldAppBar</key>
+	<string>responsiveGesture</string>
+</dict>
+</plist>

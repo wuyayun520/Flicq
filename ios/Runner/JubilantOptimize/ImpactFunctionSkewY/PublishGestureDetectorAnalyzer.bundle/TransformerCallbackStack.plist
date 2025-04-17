@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>invisibleAscent</key>
+	<string>shouldRestartContainer</string>
+	<key>optimizetangent</key>
+	<string>fillController</string>
+	<key>pinchableBehavior</key>
+	<string>canContinueAlpha</string>
+	<key>selectedstream</key>
+	<string>containerbesidelevel</string>
+	<key>sensorFormat</key>
+	<string>routerStrategy</string>
+</dict>
+</plist>

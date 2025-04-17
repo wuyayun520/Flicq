@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeLeft</key>
+	<string>configurationbound</string>
+	<key>mediumMatrix</key>
+	<string>elementRotation</string>
+	<key>optionPressure</key>
+	<string>lockTransformer</string>
+	<key>shouldRouteMatrix</key>
+	<string>switchCycle</string>
+	<key>smartRestriction</key>
+	<string>maintainIsolate</string>
+	<key>soundfrequency</key>
+	<string>canBuildBox</string>
+	<key>throughputCoord</key>
+	<string>tickerawayactivity</string>
+</dict>
+</plist>

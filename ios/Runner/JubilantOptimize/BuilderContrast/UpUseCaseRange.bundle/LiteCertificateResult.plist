@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonEvent</key>
+	<string>bindOptimizer</string>
+	<key>cubeCenter</key>
+	<string>consultativeTabBar</string>
+	<key>invisibleLoop</key>
+	<string>reductionEnvironment</string>
+	<key>protectedSound</key>
+	<string>shouldRenderContraction</string>
+	<key>scaffoldKind</key>
+	<string>resizeStore</string>
+	<key>substantialThroughput</key>
+	<string>deserializeCompletion</string>
+	<key>synchronousSlash</key>
+	<string>immediateDetector</string>
+</dict>
+</plist>

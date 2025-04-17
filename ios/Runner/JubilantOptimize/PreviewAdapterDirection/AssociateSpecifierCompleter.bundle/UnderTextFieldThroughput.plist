@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisprototypespeed</key>
+	<string>activateTicker</string>
+	<key>entropyCoord</key>
+	<string>lostEquivalent</string>
+	<key>gestureshapetransparency</key>
+	<string>holdDuration</string>
+	<key>shouldHandleAlert</key>
+	<string>intermediateChapter</string>
+</dict>
+</plist>

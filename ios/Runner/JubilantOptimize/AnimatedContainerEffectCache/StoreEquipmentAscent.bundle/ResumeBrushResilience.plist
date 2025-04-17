@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalClipper</key>
+	<string>canConnectPoint</string>
+	<key>parallelCubit</key>
+	<string>canShowExponent</string>
+	<key>resilientMetrics</key>
+	<string>effectthroughaction</string>
+	<key>screenamongstage</key>
+	<string>routebatch</string>
+	<key>shouldEndGraphic</key>
+	<string>lostButton</string>
+	<key>shouldFinishCache</key>
+	<string>signborder</string>
+	<key>shouldProcessAperture</key>
+	<string>decodetext</string>
+	<key>shouldStopRole</key>
+	<string>priorityComposite</string>
+	<key>throughputBrightness</key>
+	<string>futureoutsidestage</string>
+</dict>
+</plist>

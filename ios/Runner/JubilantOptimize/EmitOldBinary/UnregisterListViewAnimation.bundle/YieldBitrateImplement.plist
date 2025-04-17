@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>desktopBinder</key>
+	<string>activatedPolyfill</string>
+	<key>easybuilderskewx</key>
+	<string>canLoadInstruction</string>
+	<key>originalDependency</key>
+	<string>subtleAwait</string>
+	<key>permissiveAnalyzer</key>
+	<string>canStreamCustomPaint</string>
+	<key>retainedImpression</key>
+	<string>canRestartStream</string>
+	<key>substantialProgressBar</key>
+	<string>requestadapterinteraction</string>
+	<key>subtlegrain</key>
+	<string>respectiveMetadata</string>
+</dict>
+</plist>

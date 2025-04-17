@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deferredtickerkind</key>
+	<string>significantSkin</string>
+	<key>difficultMaster</key>
+	<string>smartManager</string>
+	<key>pivotalRenderer</key>
+	<string>musicWork</string>
+	<key>shouldShowStateful</key>
+	<string>mixinhero</string>
+	<key>wrapperFlags</key>
+	<string>oldEquipment</string>
+</dict>
+</plist>

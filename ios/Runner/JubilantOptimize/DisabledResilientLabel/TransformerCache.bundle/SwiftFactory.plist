@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedrequestorigin</key>
+	<string>flexmodel</string>
+	<key>constraintValidation</key>
+	<string>removeDependency</string>
+	<key>defaultcard</key>
+	<string>discardedCluster</string>
+	<key>densetime</key>
+	<string>disconnectInterface</string>
+	<key>drawerStyle</key>
+	<string>restartEquipment</string>
+	<key>pivotalNotification</key>
+	<string>hashtriangles</string>
+	<key>shouldDisposePriority</key>
+	<string>elementOrigin</string>
+	<key>stampcomponent</key>
+	<string>customInterface</string>
+	<key>temporarypromisefrequency</key>
+	<string>elasticityAlignment</string>
+</dict>
+</plist>

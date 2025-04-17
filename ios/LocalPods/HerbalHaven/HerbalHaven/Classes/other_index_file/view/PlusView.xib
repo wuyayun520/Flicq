@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="PlusView">
+            <connections>
+                <outlet property="totalLabel" destination="GpU-oW-E1r" id="mJc-dQ-PfO"/>
+                <outlet property="plusLabLabel" destination="Xkn-sU-FSe" id="vbE-Cb-rOx"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="OBh-fB-Pk6" opaque="NO" clearsContextBeforeDrawing="NO">
+            <rect key="frame" x="0.0" y="0.0" width="379.4" height="74.0"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="right" verticalHuggingPriority="251" text="view label path list type" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="GpU-oW-E1r" numberOfLines="9">
+                    <rect key="frame" x="152.0" y="-5" width="170.1" height="51.8"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="9"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="bottomLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="title array detail" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xkn-sU-FSe" numberOfLines="9" highlighted="YES">
+                    <rect key="frame" x="6" y="14" width="136.2" height="51.8"/>
+                    <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="wEU-EW-yFS"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="Xkn-sU-FSe" firstAttribute="width" relation="lessThanOrEqual" secondItem="OBh-fB-Pk6" secondAttribute="width" multiplier="0.3" id="bvg-VJ-jW3" priority="731" constant="4"/>
+                <constraint firstItem="GpU-oW-E1r" firstAttribute="leading" secondItem="wEU-EW-yFS" secondAttribute="leading" constant="6" id="Oze-8C-CNY"/>
+                <constraint firstItem="wEU-EW-yFS" firstAttribute="trailing" secondItem="Xkn-sU-FSe" secondAttribute="trailing" constant="7" id="K3i-Nu-OE4"/>
+                <constraint firstItem="GpU-oW-E1r" firstAttribute="top" secondItem="OBh-fB-Pk6" secondAttribute="top" constant="3" id="STc-lB-mQ7"/>
+                <constraint firstAttribute="bottom" secondItem="GpU-oW-E1r" secondAttribute="bottom" constant="5" id="kfG-O3-jJC"/>
+                <constraint firstItem="Xkn-sU-FSe" firstAttribute="top" secondItem="OBh-fB-Pk6" secondAttribute="top" constant="4" id="G2C-Wf-9Rm"/>
+                <constraint firstAttribute="bottom" secondItem="Xkn-sU-FSe" secondAttribute="bottom" constant="4" id="ueO-zV-4Lt"/>
+                <constraint firstItem="GpU-oW-E1r" firstAttribute="width" relation="greaterThanOrEqual" secondItem="OBh-fB-Pk6" secondAttribute="width" multiplier="0.4" id="BMx-L0-ViM"/>
+                <constraint firstItem="Xkn-sU-FSe" firstAttribute="leading" secondItem="GpU-oW-E1r" secondAttribute="trailing" constant="6" id="lxB-Jd-O9Z"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="81.123548609664088" y="-211.9618"/>
+        </view>
+    </objects>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

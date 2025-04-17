@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeorflyweight</key>
+	<string>greatCharacteristic</string>
+	<key>composableGestureDetector</key>
+	<string>invisibleHero</string>
+	<key>crudeSwitch</key>
+	<string>audioFormat</string>
+	<key>eagerlayout</key>
+	<string>fixedMember</string>
+	<key>easyChannel</key>
+	<string>isolatePattern</string>
+	<key>factoryStatus</key>
+	<string>statelessTransformer</string>
+	<key>requiredMethod</key>
+	<string>painterAdapter</string>
+	<key>shouldDispatchScroll</key>
+	<string>temporaryReplica</string>
+	<key>shouldprocesscolumn</key>
+	<string>accordionCustomPaint</string>
+</dict>
+</plist>

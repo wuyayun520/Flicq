@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianProgressBar</key>
+	<string>typicalscreenvisible</string>
+	<key>consumerSkewX</key>
+	<string>previewActivity</string>
+	<key>flexibleSlash</key>
+	<string>activeObject</string>
+	<key>hashInteraction</key>
+	<string>mutableHistogram</string>
+	<key>largeRichText</key>
+	<string>subpixelTint</string>
+	<key>tentativePressure</key>
+	<string>validateModal</string>
+</dict>
+</plist>

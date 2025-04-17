@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalProfile</key>
+	<string>dataMargin</string>
+	<key>intermediateprovider</key>
+	<string>sanitizeIsolate</string>
+	<key>missionPadding</key>
+	<string>canStopMobile</string>
+	<key>nextMend</key>
+	<string>loadSample</string>
+	<key>notifierbloc</key>
+	<string>reconcilerect</string>
+	<key>numericalTweak</key>
+	<string>ignoredFuture</string>
+	<key>protectedOffset</key>
+	<string>liteSound</string>
+	<key>shouldBuildScaffold</key>
+	<string>loopMomentum</string>
+	<key>strengthRate</key>
+	<string>compositionalStatus</string>
+</dict>
+</plist>

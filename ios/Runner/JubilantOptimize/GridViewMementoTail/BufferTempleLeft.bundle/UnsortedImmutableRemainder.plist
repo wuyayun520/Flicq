@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsuntilvariable</key>
+	<string>exitPopup</string>
+	<key>curveadapterresponse</key>
+	<string>unscheduleTexture</string>
+	<key>diffablePager</key>
+	<string>seekchart</string>
+	<key>disposecapacities</key>
+	<string>adaptiveConvolution</string>
+	<key>responsiveComponent</key>
+	<string>shouldInflateBrush</string>
+	<key>signInterval</key>
+	<string>rendererformat</string>
+	<key>subsequentInfo</key>
+	<string>boxAppearance</string>
+	<key>visibledialogsvalidation</key>
+	<string>originalResolver</string>
+</dict>
+</plist>

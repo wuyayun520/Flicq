@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorOrientation</key>
+	<string>flexibleEvolution</string>
+	<key>configurationFrequency</key>
+	<string>sliderVelocity</string>
+	<key>invisiblePlate</key>
+	<string>tweakName</string>
+	<key>mediacluster</key>
+	<string>resizableStrength</string>
+	<key>shouldPreparePrecision</key>
+	<string>deferredCallback</string>
+	<key>shouldUnmountedSample</key>
+	<string>encodeSize</string>
+</dict>
+</plist>

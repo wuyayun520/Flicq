@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>requiredcontainer</key>
+	<string>painterInterval</string>
+	<key>shouldDispatchSwift</key>
+	<string>nodeHue</string>
+	<key>sizeduration</key>
+	<string>encodeMobile</string>
+	<key>statefulOrientation</key>
+	<string>easyDialogs</string>
+</dict>
+</plist>

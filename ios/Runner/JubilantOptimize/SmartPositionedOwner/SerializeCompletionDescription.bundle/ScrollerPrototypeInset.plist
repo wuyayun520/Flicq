@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedTrajectory</key>
+	<string>sensorevolution</string>
+	<key>concurrentMethod</key>
+	<string>dismissPrecision</string>
+	<key>dependencyarchitecture</key>
+	<string>shouldPauseCapacities</string>
+	<key>diffableWorkflow</key>
+	<string>disparateSize</string>
+	<key>functionalChannel</key>
+	<string>canDisconnectBorder</string>
+	<key>mobileMap</key>
+	<string>backwardLogarithm</string>
+	<key>platescene</key>
+	<string>inflateHistogram</string>
+	<key>resizableVolume</key>
+	<string>asyncstatus</string>
+	<key>shouldStopProjection</key>
+	<string>dynamicMenu</string>
+	<key>significantSegment</key>
+	<string>shouldBuildActivity</string>
+</dict>
+</plist>

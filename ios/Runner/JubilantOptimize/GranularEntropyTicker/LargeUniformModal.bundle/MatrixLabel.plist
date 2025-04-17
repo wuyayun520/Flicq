@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitView</key>
+	<string>canDetachDescriptor</string>
+	<key>liteCaption</key>
+	<string>shouldTransformComposition</string>
+	<key>normrecursion</key>
+	<string>streamInterpolation</string>
+	<key>oldResponse</key>
+	<string>canSerializeStamp</string>
+	<key>shouldObserveCell</key>
+	<string>transformerandphase</string>
+</dict>
+</plist>

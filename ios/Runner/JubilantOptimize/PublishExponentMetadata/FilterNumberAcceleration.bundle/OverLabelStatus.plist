@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedEquipment</key>
+	<string>parseTexture</string>
+	<key>mediumTouch</key>
+	<string>combineLocalization</string>
+	<key>radiusCoord</key>
+	<string>destroyChapter</string>
+	<key>secondCheckbox</key>
+	<string>smallParticle</string>
+	<key>secondSearcher</key>
+	<string>shouldPublishGate</string>
+	<key>serviceawayplatform</key>
+	<string>equivalentBrightness</string>
+	<key>shouldRenderInkWell</key>
+	<string>shouldattachhistogram</string>
+	<key>shouldShowDescriptor</key>
+	<string>currentLoader</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crudeChecklist</key>
+	<string>shouldLayoutLog</string>
+	<key>fusedInitiators</key>
+	<string>handleSpot</string>
+	<key>matrixOrientation</key>
+	<string>arithmeticConsumer</string>
+	<key>momentumTheme</key>
+	<string>textappearance</string>
+	<key>shouldDisconnectAperture</key>
+	<string>mutableReceiver</string>
+	<key>shouldProcessPositioned</key>
+	<string>sessionFormat</string>
+	<key>significantModel</key>
+	<string>canShowBehavior</string>
+</dict>
+</plist>

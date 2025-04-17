@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityDelay</key>
+	<string>canTransitionChecklist</string>
+	<key>defaultAnimation</key>
+	<string>trainBox</string>
+	<key>flexibleFinder</key>
+	<string>listenerfeedback</string>
+	<key>intermediateFilter</key>
+	<string>difficultscenario</string>
+	<key>iterativeProtocol</key>
+	<string>boxBrightness</string>
+	<key>opaqueColor</key>
+	<string>updateManager</string>
+	<key>resizableAmortization</key>
+	<string>nibDirection</string>
+	<key>shouldSubscribeBaseline</key>
+	<string>selectedMedia</string>
+	<key>subtleFilter</key>
+	<string>strokeInterval</string>
+</dict>
+</plist>

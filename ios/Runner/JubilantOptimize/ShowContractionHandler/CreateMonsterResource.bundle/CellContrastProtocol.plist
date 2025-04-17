@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedallocatorfrequency</key>
+	<string>beginnerSignature</string>
+	<key>animationtolerance</key>
+	<string>temporaryStroke</string>
+	<key>arithmeticConfiguration</key>
+	<string>relationalTable</string>
+	<key>criticalResource</key>
+	<string>renderContraction</string>
+	<key>projectionAppearance</key>
+	<string>pointMargin</string>
+	<key>statusResponse</key>
+	<string>canCacheMaterial</string>
+</dict>
+</plist>

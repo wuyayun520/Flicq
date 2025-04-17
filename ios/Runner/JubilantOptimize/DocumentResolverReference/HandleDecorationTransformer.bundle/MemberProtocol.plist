@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>integrationKind</key>
+	<string>keyFormat</string>
+	<key>invisiblerequest</key>
+	<string>sharedActivity</string>
+	<key>originalScene</key>
+	<string>backwardcomponent</string>
+	<key>prevSingleton</key>
+	<string>locateDuration</string>
+	<key>shouldReplaceSlash</key>
+	<string>greatresolver</string>
+	<key>tensorFilter</key>
+	<string>timerframeworkmomentum</string>
+</dict>
+</plist>

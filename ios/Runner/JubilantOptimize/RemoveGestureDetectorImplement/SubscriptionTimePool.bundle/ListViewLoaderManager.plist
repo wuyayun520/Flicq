@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedRemediation</key>
+	<string>resolveStream</string>
+	<key>constantrate</key>
+	<string>deployRoute</string>
+	<key>consultativeSkin</key>
+	<string>persistreference</string>
+	<key>functionalCallback</key>
+	<string>shouldsaveprofile</string>
+	<key>mobileRight</key>
+	<string>inheritedButton</string>
+	<key>setstaterow</key>
+	<string>statelessAsync</string>
+	<key>shouldStartMargin</key>
+	<string>draggableDescriptor</string>
+	<key>statefulherovalidation</key>
+	<string>discoverState</string>
+</dict>
+</plist>

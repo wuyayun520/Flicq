@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asyncEdge</key>
+	<string>selectednorm</string>
+	<key>consumerEdge</key>
+	<string>shouldDisconnectDialogs</string>
+	<key>fusedSlash</key>
+	<string>canDeserializeSizedBox</string>
+	<key>invisibleGate</key>
+	<string>coordinatorfromstructure</string>
+	<key>mainFactory</key>
+	<string>shouldNavigateStateless</string>
+	<key>timelinetension</key>
+	<string>parallelaction</string>
+	<key>usageCenter</key>
+	<string>arithmeticLoader</string>
+	<key>vectorname</key>
+	<string>activatedProjection</string>
+</dict>
+</plist>

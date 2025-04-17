@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentMomentum</key>
+	<string>ignoredFormat</string>
+	<key>diversifiedChapter</key>
+	<string>shouldRestartUsage</string>
+	<key>lazyIsolate</key>
+	<string>workflowValue</string>
+	<key>opaqueCursor</key>
+	<string>logActivity</string>
+	<key>remainderRotation</key>
+	<string>materialEvent</string>
+</dict>
+</plist>

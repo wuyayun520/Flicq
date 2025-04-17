@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableLabel</key>
+	<string>interactivePriority</string>
+	<key>cupertinoInteractor</key>
+	<string>handlerStructure</string>
+	<key>elasticSize</key>
+	<string>protectedBaseline</string>
+	<key>reductionmethodskewx</key>
+	<string>basicDuration</string>
+	<key>shouldDisconnectPriority</key>
+	<string>smartResolver</string>
+	<key>shouldEmitTernary</key>
+	<string>canSaveIndicator</string>
+</dict>
+</plist>

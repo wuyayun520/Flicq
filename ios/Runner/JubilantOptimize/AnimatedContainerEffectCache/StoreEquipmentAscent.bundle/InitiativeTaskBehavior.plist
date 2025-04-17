@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>elasticityTail</key>
+	<string>materialReduction</string>
+	<key>hashvisibility</key>
+	<string>navigateDecoration</string>
+	<key>missedBase</key>
+	<string>fixedModel</string>
+	<key>pinchablestoryboardrotation</key>
+	<string>zonetraversal</string>
+	<key>presentershader</key>
+	<string>particlewithmediator</string>
+	<key>rendererBehavior</key>
+	<string>mutableCompletion</string>
+	<key>startmedia</key>
+	<string>resolverInset</string>
+	<key>uniqueOccasion</key>
+	<string>canHandleCurve</string>
+</dict>
+</plist>

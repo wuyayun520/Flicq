@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesorientation</key>
+	<string>canListenKernel</string>
+	<key>gridviewFrequency</key>
+	<string>scaleasync</string>
+	<key>modulePosition</key>
+	<string>sliderFlyweight</string>
+	<key>responsiveSymbol</key>
+	<string>reusabletween</string>
+	<key>shouldLoadSession</key>
+	<string>animatedBoxShadow</string>
+</dict>
+</plist>

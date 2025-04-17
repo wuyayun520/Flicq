@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticEntropy</key>
+	<string>notifySwitch</string>
+	<key>cardcommandpadding</key>
+	<string>presenterPadding</string>
+	<key>defaultBitrate</key>
+	<string>smallBuilder</string>
+	<key>directAnalyzer</key>
+	<string>trainAppBar</string>
+	<key>frameType</key>
+	<string>shouldResumeAlpha</string>
+	<key>nextAnimator</key>
+	<string>providerTransparency</string>
+	<key>sinePadding</key>
+	<string>immutableOffset</string>
+	<key>splitterHue</key>
+	<string>invisibleUnary</string>
+</dict>
+</plist>

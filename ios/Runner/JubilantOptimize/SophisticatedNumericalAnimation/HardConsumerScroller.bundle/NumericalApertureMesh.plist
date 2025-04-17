@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentfactory</key>
+	<string>usedPager</string>
+	<key>convolutionBound</key>
+	<string>prismaticResilience</string>
+	<key>elasticCycle</key>
+	<string>bindMediaQuery</string>
+	<key>masterType</key>
+	<string>hashPlatform</string>
+	<key>mediumDecoration</key>
+	<string>compositionalMethod</string>
+	<key>storageStyle</key>
+	<string>shouldNavigateProfile</string>
+	<key>sustainableInteractor</key>
+	<string>cardcolor</string>
+	<key>tappableReduction</key>
+	<string>hardButton</string>
+	<key>visibleCapacities</key>
+	<string>spritetriangles</string>
+</dict>
+</plist>

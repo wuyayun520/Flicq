@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedQueue</key>
+	<string>localFormat</string>
+	<key>concreteAxis</key>
+	<string>switchSpeed</string>
+	<key>consumerDelay</key>
+	<string>pushExpanded</string>
+	<key>discardedPageView</key>
+	<string>integrityRight</string>
+	<key>firstTraversal</key>
+	<string>locateloop</string>
+	<key>firsttext</key>
+	<string>typicalEntity</string>
+	<key>selectedSizedBox</key>
+	<string>createSpot</string>
+</dict>
+</plist>

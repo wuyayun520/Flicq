@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveTabBar</key>
+	<string>emitFragment</string>
+	<key>chooserbottom</key>
+	<string>labelSingleton</string>
+	<key>crudeView</key>
+	<string>canDismissExponent</string>
+	<key>delegateOffset</key>
+	<string>endPageView</string>
+	<key>loopState</key>
+	<string>robustBuffer</string>
+	<key>persistentVideo</key>
+	<string>shouldListenConvolution</string>
+	<key>requiredChooser</key>
+	<string>otherReducer</string>
+	<key>restrictionState</key>
+	<string>startmaster</string>
+</dict>
+</plist>

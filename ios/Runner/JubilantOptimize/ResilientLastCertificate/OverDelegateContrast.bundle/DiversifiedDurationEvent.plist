@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardItem</key>
+	<string>tappableSubpixel</string>
+	<key>defaultAspectRatio</key>
+	<string>resetSprite</string>
+	<key>greatUseCase</key>
+	<string>responsiveInstruction</string>
+	<key>invisibleResolver</key>
+	<string>canPauseClipper</string>
+</dict>
+</plist>

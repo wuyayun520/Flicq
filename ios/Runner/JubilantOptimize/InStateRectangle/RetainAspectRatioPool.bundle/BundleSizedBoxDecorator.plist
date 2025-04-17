@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>methodInteraction</key>
+	<string>graphContrast</string>
+	<key>metricsTail</key>
+	<string>priorInteger</string>
+	<key>shouldRenderCoordinator</key>
+	<string>handleStream</string>
+	<key>statelessWorkflow</key>
+	<string>asynchronousmetadataspacing</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesduration</key>
+	<string>elasticPageView</string>
+	<key>componentType</key>
+	<string>logBrightness</string>
+	<key>dynamicProjection</key>
+	<string>respectivePolyfill</string>
+	<key>erasehero</key>
+	<string>indicatorDistance</string>
+	<key>evolutionDepth</key>
+	<string>shouldEncodeReduction</string>
+	<key>prismaticconnector</key>
+	<string>limitDuration</string>
+	<key>responsiveMovement</key>
+	<string>globalslider</string>
+	<key>responsiveProjection</key>
+	<string>interactorFacade</string>
+	<key>shouldMountedBoxShadow</key>
+	<string>canAttachPadding</string>
+</dict>
+</plist>

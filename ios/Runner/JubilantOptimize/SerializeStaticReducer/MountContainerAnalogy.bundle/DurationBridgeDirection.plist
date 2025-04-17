@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baselinescope</key>
+	<string>segueutil</string>
+	<key>directlytolerance</key>
+	<string>executeProgressBar</string>
+	<key>globalSwift</key>
+	<string>futurematerializer</string>
+	<key>polygonRight</key>
+	<string>obtainStream</string>
+	<key>protectedVertex</key>
+	<string>canPublishOperation</string>
+	<key>scaleTag</key>
+	<string>standaloneTexture</string>
+	<key>shouldBuildStoryboard</key>
+	<string>persistKernel</string>
+	<key>shouldShowIcon</key>
+	<string>shouldLoadInitiators</string>
+	<key>subscribetangent</key>
+	<string>beginnerBinary</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalDialogs</key>
+	<string>materialSymbol</string>
+	<key>fixedSwift</key>
+	<string>retrieveCurve</string>
+	<key>localView</key>
+	<string>consumptionDepth</string>
+	<key>membervisibility</key>
+	<string>cardbeyondtier</string>
+	<key>mutableListView</key>
+	<string>resumeMultiplication</string>
+	<key>promiseVelocity</key>
+	<string>canPauseTabView</string>
+	<key>segmentBehavior</key>
+	<string>semanticAnalogy</string>
+	<key>shouldNotifyTheme</key>
+	<string>baseStrategy</string>
+	<key>sineTheme</key>
+	<string>canYieldCycle</string>
+</dict>
+</plist>

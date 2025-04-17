@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dataBottom</key>
+	<string>scaffoldInterpreter</string>
+	<key>independentMember</key>
+	<string>canRebuildView</string>
+	<key>localSprite</key>
+	<string>unbindAlert</string>
+	<key>shouldEmitBoxShadow</key>
+	<string>fusedModal</string>
+</dict>
+</plist>

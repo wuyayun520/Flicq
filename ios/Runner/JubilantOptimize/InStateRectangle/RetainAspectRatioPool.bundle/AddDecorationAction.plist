@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>gatedata</key>
+	<string>lazyconstraintbehavior</string>
+	<key>integrationOrigin</key>
+	<string>animatedcontainerBorder</string>
+	<key>shouldSetStateDrawer</key>
+	<string>resetequalization</string>
+	<key>standaloneprogressbar</key>
+	<string>mainmultiplication</string>
+	<key>unactivatedBloc</key>
+	<string>shouldCancelBullet</string>
+	<key>workflowbehavior</key>
+	<string>localResult</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonCoordinator</key>
+	<string>projectrect</string>
+	<key>extensionTail</key>
+	<string>discoverQueue</string>
+	<key>factorytransparency</key>
+	<string>immutableAspectRatio</string>
+	<key>looporientation</key>
+	<string>opaqueProject</string>
+	<key>parallelPermutation</key>
+	<string>addEntity</string>
+	<key>shouldEncodeResource</key>
+	<string>queueShade</string>
+	<key>shouldResumeSemantics</key>
+	<string>fragmentproxydepth</string>
+	<key>tickerbound</key>
+	<string>tabbarplatformappearance</string>
+	<key>webProject</key>
+	<string>sorterFormat</string>
+</dict>
+</plist>

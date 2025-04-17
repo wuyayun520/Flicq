@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>apertureflags</key>
+	<string>canDispatchMission</string>
+	<key>discardedHandler</key>
+	<string>enabledUtil</string>
+	<key>emittransition</key>
+	<string>defaultGrayscale</string>
+	<key>lostTimeline</key>
+	<string>modalTheme</string>
+	<key>mediocreDisclaimer</key>
+	<string>ephemeralProcessor</string>
+	<key>retainedPolygon</key>
+	<string>sensorProcess</string>
+	<key>subsequentSwift</key>
+	<string>embedDescription</string>
+	<key>wrapperPosition</key>
+	<string>receiverBound</string>
+</dict>
+</plist>

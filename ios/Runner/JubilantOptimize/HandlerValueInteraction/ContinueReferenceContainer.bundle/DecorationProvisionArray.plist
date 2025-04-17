@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleSprite</key>
+	<string>publicFilter</string>
+	<key>elasticTicker</key>
+	<string>stackfrequency</string>
+	<key>hyperbolicInfo</key>
+	<string>substantialCell</string>
+	<key>inactivenavigation</key>
+	<string>immediateCertificate</string>
+	<key>nextMap</key>
+	<string>splitterTag</string>
+	<key>serializestep</key>
+	<string>logarithmStrategy</string>
+	<key>shouldRenderSensor</key>
+	<string>ignoredTernary</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledModel</key>
+	<string>keylatency</string>
+	<key>isStack</key>
+	<string>multiplicationVisibility</string>
+	<key>lifecycleRate</key>
+	<string>analyzerRotation</string>
+	<key>mutableaction</key>
+	<string>playbackBorder</string>
+	<key>selectedtool</key>
+	<string>explicitChapter</string>
+	<key>semanticAsset</key>
+	<string>numericalGrain</string>
+	<key>shouldLayoutStack</key>
+	<string>listenernotation</string>
+	<key>transformerType</key>
+	<string>mountedGate</string>
+</dict>
+</plist>

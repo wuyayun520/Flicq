@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerSkewY</key>
+	<string>layoutNotifier</string>
+	<key>eagerpositioned</key>
+	<string>specifyDetail</string>
+	<key>respectiveScale</key>
+	<string>decodeExpanded</string>
+	<key>subscriptionborder</key>
+	<string>logMemento</string>
+</dict>
+</plist>

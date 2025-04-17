@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderSaturation</key>
+	<string>asynchronousFactory</string>
+	<key>catalystDepth</key>
+	<string>refactorbuffer</string>
+	<key>invisibleColumn</key>
+	<string>staticMenu</string>
+	<key>shouldYieldNib</key>
+	<string>routeCommand</string>
+	<key>transformrequest</key>
+	<string>completedNotifier</string>
+</dict>
+</plist>

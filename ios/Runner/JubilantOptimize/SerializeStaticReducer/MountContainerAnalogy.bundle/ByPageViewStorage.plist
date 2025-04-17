@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedConnector</key>
+	<string>poolRepository</string>
+	<key>buttonTransparency</key>
+	<string>parallelFlex</string>
+	<key>commonFragments</key>
+	<string>renderutil</string>
+	<key>disabledScope</key>
+	<string>cursorTransparency</string>
+	<key>ephemeralMapper</key>
+	<string>consultativeGradient</string>
+	<key>observerVisible</key>
+	<string>disabledFinder</string>
+	<key>resizablethemetension</key>
+	<string>baselinecoordinator</string>
+	<key>resourcelevelshape</key>
+	<string>tabviewShape</string>
+	<key>spotviatask</key>
+	<string>staticStore</string>
+	<key>streampromise</key>
+	<string>shouldLayoutConvolution</string>
+</dict>
+</plist>

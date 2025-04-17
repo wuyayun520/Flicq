@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dependencyOffset</key>
+	<string>localizationatlevel</string>
+	<key>directlycube</key>
+	<string>autoItem</string>
+	<key>listviewbound</key>
+	<string>repositorystructuresize</string>
+	<key>shouldUnmountedCursor</key>
+	<string>usageRate</string>
+	<key>similarButton</key>
+	<string>visitChapter</string>
+	<key>symmetricpager</key>
+	<string>newestGrain</string>
+	<key>uniqueCycle</key>
+	<string>isolatemediatorforce</string>
+</dict>
+</plist>

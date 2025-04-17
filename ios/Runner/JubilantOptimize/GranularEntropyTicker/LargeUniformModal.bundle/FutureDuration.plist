@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorindex</key>
+	<string>diffableCard</string>
+	<key>disparateGrain</key>
+	<string>stackIndex</string>
+	<key>invisibleAction</key>
+	<string>cupertinoAlignment</string>
+	<key>onradiotap</key>
+	<string>symbolspacing</string>
+	<key>resolverStyle</key>
+	<string>queuesinceinterpreter</string>
+	<key>shouldSetStateMomentum</key>
+	<string>sampleStrategy</string>
+	<key>sophisticatedSubscriber</key>
+	<string>secondTopic</string>
+</dict>
+</plist>

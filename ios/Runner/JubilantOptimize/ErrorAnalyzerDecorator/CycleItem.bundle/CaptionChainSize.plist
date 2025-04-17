@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buffermementoresponse</key>
+	<string>cancelExtension</string>
+	<key>euclideanEffect</key>
+	<string>streamsize</string>
+	<key>fixedmargin</key>
+	<string>cardwidget</string>
+	<key>linkerVisibility</key>
+	<string>crudeBatch</string>
+	<key>shouldValidatePlate</key>
+	<string>aspectValidation</string>
+	<key>standalonecapsulemomentum</key>
+	<string>keepbloc</string>
+	<key>statelessMetadata</key>
+	<string>shouldPresentExtension</string>
+</dict>
+</plist>

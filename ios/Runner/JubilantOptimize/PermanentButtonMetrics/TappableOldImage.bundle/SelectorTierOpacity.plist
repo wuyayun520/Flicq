@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>checkmovement</key>
+	<string>mountedBaseline</string>
+	<key>ignoredParticle</key>
+	<string>permissiveEmitter</string>
+	<key>publicHash</key>
+	<string>providerType</string>
+	<key>requestmodule</key>
+	<string>resolveConfiguration</string>
+	<key>shouldPushFuture</key>
+	<string>mutableReplica</string>
+	<key>visitsample</key>
+	<string>shouldformatbutton</string>
+</dict>
+</plist>

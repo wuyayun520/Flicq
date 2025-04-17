@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessoryresponder</key>
+	<string>persistentWorkflow</string>
+	<key>eagerbaselineedge</key>
+	<string>enhanceScene</string>
+	<key>handlemodel</key>
+	<string>hardInteraction</string>
+	<key>mountservice</key>
+	<string>taskscalability</string>
+	<key>requiredqueueorientation</key>
+	<string>enabledModulus</string>
+	<key>shouldDisconnectInstruction</key>
+	<string>canTransformEffect</string>
+	<key>shouldPersistChallenge</key>
+	<string>routeEqualization</string>
+</dict>
+</plist>

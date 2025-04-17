@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileTable</key>
+	<string>screenconfiguration</string>
+	<key>backwardTask</key>
+	<string>upgradeGraph</string>
+	<key>elasticspotrotation</key>
+	<string>finderVisibility</string>
+	<key>gridviewMargin</key>
+	<string>functionalCertificate</string>
+	<key>shouldRouteCell</key>
+	<string>canRestartTool</string>
+	<key>smartCache</key>
+	<string>mutableData</string>
+</dict>
+</plist>

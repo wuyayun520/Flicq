@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensiveKernel</key>
+	<string>flexibleformat</string>
+	<key>hierarchicalBinder</key>
+	<string>accordionbehaviorformat</string>
+	<key>labelmediatorvisibility</key>
+	<string>retainedEffect</string>
+	<key>persistentOption</key>
+	<string>euclideanGestureDetector</string>
+	<key>shouldLayoutLoss</key>
+	<string>semanticResolver</string>
+	<key>shouldShowNorm</key>
+	<string>fusedCursor</string>
+	<key>tickerBottom</key>
+	<string>hardfactory</string>
+</dict>
+</plist>

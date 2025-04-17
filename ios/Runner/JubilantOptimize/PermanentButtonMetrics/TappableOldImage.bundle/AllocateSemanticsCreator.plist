@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessorylocation</key>
+	<string>mutablestatefulskewx</string>
+	<key>equalizationvisibility</key>
+	<string>synchronousCell</string>
+	<key>imperativeloopfrequency</key>
+	<string>overlayVisitor</string>
+	<key>independentCache</key>
+	<string>encodebehavior</string>
+	<key>lastcallback</key>
+	<string>eraseDelegate</string>
+	<key>oldWrapper</key>
+	<string>commonStore</string>
+	<key>parseboxshadow</key>
+	<string>draggableModule</string>
+	<key>shouldDeserializeTable</key>
+	<string>adaptiveProcessor</string>
+</dict>
+</plist>

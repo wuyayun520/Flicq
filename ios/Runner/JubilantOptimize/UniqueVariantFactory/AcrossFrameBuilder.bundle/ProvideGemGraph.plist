@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterSkewX</key>
+	<string>shouldPersistHero</string>
+	<key>euclideanRow</key>
+	<string>permanentCapsule</string>
+	<key>masterFormat</key>
+	<string>vertexTail</string>
+	<key>missedElasticity</key>
+	<string>missedResponder</string>
+	<key>profileMomentum</key>
+	<string>accessibleComposition</string>
+	<key>shouldRouteUsage</key>
+	<string>listviewBrightness</string>
+	<key>taskagainstmethod</key>
+	<string>seamlessloader</string>
+</dict>
+</plist>

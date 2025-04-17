@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>entitycyclesaturation</key>
+	<string>analyzeAsset</string>
+	<key>shouldSubscribeCache</key>
+	<string>resumeCoordinator</string>
+	<key>shouldpushlayout</key>
+	<string>globalmanager</string>
+	<key>stateevolution</key>
+	<string>logPlatform</string>
+	<key>titleVisible</key>
+	<string>cartesiancharacteristic</string>
+	<key>uniqueGrayscale</key>
+	<string>shouldRestartCursor</string>
+	<key>uniqueSample</key>
+	<string>paintCaption</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delicateTabView</key>
+	<string>finishSpot</string>
+	<key>dynamicTransition</key>
+	<string>compileTexture</string>
+	<key>euclideanRichText</key>
+	<string>showError</string>
+	<key>globalBandwidth</key>
+	<string>subtleProfile</string>
+	<key>modulusview</key>
+	<string>shouldvalidateremainder</string>
+	<key>robusttimer</key>
+	<string>numericalPublisher</string>
+	<key>specifierprovision</key>
+	<string>apertureMode</string>
+</dict>
+</plist>

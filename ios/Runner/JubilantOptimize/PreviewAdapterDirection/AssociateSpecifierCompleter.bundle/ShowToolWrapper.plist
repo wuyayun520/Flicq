@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentthanmode</key>
+	<string>cycleformat</string>
+	<key>gramCoord</key>
+	<string>firstEquivalent</string>
+	<key>mediocreresolver</key>
+	<string>layoutAnimation</string>
+	<key>segmentSaturation</key>
+	<string>pagerVisible</string>
+	<key>shouldInitializeConvolution</key>
+	<string>threadNumber</string>
+	<key>shouldStopMultiplication</key>
+	<string>shouldrebuildcertificate</string>
+</dict>
+</plist>

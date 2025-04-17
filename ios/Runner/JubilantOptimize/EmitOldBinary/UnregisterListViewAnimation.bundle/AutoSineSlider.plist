@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoCombiner</key>
+	<string>shouldDispatchProtocol</string>
+	<key>commonProcessor</key>
+	<string>unsortedVector</string>
+	<key>lastGroup</key>
+	<string>smartbuilder</string>
+	<key>mediumComposition</key>
+	<string>responderMomentum</string>
+	<key>scaleRotation</key>
+	<string>smartdecoration</string>
+	<key>shouldSubscribeHeap</key>
+	<string>memberdirection</string>
+	<key>sineLocation</key>
+	<string>resumeController</string>
+	<key>staticModulus</key>
+	<string>canCancelPriority</string>
+	<key>visibleLoop</key>
+	<string>singletonstate</string>
+</dict>
+</plist>

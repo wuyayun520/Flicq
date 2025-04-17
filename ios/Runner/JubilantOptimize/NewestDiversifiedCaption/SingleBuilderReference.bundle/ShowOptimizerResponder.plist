@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedModulus</key>
+	<string>processProjection</string>
+	<key>shouldMountedRow</key>
+	<string>fillStorage</string>
+	<key>shouldUnmountCatalyst</key>
+	<string>secondBullet</string>
+	<key>texturespeed</key>
+	<string>lazyTable</string>
+</dict>
+</plist>

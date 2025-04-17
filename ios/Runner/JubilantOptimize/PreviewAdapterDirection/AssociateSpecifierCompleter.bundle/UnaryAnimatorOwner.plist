@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleScale</key>
+	<string>shouldStartAperture</string>
+	<key>containervalueorientation</key>
+	<string>canPopMovement</string>
+	<key>directRemediation</key>
+	<string>flexOffset</string>
+	<key>displayableChapter</key>
+	<string>canInitializeCharacter</string>
+	<key>refreshdescriptor</key>
+	<string>delicateDescriptor</string>
+</dict>
+</plist>

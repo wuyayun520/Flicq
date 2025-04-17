@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedThroughput</key>
+	<string>gridTop</string>
+	<key>curveScale</key>
+	<string>shouldLoadSymbol</string>
+	<key>emitterLeft</key>
+	<string>shouldValidateGate</string>
+	<key>functionalAlignment</key>
+	<string>interpolationSize</string>
+	<key>shouldStreamSegment</key>
+	<string>canSetStateChannels</string>
+	<key>shouldTransformMomentum</key>
+	<string>retainedGram</string>
+	<key>smartHash</key>
+	<string>customUseCase</string>
+	<key>smartHistogram</key>
+	<string>navigateButton</string>
+	<key>tappableImage</key>
+	<string>currentobserver</string>
+	<key>tappableSubscriber</key>
+	<string>restartGradient</string>
+</dict>
+</plist>

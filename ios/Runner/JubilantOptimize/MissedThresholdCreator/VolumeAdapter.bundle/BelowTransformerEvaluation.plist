@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorpadding</key>
+	<string>handlerSaturation</string>
+	<key>contractiondespitelevel</key>
+	<string>shouldDeserializeNib</string>
+	<key>currentPageView</key>
+	<string>displayableGridView</string>
+	<key>greatAnimatedContainer</key>
+	<string>inkwelllikevar</string>
+	<key>shouldSkipGem</key>
+	<string>cancelradius</string>
+</dict>
+</plist>

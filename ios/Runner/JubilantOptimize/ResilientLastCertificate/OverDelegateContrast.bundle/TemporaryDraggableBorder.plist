@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>comprehensivegraph</key>
+	<string>controllerborder</string>
+	<key>initiativeStyle</key>
+	<string>denseMerger</string>
+	<key>mapperMode</key>
+	<string>semanticbuildervisible</string>
+	<key>protectedAnalogy</key>
+	<string>backwardMetrics</string>
+	<key>protectedUnary</key>
+	<string>dissociateLocalization</string>
+	<key>routeinteraction</key>
+	<string>shouldProcessCurve</string>
+	<key>unactivatedRow</key>
+	<string>presenterincludestyle</string>
+</dict>
+</plist>

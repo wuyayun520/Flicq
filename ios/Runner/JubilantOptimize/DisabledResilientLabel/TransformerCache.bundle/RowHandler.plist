@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationTension</key>
+	<string>formatEqualization</string>
+	<key>dynamicAscent</key>
+	<string>defaultreference</string>
+	<key>pagerOffset</key>
+	<string>actionColor</string>
+	<key>persistentStroke</key>
+	<string>particledistance</string>
+	<key>reactiveIsolate</key>
+	<string>easytouchsaturation</string>
+	<key>sophisticatedsizedboxalignment</key>
+	<string>keepgrain</string>
+	<key>storagerestriction</key>
+	<string>usedEquivalent</string>
+	<key>symmetricBoxShadow</key>
+	<string>accelerateMenu</string>
+	<key>tickerAcceleration</key>
+	<string>canDecodeDuration</string>
+</dict>
+</plist>

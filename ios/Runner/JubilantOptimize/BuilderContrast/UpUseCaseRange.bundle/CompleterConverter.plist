@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsmerger</key>
+	<string>appendCallback</string>
+	<key>euclideancurve</key>
+	<string>deprecateRouter</string>
+	<key>functionalMediaQuery</key>
+	<string>defaultNavigation</string>
+	<key>interactiveCupertino</key>
+	<string>responsiveInterpolation</string>
+	<key>lazyGate</key>
+	<string>sortedPageView</string>
+	<key>pinchableGroup</key>
+	<string>routerTail</string>
+	<key>resumecaption</key>
+	<string>differentiateNode</string>
+	<key>richtextdistance</key>
+	<string>stopCoordinator</string>
+	<key>threadTop</key>
+	<string>canNotifyDocument</string>
+	<key>touchRight</key>
+	<string>elasticCharacter</string>
+</dict>
+</plist>

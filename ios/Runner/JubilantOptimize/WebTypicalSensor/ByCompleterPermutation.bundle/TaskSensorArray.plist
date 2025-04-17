@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>assetinterval</key>
+	<string>gestureJob</string>
+	<key>cardShape</key>
+	<string>bloctag</string>
+	<key>largeCursor</key>
+	<string>interactivesearcher</string>
+	<key>metadatainterval</key>
+	<string>shouldRouteBuilder</string>
+	<key>remediationContrast</key>
+	<string>overrideIntensity</string>
+	<key>shouldDetachWidget</key>
+	<string>spotVar</string>
+	<key>symmetricBullet</key>
+	<string>seekDecoration</string>
+	<key>tentativeTail</key>
+	<string>canTransformMomentum</string>
+</dict>
+</plist>

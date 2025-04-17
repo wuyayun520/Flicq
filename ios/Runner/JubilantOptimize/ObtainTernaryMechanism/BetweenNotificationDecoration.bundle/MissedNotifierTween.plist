@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderchaintag</key>
+	<string>presenterAdapter</string>
+	<key>buttonSpacing</key>
+	<string>shouldDisconnectStateful</string>
+	<key>clusterMargin</key>
+	<string>scaleSkewY</string>
+	<key>converterPressure</key>
+	<string>momentumObserver</string>
+	<key>dedicatedMaterializer</key>
+	<string>fusedGate</string>
+	<key>lockfactory</key>
+	<string>routeedge</string>
+	<key>sessionTheme</key>
+	<string>variantstyle</string>
+	<key>uniquePainter</key>
+	<string>backwardscaffoldresponse</string>
+</dict>
+</plist>

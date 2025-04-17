@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeinteraction</key>
+	<string>extendscaffold</string>
+	<key>blocrecursion</key>
+	<string>hyperbolicSprite</string>
+	<key>requiredTweak</key>
+	<string>shouldCacheMap</string>
+	<key>shouldFetchSymbol</key>
+	<string>musicrow</string>
+	<key>significantOptimizer</key>
+	<string>dismissSample</string>
+	<key>sinemethodopacity</key>
+	<string>cardDepth</string>
+	<key>timeOrientation</key>
+	<string>visualizeRoute</string>
+</dict>
+</plist>

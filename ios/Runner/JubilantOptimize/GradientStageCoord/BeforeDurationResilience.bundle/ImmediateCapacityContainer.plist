@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzedescriptor</key>
+	<string>requiredMusic</string>
+	<key>arithmeticShape</key>
+	<string>replicateZone</string>
+	<key>remainderScale</key>
+	<string>fragmentsSkewY</string>
+	<key>resizableCapsule</key>
+	<string>bufferkindduration</string>
+	<key>shouldFetchDropdownButton</key>
+	<string>reusableFinder</string>
+	<key>sortedFuture</key>
+	<string>evaluatecompleter</string>
+	<key>standaloneSelector</key>
+	<string>tweenmaterial</string>
+</dict>
+</plist>

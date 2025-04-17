@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activityresolver</key>
+	<string>subscribePriority</string>
+	<key>composableRole</key>
+	<string>hierarchicalDescription</string>
+	<key>imperativeNib</key>
+	<string>sophisticatedThread</string>
+	<key>navigationdescription</key>
+	<string>multiplyRect</string>
+	<key>particleadapterstate</key>
+	<string>collectionFlags</string>
+	<key>primaryAlignment</key>
+	<string>refreshRadius</string>
+	<key>responsiveAccessory</key>
+	<string>localCustomPaint</string>
+	<key>shouldYieldRemainder</key>
+	<string>tableColor</string>
+	<key>synchronousTheme</key>
+	<string>musicLayer</string>
+</dict>
+</plist>

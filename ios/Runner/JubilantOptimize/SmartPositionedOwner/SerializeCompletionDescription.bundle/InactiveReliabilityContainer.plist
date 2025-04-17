@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorasstyle</key>
+	<string>customizedLabel</string>
+	<key>associatedSwift</key>
+	<string>modalIndex</string>
+	<key>clusterLocation</key>
+	<string>taskplatformtheme</string>
+	<key>globalNotation</key>
+	<string>shouldMountedPrecision</string>
+	<key>newestsize</key>
+	<string>storyboardfrombuffer</string>
+	<key>overlaydelay</key>
+	<string>sanitizeAction</string>
+	<key>reactiveNib</key>
+	<string>agileShader</string>
+	<key>skindepth</key>
+	<string>iterativebuttontheme</string>
+	<key>sophisticatedResource</key>
+	<string>marginAppearance</string>
+</dict>
+</plist>

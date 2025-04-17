@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>creatorBrightness</key>
+	<string>adaptivePager</string>
+	<key>diffableReduction</key>
+	<string>shouldPopOptimizer</string>
+	<key>disabledSensor</key>
+	<string>initializeSwift</string>
+	<key>globalIndicator</key>
+	<string>responderDistance</string>
+	<key>lastModule</key>
+	<string>asynchronousAction</string>
+	<key>paintobserver</key>
+	<string>flexibleGate</string>
+	<key>positionshader</key>
+	<string>canPublishGesture</string>
+	<key>sequentialwrapper</key>
+	<string>variantInterpreter</string>
+	<key>shouldlistenbuilder</key>
+	<string>lossMode</string>
+	<key>themeaboutdecorator</key>
+	<string>inflateException</string>
+</dict>
+</plist>

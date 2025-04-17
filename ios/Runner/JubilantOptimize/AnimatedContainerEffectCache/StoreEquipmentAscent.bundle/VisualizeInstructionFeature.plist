@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerSkin</key>
+	<string>initializeWorkflow</string>
+	<key>equalizationLocation</key>
+	<string>callbackOrigin</string>
+	<key>reactiveZone</key>
+	<string>persistentPosition</string>
+	<key>refactorchecklist</key>
+	<string>subtleCard</string>
+</dict>
+</plist>

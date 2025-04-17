@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentResponder</key>
+	<string>newestTweak</string>
+	<key>custompaintFeedback</key>
+	<string>retainedSize</string>
+	<key>invisiblewidget</key>
+	<string>shouldProcessCompletion</string>
+	<key>visibleException</key>
+	<string>pushHeap</string>
+</dict>
+</plist>

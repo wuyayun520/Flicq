@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalBinder</key>
+	<string>displayableGrid</string>
+	<key>difficultwrapper</key>
+	<string>swiftInterval</string>
+	<key>fusedCapsule</key>
+	<string>exitListener</string>
+	<key>memberStatus</key>
+	<string>expandedCenter</string>
+	<key>protectedLayout</key>
+	<string>normalPlayback</string>
+	<key>selectorContrast</key>
+	<string>contrastVelocity</string>
+	<key>shouldpushstep</key>
+	<string>lostChart</string>
+	<key>storageparameterfeedback</key>
+	<string>responsebound</string>
+	<key>tickerTail</key>
+	<string>globalInteger</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>eagerSpine</key>
+	<string>cartesianobserverorientation</string>
+	<key>functionalBinder</key>
+	<string>shouldLayoutKernel</string>
+	<key>intuitiveSprite</key>
+	<string>canDeserializeBoxShadow</string>
+	<key>multiunaryshade</key>
+	<string>isPoint</string>
+	<key>pivotalRadius</key>
+	<string>utilValidation</string>
+	<key>plateMargin</key>
+	<string>shouldStartInteger</string>
+	<key>sharedRectangle</key>
+	<string>stampPhase</string>
+</dict>
+</plist>

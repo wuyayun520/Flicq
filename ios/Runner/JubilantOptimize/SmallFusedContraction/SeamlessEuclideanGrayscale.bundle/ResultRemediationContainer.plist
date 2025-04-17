@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletjobdistance</key>
+	<string>canRouteConstraint</string>
+	<key>firstScheduler</key>
+	<string>shouldBindPoint</string>
+	<key>resilientAnimation</key>
+	<string>iterativeProjection</string>
+	<key>sophisticatedspine</key>
+	<string>parallelItem</string>
+</dict>
+</plist>

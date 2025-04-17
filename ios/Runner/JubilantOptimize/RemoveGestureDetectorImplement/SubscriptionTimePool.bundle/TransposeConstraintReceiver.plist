@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentbullet</key>
+	<string>crudeBorder</string>
+	<key>deferredSegment</key>
+	<string>keyColumn</string>
+	<key>dynamicCluster</key>
+	<string>navigatorContrast</string>
+	<key>gesturedetectorprototypestyle</key>
+	<string>shouldUnmountRadio</string>
+	<key>inheritedTransformer</key>
+	<string>shouldmounticon</string>
+	<key>makemediaquery</key>
+	<string>hyperbolicCatalyst</string>
+	<key>restoremetadata</key>
+	<string>usedNotation</string>
+	<key>shouldInflateCard</key>
+	<string>reusableSelector</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderDistance</key>
+	<string>synchronizeCubit</string>
+	<key>convertersaturation</key>
+	<string>shouldInflateShader</string>
+	<key>effecthandler</key>
+	<string>saveClipper</string>
+	<key>lastjoiner</key>
+	<string>offsetVar</string>
+	<key>nibInteraction</key>
+	<string>sharedComposition</string>
+	<key>secondGraph</key>
+	<string>listenText</string>
+	<key>streamtransformer</key>
+	<string>shouldNavigateCache</string>
+	<key>useddelegate</key>
+	<string>modelCycle</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinopager</key>
+	<string>unbindConstraint</string>
+	<key>currentInitiative</key>
+	<string>appendlayout</string>
+	<key>firstLayout</key>
+	<string>mobileStorage</string>
+	<key>lostRadio</key>
+	<string>descriptorFacade</string>
+	<key>parallelAction</key>
+	<string>independentVolume</string>
+	<key>responsecycleorigin</key>
+	<string>screenproxycenter</string>
+	<key>robustnib</key>
+	<string>rectangleMargin</string>
+	<key>sharedController</key>
+	<string>shouldstartdialogs</string>
+	<key>shouldUnmountEquipment</key>
+	<string>gestureEdge</string>
+</dict>
+</plist>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionRow</key>
+	<string>subscribeSegue</string>
+	<key>disabledimageflags</key>
+	<string>missedscheduler</string>
+	<key>explicitdescent</key>
+	<string>currentgesture</string>
+	<key>missedAllocator</key>
+	<string>functionalBatch</string>
+	<key>persistentTechnique</key>
+	<string>subscriptiontempletop</string>
+	<key>preveventbrightness</key>
+	<string>sceneDuration</string>
+	<key>projectagainstinterpreter</key>
+	<string>shouldHandleSegment</string>
+	<key>shouldReplaceFlex</key>
+	<string>replaceRepository</string>
+	<key>staticgradientopacity</key>
+	<string>liteMusic</string>
+	<key>thresholdBottom</key>
+	<string>baselinePressure</string>
+</dict>
+</plist>

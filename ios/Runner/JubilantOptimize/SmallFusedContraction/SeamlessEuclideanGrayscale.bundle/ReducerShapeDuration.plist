@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>appbarSpacing</key>
+	<string>shaderContrast</string>
+	<key>brushTension</key>
+	<string>responsiveView</string>
+	<key>equivalentshade</key>
+	<string>currentloss</string>
+	<key>instructionagainstbridge</key>
+	<string>hyperbolicStep</string>
+	<key>largeroute</key>
+	<string>tweenAcceleration</string>
+	<key>mobileCell</key>
+	<string>overrideCallback</string>
+	<key>parallelDropdownButton</key>
+	<string>shouldyieldlayout</string>
+	<key>retainedcontainer</key>
+	<string>uniformProcessor</string>
+	<key>shouldContinuePromise</key>
+	<string>hashFrequency</string>
+	<key>themepressure</key>
+	<string>nextAlert</string>
+</dict>
+</plist>

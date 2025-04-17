@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>associatedlayerflags</key>
+	<string>timeRight</string>
+	<key>detectorCoord</key>
+	<string>initiativeFeedback</string>
+	<key>presentersincephase</key>
+	<string>pageviewOrigin</string>
+	<key>prevChecklist</key>
+	<string>cancelSubpixel</string>
+	<key>reusableVariant</key>
+	<string>attachCapacities</string>
+	<key>shouldTrainSign</key>
+	<string>canSkipDropdownButton</string>
+	<key>sizecommandtail</key>
+	<string>transitionSegment</string>
+	<key>sustainableChannels</key>
+	<string>subscribeBehavior</string>
+</dict>
+</plist>

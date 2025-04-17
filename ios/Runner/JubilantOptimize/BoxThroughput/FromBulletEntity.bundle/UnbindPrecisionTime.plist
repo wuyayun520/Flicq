@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>criticalSound</key>
+	<string>mobileContrast</string>
+	<key>desktopNotifier</key>
+	<string>newestScope</string>
+	<key>enddrawer</key>
+	<string>attachFeature</string>
+	<key>histogramDepth</key>
+	<string>paddingPlatform</string>
+	<key>lazyRichText</key>
+	<string>removeCallback</string>
+	<key>segueinterval</key>
+	<string>sizeSpeed</string>
+</dict>
+</plist>

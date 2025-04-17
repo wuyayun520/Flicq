@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>inkwellTop</key>
+	<string>iconaroundmediator</string>
+	<key>opaqueProtocol</key>
+	<string>gradientright</string>
+	<key>prioritytypeposition</key>
+	<string>shouldValidateSymbol</string>
+</dict>
+</plist>

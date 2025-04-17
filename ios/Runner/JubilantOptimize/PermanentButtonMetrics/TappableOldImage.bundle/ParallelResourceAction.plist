@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedCanvas</key>
+	<string>unmountInitiators</string>
+	<key>binderfeedback</key>
+	<string>coordinatorinsidenumber</string>
+	<key>easyContraction</key>
+	<string>reductionLevel</string>
+	<key>inheritedNode</key>
+	<string>instructionleft</string>
+	<key>savetext</key>
+	<string>paintercount</string>
+	<key>scrollableManager</key>
+	<string>lastEntropy</string>
+	<key>shouldRebuildModal</key>
+	<string>diffableswitchcenter</string>
+	<key>shouldRestartSubpixel</key>
+	<string>sineStage</string>
+	<key>tappableChallenge</key>
+	<string>sequentialTime</string>
+</dict>
+</plist>

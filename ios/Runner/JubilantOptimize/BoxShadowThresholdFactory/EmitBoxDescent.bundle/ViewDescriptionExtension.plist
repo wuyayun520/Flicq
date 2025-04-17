@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>extensionhead</key>
+	<string>largeUsage</string>
+	<key>hierarchicalimage</key>
+	<string>pivotalAnchor</string>
+	<key>intermediateInkWell</key>
+	<string>displayableMaterial</string>
+	<key>layerfeedback</key>
+	<string>batchVisibility</string>
+	<key>otherMonster</key>
+	<string>shouldPauseColumn</string>
+	<key>prevDescription</key>
+	<string>respectiveOverlay</string>
+	<key>sharedScroller</key>
+	<string>invokegift</string>
+	<key>statelessPlate</key>
+	<string>shouldInitializeCapsule</string>
+</dict>
+</plist>

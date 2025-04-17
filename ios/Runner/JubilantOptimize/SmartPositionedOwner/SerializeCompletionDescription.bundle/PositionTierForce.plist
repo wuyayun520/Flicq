@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousLayer</key>
+	<string>kernelinset</string>
+	<key>entropyOrientation</key>
+	<string>replaceGrid</string>
+	<key>explicitCard</key>
+	<string>cartesianOccasion</string>
+	<key>monsterSize</key>
+	<string>originalNotifier</string>
+	<key>pinchableScroll</key>
+	<string>previewscheduler</string>
+	<key>requiredarchitecture</key>
+	<string>layoutFormat</string>
+	<key>reusableAsync</key>
+	<string>borderBrightness</string>
+	<key>singletonKind</key>
+	<string>secondPosition</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>completertype</key>
+	<string>transformertail</string>
+	<key>greatsemanticsdelay</key>
+	<string>typicalTransition</string>
+	<key>paintwidget</key>
+	<string>canCreatePageView</string>
+	<key>showloss</key>
+	<string>containerSpeed</string>
+	<key>streamcolor</key>
+	<string>webTween</string>
+	<key>unactivatedRouter</key>
+	<string>processChecklist</string>
+</dict>
+</plist>

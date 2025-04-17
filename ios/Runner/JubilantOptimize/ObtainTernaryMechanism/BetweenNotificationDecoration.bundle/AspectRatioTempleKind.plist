@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleArchitecture</key>
+	<string>directlyEvolution</string>
+	<key>concreteOption</key>
+	<string>mountedinterface</string>
+	<key>dispatcherEdge</key>
+	<string>customCollection</string>
+	<key>fixedDescription</key>
+	<string>asynchronousComponent</string>
+	<key>permissiveelasticity</key>
+	<string>canKeepBrush</string>
+	<key>schedulerFlags</key>
+	<string>relationalCubit</string>
+	<key>shouldHandleContraction</key>
+	<string>webEntity</string>
+	<key>taskPadding</key>
+	<string>staticProgressBar</string>
+</dict>
+</plist>

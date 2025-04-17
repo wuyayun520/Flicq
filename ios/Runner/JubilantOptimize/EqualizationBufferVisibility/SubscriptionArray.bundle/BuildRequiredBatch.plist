@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deliveryPosition</key>
+	<string>platereliability</string>
+	<key>fusedDelivery</key>
+	<string>loaderShade</string>
+	<key>fusedMap</key>
+	<string>onstacktap</string>
+	<key>inactivestatebrightness</key>
+	<string>animateworkflow</string>
+	<key>joinerLeft</key>
+	<string>newestjoiner</string>
+	<key>pushgem</key>
+	<string>canUpdateGrayscale</string>
+	<key>tappablegesturedetector</key>
+	<string>borderlayout</string>
+	<key>usedFinder</key>
+	<string>prevPicker</string>
+</dict>
+</plist>

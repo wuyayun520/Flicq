@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>flexibleResult</key>
+	<string>shouldHandlePainter</string>
+	<key>immediateScope</key>
+	<string>hierarchicalShader</string>
+	<key>parallelAwait</key>
+	<string>drawobserver</string>
+	<key>reductionCoord</key>
+	<string>dismissModal</string>
+	<key>shouldTransitionHero</key>
+	<string>containermomentum</string>
+	<key>unmounttransformer</key>
+	<string>canPrepareMember</string>
+</dict>
+</plist>

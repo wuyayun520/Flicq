@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonTransition</key>
+	<string>stampTier</string>
+	<key>intermediateIntegrity</key>
+	<string>momentumalongvisitor</string>
+	<key>nativeRecursion</key>
+	<string>prevMap</string>
+	<key>rolemetrics</key>
+	<string>segmentObserver</string>
+	<key>specifyPolyfill</key>
+	<string>stringifyPresenter</string>
+	<key>unsortedMethod</key>
+	<string>storageStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialityDensity</key>
+	<string>persistProject</string>
+	<key>lastobserverkind</key>
+	<string>canPresentMovement</string>
+	<key>liteefficiency</key>
+	<string>shouldAnimateMission</string>
+	<key>profilecontainer</key>
+	<string>secondSize</string>
+	<key>respectiveGrid</key>
+	<string>decorationtype</string>
+	<key>slashDirection</key>
+	<string>shouldProcessWorkflow</string>
+</dict>
+</plist>

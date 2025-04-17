@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concurrentvolume</key>
+	<string>shouldDecodeCoordinator</string>
+	<key>keyTexture</key>
+	<string>accessibleExtension</string>
+	<key>seamlessTopic</key>
+	<string>shouldAnimateInitiators</string>
+	<key>sessionlistener</key>
+	<string>shouldMountedCosine</string>
+	<key>shouldProcessLabel</key>
+	<string>handlerForm</string>
+	<key>soundCenter</key>
+	<string>canUpdateSpecifier</string>
+	<key>swiftTransparency</key>
+	<string>canPrepareAperture</string>
+	<key>unactivatedUseCase</key>
+	<string>sessionSkewY</string>
+	<key>unsortedOverlay</key>
+	<string>sustainableRoute</string>
+</dict>
+</plist>

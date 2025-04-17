@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>difficultstack</key>
+	<string>scrollableText</string>
+	<key>directlyReference</key>
+	<string>canConnectFragment</string>
+	<key>embedvector</key>
+	<string>canLoadCell</string>
+	<key>globalCaption</key>
+	<string>shouldSaveCurve</string>
+	<key>locatelayer</key>
+	<string>paddingplatformcolor</string>
+	<key>multiActivity</key>
+	<string>hardSymbol</string>
+	<key>singlePopup</key>
+	<string>shouldFetchResource</string>
+	<key>stackPressure</key>
+	<string>touchPrototype</string>
+	<key>subpixeldirection</key>
+	<string>colorHue</string>
+</dict>
+</plist>

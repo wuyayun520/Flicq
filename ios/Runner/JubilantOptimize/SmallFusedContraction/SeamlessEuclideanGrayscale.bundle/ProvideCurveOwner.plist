@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoFeedback</key>
+	<string>completionopacity</string>
+	<key>interactiveSwitch</key>
+	<string>initializeCatalyst</string>
+	<key>repositorydespitestage</key>
+	<string>rectamortization</string>
+	<key>sharedScenario</key>
+	<string>animatorBorder</string>
+	<key>shouldLayoutCertificate</key>
+	<string>unsortedContrast</string>
+	<key>shouldPersistCosine</key>
+	<string>deserializeContainer</string>
+	<key>shouldReplaceBuilder</key>
+	<string>sequentialWrapper</string>
+	<key>viewcenter</key>
+	<string>lazySprite</string>
+</dict>
+</plist>

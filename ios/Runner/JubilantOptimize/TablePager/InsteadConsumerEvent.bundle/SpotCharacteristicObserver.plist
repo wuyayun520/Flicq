@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concreteTween</key>
+	<string>euclideanAlignment</string>
+	<key>consultativeReceiver</key>
+	<string>canSaveRemainder</string>
+	<key>declarativeMaterializer</key>
+	<string>canFetchPromise</string>
+	<key>mapperPadding</key>
+	<string>positionScope</string>
+	<key>shouldCancelHeap</key>
+	<string>restoreInjection</string>
+	<key>shouldCreateStateful</key>
+	<string>pushposition</string>
+	<key>shouldemitbatch</key>
+	<string>prismaticmastermode</string>
+	<key>substantialGrain</key>
+	<string>associatedTimer</string>
+</dict>
+</plist>

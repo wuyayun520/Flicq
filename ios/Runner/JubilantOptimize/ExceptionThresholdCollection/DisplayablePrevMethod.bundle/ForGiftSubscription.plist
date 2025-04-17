@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveAnalyzer</key>
+	<string>canRenderTextField</string>
+	<key>collectionwithfacade</key>
+	<string>concurrentVolume</string>
+	<key>seamlessPosition</key>
+	<string>stopappbar</string>
+	<key>shouldRebuildTheme</key>
+	<string>bulletForm</string>
+	<key>shouldendgift</key>
+	<string>elasticCapsule</string>
+	<key>symbolstrategylocation</key>
+	<string>pauseconsumer</string>
+	<key>synchronousAlpha</key>
+	<string>clipperName</string>
+	<key>topicmend</key>
+	<string>asyncsound</string>
+</dict>
+</plist>

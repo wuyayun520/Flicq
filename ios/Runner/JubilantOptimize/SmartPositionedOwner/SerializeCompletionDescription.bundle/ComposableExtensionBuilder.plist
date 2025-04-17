@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>deactivateservice</key>
+	<string>cupertinoZone</string>
+	<key>hyperbolicTheme</key>
+	<string>declarativeAppBar</string>
+	<key>indicatorscale</key>
+	<string>oldsprite</string>
+	<key>interactorScale</key>
+	<string>opaqueLocalization</string>
+	<key>lazyAspect</key>
+	<string>denseImage</string>
+	<key>mainCheckbox</key>
+	<string>inkwellSingleton</string>
+	<key>painterDistance</key>
+	<string>canHandleCache</string>
+	<key>shouldFetchMobile</key>
+	<string>standaloneTitle</string>
+	<key>temporaryFactory</key>
+	<string>mobileAcceleration</string>
+</dict>
+</plist>

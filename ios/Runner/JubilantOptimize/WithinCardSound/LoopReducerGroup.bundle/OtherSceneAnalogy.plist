@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentDuration</key>
+	<string>canTransitionSpot</string>
+	<key>cupertinoResponse</key>
+	<string>sortedfuture</string>
+	<key>dispatchkernel</key>
+	<string>documentScale</string>
+	<key>elasticconfidentiality</key>
+	<string>canSerializeEntropy</string>
+	<key>filterTheme</key>
+	<string>locatedimension</string>
+	<key>logarithmFrequency</key>
+	<string>compareCoordinator</string>
+	<key>materialCurve</key>
+	<string>mainPermutation</string>
+	<key>resizableGram</key>
+	<string>reactiveModulus</string>
+	<key>shouldAttachSegue</key>
+	<string>movementBehavior</string>
+</dict>
+</plist>

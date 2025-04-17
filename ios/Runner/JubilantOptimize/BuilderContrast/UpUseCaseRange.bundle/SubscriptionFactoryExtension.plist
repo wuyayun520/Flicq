@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>backwardDelivery</key>
+	<string>skipCertificate</string>
+	<key>denseBox</key>
+	<string>accessibleObserver</string>
+	<key>subscribesegue</key>
+	<string>statelessscrollscale</string>
+	<key>subtlesliderspeed</key>
+	<string>chapterinprocess</string>
+</dict>
+</plist>

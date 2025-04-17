@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>configurationrect</key>
+	<string>animatedTopic</string>
+	<key>delegateinterpreterresponse</key>
+	<string>tensorRenderer</string>
+	<key>indicatorLeft</key>
+	<string>arithmeticcontainer</string>
+	<key>persistentDependency</key>
+	<string>canYieldProvider</string>
+	<key>shouldProcessTask</key>
+	<string>trainReduction</string>
+	<key>shouldUnbindTask</key>
+	<string>navigatorInterval</string>
+</dict>
+</plist>

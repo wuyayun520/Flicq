@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicDelivery</key>
+	<string>shouldTransitionProfile</string>
+	<key>ignoredVector</key>
+	<string>sensorvaluepadding</string>
+	<key>opaqueProgressBar</key>
+	<string>missedHistogram</string>
+	<key>optionForce</key>
+	<string>sensorfacadeappearance</string>
+	<key>scaffoldsubscription</key>
+	<string>schemaFrequency</string>
+	<key>selectedpageview</key>
+	<string>diversifiedMonster</string>
+	<key>shouldPersistEntropy</key>
+	<string>overlayrotation</string>
+	<key>shouldRestartSwitch</key>
+	<string>prioritySpeed</string>
+	<key>shouldStopBrush</key>
+	<string>sustainableTheme</string>
+</dict>
+</plist>

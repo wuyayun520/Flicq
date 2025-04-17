@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>chartinteraction</key>
+	<string>mountedView</string>
+	<key>graphStyle</key>
+	<string>decorationValidation</string>
+	<key>mutablePublisher</key>
+	<string>mountedskin</string>
+	<key>originalReceiver</key>
+	<string>captionCoord</string>
+</dict>
+</plist>

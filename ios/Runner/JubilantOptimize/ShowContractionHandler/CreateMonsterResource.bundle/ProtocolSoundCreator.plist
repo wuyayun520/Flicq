@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionEquivalent</key>
+	<string>captionForm</string>
+	<key>combinerAlignment</key>
+	<string>stopMusic</string>
+	<key>gesturedetectorsize</key>
+	<string>lastTitle</string>
+	<key>ignoredProfile</key>
+	<string>inkwellasadapter</string>
+	<key>isPriority</key>
+	<string>transposeCubit</string>
+	<key>lastRichText</key>
+	<string>rapidActivity</string>
+	<key>shouldCacheGrayscale</key>
+	<string>listenerscale</string>
+</dict>
+</plist>

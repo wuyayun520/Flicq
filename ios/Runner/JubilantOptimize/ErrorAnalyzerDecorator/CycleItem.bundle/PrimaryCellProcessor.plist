@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentExponent</key>
+	<string>uniformTouch</string>
+	<key>drawercoord</key>
+	<string>hardConfiguration</string>
+	<key>exponentDensity</key>
+	<string>shouldUnmountedEquipment</string>
+	<key>intuitiveManager</key>
+	<string>paddingForce</string>
+	<key>pickerHead</key>
+	<string>contrastDistance</string>
+	<key>resizablestream</key>
+	<string>threadEdge</string>
+	<key>shouldNotifySession</key>
+	<string>themebridgeshape</string>
+	<key>significantAction</key>
+	<string>shouldAttachAnchor</string>
+	<key>tensorAscent</key>
+	<string>configurationsubscriber</string>
+</dict>
+</plist>

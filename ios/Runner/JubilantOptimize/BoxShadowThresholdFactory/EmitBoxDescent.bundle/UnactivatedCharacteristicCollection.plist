@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>fragmentRotation</key>
+	<string>shouldFetchVariant</string>
+	<key>geometricBitrate</key>
+	<string>transitionstyle</string>
+	<key>hasDecoration</key>
+	<string>canValidateAnimation</string>
+	<key>multiConsumption</key>
+	<string>shouldFormatTabView</string>
+	<key>permissiveSegment</key>
+	<string>canDeserializeCell</string>
+	<key>retainedEvent</key>
+	<string>crucialgestureinterval</string>
+	<key>singleGrayscale</key>
+	<string>canKeepAxis</string>
+	<key>subscriptionsingletonkind</key>
+	<string>integerbesidetask</string>
+</dict>
+</plist>

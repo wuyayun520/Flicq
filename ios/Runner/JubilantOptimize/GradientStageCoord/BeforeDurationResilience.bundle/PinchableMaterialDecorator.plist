@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoKind</key>
+	<string>behaviorFrequency</string>
+	<key>invisibleEvent</key>
+	<string>canUnbindCycle</string>
+	<key>menuFlags</key>
+	<string>canDecodeTouch</string>
+	<key>shouldunmountedskin</key>
+	<string>boxalongscope</string>
+	<key>temporaryMesh</key>
+	<string>dedicatedFormat</string>
+</dict>
+</plist>

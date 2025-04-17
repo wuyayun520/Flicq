@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>displayableCapacity</key>
+	<string>normName</string>
+	<key>exponentversustype</key>
+	<string>skipConvolution</string>
+	<key>imagedependency</key>
+	<string>canDisposeUsage</string>
+	<key>kernelitem</key>
+	<string>cupertinochart</string>
+	<key>lazyCaption</key>
+	<string>momentumProcess</string>
+	<key>petOrientation</key>
+	<string>canDisconnectBloc</string>
+	<key>shouldEmitStack</key>
+	<string>axisLayer</string>
+	<key>smartAxis</key>
+	<string>canSubscribeSpine</string>
+	<key>staticDescription</key>
+	<string>canCreateReference</string>
+</dict>
+</plist>

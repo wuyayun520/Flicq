@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>callbackCoord</key>
+	<string>canKeepSkin</string>
+	<key>controllerTint</key>
+	<string>typicalDialogs</string>
+	<key>handlermetrics</key>
+	<string>mobileTime</string>
+	<key>inactiveShader</key>
+	<string>entitydistance</string>
+	<key>remainderexception</key>
+	<string>comprehensiveGestureDetector</string>
+</dict>
+</plist>

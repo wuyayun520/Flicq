@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentproviderstyle</key>
+	<string>offsetamongphase</string>
+	<key>prismaticMonster</key>
+	<string>shouldAttachSpine</string>
+	<key>protectedTween</key>
+	<string>finishReduction</string>
+	<key>responsiveGrayscale</key>
+	<string>adaptiveFeature</string>
+	<key>seamlessAwait</key>
+	<string>modelProxy</string>
+	<key>subsequentRecursion</key>
+	<string>smartRenderer</string>
+	<key>synchronousBorder</key>
+	<string>errorMediator</string>
+	<key>tensorStream</key>
+	<string>usageShape</string>
+</dict>
+</plist>

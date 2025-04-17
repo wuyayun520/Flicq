@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoservice</key>
+	<string>parallelGrid</string>
+	<key>firstCatalyst</key>
+	<string>tentativeSaturation</string>
+	<key>gradientmediatormomentum</key>
+	<string>composablePageView</string>
+	<key>granularParticle</key>
+	<string>opaqueExpanded</string>
+	<key>iscapsule</key>
+	<string>clipperMode</string>
+	<key>nativeConnector</key>
+	<string>zoneplatformdelay</string>
+	<key>offsettag</key>
+	<string>introspectHash</string>
+</dict>
+</plist>

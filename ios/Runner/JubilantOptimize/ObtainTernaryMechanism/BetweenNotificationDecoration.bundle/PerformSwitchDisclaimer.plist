@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicProvision</key>
+	<string>overrideCallback</string>
+	<key>combinerDuration</key>
+	<string>immediateAspectRatio</string>
+	<key>composableCharacteristic</key>
+	<string>publicStep</string>
+	<key>handlerbesidetask</key>
+	<string>pointValidation</string>
+	<key>interactiveUsage</key>
+	<string>retainedMenu</string>
+	<key>shouldAttachTangent</key>
+	<string>granularRecursion</string>
+	<key>tensorreceiver</key>
+	<string>platewithtask</string>
+</dict>
+</plist>

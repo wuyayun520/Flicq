@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleButton</key>
+	<string>symmetricDescription</string>
+	<key>challengeresult</key>
+	<string>difficultplaybackvalidation</string>
+	<key>descriptorexceptnumber</key>
+	<string>paddingstylecolor</string>
+	<key>rangeColor</key>
+	<string>taxonomyDuration</string>
+	<key>tensorintegersaturation</key>
+	<string>fetchSwitch</string>
+</dict>
+</plist>

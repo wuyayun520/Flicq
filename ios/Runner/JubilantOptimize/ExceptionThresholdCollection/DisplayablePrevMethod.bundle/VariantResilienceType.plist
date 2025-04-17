@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composabletween</key>
+	<string>easyMechanism</string>
+	<key>euclideanOptimizer</key>
+	<string>hierarchicalSession</string>
+	<key>hierarchicalPopup</key>
+	<string>lostConstant</string>
+	<key>inflatedimension</key>
+	<string>customizedSine</string>
+	<key>infrastructureAcceleration</key>
+	<string>shouldLoadDocument</string>
+	<key>inkwellResponse</key>
+	<string>cloneAnimation</string>
+	<key>logSaturation</key>
+	<string>temporaryReduction</string>
+	<key>parallelStatus</key>
+	<string>shouldListenPageView</string>
+	<key>progressbarsystemdirection</key>
+	<string>diffabledropdownbuttonalignment</string>
+</dict>
+</plist>

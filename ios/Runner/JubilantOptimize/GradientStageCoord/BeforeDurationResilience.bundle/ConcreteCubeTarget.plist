@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>colorLocation</key>
+	<string>mitigateTransition</string>
+	<key>seamlessLayout</key>
+	<string>shouldAttachReference</string>
+	<key>secondTopic</key>
+	<string>previewShape</string>
+	<key>viewFlags</key>
+	<string>semanticsstrategyright</string>
+	<key>webOperation</key>
+	<string>shouldPresentLogarithm</string>
+</dict>
+</plist>

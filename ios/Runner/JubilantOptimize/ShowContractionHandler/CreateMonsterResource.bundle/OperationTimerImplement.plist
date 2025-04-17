@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoTaxonomy</key>
+	<string>parseInteractor</string>
+	<key>connecttouch</key>
+	<string>smartdata</string>
+	<key>hierarchicalSpot</key>
+	<string>lossValidation</string>
+	<key>radiusamongtier</key>
+	<string>touchDependency</string>
+	<key>requiredMethod</key>
+	<string>usedCube</string>
+	<key>shouldpublishstep</key>
+	<string>nodeVisitor</string>
+	<key>unactivatedButton</key>
+	<string>shouldDisconnectGesture</string>
+</dict>
+</plist>

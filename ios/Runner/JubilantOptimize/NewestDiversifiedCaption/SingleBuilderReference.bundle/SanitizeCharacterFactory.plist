@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>delegatereceiver</key>
+	<string>insteadReducer</string>
+	<key>mainRadio</key>
+	<string>renameResponse</string>
+	<key>reusableFragment</key>
+	<string>parallelView</string>
+	<key>scopeVelocity</key>
+	<string>flexFlyweight</string>
+	<key>shouldProcessResource</key>
+	<string>transpileoffset</string>
+</dict>
+</plist>

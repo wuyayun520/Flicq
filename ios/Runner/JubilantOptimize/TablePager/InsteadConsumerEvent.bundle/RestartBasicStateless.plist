@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableDimension</key>
+	<string>profileWidget</string>
+	<key>fixedConnector</key>
+	<string>viewinsidemode</string>
+	<key>listenscroll</key>
+	<string>visibleDimension</string>
+	<key>oldSplitter</key>
+	<string>scrollType</string>
+	<key>queueparamcolor</key>
+	<string>connectCustomPaint</string>
+	<key>scrollableDependency</key>
+	<string>executeInjection</string>
+	<key>significantintensity</key>
+	<string>buildermethodvelocity</string>
+	<key>smartConstant</key>
+	<string>referenceKind</string>
+</dict>
+</plist>

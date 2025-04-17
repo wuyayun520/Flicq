@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianContraction</key>
+	<string>similarCoordinator</string>
+	<key>defaultAxis</key>
+	<string>symmetricSpine</string>
+	<key>defaultProfile</key>
+	<string>canPushInstruction</string>
+	<key>lostsubpixel</key>
+	<string>publishUsage</string>
+	<key>modulename</key>
+	<string>lastVector</string>
+	<key>shouldObserveAnchor</key>
+	<string>canListenSwift</string>
+	<key>shouldRouteCollection</key>
+	<string>builderHue</string>
+	<key>shouldinitializecoordinator</key>
+	<string>characterInterval</string>
+</dict>
+</plist>

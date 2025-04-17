@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentBorder</key>
+	<string>sophisticatedTheme</string>
+	<key>dialogsCount</key>
+	<string>shouldTransformSegment</string>
+	<key>mobileLoop</key>
+	<string>canBindContainer</string>
+	<key>responsiveReference</key>
+	<string>canRestartPageView</string>
+	<key>shouldMountedShader</key>
+	<string>stopCache</string>
+</dict>
+</plist>

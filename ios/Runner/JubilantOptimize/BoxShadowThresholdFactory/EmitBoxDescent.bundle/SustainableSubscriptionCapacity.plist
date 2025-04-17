@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerScene</key>
+	<string>mobilefactoryfrequency</string>
+	<key>cupertinoRight</key>
+	<string>canMountNavigation</string>
+	<key>inactivePolygon</key>
+	<string>explicitRouter</string>
+	<key>specifyConvolution</key>
+	<string>immutablelabel</string>
+</dict>
+</plist>

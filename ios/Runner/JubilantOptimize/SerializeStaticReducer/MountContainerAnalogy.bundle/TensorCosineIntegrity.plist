@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disabledChart</key>
+	<string>makeservice</string>
+	<key>largebehaviororigin</key>
+	<string>canBindExtension</string>
+	<key>mechanismspacing</key>
+	<string>prismaticSink</string>
+	<key>mutablewidget</key>
+	<string>backwardPromise</string>
+	<key>semanticPriority</key>
+	<string>undertakeRow</string>
+	<key>serviceCount</key>
+	<string>shouldStopFragment</string>
+	<key>taskcontextcount</key>
+	<string>connectPresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>canvasshapebehavior</key>
+	<string>defaultCollection</string>
+	<key>endscreen</key>
+	<string>activeNib</string>
+	<key>locatedocument</key>
+	<string>constructService</string>
+	<key>permutationLeft</key>
+	<string>rectaroundmethod</string>
+</dict>
+</plist>

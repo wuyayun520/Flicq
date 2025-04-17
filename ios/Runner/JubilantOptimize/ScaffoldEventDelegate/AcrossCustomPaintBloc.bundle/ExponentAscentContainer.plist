@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxshadowthroughput</key>
+	<string>serializeScaffold</string>
+	<key>normalEvent</key>
+	<string>enhanceInteractor</string>
+	<key>permissivePermutation</key>
+	<string>cycleCenter</string>
+	<key>prismaticScheduler</key>
+	<string>canUnbindAspect</string>
+	<key>prismaticTitle</key>
+	<string>shouldBindConstraint</string>
+	<key>requiredLoader</key>
+	<string>scrollDelay</string>
+	<key>scrollableSingleton</key>
+	<string>intermediatepager</string>
+	<key>standaloneTouch</key>
+	<string>resizableConstant</string>
+	<key>tensorError</key>
+	<string>groupcharacteristic</string>
+</dict>
+</plist>

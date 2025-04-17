@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>composableStep</key>
+	<string>liteUtil</string>
+	<key>providervisitorvisibility</key>
+	<string>canUnbindScreen</string>
+	<key>requiredLayout</key>
+	<string>shouldFinishPadding</string>
+	<key>shouldDispatchExtension</key>
+	<string>uniformCard</string>
+	<key>shouldSetStateScale</key>
+	<string>canShowDialogs</string>
+</dict>
+</plist>

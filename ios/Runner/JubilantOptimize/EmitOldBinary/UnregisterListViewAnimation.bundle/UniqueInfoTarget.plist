@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacityDistance</key>
+	<string>activityrect</string>
+	<key>composableAscent</key>
+	<string>smartConfidentiality</string>
+	<key>interactorhead</key>
+	<string>dedicatedPreview</string>
+	<key>missionShape</key>
+	<string>staticInterpolation</string>
+	<key>rectFlags</key>
+	<string>tabbarTask</string>
+	<key>sensorposition</key>
+	<string>stateName</string>
+	<key>shouldSubscribeTable</key>
+	<string>publicStep</string>
+	<key>tweenVisibility</key>
+	<string>tangentState</string>
+</dict>
+</plist>

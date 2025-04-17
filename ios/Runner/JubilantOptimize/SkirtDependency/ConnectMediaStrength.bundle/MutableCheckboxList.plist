@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>channelsofpattern</key>
+	<string>canParseCard</string>
+	<key>independenticon</key>
+	<string>usecaseBridge</string>
+	<key>modalPressure</key>
+	<string>canRebuildExpanded</string>
+	<key>tableEdge</key>
+	<string>newestThread</string>
+	<key>temporarytime</key>
+	<string>greatReference</string>
+</dict>
+</plist>

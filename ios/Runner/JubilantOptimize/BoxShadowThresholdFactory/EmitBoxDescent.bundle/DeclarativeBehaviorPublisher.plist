@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>curveFrequency</key>
+	<string>providertempleborder</string>
+	<key>difficultAxis</key>
+	<string>canEmitBoxShadow</string>
+	<key>mobileSpacing</key>
+	<string>intuitiveEmitter</string>
+	<key>scrollableAnimation</key>
+	<string>conformButton</string>
+	<key>shouldRouteConvolution</key>
+	<string>concurrentCanvas</string>
+	<key>shouldUnbindLabel</key>
+	<string>gramHue</string>
+	<key>shouldValidateGift</key>
+	<string>cachereducer</string>
+	<key>shouldvalidatenotifier</key>
+	<string>imagelikedecorator</string>
+</dict>
+</plist>

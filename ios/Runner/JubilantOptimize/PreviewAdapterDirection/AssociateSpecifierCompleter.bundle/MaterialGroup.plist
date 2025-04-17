@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRecursion</key>
+	<string>musicCenter</string>
+	<key>basicVideo</key>
+	<string>deactivateSprite</string>
+	<key>drawerHead</key>
+	<string>canSkipBitrate</string>
+	<key>modellayeracceleration</key>
+	<string>configurationProcess</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedInterface</key>
+	<string>canPushComposition</string>
+	<key>crucialMargin</key>
+	<string>canKeepImage</string>
+	<key>cupertinoBehavior</key>
+	<string>canMountCupertino</string>
+	<key>cupertinoIntegrity</key>
+	<string>asynchronousOccasion</string>
+	<key>equivalentShade</key>
+	<string>requiredDisclaimer</string>
+	<key>initializemedia</key>
+	<string>configurationvariablestatus</string>
+	<key>retainedUsage</key>
+	<string>sustainableExpanded</string>
+	<key>semanticCustomPaint</key>
+	<string>draggablePadding</string>
+	<key>usagerow</key>
+	<string>canRebuildAppBar</string>
+</dict>
+</plist>

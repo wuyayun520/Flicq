@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialCurve</key>
+	<string>modelprocessdepth</string>
+	<key>currentbullet</key>
+	<string>shouldFinishOperation</string>
+	<key>prismaticBuffer</key>
+	<string>shouldPopLogarithm</string>
+	<key>responsivePager</key>
+	<string>canListenListView</string>
+	<key>reusableconfidentiality</key>
+	<string>hardBehavior</string>
+	<key>schedulerOrientation</key>
+	<string>prepareStoryboard</string>
+	<key>shouldDisposeEqualization</key>
+	<string>composableelement</string>
+	<key>spriteoffset</key>
+	<string>associatedProvider</string>
+	<key>widgetscale</key>
+	<string>canShowContainer</string>
+</dict>
+</plist>

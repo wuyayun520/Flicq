@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cubitDelay</key>
+	<string>canBuildIndicator</string>
+	<key>cupertinoMaterial</key>
+	<string>greatStatus</string>
+	<key>disconnectchart</key>
+	<string>shouldResumeAppBar</string>
+	<key>navigationamongtier</key>
+	<string>rolealongoperation</string>
+	<key>radioOpacity</key>
+	<string>nativeInitiative</string>
+	<key>subpixelFormat</key>
+	<string>shouldTrainTask</string>
+</dict>
+</plist>

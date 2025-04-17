@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cupertinoLayer</key>
+	<string>utilAppearance</string>
+	<key>hardAnimatedContainer</key>
+	<string>completionName</string>
+	<key>interfacestate</key>
+	<string>scrollerSaturation</string>
+	<key>labelactivitystate</key>
+	<string>canPushPositioned</string>
+	<key>permanentStoryboard</key>
+	<string>manageraroundproxy</string>
+	<key>popticker</key>
+	<string>saveCursor</string>
+	<key>replicaOrientation</key>
+	<string>marginprovider</string>
+	<key>resizableAnimatedContainer</key>
+	<string>decoupleRoute</string>
+	<key>resumebuilder</key>
+	<string>localcube</string>
+	<key>soundSkewY</key>
+	<string>prevAudio</string>
+</dict>
+</plist>

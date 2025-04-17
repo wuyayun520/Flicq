@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibletimer</key>
+	<string>nativeImpact</string>
+	<key>asynchronousframelocation</key>
+	<string>retainGraph</string>
+	<key>callbackforce</key>
+	<string>canTransitionPoint</string>
+	<key>factoryHue</key>
+	<string>decorationandcomposite</string>
+	<key>parallelDialogs</key>
+	<string>canMountGrayscale</string>
+	<key>robustClipper</key>
+	<string>delegatetension</string>
+	<key>subsequentScroller</key>
+	<string>detachSensor</string>
+</dict>
+</plist>

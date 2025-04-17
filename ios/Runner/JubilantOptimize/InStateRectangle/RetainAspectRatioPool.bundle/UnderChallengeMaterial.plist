@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordioncreator</key>
+	<string>materialProcessor</string>
+	<key>fragmentFrequency</key>
+	<string>canDisconnectSkirt</string>
+	<key>graphicsensor</key>
+	<string>viewthanframework</string>
+	<key>shouldTransitionAnimatedContainer</key>
+	<string>shouldreplaceequipment</string>
+</dict>
+</plist>

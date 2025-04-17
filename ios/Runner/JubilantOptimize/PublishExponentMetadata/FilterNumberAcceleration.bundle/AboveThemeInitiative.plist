@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatedsound</key>
+	<string>holdtext</string>
+	<key>consumeraction</key>
+	<string>canSaveSlider</string>
+	<key>crudeCache</key>
+	<string>analogyRate</string>
+	<key>diffableDropdownButton</key>
+	<string>lastSegue</string>
+	<key>liteBandwidth</key>
+	<string>loadtask</string>
+	<key>mapperState</key>
+	<string>canUnmountedExtension</string>
+	<key>margininset</key>
+	<string>canFinishCube</string>
+	<key>polyfillHead</key>
+	<string>materialLocation</string>
+	<key>rectifymanager</key>
+	<string>emitDecoration</string>
+</dict>
+</plist>

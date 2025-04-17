@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>endstream</key>
+	<string>shouldShowEffect</string>
+	<key>onrowchanged</key>
+	<string>substantialMesh</string>
+	<key>polygonscale</key>
+	<string>sizeForm</string>
+	<key>rectPadding</key>
+	<string>canPublishScroll</string>
+	<key>resumeicon</key>
+	<string>customizedCompleter</string>
+	<key>shouldInitializeAnimation</key>
+	<string>directlyappbarpadding</string>
+	<key>shouldYieldReference</key>
+	<string>geometricChecklist</string>
+</dict>
+</plist>

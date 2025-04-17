@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousButton</key>
+	<string>vectorfrequency</string>
+	<key>capacityStyle</key>
+	<string>immediateDuration</string>
+	<key>concurrentbandwidth</key>
+	<string>shouldYieldCharacter</string>
+	<key>consultativeLabel</key>
+	<string>rendererStatus</string>
+	<key>flexDelay</key>
+	<string>configureFeature</string>
+	<key>invisibleResponder</key>
+	<string>discardedGrain</string>
+	<key>issignature</key>
+	<string>descriptionphasetag</string>
+	<key>parallelLog</key>
+	<string>isMonster</string>
+	<key>processorCoord</key>
+	<string>localizationState</string>
+	<key>radioTransparency</key>
+	<string>captiontrajectory</string>
+</dict>
+</plist>

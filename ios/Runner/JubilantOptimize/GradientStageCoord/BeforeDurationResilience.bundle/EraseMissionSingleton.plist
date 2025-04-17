@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>euclideanChooser</key>
+	<string>coordinatorParam</string>
+	<key>expandedInteraction</key>
+	<string>mapTension</string>
+	<key>indicatorbound</key>
+	<string>matrixsplitter</string>
+	<key>indicatorresolver</key>
+	<string>canContinueChannels</string>
+	<key>shouldRenderIcon</key>
+	<string>heapHead</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionAnalogy</key>
+	<string>visibleGrayscale</string>
+	<key>comprehensiveGroup</key>
+	<string>opaqueHeap</string>
+	<key>interfacereplica</key>
+	<string>localizationinform</string>
+	<key>retainedTabView</key>
+	<string>discardedtextfieldbehavior</string>
+	<key>shouldMountSession</key>
+	<string>kernelexceptpattern</string>
+</dict>
+</plist>

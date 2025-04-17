@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticMargin</key>
+	<string>canPopTransition</string>
+	<key>diffableCache</key>
+	<string>shouldPushCompletion</string>
+	<key>hasRoute</key>
+	<string>listenMap</string>
+	<key>parallelLoader</key>
+	<string>scaffoldfunctionedge</string>
+	<key>skinOrientation</key>
+	<string>canDispatchPriority</string>
+	<key>webModulus</key>
+	<string>drawerCenter</string>
+</dict>
+</plist>

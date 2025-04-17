@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>collectionAlignment</key>
+	<string>oldService</string>
+	<key>draggableCapsule</key>
+	<string>concreteDuration</string>
+	<key>flexibleBaseline</key>
+	<string>customMember</string>
+	<key>integerAlignment</key>
+	<string>extensionTop</string>
+	<key>positiontheme</key>
+	<string>asyncProcess</string>
+	<key>referenceanalyzer</key>
+	<string>searcherresponse</string>
+	<key>shouldListenCoordinator</key>
+	<string>resizableMatrix</string>
+	<key>shoulddismissnib</key>
+	<string>performTicker</string>
+	<key>techniquemechanism</key>
+	<string>resizableAnchor</string>
+</dict>
+</plist>

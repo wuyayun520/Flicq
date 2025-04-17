@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengeVisibility</key>
+	<string>batchsize</string>
+	<key>composableRectangle</key>
+	<string>previewFlyweight</string>
+	<key>firstSession</key>
+	<string>shapeposition</string>
+	<key>futurerate</key>
+	<string>shouldFinishOverlay</string>
+	<key>gridaroundkind</key>
+	<string>mediaintegration</string>
+	<key>resizableRenderer</key>
+	<string>accessoryDistance</string>
+	<key>selectedspecifier</key>
+	<string>sinkcallback</string>
+	<key>shouldBuildAxis</key>
+	<string>beginnerPainter</string>
+	<key>uniformNavigator</key>
+	<string>radioDepth</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticStorage</key>
+	<string>validateanchor</string>
+	<key>cancelgraphic</key>
+	<string>exceptionFlyweight</string>
+	<key>eagerSign</key>
+	<string>subpixelLocation</string>
+	<key>equalizationforfacade</key>
+	<string>shouldStartPlayback</string>
+	<key>fixedDescriptor</key>
+	<string>delegatealongadapter</string>
+	<key>fusedGift</key>
+	<string>seekFrame</string>
+	<key>routeexception</key>
+	<string>publicIntegration</string>
+	<key>scrollableListener</key>
+	<string>yieldActivity</string>
+</dict>
+</plist>

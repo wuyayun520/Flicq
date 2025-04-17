@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicCallback</key>
+	<string>semanticmaterial</string>
+	<key>borderTag</key>
+	<string>shouldfinishaspectratio</string>
+	<key>currentlistview</key>
+	<string>elasticCompletion</string>
+	<key>draggableUtil</key>
+	<string>detachStateless</string>
+	<key>nativecurve</key>
+	<string>generateTransformer</string>
+	<key>publicRequest</key>
+	<string>movementTransparency</string>
+	<key>rowoffset</key>
+	<string>textfieldexceptstrategy</string>
+	<key>subsequentModel</key>
+	<string>enabledSpot</string>
+</dict>
+</plist>

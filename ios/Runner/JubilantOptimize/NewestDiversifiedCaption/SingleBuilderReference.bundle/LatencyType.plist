@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableFactory</key>
+	<string>smartFinder</string>
+	<key>graphVisibility</key>
+	<string>prevScene</string>
+	<key>inflatecontraction</key>
+	<string>symmetricStack</string>
+	<key>interactorOpacity</key>
+	<string>desktopSlash</string>
+	<key>localMethod</key>
+	<string>lockModel</string>
+	<key>pagerHead</key>
+	<string>canUpdateStateless</string>
+	<key>shouldMountTouch</key>
+	<string>skinFrequency</string>
+	<key>unmountedrichtext</key>
+	<string>drawerStructure</string>
+	<key>usedSample</key>
+	<string>temporaryRadio</string>
+</dict>
+</plist>

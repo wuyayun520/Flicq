@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>cartesianMember</key>
+	<string>toolParam</string>
+	<key>easyinteraction</key>
+	<string>subsequentMap</string>
+	<key>equalresponse</key>
+	<string>opaqueBaseline</string>
+	<key>lazyMusic</key>
+	<string>deferredScroller</string>
+	<key>lostPolygon</key>
+	<string>desktopDistinction</string>
+	<key>materializerLocation</key>
+	<string>canResumeTabBar</string>
+	<key>quaternionPadding</key>
+	<string>visualizeSingleton</string>
+	<key>resizableNib</key>
+	<string>videoType</string>
+	<key>shouldInitializeChannels</key>
+	<string>eraseBuilder</string>
+</dict>
+</plist>

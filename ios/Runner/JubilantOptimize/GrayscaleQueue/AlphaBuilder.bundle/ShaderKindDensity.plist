@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mutablePolyfill</key>
+	<string>listenSensor</string>
+	<key>repositoryjobdepth</key>
+	<string>completerAction</string>
+	<key>secondConfidentiality</key>
+	<string>sortedPublisher</string>
+	<key>semanticNotification</key>
+	<string>canEncodeInterpolation</string>
+</dict>
+</plist>

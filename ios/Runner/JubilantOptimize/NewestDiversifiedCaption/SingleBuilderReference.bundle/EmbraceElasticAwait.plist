@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousItem</key>
+	<string>storageFlags</string>
+	<key>delegatetint</key>
+	<string>protectedRichText</string>
+	<key>diversifiedshader</key>
+	<string>attachChart</string>
+	<key>fusedVertex</key>
+	<string>observerStrategy</string>
+	<key>independentTitle</key>
+	<string>entityFrequency</string>
+	<key>reusableAperture</key>
+	<string>assetcolor</string>
+	<key>scrollableCanvas</key>
+	<string>methodName</string>
+	<key>secondStamp</key>
+	<string>effectTint</string>
+	<key>shouldEmitShader</key>
+	<string>scrollershade</string>
+</dict>
+</plist>

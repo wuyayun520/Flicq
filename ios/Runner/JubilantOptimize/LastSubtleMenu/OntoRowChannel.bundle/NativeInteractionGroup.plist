@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionElasticity</key>
+	<string>mediumMetrics</string>
+	<key>convolutionrow</key>
+	<string>crucialBuffer</string>
+	<key>elasticityLocation</key>
+	<string>multiMission</string>
+	<key>mapenvironmentflags</key>
+	<string>dispatchDescriptor</string>
+	<key>priorityFrequency</key>
+	<string>heroContext</string>
+	<key>statefulAmortization</key>
+	<string>inflateOffset</string>
+</dict>
+</plist>

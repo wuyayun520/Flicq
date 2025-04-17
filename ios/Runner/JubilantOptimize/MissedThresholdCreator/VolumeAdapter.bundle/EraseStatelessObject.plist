@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>analyzerBrightness</key>
+	<string>clearParticle</string>
+	<key>difficultSelector</key>
+	<string>hyperbolicSignature</string>
+	<key>euclideanScalability</key>
+	<string>imageCenter</string>
+	<key>indicatorValidation</key>
+	<string>sanitizeTopic</string>
+	<key>layoutInteraction</key>
+	<string>storeTopic</string>
+	<key>numericalcontractionappearance</key>
+	<string>shouldUpdatePriority</string>
+	<key>shouldYieldLabel</key>
+	<string>canPaintSpecifier</string>
+	<key>skinrotation</key>
+	<string>immutableButton</string>
+</dict>
+</plist>

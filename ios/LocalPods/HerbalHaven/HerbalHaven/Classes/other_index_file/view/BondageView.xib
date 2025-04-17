@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="BondageView">
+            <connections>
+                <outlet property="bindImageView" destination="nDv-XE-tDn" id="zf9-ta-oUt"/>
+                <outlet property="fromButton" destination="EZw-Ht-cKv" id="wwD-p5-5f0"/>
+                <outlet property="labTableCurrentAllImageView" destination="JA6-RX-9x9" id="e2i-3v-3VN"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="OnW-Wy-lDg">
+            <rect key="frame" x="0.0" y="0.0" width="548.4" height="96.3"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView userInteractionEnabled="NO" contentMode="top" horizontalCompressionResistancePriority="250" verticalCompressionResistancePriority="250" image="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="nDv-XE-tDn" highlighted="YES">
+                    <rect key="frame" x="136" y="1" width="109.5" height="79.2"/>
+                </imageView>
+                <imageView userInteractionEnabled="NO" contentMode="TopLeft" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="1242-2208" highlightedImage="1242-2208" translatesAutoresizingMaskIntoConstraints="NO" id="JA6-RX-9x9" adjustsImageSizeForAccessibilityContentSizeCategory="YES">
+                    <rect key="frame" x="-7" y="-3" width="109.5" height="79.2"/>
+                </imageView>
+                <button contentMode="TopLeft" horizontalHuggingPriority="100" verticalHuggingPriority="100" horizontalCompressionResistancePriority="100" verticalCompressionResistancePriority="100" contentHorizontalAlignment="center" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="EZw-Ht-cKv">
+                    <rect key="frame" x="261" y="11" width="233.5" height="79.2"/>
+                    <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                    <state key="normal" title="data model height message" image="1242-2688">
+                        <color key="titleColor" red="0.11217096624289831" green="0.83911987622124595" blue="0.31496995831225966" alpha="0.96215316029231043" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="disabled" title="user current" image="1242-2208">
+                        <color key="titleColor" red="0.22306529613750847" green="1" blue="0.73374851905503835" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                    <state key="highlighted" title="res equal time will index" image="1242-2688">
+                        <color key="titleColor" red="0.1167636465" green="1" blue="0.1985451956" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                    </state>
+                </button>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="Zb5-jS-Tgz"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="nDv-XE-tDn" firstAttribute="leading" secondItem="JA6-RX-9x9" secondAttribute="trailing" constant="8" id="pfW-Qb-aoo"/>
+                <constraint firstAttribute="bottom" secondItem="nDv-XE-tDn" secondAttribute="bottom" id="jcx-IM-z0P"/>
+                <constraint firstAttribute="bottom" secondItem="EZw-Ht-cKv" secondAttribute="bottom" constant="6" id="BHr-fY-nvG"/>
+                <constraint firstAttribute="bottom" secondItem="JA6-RX-9x9" secondAttribute="bottom" constant="2" id="qnF-SF-VMp"/>
+                <constraint firstItem="JA6-RX-9x9" firstAttribute="top" secondItem="OnW-Wy-lDg" secondAttribute="top" constant="6" id="uW1-S3-ZRv"/>
+                <constraint firstItem="Zb5-jS-Tgz" firstAttribute="trailing" secondItem="EZw-Ht-cKv" secondAttribute="trailing" constant="7" id="c3Q-yg-AKC"/>
+                <constraint firstItem="EZw-Ht-cKv" firstAttribute="top" secondItem="OnW-Wy-lDg" secondAttribute="top" constant="4" id="qlc-Uc-NQb"/>
+                <constraint firstItem="nDv-XE-tDn" firstAttribute="top" secondItem="OnW-Wy-lDg" secondAttribute="top" constant="5" id="gY1-ty-9fn"/>
+                <constraint firstItem="JA6-RX-9x9" firstAttribute="leading" secondItem="Zb5-jS-Tgz" secondAttribute="leading" constant="6" id="sEJ-DF-fXv"/>
+                <constraint firstItem="EZw-Ht-cKv" firstAttribute="leading" secondItem="nDv-XE-tDn" secondAttribute="trailing" constant="6" id="w0P-x0-DCJ"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="192.83722289769485" y="-199.74491757904191"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="132.9" height="110.3"/>
+        <image name="1242-2688" width="132.9" height="110.3"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="0.89107542670593332" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

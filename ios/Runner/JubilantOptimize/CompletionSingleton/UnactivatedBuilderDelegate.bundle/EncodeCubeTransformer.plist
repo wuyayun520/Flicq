@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>baseSpacing</key>
+	<string>immediateTexture</string>
+	<key>bufferfrequency</key>
+	<string>shouldShowView</string>
+	<key>protectedConverter</key>
+	<string>canNotifyAnimation</string>
+	<key>shouldObserveDrawer</key>
+	<string>canSerializeFragment</string>
+	<key>tableHue</key>
+	<string>retainedTexture</string>
+	<key>thresholdHead</key>
+	<string>shouldValidateListView</string>
+</dict>
+</plist>

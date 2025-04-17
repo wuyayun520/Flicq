@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorTail</key>
+	<string>fragmentsBottom</string>
+	<key>captionwithtype</key>
+	<string>spritetail</string>
+	<key>featureOrigin</key>
+	<string>computeobserver</string>
+	<key>interactiveFuture</key>
+	<string>textfieldIndex</string>
+	<key>objectDuration</key>
+	<string>sinkBottom</string>
+	<key>operationTag</key>
+	<string>timeraspect</string>
+	<key>parseexception</key>
+	<string>shouldBindGram</string>
+	<key>projectiontransformer</key>
+	<string>invokeimage</string>
+	<key>usageDensity</key>
+	<string>moveAllocator</string>
+</dict>
+</plist>

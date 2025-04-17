@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousMaterializer</key>
+	<string>hyperbolicDependency</string>
+	<key>disabledLifecycle</key>
+	<string>scaffolduntildecorator</string>
+	<key>expandedbottom</key>
+	<string>shouldRebuildTangent</string>
+	<key>iterativeSession</key>
+	<string>behaviorVisitor</string>
+	<key>mediocreDescription</key>
+	<string>signatureBuffer</string>
+	<key>publishentropy</key>
+	<string>shouldListenProject</string>
+	<key>shouldSubscribeCupertino</key>
+	<string>crucialListener</string>
+	<key>splitterDirection</key>
+	<string>elasticAxis</string>
+	<key>splitterTint</key>
+	<string>usedException</string>
+</dict>
+</plist>

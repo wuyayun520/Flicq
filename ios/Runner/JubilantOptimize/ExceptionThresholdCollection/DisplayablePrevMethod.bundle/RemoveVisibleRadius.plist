@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>bulletFormat</key>
+	<string>captionPlatform</string>
+	<key>criticalCertificate</key>
+	<string>gridBorder</string>
+	<key>easytextvelocity</key>
+	<string>primaryListener</string>
+	<key>flexibleMultiplication</key>
+	<string>replicateflex</string>
+	<key>hasReduction</key>
+	<string>continueButton</string>
+	<key>shouldContinueSlash</key>
+	<string>reducerbrightness</string>
+	<key>shouldListenModulus</key>
+	<string>timelineStatus</string>
+</dict>
+</plist>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorflags</key>
+	<string>shouldSaveLoss</string>
+	<key>customreducer</key>
+	<string>flexibleReducer</string>
+	<key>functionalReceiver</key>
+	<string>lazyConsumer</string>
+	<key>iconPadding</key>
+	<string>respectiveGem</string>
+	<key>materializeloop</key>
+	<string>constructTask</string>
+	<key>permanentFormat</key>
+	<string>canDisconnectChallenge</string>
+</dict>
+</plist>

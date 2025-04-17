@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>converterTheme</key>
+	<string>mapBuffer</string>
+	<key>disparateFragment</key>
+	<string>canSaveNotifier</string>
+	<key>displayableDetector</key>
+	<string>mainTimeline</string>
+	<key>inactiveDuration</key>
+	<string>fillButton</string>
+	<key>listviewColor</key>
+	<string>mainMission</string>
+	<key>nextEvolution</key>
+	<string>resumeNib</string>
+	<key>rendererFeedback</key>
+	<string>canSetStateIndicator</string>
+	<key>spotconfiguration</key>
+	<string>endVariant</string>
+</dict>
+</plist>

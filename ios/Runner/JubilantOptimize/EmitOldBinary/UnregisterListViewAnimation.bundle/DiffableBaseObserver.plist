@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedProvider</key>
+	<string>vectorBridge</string>
+	<key>euclideanSwitch</key>
+	<string>usedImpression</string>
+	<key>integrationMode</key>
+	<string>unbindInteger</string>
+	<key>otherStroke</key>
+	<string>rowformat</string>
+	<key>pivotalReceiver</key>
+	<string>canStopMap</string>
+	<key>repositorystyletension</key>
+	<string>bundleText</string>
+	<key>shouldSetStatePadding</key>
+	<string>advancedObject</string>
+	<key>unsortedListView</key>
+	<string>disconnectOperation</string>
+</dict>
+</plist>

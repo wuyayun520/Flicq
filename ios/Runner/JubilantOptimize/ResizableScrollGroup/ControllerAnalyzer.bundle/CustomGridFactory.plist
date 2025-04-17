@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableException</key>
+	<string>dedicatedConsumer</string>
+	<key>firstRole</key>
+	<string>cacheborder</string>
+	<key>menuSkewX</key>
+	<string>canUpdateComposition</string>
+	<key>semanticFlex</key>
+	<string>clippercurve</string>
+	<key>shouldyieldprojection</key>
+	<string>callbackofcommand</string>
+	<key>statelessStatus</key>
+	<string>tableHue</string>
+</dict>
+</plist>

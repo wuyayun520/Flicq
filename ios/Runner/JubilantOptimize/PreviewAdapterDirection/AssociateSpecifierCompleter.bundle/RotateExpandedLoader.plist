@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphapressure</key>
+	<string>buildCheckbox</string>
+	<key>effectInterval</key>
+	<string>releaseLocalization</string>
+	<key>interfacesystemorientation</key>
+	<string>priorMesh</string>
+	<key>pivotalposition</key>
+	<string>canSaveBitrate</string>
+	<key>pointhash</key>
+	<string>shouldDisconnectUnary</string>
+	<key>rapidMedia</key>
+	<string>hyperbolicCheckbox</string>
+	<key>resilientRenderer</key>
+	<string>collectioncreator</string>
+	<key>substantialSlider</key>
+	<string>scrollSaturation</string>
+	<key>toolAcceleration</key>
+	<string>reflectChart</string>
+</dict>
+</plist>

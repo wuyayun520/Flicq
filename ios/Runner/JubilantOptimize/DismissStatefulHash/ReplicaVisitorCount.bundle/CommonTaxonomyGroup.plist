@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredDescent</key>
+	<string>integrityVisibility</string>
+	<key>prevInteractor</key>
+	<string>opaqueSign</string>
+	<key>reactiveLog</key>
+	<string>mountedpageview</string>
+	<key>sequentialSingleton</key>
+	<string>shouldObserveBorder</string>
+	<key>taskvaluetag</key>
+	<string>stopTool</string>
+</dict>
+</plist>

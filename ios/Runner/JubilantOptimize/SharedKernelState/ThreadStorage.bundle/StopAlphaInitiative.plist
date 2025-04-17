@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>discardedArithmetic</key>
+	<string>statefulAlpha</string>
+	<key>displayableDistinction</key>
+	<string>labelskewy</string>
+	<key>relationalCanvas</key>
+	<string>cancelReduction</string>
+	<key>sequentialRichText</key>
+	<string>shearStorage</string>
+	<key>serviceBrightness</key>
+	<string>routeStep</string>
+	<key>symmetricEqualization</key>
+	<string>mobileTransition</string>
+</dict>
+</plist>

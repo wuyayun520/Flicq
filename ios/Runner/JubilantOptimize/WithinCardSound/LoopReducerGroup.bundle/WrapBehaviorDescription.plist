@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>boxTint</key>
+	<string>opaqueCheckbox</string>
+	<key>bulletHue</key>
+	<string>shouldSkipOperation</string>
+	<key>elasticException</key>
+	<string>sortedImpact</string>
+	<key>inactiveTrigger</key>
+	<string>showSwift</string>
+	<key>injectionorientation</key>
+	<string>primaryResponse</string>
+	<key>missedMenu</key>
+	<string>activateAllocator</string>
+	<key>previewOrientation</key>
+	<string>presenterhead</string>
+	<key>shouldDismissFuture</key>
+	<string>awaitmetrics</string>
+	<key>signInteraction</key>
+	<string>allocatorOrientation</string>
+</dict>
+</plist>

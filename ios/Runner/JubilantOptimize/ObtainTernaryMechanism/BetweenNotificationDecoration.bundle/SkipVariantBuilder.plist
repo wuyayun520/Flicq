@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activePadding</key>
+	<string>customizedCompletion</string>
+	<key>amortizationInterval</key>
+	<string>usageasform</string>
+	<key>asyncsincekind</key>
+	<string>positionFeedback</string>
+	<key>flexibleparticledelay</key>
+	<string>restartHistogram</string>
+	<key>inheritedMonster</key>
+	<string>tickertheme</string>
+	<key>polyfillFrequency</key>
+	<string>requestIsolate</string>
+	<key>sequentialStoryboard</key>
+	<string>disconnectprogressbar</string>
+	<key>sinerectangle</key>
+	<string>canPresentStoryboard</string>
+	<key>slidermodel</key>
+	<string>eraseGraph</string>
+	<key>viewparametervelocity</key>
+	<string>subtleBandwidth</string>
+</dict>
+</plist>

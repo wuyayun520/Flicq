@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hashStyle</key>
+	<string>discardedMatrix</string>
+	<key>lazyMusic</key>
+	<string>inheritedAsync</string>
+	<key>mapuntilpattern</key>
+	<string>responsiveGrid</string>
+	<key>promisesingletontheme</key>
+	<string>discardedResolver</string>
+	<key>rapidMetrics</key>
+	<string>shouldResumeInitiators</string>
+	<key>resizablechecklist</key>
+	<string>multiCard</string>
+	<key>tensorCompleter</key>
+	<string>denseScope</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordiontexturetheme</key>
+	<string>oldEquivalent</string>
+	<key>crudeGrain</key>
+	<string>crucialDrawer</string>
+	<key>normalLayout</key>
+	<string>sortedTrigger</string>
+	<key>promisetaskflags</key>
+	<string>screenAcceleration</string>
+	<key>reducepageview</key>
+	<string>canHandleSemantics</string>
+	<key>shouldBindGate</key>
+	<string>navigatorSaturation</string>
+	<key>shouldShowAlpha</key>
+	<string>initializeUsage</string>
+</dict>
+</plist>

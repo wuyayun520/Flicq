@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>enabledGesture</key>
+	<string>signcontroller</string>
+	<key>globallayoutvisible</key>
+	<string>certificateTier</string>
+	<key>multiModule</key>
+	<string>spotVisitor</string>
+	<key>opaqueOption</key>
+	<string>concretePadding</string>
+	<key>permanentframehue</key>
+	<string>workflowshapeshape</string>
+	<key>processsingleton</key>
+	<string>metricsFlags</string>
+	<key>reductionTheme</key>
+	<string>receiveFrame</string>
+	<key>scalabilityBound</key>
+	<string>shouldRenderAnchor</string>
+	<key>sortedReliability</key>
+	<string>resilientNavigator</string>
+</dict>
+</plist>

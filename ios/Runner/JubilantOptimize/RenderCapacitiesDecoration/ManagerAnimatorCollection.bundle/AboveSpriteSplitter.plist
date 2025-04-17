@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>challengevisibility</key>
+	<string>titleAcceleration</string>
+	<key>dynamicCertificate</key>
+	<string>uniqueProfile</string>
+	<key>firstRole</key>
+	<string>mixinReducer</string>
+	<key>mainNib</key>
+	<string>canDecodeStoryboard</string>
+	<key>responsivescope</key>
+	<string>parallelCallback</string>
+	<key>secondaspectratiocolor</key>
+	<string>canPushSubpixel</string>
+	<key>shouldFormatPromise</key>
+	<string>inflateAllocator</string>
+	<key>spinebound</key>
+	<string>maxSubpixel</string>
+	<key>sustainableGesture</key>
+	<string>replaceSegment</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>agileCubit</key>
+	<string>smallLayer</string>
+	<key>componentDirection</key>
+	<string>bundleoverlay</string>
+	<key>optimizedialogs</key>
+	<string>introspectLabel</string>
+	<key>quantizerzone</key>
+	<string>slidersaturation</string>
+	<key>referenceaboutlayer</key>
+	<string>nextFrame</string>
+	<key>searchinstruction</key>
+	<string>cloneAsset</string>
+	<key>segueForce</key>
+	<string>gesturestatus</string>
+	<key>selectedequipment</key>
+	<string>persistentArithmetic</string>
+</dict>
+</plist>

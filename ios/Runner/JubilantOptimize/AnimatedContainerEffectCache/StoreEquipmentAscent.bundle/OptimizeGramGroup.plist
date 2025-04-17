@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>buttonLocation</key>
+	<string>converterVisible</string>
+	<key>finderHead</key>
+	<string>shouldPaintSession</string>
+	<key>fragmentSaturation</key>
+	<string>granularKernel</string>
+	<key>lastcustompaint</key>
+	<string>canDetachPrecision</string>
+	<key>normalCompletion</key>
+	<string>unregisterPosition</string>
+	<key>progressbarLeft</key>
+	<string>coordinatorLeft</string>
+	<key>secondDetector</key>
+	<string>resolveractionstatus</string>
+</dict>
+</plist>

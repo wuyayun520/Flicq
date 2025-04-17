@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>indicatorFlags</key>
+	<string>controllersingletonshape</string>
+	<key>loopmediatormode</key>
+	<string>requestPadding</string>
+	<key>mountedusecase</key>
+	<string>unsortedDelivery</string>
+	<key>parallelTabView</key>
+	<string>rebuildPlayback</string>
+	<key>pointrouter</key>
+	<string>defaultAperture</string>
+	<key>retainedCube</key>
+	<string>groupFramework</string>
+	<key>shouldStartCertificate</key>
+	<string>spritefacadeskewy</string>
+</dict>
+</plist>

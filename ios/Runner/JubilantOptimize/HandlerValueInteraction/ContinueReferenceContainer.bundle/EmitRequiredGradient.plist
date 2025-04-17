@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessiblePicker</key>
+	<string>shouldPresentPoint</string>
+	<key>eagersizestatus</key>
+	<string>requiredobserver</string>
+	<key>euclideanaspect</key>
+	<string>griddrawer</string>
+	<key>processorName</key>
+	<string>invisibleAction</string>
+	<key>renderaspect</key>
+	<string>buildCertificate</string>
+	<key>shouldEncodeSkin</key>
+	<string>shouldUnmountedCertificate</string>
+	<key>specifyAction</key>
+	<string>anchorValidation</string>
+	<key>substantialAnimator</key>
+	<string>respectiveTween</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>clipperKind</key>
+	<string>behaviorvisible</string>
+	<key>cubeCoord</key>
+	<string>sustainableGroup</string>
+	<key>currenttabviewright</key>
+	<string>canPersistStateful</string>
+	<key>exceptionInset</key>
+	<string>interactionDistance</string>
+	<key>extendtext</key>
+	<string>cancelDecoration</string>
+	<key>greatstoryboard</key>
+	<string>listenerVisitor</string>
+	<key>singleSession</key>
+	<string>chooserShape</string>
+	<key>typicalMerger</key>
+	<string>canBindDialogs</string>
+</dict>
+</plist>

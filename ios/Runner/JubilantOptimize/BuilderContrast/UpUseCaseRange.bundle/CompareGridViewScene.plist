@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>builderskewx</key>
+	<string>keepallocator</string>
+	<key>commonawaitborder</key>
+	<string>shouldStopActivity</string>
+	<key>elasticBoxShadow</key>
+	<string>canStopSpine</string>
+	<key>extendtransition</key>
+	<string>diffableCapacities</string>
+	<key>shouldPublishStream</key>
+	<string>imperativeAspect</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>disparateHandler</key>
+	<string>easyReducer</string>
+	<key>interactiveDisclaimer</key>
+	<string>shouldStopAspectRatio</string>
+	<key>normType</key>
+	<string>musicFormat</string>
+	<key>onanimatedcontainertap</key>
+	<string>detailTag</string>
+	<key>overlayTension</key>
+	<string>intermediateAnalyzer</string>
+	<key>quaternionvelocity</key>
+	<string>firstDetector</string>
+	<key>significantAction</key>
+	<string>samplestyleinset</string>
+	<key>smartDispatcher</key>
+	<string>isGridView</string>
+	<key>subtleReceiver</key>
+	<string>subsequentSorter</string>
+</dict>
+</plist>

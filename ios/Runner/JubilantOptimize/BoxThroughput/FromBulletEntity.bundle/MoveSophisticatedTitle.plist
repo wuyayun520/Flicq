@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directStrength</key>
+	<string>canPersistChannels</string>
+	<key>draggableFactory</key>
+	<string>functionalIntegration</string>
+	<key>explicitNorm</key>
+	<string>directAnalyzer</string>
+	<key>permissiveBuffer</key>
+	<string>mendForce</string>
+	<key>persistentEqualization</key>
+	<string>tabviewMargin</string>
+	<key>publicSegue</key>
+	<string>draggableextension</string>
+	<key>referenceSpeed</key>
+	<string>splitterPressure</string>
+	<key>repositorypernumber</key>
+	<string>emitobserver</string>
+	<key>resizableDocument</key>
+	<string>initiatorsRight</string>
+	<key>sequentialEvaluation</key>
+	<string>transformerinteraction</string>
+</dict>
+</plist>

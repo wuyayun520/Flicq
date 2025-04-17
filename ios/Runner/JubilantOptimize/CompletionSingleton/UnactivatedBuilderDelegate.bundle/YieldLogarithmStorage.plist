@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorkindsize</key>
+	<string>dropoutState</string>
+	<key>comprehensiveMargin</key>
+	<string>canRouteTabView</string>
+	<key>denseResilience</key>
+	<string>descriptionStructure</string>
+	<key>nativeFormat</key>
+	<string>streaminterpretertag</string>
+	<key>semanticsInset</key>
+	<string>shouldSubscribeSizedBox</string>
+	<key>singleGesture</key>
+	<string>scrollableProgressBar</string>
+</dict>
+</plist>

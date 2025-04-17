@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>confidentialitySpeed</key>
+	<string>normalExtension</string>
+	<key>ignoredEvolution</key>
+	<string>diversifiedSound</string>
+	<key>movegraph</key>
+	<string>customizedSpot</string>
+	<key>rectanglePadding</key>
+	<string>continueEffect</string>
+	<key>spriteAppearance</key>
+	<string>radioParam</string>
+	<key>staticProvision</key>
+	<string>mobilevaluedelay</string>
+	<key>toolDirection</key>
+	<string>memberSkewY</string>
+	<key>traincertificate</key>
+	<string>handleCursor</string>
+</dict>
+</plist>

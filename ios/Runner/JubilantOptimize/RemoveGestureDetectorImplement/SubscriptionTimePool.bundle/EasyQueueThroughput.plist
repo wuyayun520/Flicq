@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>formatOffset</key>
+	<string>attachbuffer</string>
+	<key>inactiveResponder</key>
+	<string>buildProvider</string>
+	<key>lostScenario</key>
+	<string>delicatePolygon</string>
+	<key>originalchanneldensity</key>
+	<string>requiredDropdownButton</string>
+	<key>segueForce</key>
+	<string>augmentRect</string>
+	<key>shapeTop</key>
+	<string>awaitFlyweight</string>
+</dict>
+</plist>

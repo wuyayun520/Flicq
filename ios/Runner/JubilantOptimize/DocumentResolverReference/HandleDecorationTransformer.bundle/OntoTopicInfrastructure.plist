@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>custompaintValidation</key>
+	<string>canDecodeCertificate</string>
+	<key>fragmentfrequency</key>
+	<string>delegateConstraint</string>
+	<key>hyperbolicReference</key>
+	<string>parseTween</string>
+	<key>integrationStyle</key>
+	<string>characterSkewX</string>
+	<key>mediumgraph</key>
+	<string>compositionalRepository</string>
+	<key>providerandcontext</key>
+	<string>lastCard</string>
+	<key>shouldDismissCupertino</key>
+	<string>repositorydetector</string>
+</dict>
+</plist>

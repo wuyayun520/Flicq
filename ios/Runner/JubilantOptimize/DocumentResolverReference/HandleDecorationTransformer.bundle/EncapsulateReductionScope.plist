@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>borderVisibility</key>
+	<string>animatefragment</string>
+	<key>discardedGrid</key>
+	<string>scrollablecardsaturation</string>
+	<key>eventscopedepth</key>
+	<string>multiplicationlayout</string>
+	<key>globalSymbol</key>
+	<string>usedOccasion</string>
+	<key>menuMode</key>
+	<string>documentSystem</string>
+	<key>oldProjection</key>
+	<string>subscriberSpacing</string>
+	<key>popupOrientation</key>
+	<string>shouldInflateGate</string>
+	<key>shearlabel</key>
+	<string>concurrentNavigator</string>
+	<key>storageTheme</key>
+	<string>processContainer</string>
+	<key>traingrain</key>
+	<string>firstSwitch</string>
+</dict>
+</plist>

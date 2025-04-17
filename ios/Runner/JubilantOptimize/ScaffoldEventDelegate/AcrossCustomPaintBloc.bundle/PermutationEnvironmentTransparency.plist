@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>customizedGate</key>
+	<string>richtextTint</string>
+	<key>remainderInteraction</key>
+	<string>reusablechooser</string>
+	<key>respectiveSpot</key>
+	<string>servicebesideactivity</string>
+	<key>seamlessMetrics</key>
+	<string>boxshadowMargin</string>
+	<key>shouldFormatCupertino</key>
+	<string>customizedSemantics</string>
+	<key>shouldInflateBrush</key>
+	<string>concurrentPicker</string>
+	<key>unarystore</key>
+	<string>mediumCertificate</string>
+</dict>
+</plist>

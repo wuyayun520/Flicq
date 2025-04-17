@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animationvelocity</key>
+	<string>shouldupdateentropy</string>
+	<key>dismissconstraint</key>
+	<string>canAnimateSkirt</string>
+	<key>heroBorder</key>
+	<string>particleInterval</string>
+	<key>pagerDuration</key>
+	<string>materialEvent</string>
+	<key>permanentAction</key>
+	<string>navigateSymbol</string>
+	<key>prismaticMethod</key>
+	<string>segmentHead</string>
+	<key>relationalInteractor</key>
+	<string>touchJob</string>
+	<key>synchronousEqualization</key>
+	<string>rendererSaturation</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveRadius</key>
+	<string>usedResponse</string>
+	<key>currentGrayscale</key>
+	<string>erasedecoration</string>
+	<key>keygesturedetector</key>
+	<string>significantDistinction</string>
+	<key>resilientArithmetic</key>
+	<string>connectManager</string>
+	<key>resilientGrid</key>
+	<string>activityPadding</string>
+	<key>sliderInterval</key>
+	<string>shouldPublishAnchor</string>
+	<key>staticzone</key>
+	<string>differentiateStorage</string>
+	<key>timerDirection</key>
+	<string>inheritedTexture</string>
+</dict>
+</plist>

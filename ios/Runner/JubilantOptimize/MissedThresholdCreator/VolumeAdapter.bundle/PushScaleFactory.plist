@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>autoProcessor</key>
+	<string>shouldStartMultiplication</string>
+	<key>discardedPager</key>
+	<string>capsuleneartype</string>
+	<key>pivotalGrid</key>
+	<string>iterativeProject</string>
+	<key>resourcetypesaturation</key>
+	<string>interfacefragments</string>
+	<key>semanticTabView</key>
+	<string>gesturedetectorTransparency</string>
+	<key>visibleSchema</key>
+	<string>hierarchicalTransformer</string>
+</dict>
+</plist>

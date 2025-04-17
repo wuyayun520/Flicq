@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directCertificate</key>
+	<string>permutationOrientation</string>
+	<key>numericalPageView</key>
+	<string>equivalentSkewX</string>
+	<key>shouldRenderExtension</key>
+	<string>respondAsset</string>
+	<key>strokeEdge</key>
+	<string>canUpdateDocument</string>
+	<key>subsequentState</key>
+	<string>comprehensiveReplica</string>
+</dict>
+</plist>

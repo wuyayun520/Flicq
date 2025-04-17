@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnSpacing</key>
+	<string>injectLoop</string>
+	<key>evaluationDistance</key>
+	<string>receivervalidation</string>
+	<key>explicitMaster</key>
+	<string>tensorDimension</string>
+	<key>managerVisible</key>
+	<string>reusableStamp</string>
+	<key>particletag</key>
+	<string>sequentialbloc</string>
+	<key>retainedBehavior</key>
+	<string>directlyModel</string>
+	<key>sequentialSound</key>
+	<string>multiplicationFormat</string>
+	<key>sharedevent</key>
+	<string>decodeCollection</string>
+	<key>videoState</key>
+	<string>cursordescription</string>
+</dict>
+</plist>

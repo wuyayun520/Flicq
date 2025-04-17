@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activitywidget</key>
+	<string>scrollevolution</string>
+	<key>concreteProgressBar</key>
+	<string>poolDuration</string>
+	<key>consultativeResource</key>
+	<string>reactiveInfo</string>
+	<key>delegatetransition</key>
+	<string>shouldDismissConstraint</string>
+	<key>requiredAscent</key>
+	<string>transformService</string>
+	<key>statefulduration</key>
+	<string>transformMultiplication</string>
+	<key>stepDirection</key>
+	<string>shouldPaintCell</string>
+	<key>tabledensity</key>
+	<string>hyperbolicbuilder</string>
+	<key>timermomentum</key>
+	<string>temporaryscreencoord</string>
+</dict>
+</plist>

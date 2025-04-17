@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>explicitMap</key>
+	<string>strengthFeedback</string>
+	<key>navigateutil</key>
+	<string>profileContext</string>
+	<key>standaloneReliability</key>
+	<string>shouldprocesshero</string>
+	<key>statelessCluster</key>
+	<string>prevRadius</string>
+	<key>unregisterlayer</key>
+	<string>shouldStartRole</string>
+</dict>
+</plist>

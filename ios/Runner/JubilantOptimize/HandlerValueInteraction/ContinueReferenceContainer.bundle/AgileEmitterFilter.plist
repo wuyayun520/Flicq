@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>axisviamethod</key>
+	<string>activateshader</string>
+	<key>checkboxtail</key>
+	<string>canPushStateless</string>
+	<key>requiredTangent</key>
+	<string>shouldpopradio</string>
+	<key>scopeFormat</key>
+	<string>videoSkewX</string>
+	<key>seamlessAscent</key>
+	<string>savesignature</string>
+	<key>selectedindicator</key>
+	<string>eagerStamp</string>
+	<key>skirtresilience</key>
+	<string>draggabletangentvisible</string>
+	<key>strokeShade</key>
+	<string>optimizerLayer</string>
+	<key>unmountedtask</key>
+	<string>permissiveCollection</string>
+</dict>
+</plist>

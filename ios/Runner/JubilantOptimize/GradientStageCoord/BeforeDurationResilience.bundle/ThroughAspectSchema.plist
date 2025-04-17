@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>controllerMargin</key>
+	<string>logTransparency</string>
+	<key>escalatedelegate</key>
+	<string>introspectRoute</string>
+	<key>lazyTimer</key>
+	<string>activatedReliability</string>
+	<key>requiredPageView</key>
+	<string>canConnectSubpixel</string>
+	<key>sessioncolor</key>
+	<string>customRect</string>
+	<key>shouldInflateModal</key>
+	<string>viewplatformformat</string>
+	<key>subsequentUtil</key>
+	<string>canPauseIcon</string>
+	<key>tabbarTint</key>
+	<string>primarydescriptiontail</string>
+	<key>validatecapacities</key>
+	<string>disparateAllocator</string>
+</dict>
+</plist>

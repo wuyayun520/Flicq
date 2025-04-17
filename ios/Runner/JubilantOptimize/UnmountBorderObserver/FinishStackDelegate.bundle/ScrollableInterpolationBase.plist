@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beginnerEquipment</key>
+	<string>inheritedLayout</string>
+	<key>dependencyversuskind</key>
+	<string>featureParameter</string>
+	<key>scrollablePageView</key>
+	<string>loopCycle</string>
+	<key>shouldSetStateOptimizer</key>
+	<string>exceptionforce</string>
+	<key>singleLoader</key>
+	<string>shouldAttachView</string>
+</dict>
+</plist>

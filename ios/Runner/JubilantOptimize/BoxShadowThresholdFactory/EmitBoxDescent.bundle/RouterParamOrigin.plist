@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>concretelabel</key>
+	<string>notificationCommand</string>
+	<key>contractionDepth</key>
+	<string>meshInteraction</string>
+	<key>denseSingleton</key>
+	<string>schedulerMomentum</string>
+	<key>displayablegrainalignment</key>
+	<string>fusedHash</string>
+	<key>dynamicLoader</key>
+	<string>emittheme</string>
+	<key>emitterType</key>
+	<string>canCancelTabBar</string>
+	<key>reusableNavigation</key>
+	<string>interpolationBrightness</string>
+	<key>shouldRestartMediaQuery</key>
+	<string>configurationright</string>
+	<key>statelessMediaQuery</key>
+	<string>formatBottom</string>
+</dict>
+</plist>

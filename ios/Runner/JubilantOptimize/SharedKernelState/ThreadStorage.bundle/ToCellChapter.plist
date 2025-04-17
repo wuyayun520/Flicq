@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>draggableReliability</key>
+	<string>persistentAsset</string>
+	<key>shouldPresentResource</key>
+	<string>dismisssample</string>
+	<key>symbolcallback</key>
+	<string>screenRotation</string>
+	<key>volumeTail</key>
+	<string>trainBase</string>
+</dict>
+</plist>

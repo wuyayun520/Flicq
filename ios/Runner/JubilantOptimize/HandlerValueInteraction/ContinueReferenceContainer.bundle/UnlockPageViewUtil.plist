@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicsymbol</key>
+	<string>chartSpeed</string>
+	<key>channelbrightness</key>
+	<string>consultativeStroke</string>
+	<key>disabledMap</key>
+	<string>erasePosition</string>
+	<key>themeTension</key>
+	<string>unlockframe</string>
+</dict>
+</plist>

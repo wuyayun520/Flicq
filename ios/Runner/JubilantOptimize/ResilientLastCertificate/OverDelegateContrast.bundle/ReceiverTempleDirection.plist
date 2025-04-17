@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>behaviorShade</key>
+	<string>activeSize</string>
+	<key>delegatelatency</key>
+	<string>concatenateHandler</string>
+	<key>fusedInfrastructure</key>
+	<string>evaluationTop</string>
+	<key>modulusrate</key>
+	<string>animateNotifier</string>
+	<key>similarstate</key>
+	<string>eagerlayout</string>
+	<key>smallGraphic</key>
+	<string>fixedFlex</string>
+	<key>stateOrigin</key>
+	<string>updateAspectRatio</string>
+	<key>substantialPopup</key>
+	<string>tensorRichText</string>
+</dict>
+</plist>

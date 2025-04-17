@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>columnagainstparameter</key>
+	<string>shouldTransformObserver</string>
+	<key>disposebaseline</key>
+	<string>upgradeRequest</string>
+	<key>ignoredListener</key>
+	<string>pauseStream</string>
+	<key>independentStrength</key>
+	<string>uniformSegment</string>
+	<key>observeinteger</key>
+	<string>shouldUnmountedDialogs</string>
+	<key>parallelDecoration</key>
+	<string>dismissDescription</string>
+	<key>protectedNotification</key>
+	<string>sanitizepresenter</string>
+</dict>
+</plist>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentsizedbox</key>
+	<string>pushChapter</string>
+	<key>custompaintBottom</key>
+	<string>convolutioncontroller</string>
+	<key>declarativeParticle</key>
+	<string>similarFrame</string>
+	<key>numericalLocalization</key>
+	<string>mobileDrawer</string>
+	<key>sessionnotation</key>
+	<string>renderButton</string>
+	<key>statefulScaffold</key>
+	<string>ternaryFormat</string>
+	<key>staticInteraction</key>
+	<string>capacitiesPrototype</string>
+</dict>
+</plist>

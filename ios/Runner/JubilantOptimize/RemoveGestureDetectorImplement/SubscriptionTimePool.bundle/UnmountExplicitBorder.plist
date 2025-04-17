@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>hierarchicalVertex</key>
+	<string>isScreen</string>
+	<key>inheritedTentative</key>
+	<string>staticLoop</string>
+	<key>relationalbutton</key>
+	<string>shouldUnbindStack</string>
+	<key>sharedMenu</key>
+	<string>gridWork</string>
+</dict>
+</plist>

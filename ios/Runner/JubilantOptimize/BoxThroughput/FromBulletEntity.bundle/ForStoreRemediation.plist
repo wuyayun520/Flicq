@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>contractionconsumer</key>
+	<string>embraceoption</string>
+	<key>impactLeft</key>
+	<string>mediumLoop</string>
+	<key>lazyPadding</key>
+	<string>fusedNavigator</string>
+	<key>shouldPrepareBehavior</key>
+	<string>mountDimension</string>
+	<key>sizesystemacceleration</key>
+	<string>shouldNavigateNavigation</string>
+	<key>sorterFlags</key>
+	<string>transitionPositioned</string>
+	<key>touchCount</key>
+	<string>notifyspecifier</string>
+</dict>
+</plist>

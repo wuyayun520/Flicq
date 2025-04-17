@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>descentDistance</key>
+	<string>ignoredFactory</string>
+	<key>histogramDepth</key>
+	<string>bindSensor</string>
+	<key>publicCell</key>
+	<string>otherItem</string>
+	<key>restartcell</key>
+	<string>lostView</string>
+	<key>secondArithmetic</key>
+	<string>canDisconnectDimension</string>
+	<key>serializewidget</key>
+	<string>formatsaturation</string>
+	<key>shouldTransformLoss</key>
+	<string>interactiveTimer</string>
+	<key>volumeTheme</key>
+	<string>autoUsage</string>
+</dict>
+</plist>

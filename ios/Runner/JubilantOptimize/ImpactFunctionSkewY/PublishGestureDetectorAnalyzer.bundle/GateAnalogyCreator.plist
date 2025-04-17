@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>prismaticResponse</key>
+	<string>builderfrequency</string>
+	<key>protectedPolygon</key>
+	<string>rotateRequest</string>
+	<key>publisherDirection</key>
+	<string>shouldDispatchBloc</string>
+	<key>requiredReducer</key>
+	<string>awaitindex</string>
+	<key>shouldMountTextField</key>
+	<string>transformerTask</string>
+	<key>shouldTransformMaterial</key>
+	<string>notationformat</string>
+</dict>
+</plist>

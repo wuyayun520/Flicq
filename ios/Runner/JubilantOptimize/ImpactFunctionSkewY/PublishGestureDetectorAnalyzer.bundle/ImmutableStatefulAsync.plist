@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedMapper</key>
+	<string>canContinueDelegate</string>
+	<key>animatedcontainerBrightness</key>
+	<string>rapidButton</string>
+	<key>commonMaterial</key>
+	<string>mediumRect</string>
+	<key>freeimage</key>
+	<string>invokeProvider</string>
+	<key>keyEvent</key>
+	<string>quantizerloop</string>
+	<key>localarithmetic</key>
+	<string>subpixelShade</string>
+	<key>missedGrain</key>
+	<string>sanitizeSingleton</string>
+	<key>wrapdecoration</key>
+	<string>storageMemento</string>
+</dict>
+</plist>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>crucialTaxonomy</key>
+	<string>navigationPattern</string>
+	<key>deferredBehavior</key>
+	<string>dependencyContrast</string>
+	<key>imperativeNavigation</key>
+	<string>elasticityDensity</string>
+	<key>statecontrast</key>
+	<string>replaceCapacities</string>
+	<key>themeinset</key>
+	<string>primaryConfidentiality</string>
+</dict>
+</plist>

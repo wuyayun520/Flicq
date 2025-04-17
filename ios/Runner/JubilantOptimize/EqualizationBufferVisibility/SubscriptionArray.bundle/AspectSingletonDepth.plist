@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>awaitTransparency</key>
+	<string>particleappearance</string>
+	<key>cacheorientation</key>
+	<string>autoAxis</string>
+	<key>elasticStoryboard</key>
+	<string>mitigateLocalization</string>
+	<key>originalgrainformat</key>
+	<string>labelmode</string>
+	<key>shouldFinishGate</key>
+	<string>tickerEdge</string>
+	<key>sustainableRepository</key>
+	<string>otherSink</string>
+	<key>toleranceOffset</key>
+	<string>projectionPosition</string>
+</dict>
+</plist>

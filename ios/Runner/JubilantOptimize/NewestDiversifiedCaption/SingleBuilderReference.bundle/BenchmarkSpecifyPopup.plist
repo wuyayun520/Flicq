@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>finderBorder</key>
+	<string>resumeSlider</string>
+	<key>missedLoader</key>
+	<string>grayscaleLeft</string>
+	<key>prismaticArithmetic</key>
+	<string>webTask</string>
+	<key>publicPolyfill</key>
+	<string>descentEdge</string>
+	<key>spinetween</key>
+	<string>subscriptionAction</string>
+	<key>subtleIcon</key>
+	<string>materialGem</string>
+</dict>
+</plist>

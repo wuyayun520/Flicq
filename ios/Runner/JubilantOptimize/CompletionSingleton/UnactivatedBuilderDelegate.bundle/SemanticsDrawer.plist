@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>diffableIntegrity</key>
+	<string>directOperation</string>
+	<key>mountedhash</key>
+	<string>aspectratioutil</string>
+	<key>shouldHandleNavigator</key>
+	<string>intuitiveFlex</string>
+	<key>updatereducer</key>
+	<string>builderPosition</string>
+</dict>
+</plist>

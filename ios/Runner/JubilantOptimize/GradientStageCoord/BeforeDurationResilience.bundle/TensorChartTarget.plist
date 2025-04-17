@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basicInteractor</key>
+	<string>techniqueDepth</string>
+	<key>coordinatorofjob</key>
+	<string>navigateInterface</string>
+	<key>enabledMenu</key>
+	<string>roleviapattern</string>
+	<key>largeFlex</key>
+	<string>createSample</string>
+	<key>priorProvision</key>
+	<string>flexibleConverter</string>
+	<key>stackincludeactivity</key>
+	<string>localSink</string>
+	<key>unsortedAnimator</key>
+	<string>stopextension</string>
+</dict>
+</plist>

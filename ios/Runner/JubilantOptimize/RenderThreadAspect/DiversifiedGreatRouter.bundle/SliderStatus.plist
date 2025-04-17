@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>intuitiveScene</key>
+	<string>shouldUnmountedText</string>
+	<key>semanticVector</key>
+	<string>drawPreview</string>
+	<key>shouldRenderScale</key>
+	<string>unsortedCompleter</string>
+	<key>shouldTransformGradient</key>
+	<string>uniformStack</string>
+	<key>sizedboxStyle</key>
+	<string>customlayoutstate</string>
+	<key>subsequentCompletion</key>
+	<string>geometricCubit</string>
+</dict>
+</plist>

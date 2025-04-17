@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>animatorResponse</key>
+	<string>newestAnimatedContainer</string>
+	<key>cartesianDocument</key>
+	<string>shouldFormatAnchor</string>
+	<key>lastTable</key>
+	<string>shouldEmitTouch</string>
+	<key>pinchableExponent</key>
+	<string>spriteResponse</string>
+	<key>shouldBuildSensor</key>
+	<string>layoutOrientation</string>
+	<key>strokeRate</key>
+	<string>flexiblelistener</string>
+	<key>usecaseForce</key>
+	<string>transformerTransparency</string>
+</dict>
+</plist>

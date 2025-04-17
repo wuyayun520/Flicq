@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alphaTheme</key>
+	<string>clipProvider</string>
+	<key>cursortransformer</key>
+	<string>shouldParseCard</string>
+	<key>embedappbar</key>
+	<string>immediateIsolate</string>
+	<key>optionthroughput</key>
+	<string>animatedcontainercoord</string>
+	<key>prevStamp</key>
+	<string>eventreliability</string>
+	<key>radioTail</key>
+	<string>shouldContinueSensor</string>
+</dict>
+</plist>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>alignmentstrategyrate</key>
+	<string>equalsignature</string>
+	<key>animatedstorage</key>
+	<string>similarObserver</string>
+	<key>mutablehandler</key>
+	<string>tappableTheme</string>
+	<key>scrollableProgressBar</key>
+	<string>disclaimerFrequency</string>
+	<key>scrollerTheme</key>
+	<string>firstchannel</string>
+	<key>shouldDetachRemainder</key>
+	<string>sharedVolume</string>
+	<key>shouldSaveBuilder</key>
+	<string>canBindController</string>
+	<key>unactivatedStack</key>
+	<string>mediocrePadding</string>
+</dict>
+</plist>

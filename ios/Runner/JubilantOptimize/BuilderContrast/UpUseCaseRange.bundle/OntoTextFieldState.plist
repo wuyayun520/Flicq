@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>denseProfile</key>
+	<string>nativeGraph</string>
+	<key>ignoredModulus</key>
+	<string>wrapperacceleration</string>
+	<key>nextBullet</key>
+	<string>executeProvider</string>
+	<key>publishdescription</key>
+	<string>shouldYieldExponent</string>
+	<key>shouldUnmountSignature</key>
+	<string>reactiveRange</string>
+	<key>spineTag</key>
+	<string>actionInset</string>
+</dict>
+</plist>

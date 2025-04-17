@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>blocRotation</key>
+	<string>shouldPublishUsage</string>
+	<key>dataorientation</key>
+	<string>agileCharacter</string>
+	<key>dedicatedbandwidth</key>
+	<string>permutationPadding</string>
+	<key>firstAudio</key>
+	<string>shouldInitializeAppBar</string>
+	<key>nativeGradient</key>
+	<string>showMaster</string>
+	<key>reactiveStateful</key>
+	<string>shouldprocesscolumn</string>
+	<key>routerTail</key>
+	<string>scrollableCube</string>
+	<key>scaleForce</key>
+	<string>concurrentTabBar</string>
+	<key>searcherBottom</key>
+	<string>missedRectangle</string>
+	<key>sorterDelay</key>
+	<string>syncInjection</string>
+</dict>
+</plist>

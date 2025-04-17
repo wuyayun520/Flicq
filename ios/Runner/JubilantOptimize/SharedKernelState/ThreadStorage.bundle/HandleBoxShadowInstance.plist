@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>heapKind</key>
+	<string>subtleSegment</string>
+	<key>loopuntilvar</key>
+	<string>missionoffset</string>
+	<key>nodefrequency</key>
+	<string>canPushPositioned</string>
+	<key>presentgem</key>
+	<string>keyNavigator</string>
+	<key>receiverDuration</key>
+	<string>crucialtimeline</string>
+	<key>resilientOverlay</key>
+	<string>selectedpriority</string>
+	<key>routerevolution</key>
+	<string>disabledScheduler</string>
+	<key>sophisticatedCustomPaint</key>
+	<string>activeCard</string>
+</dict>
+</plist>

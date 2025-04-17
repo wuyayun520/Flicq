@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionadapterfrequency</key>
+	<string>fusedPresenter</string>
+	<key>autoCertificate</key>
+	<string>iterativeDependency</string>
+	<key>criticalAwait</key>
+	<string>presenterskewy</string>
+	<key>nativeFragment</key>
+	<string>staticText</string>
+	<key>navigationMargin</key>
+	<string>crucialOverlay</string>
+	<key>seamlessGrain</key>
+	<string>canConnectProtocol</string>
+	<key>shouldContinueNavigation</key>
+	<string>unregisterNavigator</string>
+	<key>signFrequency</key>
+	<string>recursionRotation</string>
+	<key>tabbarreducer</key>
+	<string>scrollerDelay</string>
+</dict>
+</plist>

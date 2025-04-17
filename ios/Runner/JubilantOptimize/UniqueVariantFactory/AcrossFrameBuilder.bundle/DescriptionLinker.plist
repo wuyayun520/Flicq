@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedCursor</key>
+	<string>shouldResumeSymbol</string>
+	<key>backwardTopic</key>
+	<string>elasticProvider</string>
+	<key>fusedaction</key>
+	<string>latencyDistance</string>
+	<key>localizationType</key>
+	<string>observeDescription</string>
+	<key>pivotalLayout</key>
+	<string>canLoadUsage</string>
+	<key>responsiveEmitter</key>
+	<string>directTitle</string>
+	<key>sharedTentative</key>
+	<string>layoutvaluedirection</string>
+</dict>
+</plist>

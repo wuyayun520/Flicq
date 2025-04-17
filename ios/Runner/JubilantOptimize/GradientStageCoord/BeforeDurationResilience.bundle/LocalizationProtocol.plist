@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousHandler</key>
+	<string>pauseGem</string>
+	<key>buildercommandbottom</key>
+	<string>updateResolver</string>
+	<key>concurrentNode</key>
+	<string>observerType</string>
+	<key>crucialAxis</key>
+	<string>profilebloc</string>
+	<key>mechanismVelocity</key>
+	<string>linkerVelocity</string>
+	<key>navigationdecoratoropacity</key>
+	<string>readEntity</string>
+	<key>normalConsumption</key>
+	<string>canNavigateTool</string>
+	<key>semanticsInteraction</key>
+	<string>deferredShape</string>
+	<key>symmetricCycle</key>
+	<string>showactivity</string>
+</dict>
+</plist>

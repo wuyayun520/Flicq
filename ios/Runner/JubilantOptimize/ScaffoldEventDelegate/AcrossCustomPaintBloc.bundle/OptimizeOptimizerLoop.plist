@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>globalDisclaimer</key>
+	<string>samplevisitorscale</string>
+	<key>immediatecallbackorigin</key>
+	<string>providereduction</string>
+	<key>listenerForce</key>
+	<string>momentumValue</string>
+	<key>marginstatetop</key>
+	<string>shouldStartScroll</string>
+	<key>permanentSegment</key>
+	<string>substantialSpecifier</string>
+	<key>responsivedecoration</key>
+	<string>shouldYieldListView</string>
+	<key>shouldrestartoperation</key>
+	<string>canPushTabView</string>
+	<key>symbolEdge</key>
+	<string>contractionScope</string>
+	<key>synchronousUseCase</key>
+	<string>disparateMerger</string>
+</dict>
+</plist>

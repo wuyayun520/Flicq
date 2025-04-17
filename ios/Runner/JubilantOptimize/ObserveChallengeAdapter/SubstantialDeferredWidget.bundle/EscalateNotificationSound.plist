@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>currentnavigation</key>
+	<string>accessibleCycle</string>
+	<key>explicitSymbol</key>
+	<string>immediateSkirt</string>
+	<key>inkwellflags</key>
+	<string>injectsensor</string>
+	<key>shouldSerializeChecklist</key>
+	<string>mutablenib</string>
+	<key>sizedboxTop</key>
+	<string>gesturealongvisitor</string>
+</dict>
+</plist>

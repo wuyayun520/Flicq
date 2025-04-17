@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>consumptionShade</key>
+	<string>registerManager</string>
+	<key>customizedGrid</key>
+	<string>sineStyle</string>
+	<key>dispatcherLeft</key>
+	<string>handleMenu</string>
+	<key>featuremodel</key>
+	<string>releaseCubit</string>
+	<key>fusedSlider</key>
+	<string>shouldHandleShader</string>
+	<key>ignoredGesture</key>
+	<string>opaqueGrain</string>
+	<key>materialEquipment</key>
+	<string>composableselector</string>
+	<key>missedOptimizer</key>
+	<string>beginnerTicker</string>
+	<key>nibcomponent</key>
+	<string>createBloc</string>
+	<key>shouldDeserializeGift</key>
+	<string>radioVisitor</string>
+</dict>
+</plist>

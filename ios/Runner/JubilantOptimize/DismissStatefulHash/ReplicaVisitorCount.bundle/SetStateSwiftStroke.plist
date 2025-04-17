@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activatedprogressbarscale</key>
+	<string>typicalLifecycle</string>
+	<key>assetimage</key>
+	<string>canYieldText</string>
+	<key>composablePicker</key>
+	<string>tableHue</string>
+	<key>customtaskshade</key>
+	<string>granularIcon</string>
+	<key>relationalShader</key>
+	<string>rectLeft</string>
+	<key>servicesystemtint</key>
+	<string>navigategroup</string>
+	<key>shouldBuildBinary</key>
+	<string>paddingvelocity</string>
+	<key>topicbridgebottom</key>
+	<string>pauseCheckbox</string>
+</dict>
+</plist>

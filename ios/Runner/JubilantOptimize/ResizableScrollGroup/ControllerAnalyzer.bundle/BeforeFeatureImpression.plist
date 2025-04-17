@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accessibleCaption</key>
+	<string>sizeFramework</string>
+	<key>consultativeSplitter</key>
+	<string>synchronousGrayscale</string>
+	<key>repositoryinsideprototype</key>
+	<string>deliveryInteraction</string>
+	<key>shouldUpdateHistogram</key>
+	<string>transformDependency</string>
+	<key>shouldpublishhistogram</key>
+	<string>logarithmPhase</string>
+	<key>sophisticatedChooser</key>
+	<string>keyThroughput</string>
+	<key>standaloneAmortization</key>
+	<string>cupertinoInfrastructure</string>
+	<key>topicmodevalidation</key>
+	<string>layercolor</string>
+</dict>
+</plist>

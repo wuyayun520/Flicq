@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>ignoredMetadata</key>
+	<string>sceneMediator</string>
+	<key>lostFinder</key>
+	<string>gesturedetectoraspect</string>
+	<key>similarConnector</key>
+	<string>expandedDelay</string>
+</dict>
+</plist>

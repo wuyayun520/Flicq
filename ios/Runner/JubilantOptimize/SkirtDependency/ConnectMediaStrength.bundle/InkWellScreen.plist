@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dynamicFragments</key>
+	<string>formatStateless</string>
+	<key>endmenu</key>
+	<string>canBindChallenge</string>
+	<key>explicithandler</key>
+	<string>hardAccessory</string>
+	<key>scenarioSkewY</key>
+	<string>activatedhashspacing</string>
+	<key>shouldobserveinterpolation</key>
+	<string>unsortedmenuspacing</string>
+	<key>usecaselikefunction</key>
+	<string>mediumStamp</string>
+	<key>visiblechapter</key>
+	<string>shouldDeserializeBaseline</string>
+</dict>
+</plist>

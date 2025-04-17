@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>commonSwitch</key>
+	<string>rotateGraph</string>
+	<key>detachstream</key>
+	<string>disconnectTabBar</string>
+	<key>fusedgift</key>
+	<string>invisibleTolerance</string>
+	<key>responseshade</key>
+	<string>positionedFacade</string>
+	<key>shouldResumeSpecifier</key>
+	<string>accessibleNotation</string>
+	<key>shouldSubscribeSlider</key>
+	<string>selectorInterval</string>
+	<key>tabbarenvironmentscale</key>
+	<string>declarativeBuilder</string>
+</dict>
+</plist>

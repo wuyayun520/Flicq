@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalMedia</key>
+	<string>shouldRenderSensor</string>
+	<key>consultativeSwitch</key>
+	<string>displayableMomentum</string>
+	<key>curveType</key>
+	<string>adaptiveReducer</string>
+	<key>largeStream</key>
+	<string>isStateful</string>
+	<key>nextOption</key>
+	<string>canDismissBaseline</string>
+	<key>particleSize</key>
+	<string>inheritedboxshadow</string>
+	<key>protectedPlayback</key>
+	<string>significantChannels</string>
+	<key>tangentleft</key>
+	<string>cloneInteractor</string>
+	<key>tappableDescription</key>
+	<string>shoulddecodescale</string>
+	<key>uniqueTimer</key>
+	<string>inheritedmap</string>
+</dict>
+</plist>

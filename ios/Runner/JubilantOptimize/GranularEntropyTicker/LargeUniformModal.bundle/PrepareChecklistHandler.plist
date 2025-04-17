@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>dedicatedMovement</key>
+	<string>channelsFunction</string>
+	<key>difficultAnalogy</key>
+	<string>canPauseTangent</string>
+	<key>intuitivetangent</key>
+	<string>variantopacity</string>
+	<key>prevBuilder</key>
+	<string>canStartVariant</string>
+	<key>robustparticle</key>
+	<string>roleTint</string>
+	<key>sensorShade</key>
+	<string>popNib</string>
+	<key>singleCompletion</key>
+	<string>layerEdge</string>
+	<key>synchronousTernary</key>
+	<string>poploss</string>
+	<key>tappableinformation</key>
+	<string>provideTopic</string>
+</dict>
+</plist>

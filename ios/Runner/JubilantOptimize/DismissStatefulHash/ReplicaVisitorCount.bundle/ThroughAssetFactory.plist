@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>adaptiveInterface</key>
+	<string>canReplaceMovement</string>
+	<key>chooserShape</key>
+	<string>throughputSkewX</string>
+	<key>criticalcurve</key>
+	<string>provideRect</string>
+	<key>hyperbolicScroller</key>
+	<string>exceptionLayer</string>
+	<key>mediocreLoss</key>
+	<string>shouldDisconnectBullet</string>
+	<key>observernotation</key>
+	<string>otherScheduler</string>
+	<key>significantconnector</key>
+	<string>shouldPresentContraction</string>
+	<key>swifttentative</key>
+	<string>featurecontainvariable</string>
+</dict>
+</plist>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accordionUtil</key>
+	<string>shouldBuildHero</string>
+	<key>displayableProvider</key>
+	<string>consumeAsync</string>
+	<key>inactiveFlex</key>
+	<string>shouldDetachController</string>
+	<key>mediumInfo</key>
+	<string>inheritedVertex</string>
+	<key>metadataScale</key>
+	<string>temporaryEquivalent</string>
+	<key>platecoord</key>
+	<string>richtextkind</string>
+	<key>shouldUpdateCard</key>
+	<string>errorEnvironment</string>
+	<key>synchronousConfidentiality</key>
+	<string>liteRemainder</string>
+	<key>synchronousSignature</key>
+	<string>shouldPublishCupertino</string>
+</dict>
+</plist>

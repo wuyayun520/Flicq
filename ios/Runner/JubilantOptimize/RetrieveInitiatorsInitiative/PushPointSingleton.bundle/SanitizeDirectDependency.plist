@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedsignature</key>
+	<string>baselinename</string>
+	<key>chartplatformorigin</key>
+	<string>permanentcontroller</string>
+	<key>descriptorspacing</key>
+	<string>requiredCustomPaint</string>
+	<key>detectorOrigin</key>
+	<string>eagerResilience</string>
+	<key>globalTable</key>
+	<string>sequentialReplica</string>
+	<key>lastFilter</key>
+	<string>arithmeticnotation</string>
+	<key>pivotalLoss</key>
+	<string>synchronousSubscription</string>
+	<key>schedulerDensity</key>
+	<string>dropoutsingleton</string>
+	<key>subtleTabView</key>
+	<string>shouldFetchColumn</string>
+</dict>
+</plist>

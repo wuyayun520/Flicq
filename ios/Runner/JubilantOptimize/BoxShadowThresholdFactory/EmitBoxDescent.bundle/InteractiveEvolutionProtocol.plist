@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>directFuture</key>
+	<string>nextCursor</string>
+	<key>gempolyfill</key>
+	<string>paddingFunction</string>
+	<key>sequentialEffect</key>
+	<string>reactiveconstant</string>
+	<key>shouldContinueFragment</key>
+	<string>listenModulus</string>
+	<key>stackdespitekind</key>
+	<string>requiredError</string>
+</dict>
+</plist>

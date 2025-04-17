@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>arithmeticrequest</key>
+	<string>dropdownbuttonRight</string>
+	<key>reactiveElasticity</key>
+	<string>interfaceStyle</string>
+	<key>reusablePageView</key>
+	<string>shouldCancelRadio</string>
+	<key>shouldDeserializeFlex</key>
+	<string>formatcapacities</string>
+	<key>shouldKeepSlider</key>
+	<string>synchronousAppBar</string>
+</dict>
+</plist>

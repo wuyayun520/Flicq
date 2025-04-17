@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>impressionRotation</key>
+	<string>iconstructuremode</string>
+	<key>inheritedConfidentiality</key>
+	<string>initializetextfield</string>
+	<key>objectDensity</key>
+	<string>reusableEqualization</string>
+	<key>originalScene</key>
+	<string>serviceconfidentiality</string>
+	<key>paddingMode</key>
+	<string>displayableMerger</string>
+	<key>quaternionSaturation</key>
+	<string>scrollableCapsule</string>
+	<key>retainednotifierrate</key>
+	<string>routecontainparam</string>
+	<key>touchaboutmediator</key>
+	<string>durationstructurevalidation</string>
+	<key>vectortheme</key>
+	<string>alertwrapper</string>
+</dict>
+</plist>

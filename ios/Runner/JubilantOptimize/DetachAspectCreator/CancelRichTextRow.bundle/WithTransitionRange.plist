@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>annotateloss</key>
+	<string>canDetachMission</string>
+	<key>graphicbeyondwork</key>
+	<string>advancedmarginshape</string>
+	<key>immutableProvision</key>
+	<string>scenelatency</string>
+	<key>priorScale</key>
+	<string>drawerLevel</string>
+	<key>segmentmediatorinteraction</key>
+	<string>volumeRight</string>
+	<key>shouldhandlethread</key>
+	<string>shouldRestartAnimatedContainer</string>
+	<key>shouldpresentscroll</key>
+	<string>mediocreDistinction</string>
+	<key>thresholdTransparency</key>
+	<string>subtleCatalyst</string>
+	<key>triggerShade</key>
+	<string>checkboxbuffer</string>
+</dict>
+</plist>

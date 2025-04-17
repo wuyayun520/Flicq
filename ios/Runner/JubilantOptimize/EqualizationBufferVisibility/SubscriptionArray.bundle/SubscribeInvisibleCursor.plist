@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>actionPadding</key>
+	<string>persistsegue</string>
+	<key>clustershade</key>
+	<string>featureorvalue</string>
+	<key>immediatesubscriptionedge</key>
+	<string>directCapacities</string>
+	<key>missedDisclaimer</key>
+	<string>shouldDetachContainer</string>
+	<key>popupDelay</key>
+	<string>scaffoldStage</string>
+	<key>shouldEndActivity</key>
+	<string>canUpdateButton</string>
+	<key>shouldTrainMomentum</key>
+	<string>destroynavigation</string>
+	<key>spriteMargin</key>
+	<string>stepShape</string>
+	<key>toleranceInteraction</key>
+	<string>offsetCount</string>
+</dict>
+</plist>

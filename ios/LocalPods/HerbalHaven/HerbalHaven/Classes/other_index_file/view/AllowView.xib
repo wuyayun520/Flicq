@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="19529" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="19519"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="AllowView">
+            <connections>
+                <outlet property="screenButton" destination="K5W-F2-S5C" id="ena-Kh-3aT"/>
+                <outlet property="replyLabel" destination="KXx-n5-DTR" id="naC-ka-oqj"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="lcu-VX-pca" opaque="NO" hidden="YES" clearsContextBeforeDrawing="NO">
+            <rect key="frame" x="0.0" y="0.0" width="449.8" height="146.8"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <stackView contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="Geb-lR-JqW" hidden="YES">
+                    <rect key="frame" x="5" y="13" width="388.4" height="114.3"/>
+                    <subviews>
+                        <label userInteractionEnabled="NO" contentMode="bottomRight" horizontalHuggingPriority="196" verticalHuggingPriority="298" horizontalCompressionResistancePriority="345" verticalCompressionResistancePriority="259" text="down data pan" textAlignment="justified" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="KXx-n5-DTR" clipsSubviews="NO" numberOfLines="9" highlighted="YES">
+                            <rect key="frame" x="-6.4" y="-0.7" width="166.3" height="114.3"/>
+                            <fontDescription key="fontDescription" type="system" pointSize="18"/>
+                            <color key="textColor" red="0.00307742483779008" green="0.77843565849240154" blue="1" alpha="0.80088103616824771" colorSpace="custom" customColorSpace="sRGB"/>
+                            <nil key="highlightedColor"/>
+                        </label>
+                        <button opaque="NO" contentMode="right" horizontalHuggingPriority="1000" verticalHuggingPriority="1000" horizontalCompressionResistancePriority="1000" verticalCompressionResistancePriority="1000" contentHorizontalAlignment="right" contentVerticalAlignment="center" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="K5W-F2-S5C" hidden="YES" autoresizesSubviews="NO">
+                            <rect key="frame" x="191" y="-4.4" width="166.3" height="114.3"/>
+                            <inset key="imageEdgeInsets" minX="0.0" minY="0.0" maxX="2.2250738585072014e-308" maxY="0.0"/>
+                            <state key="normal" title="row at drunk size photo" image="1242-2208">
+                                <color key="titleColor" red="0.25034994604849627" green="1" blue="0.32840797523895987" alpha="0.82932605688720698" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                            <state key="selected" title="from size party" image="1242-2208">
+                                <color key="titleColor" red="0.394796696" green="0.83161484770000005" blue="0.75892637900000004" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </state>
+                        </button>
+                    </subviews>
+                </stackView>
+            </subviews>
+            <viewLayoutGuide key="safeArea" id="SVd-jf-zNF"/>
+            <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+            <constraints>
+                <constraint firstItem="SVd-jf-zNF" firstAttribute="trailing" secondItem="Geb-lR-JqW" secondAttribute="trailing" constant="5" id="HX7-L6-I0j"/>
+                <constraint firstItem="Geb-lR-JqW" firstAttribute="top" secondItem="lcu-VX-pca" secondAttribute="top" constant="2" id="MK3-3V-Gft"/>
+                <constraint firstAttribute="bottom" secondItem="Geb-lR-JqW" secondAttribute="bottom" id="zXl-ut-9c2"/>
+                <constraint firstItem="Geb-lR-JqW" firstAttribute="leading" secondItem="SVd-jf-zNF" secondAttribute="leading" constant="8" id="vms-d3-23c"/>
+            </constraints>
+            <nil key="simulatedTopBarMetrics"/>
+            <nil key="simulatedBottomBarMetrics"/>
+            <freeformSimulatedSizeMetrics key="simulatedDestinationMetrics"/>
+            <point key="canvasLocation" x="33.277515277156631" y="-408.41522974643054"/>
+        </view>
+    </objects>
+    <resources>
+        <image name="1242-2208" width="139.8" height="133.1"/>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>decorationanalyzer</key>
+	<string>containerStatus</string>
+	<key>featurevisitordelay</key>
+	<string>protectedShape</string>
+	<key>fusedHistogram</key>
+	<string>alignmentSaturation</string>
+	<key>localizationpermutation</key>
+	<string>timershapecount</string>
+	<key>logarithmTint</key>
+	<string>deferredConsumption</string>
+	<key>priorReplica</key>
+	<string>adaptiveInfrastructure</string>
+	<key>rapidPet</key>
+	<string>modelCommand</string>
+	<key>remediationShade</key>
+	<string>popDependency</string>
+</dict>
+</plist>

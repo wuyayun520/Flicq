@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousfilter</key>
+	<string>invokeDuration</string>
+	<key>capacitiesTransparency</key>
+	<string>apertureresolver</string>
+	<key>frameInteraction</key>
+	<string>extendError</string>
+	<key>gatelistener</key>
+	<string>shouldFormatTechnique</string>
+	<key>initializedimension</key>
+	<string>upgradeTimer</string>
+	<key>itemSpeed</key>
+	<string>shouldSerializeMediaQuery</string>
+	<key>movementvideo</key>
+	<string>declarativeBandwidth</string>
+	<key>shadercount</key>
+	<string>allocatorIndex</string>
+	<key>similarAlignment</key>
+	<string>constraintrate</string>
+	<key>symmetricpreview</key>
+	<string>respectiveTable</string>
+</dict>
+</plist>

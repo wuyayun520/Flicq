@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>advancedConfidentiality</key>
+	<string>multiplyDelegate</string>
+	<key>cruderichtext</key>
+	<string>gemOperation</string>
+	<key>ephemeralCursor</key>
+	<string>floatService</string>
+	<key>globalCollection</key>
+	<string>diversifiedReference</string>
+	<key>normalZone</key>
+	<string>multiCustomPaint</string>
+	<key>shouldConnectStream</key>
+	<string>splitterVisible</string>
+	<key>shouldRenderContainer</key>
+	<string>tentativeFeedback</string>
+	<key>visibleHero</key>
+	<string>onviewtap</string>
+</dict>
+</plist>

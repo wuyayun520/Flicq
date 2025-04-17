@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>capacitiesradius</key>
+	<string>selectedmatrix</string>
+	<key>cartesianNavigation</key>
+	<string>replacescene</string>
+	<key>parallelTabView</key>
+	<string>interceptscaffold</string>
+	<key>shouldYieldAppBar</key>
+	<string>canInitializeClipper</string>
+</dict>
+</plist>

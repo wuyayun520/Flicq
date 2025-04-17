@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>anchorDensity</key>
+	<string>shouldDismissStoryboard</string>
+	<key>configurationCenter</key>
+	<string>shouldTransitionFlex</string>
+	<key>dedicatedTheme</key>
+	<string>resilienceVisible</string>
+	<key>flexibleOccasion</key>
+	<string>intuitiveGrain</string>
+	<key>semanticslider</key>
+	<string>prioritySkewX</string>
+	<key>shapeShade</key>
+	<string>shouldSaveSemantics</string>
+	<key>uniformInterface</key>
+	<string>memberMode</string>
+</dict>
+</plist>

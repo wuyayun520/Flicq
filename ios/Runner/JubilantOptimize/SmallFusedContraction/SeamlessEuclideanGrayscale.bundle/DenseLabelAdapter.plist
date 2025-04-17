@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>functionalAnimation</key>
+	<string>advancedMultiplication</string>
+	<key>ignoredBullet</key>
+	<string>canCancelBitrate</string>
+	<key>immutableSize</key>
+	<string>adjustState</string>
+	<key>roleLeft</key>
+	<string>deactivateResponse</string>
+	<key>webGram</key>
+	<string>shouldPushGram</string>
+</dict>
+</plist>

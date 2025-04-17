@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeRecursion</key>
+	<string>onswifttap</string>
+	<key>asynchronousLifecycle</key>
+	<string>axisprocessor</string>
+	<key>declarativeLoader</key>
+	<string>invisibleEquivalent</string>
+	<key>decorationRotation</key>
+	<string>fusedManager</string>
+	<key>diffablelocalization</key>
+	<string>decodeticker</string>
+	<key>featureSpacing</key>
+	<string>restartSample</string>
+	<key>notificationlayer</key>
+	<string>delicateBorder</string>
+	<key>subtleGradient</key>
+	<string>responsivebinder</string>
+	<key>ternaryCenter</key>
+	<string>splitterCount</string>
+</dict>
+</plist>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>basetext</key>
+	<string>emitterDuration</string>
+	<key>encodecupertino</key>
+	<string>nativeConsumer</string>
+	<key>synchronousDelivery</key>
+	<string>permissiveframetag</string>
+	<key>temporarysearcher</key>
+	<string>roleFramework</string>
+</dict>
+</plist>

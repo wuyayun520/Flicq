@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>asynchronousConvolution</key>
+	<string>monsterCoord</string>
+	<key>largeRoute</key>
+	<string>lazyZone</string>
+	<key>materializeresolver</key>
+	<string>notifyTitle</string>
+	<key>relationalTimeline</key>
+	<string>localizationColor</string>
+</dict>
+</plist>

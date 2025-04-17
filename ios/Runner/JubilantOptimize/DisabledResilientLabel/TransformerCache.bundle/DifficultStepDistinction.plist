@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>connectorBound</key>
+	<string>serializeSensor</string>
+	<key>euclideanPriority</key>
+	<string>prevStateless</string>
+	<key>flexFrequency</key>
+	<string>hardRadius</string>
+	<key>layertop</key>
+	<string>bitrateSkewY</string>
+	<key>standaloneResponse</key>
+	<string>numericalNode</string>
+	<key>unsortedmanagerbound</key>
+	<string>observerthroughput</string>
+</dict>
+</plist>

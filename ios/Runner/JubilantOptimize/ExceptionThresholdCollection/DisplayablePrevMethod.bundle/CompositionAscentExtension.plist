@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>characterindex</key>
+	<string>pivotalInteractor</string>
+	<key>firstBrush</key>
+	<string>typicalVertex</string>
+	<key>keyText</key>
+	<string>resizablegrain</string>
+	<key>lostQuaternion</key>
+	<string>easyInfo</string>
+	<key>mediocreContraction</key>
+	<string>extendText</string>
+	<key>sophisticatedProtocol</key>
+	<string>statelessChart</string>
+	<key>statefulCursor</key>
+	<string>consumerview</string>
+</dict>
+</plist>

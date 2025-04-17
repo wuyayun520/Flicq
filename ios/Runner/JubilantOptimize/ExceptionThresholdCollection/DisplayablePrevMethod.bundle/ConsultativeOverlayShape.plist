@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>activeTraversal</key>
+	<string>controllertypeindex</string>
+	<key>hierarchicalProvision</key>
+	<string>responderOrientation</string>
+	<key>shouldConnectAperture</key>
+	<string>anchorDuration</string>
+	<key>shouldProcessBullet</key>
+	<string>unactivatedPoint</string>
+	<key>sortedInstruction</key>
+	<string>canHandleExpanded</string>
+	<key>tweenStatus</key>
+	<string>crudeAppBar</string>
+</dict>
+</plist>

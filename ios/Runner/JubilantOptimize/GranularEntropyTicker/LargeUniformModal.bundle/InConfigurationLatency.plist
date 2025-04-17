@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>amortizationDensity</key>
+	<string>awaitspacing</string>
+	<key>cycleCoord</key>
+	<string>intermediateElasticity</string>
+	<key>disposevector</key>
+	<string>executeHandler</string>
+	<key>enabledRouter</key>
+	<string>subscribeGradient</string>
+	<key>opaqueStroke</key>
+	<string>fillAlignment</string>
+	<key>promiseName</key>
+	<string>textureTint</string>
+	<key>resilientstream</key>
+	<string>canConnectOperation</string>
+	<key>shouldAttachNib</key>
+	<string>spineTension</string>
+	<key>shouldTrainProtocol</key>
+	<string>basicParticle</string>
+	<key>shouldUpdateBitrate</key>
+	<string>smartElasticity</string>
+</dict>
+</plist>

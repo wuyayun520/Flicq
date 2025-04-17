@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>allocatorleft</key>
+	<string>activateVector</string>
+	<key>cursorfeedback</key>
+	<string>sensorqueue</string>
+	<key>customizedgram</key>
+	<string>tweenformat</string>
+	<key>explicitComponent</key>
+	<string>lockPopup</string>
+	<key>imageScale</key>
+	<string>opaqueMovement</string>
+	<key>issession</key>
+	<string>layoutCustomPaint</string>
+	<key>oldTheme</key>
+	<string>directlyPromise</string>
+	<key>significantInfo</key>
+	<string>parallelTimeline</string>
+	<key>spriteoftype</key>
+	<string>reactiveGridView</string>
+	<key>textfieldsincecomposite</key>
+	<string>materializegem</string>
+</dict>
+</plist>

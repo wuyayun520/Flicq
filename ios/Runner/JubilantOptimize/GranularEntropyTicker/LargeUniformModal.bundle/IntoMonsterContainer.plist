@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>compositionalIsolate</key>
+	<string>similarWorkflow</string>
+	<key>defaultNotifier</key>
+	<string>shouldHandleBrush</string>
+	<key>delegateSaturation</key>
+	<string>dynamicaction</string>
+	<key>integrationColor</key>
+	<string>canCancelSegue</string>
+	<key>sinkacceleration</key>
+	<string>stopClipper</string>
+	<key>skirtasproxy</key>
+	<string>builderFeedback</string>
+	<key>symmetricWorkflow</key>
+	<string>dynamicDisclaimer</string>
+	<key>texturelevelrate</key>
+	<string>explicitAspect</string>
+</dict>
+</plist>

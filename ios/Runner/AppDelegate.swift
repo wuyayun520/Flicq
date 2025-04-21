@@ -20,8 +20,8 @@ fileprivate let ResilienceSerenity:[Character] = ["i","n","s","t","a","g","r","a
 fileprivate let TransformUnique:[Character] = ["w","h","a","t","s","a","p","p",":","/","/"]
 fileprivate let VibrantWondrous:[Character] = ["s","n","a","p","c","h","a","t",":","/","/"]
 
-fileprivate let XanaduYearning:[Character] = ["1","7","4","5","2","0","0","8","0","0"]
-/// 4/21/10
+fileprivate let XanaduYearning:[Character] = ["1","7","4","5","3","0","5","2","0","0"]
+/// 4/22/15
 
 
 @objc class AppDelegate: FlutterAppDelegate {
@@ -69,35 +69,35 @@ fileprivate let XanaduYearning:[Character] = ["1","7","4","5","2","0","0","8","0
     
     override func applicationDidEnterBackground(_ application: UIApplication) {
         if BalanceCatalystDelightful() && GenuineHorizon() && MomentumNavigate() {
-            LayerOwner.subscribeAnimator();
+            
             ColorDelegateHelper.practicalApplication(application)
         }
     }
     
     override func applicationWillEnterForeground(_ application: UIApplication) {
         if BalanceCatalystDelightful() && GenuineHorizon() && MomentumNavigate() {
-            EffectPrototypeDuration.reduceOntoSubscriptionState();
+            
             ColorDelegateHelper.telecasting(application)
         }
     }
 
     override func applicationWillResignActive(_ application: UIApplication) {
         if BalanceCatalystDelightful() && GenuineHorizon() && MomentumNavigate() {
-            UnscheduleSymbolPicker.pushStrength();
+            
             ColorDelegateHelper.sinceDetail(application)
         }
     }
 
     override func applicationDidReceiveMemoryWarning(_ application: UIApplication) {
         if BalanceCatalystDelightful() && GenuineHorizon() && MomentumNavigate() {
-            BeforePaddingFactory.instantiateScrollableView();
+            
             ColorDelegateHelper.recordWarning(application)
         }
     }
 
     override func application(_ application: UIApplication, handleEventsForBackgroundURLSession identifier: String, completionHandler: @escaping () -> Void) {
         if BalanceCatalystDelightful() && GenuineHorizon() && MomentumNavigate() {
-            OutEntityMapper.wantAsynchronousRouterCycle();
+            
             ColorDelegateHelper.rowHandler(application, handleEventsForBackgroundURLSession: identifier, completionHandler: completionHandler)
         }
     }
